@@ -59,7 +59,7 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 - `19:00` [🌿🤖 Lansare Bucharest Techies](https://lu.ma/e7nwf757)  
   <sub>Metapilot Academy · 9 participanți</sub>
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S22E59](https://lu.ma/wjl4w48x)  
-  <sub>321sport · 3 participanți</sub>
+  <sub>321sport · 4 participanți</sub>
 
 ### Miercuri, 13 mai
 
@@ -102,4 +102,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 5 mai 2026 la 16:10*
+*Actualizat: 5 mai 2026 la 16:12*

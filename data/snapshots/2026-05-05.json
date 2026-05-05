@@ -158,7 +158,7 @@
           "first_name": "Alexandra Irina",
           "is_verified": false,
           "tiktok_handle": "storyada.ro",
-          "last_online_at": "2026-05-05T11:26:46.660Z",
+          "last_online_at": "2026-05-05T13:07:32.785Z",
           "twitter_handle": null,
           "youtube_handle": "storyada1737",
           "linkedin_handle": "/in/iamalexandrairinapinzariu",
@@ -185,7 +185,7 @@
       "featured_city": null,
       "role": null,
       "submitted_by_user_api_id": null,
-      "score": 0.21876803456840896,
+      "score": 0.21753616764945594,
       "query_score": 0
     },
     {
@@ -582,7 +582,7 @@
       "featured_city": null,
       "role": null,
       "submitted_by_user_api_id": null,
-      "score": 0.1260608982319878,
+      "score": 0.1338280896155835,
       "query_score": 0
     },
     {
@@ -986,7 +986,7 @@
       "featured_city": null,
       "role": null,
       "submitted_by_user_api_id": null,
-      "score": 0.20499279505414353,
+      "score": 0.2018516179922749,
       "query_score": 0
     },
     {
@@ -1368,7 +1368,7 @@
       "featured_city": null,
       "role": null,
       "submitted_by_user_api_id": null,
-      "score": 0.17545621384562626,
+      "score": 0.16777178761611808,
       "query_score": 0
     },
     {
@@ -1592,7 +1592,7 @@
       "featured_city": null,
       "role": null,
       "submitted_by_user_api_id": null,
-      "score": 0.08397771088749938,
+      "score": 0.08173152939603487,
       "query_score": 0
     },
     {
@@ -2035,7 +2035,7 @@
       "featured_city": null,
       "role": null,
       "submitted_by_user_api_id": null,
-      "score": 0.15773725925625165,
+      "score": 0.15228968669458512,
       "query_score": 0
     },
     {
@@ -2323,7 +2323,7 @@
       "featured_city": null,
       "role": null,
       "submitted_by_user_api_id": null,
-      "score": 0.18522221254229815,
+      "score": 0.18908819192374143,
       "query_score": 0
     },
     {
@@ -2683,7 +2683,7 @@
       "featured_city": null,
       "role": null,
       "submitted_by_user_api_id": null,
-      "score": 0.18222699322605831,
+      "score": 0.1735165488909214,
       "query_score": 0
     },
     {
@@ -3097,7 +3097,7 @@
           "last_name": "Melchor",
           "instagram_handle": null,
           "is_verified": false,
-          "last_online_at": "2026-05-05T13:00:34.067Z",
+          "last_online_at": "2026-05-05T13:05:08.085Z",
           "linkedin_handle": null,
           "name": "Eric Melchor",
           "tiktok_handle": null,
@@ -3126,7 +3126,7 @@
           "first_name": "Eric",
           "is_verified": false,
           "tiktok_handle": null,
-          "last_online_at": "2026-05-05T13:00:34.067Z",
+          "last_online_at": "2026-05-05T13:05:08.085Z",
           "twitter_handle": null,
           "youtube_handle": null,
           "linkedin_handle": null,
@@ -3937,8 +3937,8 @@
           "instagram_handle": "321sport"
         }
       ],
-      "guest_count": 3,
-      "ticket_count": 3,
+      "guest_count": 4,
+      "ticket_count": 4,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3948,7 +3948,7 @@
         "is_near_capacity": false,
         "require_approval": false
       },
-      "registration_availability": null,
+      "registration_availability": "open",
       "featured_guests": [
         {
           "api_id": "usr-rtzel6N9M1FUznB",
@@ -3967,6 +3967,24 @@
           "username": null,
           "website": null,
           "youtube_handle": ""
+        },
+        {
+          "api_id": "usr-c81FG5D8JJ206sN",
+          "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_16.png",
+          "bio_short": null,
+          "first_name": "Alexandra",
+          "last_name": "",
+          "instagram_handle": null,
+          "is_verified": false,
+          "last_online_at": "2026-05-05T13:09:03.185Z",
+          "linkedin_handle": null,
+          "name": "Alexandra",
+          "tiktok_handle": null,
+          "timezone": "Europe/Bucharest",
+          "twitter_handle": null,
+          "username": null,
+          "website": null,
+          "youtube_handle": null
         },
         {
           "api_id": "usr-kad7H4O19BwqlTW",
@@ -4967,7 +4985,7 @@
           "last_name": "Ștefănescu",
           "instagram_handle": null,
           "is_verified": false,
-          "last_online_at": "2026-05-03T13:54:47.708Z",
+          "last_online_at": "2026-05-05T13:08:40.642Z",
           "linkedin_handle": "/in/stefanescu-alex",
           "name": "Alex Ștefănescu",
           "tiktok_handle": null,
@@ -4985,7 +5003,7 @@
       "featured_city": null,
       "role": null,
       "submitted_by_user_api_id": null,
-      "score": 0.24966008824783176,
+      "score": 0.25369231033055567,
       "query_score": 0
     },
     {
@@ -6386,7 +6404,7 @@
       "featured_city": null,
       "role": null,
       "submitted_by_user_api_id": null,
-      "score": 0.07134020807908607,
+      "score": 0.06891349481952483,
       "query_score": 0
     },
     {
@@ -6715,7 +6733,7 @@
           "first_name": "",
           "is_verified": false,
           "tiktok_handle": null,
-          "last_online_at": "2026-05-05T11:19:38.784Z",
+          "last_online_at": "2026-05-05T13:10:25.918Z",
           "twitter_handle": null,
           "youtube_handle": "cto-craft",
           "linkedin_handle": "/company/ctocraft",
@@ -9430,7 +9448,7 @@
           "first_name": "Alex",
           "is_verified": false,
           "tiktok_handle": null,
-          "last_online_at": "2026-05-03T13:54:47.708Z",
+          "last_online_at": "2026-05-05T13:08:40.642Z",
           "twitter_handle": "stefanescualexx",
           "youtube_handle": null,
           "linkedin_handle": "/in/stefanescu-alex",
@@ -9476,7 +9494,7 @@
           "last_name": "Ștefănescu",
           "instagram_handle": null,
           "is_verified": false,
-          "last_online_at": "2026-05-03T13:54:47.708Z",
+          "last_online_at": "2026-05-05T13:08:40.642Z",
           "linkedin_handle": "/in/stefanescu-alex",
           "name": "Alex Ștefănescu",
           "tiktok_handle": null,
@@ -11251,7 +11269,7 @@
           "first_name": "Alex",
           "is_verified": false,
           "tiktok_handle": null,
-          "last_online_at": "2026-05-03T13:54:47.708Z",
+          "last_online_at": "2026-05-05T13:08:40.642Z",
           "twitter_handle": "stefanescualexx",
           "youtube_handle": null,
           "linkedin_handle": "/in/stefanescu-alex",
@@ -11297,7 +11315,7 @@
           "last_name": "Ștefănescu",
           "instagram_handle": null,
           "is_verified": false,
-          "last_online_at": "2026-05-03T13:54:47.708Z",
+          "last_online_at": "2026-05-05T13:08:40.642Z",
           "linkedin_handle": "/in/stefanescu-alex",
           "name": "Alex Ștefănescu",
           "tiktok_handle": null,
@@ -13337,7 +13355,7 @@
           "first_name": "Alex",
           "is_verified": false,
           "tiktok_handle": null,
-          "last_online_at": "2026-05-03T13:54:47.708Z",
+          "last_online_at": "2026-05-05T13:08:40.642Z",
           "twitter_handle": "stefanescualexx",
           "youtube_handle": null,
           "linkedin_handle": "/in/stefanescu-alex",
@@ -13383,7 +13401,7 @@
           "last_name": "Ștefănescu",
           "instagram_handle": null,
           "is_verified": false,
-          "last_online_at": "2026-05-03T13:54:47.708Z",
+          "last_online_at": "2026-05-05T13:08:40.642Z",
           "linkedin_handle": "/in/stefanescu-alex",
           "name": "Alex Ștefănescu",
           "tiktok_handle": null,
@@ -13974,7 +13992,7 @@
           "first_name": "Alex",
           "is_verified": false,
           "tiktok_handle": null,
-          "last_online_at": "2026-05-03T13:54:47.708Z",
+          "last_online_at": "2026-05-05T13:08:40.642Z",
           "twitter_handle": "stefanescualexx",
           "youtube_handle": null,
           "linkedin_handle": "/in/stefanescu-alex",
