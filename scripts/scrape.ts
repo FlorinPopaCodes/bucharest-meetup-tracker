@@ -17,6 +17,7 @@ import {
   writeEventsCsv,
 } from "./lib/csv.ts";
 import { loadFingerprint, saveFingerprint, updateFingerprint } from "./lib/schema.ts";
+import { sanitizeSnapshot } from "./lib/sanitize.ts";
 
 const REPO_ROOT = new URL("..", import.meta.url).pathname;
 const PATHS = {
@@ -128,9 +129,9 @@ async function main() {
   }
 
   // Layer 1: raw snapshot first
-  const rawPayload: Record<string, unknown> = {};
+  const rawPayload: Record<string, unknown[]> = {};
   for (const s of sources) rawPayload[s.source] = s.raw;
-  writeSnapshot(today, rawPayload);
+  writeSnapshot(today, sanitizeSnapshot(rawPayload));
 
   // Layer 2: Zod-parse each entry
   const validEntries: { entry: ReturnType<typeof EntrySchema.parse>; source: string }[] = [];

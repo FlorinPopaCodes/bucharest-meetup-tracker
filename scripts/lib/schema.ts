@@ -1,5 +1,5 @@
 interface KeyMap {
-  [key: string]: { first_seen: string; last_seen: string };
+  [key: string]: { first_seen: string };
 }
 
 interface SchemaFingerprint {
@@ -25,11 +25,7 @@ export function updateFingerprint(
     event_keys: { ...fp.event_keys },
   };
   const observe = (target: KeyMap, key: string) => {
-    if (target[key]) {
-      target[key].last_seen = today;
-    } else {
-      target[key] = { first_seen: today, last_seen: today };
-    }
+    if (!target[key]) target[key] = { first_seen: today };
   };
   for (const entry of entries) {
     for (const k of Object.keys(entry)) observe(out.entry_keys, k);

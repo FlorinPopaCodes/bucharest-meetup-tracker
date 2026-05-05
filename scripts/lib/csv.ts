@@ -19,7 +19,6 @@ export interface EventRow {
   ticket_count: string;
   location_type: string;
   first_seen: string;
-  last_seen: string;
   sources: string;
 }
 
@@ -28,7 +27,7 @@ export const COLUMNS: (keyof EventRow)[] = [
   "host", "host_id", "calendar_slug", "calendar_name",
   "location", "city_state", "lat", "lng",
   "guest_count", "ticket_count", "location_type",
-  "first_seen", "last_seen", "sources",
+  "first_seen", "sources",
 ];
 
 export function readEventsCsv(path: string): EventRow[] {
@@ -71,7 +70,6 @@ export function entryToRow(entry: Entry, source: string, today: string): EventRo
     ticket_count: entry.ticket_count != null ? String(entry.ticket_count) : "0",
     location_type: ev.location_type ?? "",
     first_seen: today,
-    last_seen: today,
     sources: source,
   };
 }
@@ -101,7 +99,6 @@ export function upsert(existing: EventRow[], fresh: EventRow[]): EventRow[] {
         guest_count: f.guest_count,
         ticket_count: f.ticket_count,
         location_type: f.location_type || prev.location_type,
-        last_seen: f.last_seen,
         sources: [...sourceSet].sort().join("|"),
       });
     } else {
