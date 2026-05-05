@@ -34,7 +34,7 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 ### Vineri, 8 mai
 
 - `18:30` [321sport x Under Armour - Bucharest Half Marathon Shakeout Run](https://lu.ma/3oyn2w7i)  
-  <sub>321sport · 5 participanți</sub>
+  <sub>321sport · 6 participanți</sub>
 
 ### Duminică, 10 mai
 
@@ -102,4 +102,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 5 mai 2026 la 16:15*
+*Actualizat: 5 mai 2026 la 16:16*
