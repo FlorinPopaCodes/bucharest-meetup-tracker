@@ -52,7 +52,7 @@ function escapeName(s: string): string {
 }
 
 function eventLine(row: EventRow, hhmm: string): string {
-  const parts: string[] = [`${hhmm} **${escapeName(row.name)}**`];
+  const head = `- \`${hhmm}\` [${escapeName(row.name)}](${row.url})`;
   const meta: string[] = [];
   if (row.host) meta.push(row.host);
   if (row.city_state && !/bucure/i.test(row.city_state) && !/bucharest/i.test(row.city_state)) {
@@ -60,9 +60,8 @@ function eventLine(row: EventRow, hhmm: string): string {
   }
   const guests = parseInt(row.guest_count || "0", 10);
   if (guests > 0) meta.push(formatGuests(guests));
-  if (meta.length) parts.push(`— ${meta.join(" · ")}`);
-  parts.push(`[↗](${row.url})`);
-  return `- ${parts.join(" ")}`;
+  if (meta.length === 0) return head;
+  return `${head}  \n  <sub>${meta.join(" · ")}</sub>`;
 }
 
 interface DayBucket {
@@ -101,20 +100,11 @@ export function renderUpcomingList(rows: EventRow[], today: Date = new Date()): 
   for (const day of sorted) {
     out.push(dayHeading(day.month, day.day, day.weekday));
     out.push("");
-    day.events.sort((a, b) => a.hhmm.localeCompare(b.hhmm));
-    const tdd = day.events.filter((e) => e.row.calendar_slug === "turadeduminica");
-    const others = day.events.filter((e) => e.row.calendar_slug !== "turadeduminica");
-    if (tdd.length >= 2) {
-      const word = tdd.length === 1 ? "tură de duminică" : "ture de duminică";
-      out.push(`<details><summary>🚶 ${tdd.length} ${word}</summary>`);
-      out.push("");
-      for (const e of tdd) out.push(eventLine(e.row, e.hhmm));
-      out.push("");
-      out.push(`</details>`);
-    } else {
-      for (const e of tdd) out.push(eventLine(e.row, e.hhmm));
-    }
-    for (const e of others) out.push(eventLine(e.row, e.hhmm));
+    day.events.sort((a, b) =>
+      a.hhmm.localeCompare(b.hhmm) ||
+      a.row.name.localeCompare(b.row.name, "ro", { sensitivity: "base" })
+    );
+    for (const e of day.events) out.push(eventLine(e.row, e.hhmm));
     out.push("");
   }
   return out.join("\n").trim();
