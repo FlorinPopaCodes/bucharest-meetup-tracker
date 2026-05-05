@@ -49,8 +49,11 @@ function main() {
 
   const { events, guests } = buildHeatmapInputs(rows);
 
-  const eventsSvg = renderHeatmap({ counts: events, paletteName: "green" });
-  const guestsSvg = renderHeatmap({ counts: guests, paletteName: "magenta" });
+  // Sliding 365-day window ending 14 days in the future,
+  // so upcoming events are visible alongside history.
+  const heatmapEnd = new Date(Date.now() + 14 * 86400000);
+  const eventsSvg = renderHeatmap({ counts: events, paletteName: "green", endDate: heatmapEnd });
+  const guestsSvg = renderHeatmap({ counts: guests, paletteName: "magenta", endDate: heatmapEnd });
 
   ensureDir(`${REPO_ROOT}assets`);
   Deno.writeTextFileSync(PATHS.eventsSvg, eventsSvg + "\n");
