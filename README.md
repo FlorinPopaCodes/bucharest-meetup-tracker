@@ -87,4 +87,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 5 mai 2026 la 15:56*
+*Actualizat: 5 mai 2026 la 16:01*
