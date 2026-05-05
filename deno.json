@@ -1,0 +1,23 @@
+{
+  "tasks": {
+    "scrape": "deno run --allow-net=api.lu.ma --allow-read --allow-write scripts/scrape.ts",
+    "postprocess": "deno run --allow-read --allow-write --allow-run=git scripts/postprocess.ts",
+    "all": "deno task scrape && deno task postprocess"
+  },
+  "imports": {
+    "@std/csv": "jsr:@std/csv@^1.0.5",
+    "@std/yaml": "jsr:@std/yaml@^1.0.5",
+    "@std/datetime": "jsr:@std/datetime@^0.225.3",
+    "zod": "npm:zod@^3.23.8"
+  },
+  "fmt": {
+    "lineWidth": 100,
+    "indentWidth": 2,
+    "singleQuote": false
+  },
+  "lint": {
+    "rules": {
+      "tags": ["recommended"]
+    }
+  }
+}

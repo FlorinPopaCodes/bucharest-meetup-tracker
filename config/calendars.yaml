@@ -1,0 +1,6 @@
+# Hardcoded seed calendars to crawl in addition to geo-based discovery.
+# Each entry is a lu.ma slug (the "lu.ma/<slug>" path).
+# Calendar events still pass through the Bucharest filter, so out-of-Bucharest
+# events from these calendars are dropped.
+seed_calendars:
+  - turadeduminica
