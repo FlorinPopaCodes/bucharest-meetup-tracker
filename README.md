@@ -86,11 +86,11 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-05)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-05)
 
 ## Despre
 
@@ -102,4 +102,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 5 mai 2026 la 16:16*
+*Actualizat: 5 mai 2026 la 16:19*
