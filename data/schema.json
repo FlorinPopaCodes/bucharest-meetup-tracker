@@ -1,194 +1,147 @@
 {
   "entry_keys": {
     "api_id": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "calendar": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "calendar_api_id": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "cover_image": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "event": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "featured_city": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "featured_guests": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "guest_count": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "guest_info": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "host_info": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "hosts": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "is_manager": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "manager_info": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "platform": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "query_score": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "registration_availability": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "role": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "score": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "start_at": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "status": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "submitted_by_user_api_id": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "tags": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "ticket_count": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "ticket_info": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "waitlist_active": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     }
   },
   "event_keys": {
     "api_id": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "calendar_api_id": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "coordinate": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "cover_url": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "end_at": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "event_type": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "geo_address_info": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "geo_address_visibility": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "hide_rsvp": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "location_type": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "name": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "one_to_one": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "recurrence_id": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "show_guest_list": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "start_at": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "timezone": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "url": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "user_api_id": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "virtual_info": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "visibility": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "waitlist_enabled": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     },
     "waitlist_status": {
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05"
+      "first_seen": "2026-05-05"
     }
   }
 }
