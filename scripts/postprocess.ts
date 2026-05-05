@@ -60,10 +60,11 @@ function main() {
   Deno.writeTextFileSync(PATHS.guestsSvg, guestsSvg + "\n");
 
   const upcomingMd = renderUpcomingList(rows);
+  const cacheBust = new Date().toISOString().slice(0, 10);
   const readme = renderReadme({
     upcomingMd,
-    eventsHeatmapPath: "assets/heatmap-events.svg",
-    guestsHeatmapPath: "assets/heatmap-guests.svg",
+    eventsHeatmapPath: `assets/heatmap-events.svg?v=${cacheBust}`,
+    guestsHeatmapPath: `assets/heatmap-guests.svg?v=${cacheBust}`,
     generatedAt: new Date(),
   });
   Deno.writeTextFileSync(PATHS.readme, readme);
