@@ -6,17 +6,10 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 
 ## Următoarele 14 zile
 
-### Marți, 5 mai
-
-- `17:30` [To Seek or To Submit? – Cum distingem între adevăr, influență și iluzie în era AI?](https://lu.ma/ux9imc32)  
-  <sub>Storyada.ro</sub>
-- `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S22E57](https://lu.ma/nwose5n7)  
-  <sub>321sport · 14 participanți</sub>
-
 ### Miercuri, 6 mai
 
 - `19:00` [Alergare 321sport x Good Routine - Intervale și diferență de nivel](https://lu.ma/fhld14hm)  
-  <sub>321sport · 22 de participanți</sub>
+  <sub>321sport · 26 de participanți</sub>
 - `19:30` [#4 - Run this Town](https://lu.ma/z4zzgqtl)  
   <sub>FOMO Urban Running Club · 24 de participanți</sub>
 
@@ -25,29 +18,31 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 - `09:00` [LiT Unfiltered#4 w/ Laurent Marini](https://lu.ma/litunfiltered4)  
   <sub>Bogdan Popescu</sub>
 - `18:30` [Upskilling the Romanian IT Industry - From Execution to Strategy](https://lu.ma/gq2gavvy)  
-  <sub>Andra Ghibutiu · 58 de participanți</sub>
+  <sub>Andra Ghibutiu · 60 de participanți</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S22E58](https://lu.ma/n3oxxq26)  
-  <sub>321sport · 4 participanți</sub>
+  <sub>321sport · 26 de participanți</sub>
 - `19:00` [Bucharest Tech Mixer \| Agentic AI Edition](https://lu.ma/93vvlbv5)  
   <sub>Neo Mixers by ▲promocrat · 113 de participanți</sub>
 
 ### Vineri, 8 mai
 
 - `18:30` [321sport x Under Armour - Bucharest Half Marathon Shakeout Run](https://lu.ma/3oyn2w7i)  
-  <sub>321sport · 6 participanți</sub>
+  <sub>321sport · 18 participanți</sub>
 
 ### Duminică, 10 mai
 
 - `09:00` [Tura de duminică Cotroceni](https://lu.ma/b0m7lckq)  
   <sub>Aleodor Tabarcea · 2 participanți</sub>
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/620ya3nn)  
-  <sub>Emily Merdus · 1 participant</sub>
+  <sub>Emily Merdus · 2 participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/5la8ledz)  
   <sub>Irina Tenovici · 2 participanți</sub>
 - `09:00` [Tura de duminică Lacul Morii](https://lu.ma/1yepuzpv)  
   <sub>Alexandru Agatinei · 1 participant</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/vtwu1pph)  
   <sub>Nicoleta Ifrim · 2 participanți</sub>
+- `11:00` [Sketch & Brunch Bucharest #41](https://lu.ma/duyy0f8o)  
+  <sub>Sketch & Brunch Bucharest · 5 participanți</sub>
 
 ### Luni, 11 mai
 
@@ -57,7 +52,7 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 ### Marți, 12 mai
 
 - `19:00` [🌿🤖 Lansare Bucharest Techies](https://lu.ma/e7nwf757)  
-  <sub>Metapilot Academy · 9 participanți</sub>
+  <sub>Metapilot Academy</sub>
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S22E59](https://lu.ma/wjl4w48x)  
   <sub>321sport · 4 participanți</sub>
 
@@ -86,11 +81,11 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-05)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-06)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-05)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-06)
 
 ## Despre
 
@@ -102,4 +97,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 5 mai 2026*
+*Actualizat: 6 mai 2026*
