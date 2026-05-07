@@ -6,13 +6,6 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 
 ## Următoarele 14 zile
 
-### Miercuri, 6 mai
-
-- `19:00` [Alergare 321sport x Good Routine - Intervale și diferență de nivel](https://lu.ma/fhld14hm)  
-  <sub>321sport · 26 de participanți</sub>
-- `19:30` [#4 - Run this Town](https://lu.ma/z4zzgqtl)  
-  <sub>FOMO Urban Running Club · 24 de participanți</sub>
-
 ### Joi, 7 mai
 
 - `09:00` [LiT Unfiltered#4 w/ Laurent Marini](https://lu.ma/litunfiltered4)  
@@ -20,29 +13,29 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 - `18:30` [Upskilling the Romanian IT Industry - From Execution to Strategy](https://lu.ma/gq2gavvy)  
   <sub>Andra Ghibutiu · 60 de participanți</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S22E58](https://lu.ma/n3oxxq26)  
-  <sub>321sport · 26 de participanți</sub>
+  <sub>321sport · 38 de participanți</sub>
 - `19:00` [Bucharest Tech Mixer \| Agentic AI Edition](https://lu.ma/93vvlbv5)  
-  <sub>Neo Mixers by ▲promocrat · 113 de participanți</sub>
+  <sub>Neo Mixers by ▲promocrat · 119 de participanți</sub>
 
 ### Vineri, 8 mai
 
 - `18:30` [321sport x Under Armour - Bucharest Half Marathon Shakeout Run](https://lu.ma/3oyn2w7i)  
-  <sub>321sport · 18 participanți</sub>
+  <sub>321sport · 26 de participanți</sub>
 
 ### Duminică, 10 mai
 
 - `09:00` [Tura de duminică Cotroceni](https://lu.ma/b0m7lckq)  
-  <sub>Aleodor Tabarcea · 2 participanți</sub>
+  <sub>Aleodor Tabarcea · 4 participanți</sub>
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/620ya3nn)  
   <sub>Emily Merdus · 2 participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/5la8ledz)  
-  <sub>Irina Tenovici · 2 participanți</sub>
+  <sub>Irina Tenovici · 4 participanți</sub>
 - `09:00` [Tura de duminică Lacul Morii](https://lu.ma/1yepuzpv)  
   <sub>Alexandru Agatinei · 1 participant</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/vtwu1pph)  
   <sub>Nicoleta Ifrim · 2 participanți</sub>
 - `11:00` [Sketch & Brunch Bucharest #41](https://lu.ma/duyy0f8o)  
-  <sub>Sketch & Brunch Bucharest · 5 participanți</sub>
+  <sub>Sketch & Brunch Bucharest · 6 participanți</sub>
 
 ### Luni, 11 mai
 
@@ -60,11 +53,13 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 
 - `08:30` [RoFintech Breakfast \| Hosted by Fort](https://lu.ma/hifstc48)  
   <sub>Adrian Drinceanu</sub>
+- `18:00` [Workshop: From Soft Skills to Power Skills](https://lu.ma/4gjuie3a)  
+  <sub>Upskilling the Romanian IT Industry · 3 participanți</sub>
 
 ### Vineri, 15 mai
 
 - `18:30` [Metalurgiei Meetup @ Colibri: vin, pictură și oameni faini 🎨🍷](https://lu.ma/5ip0alku)  
-  <sub>Loredana Pipie · 5 participanți</sub>
+  <sub>Loredana Pipie · 6 participanți</sub>
 
 ### Duminică, 17 mai
 
@@ -81,11 +76,11 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-06)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-07)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-06)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-07)
 
 ## Despre
 
@@ -97,4 +92,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 6 mai 2026*
+*Actualizat: 7 mai 2026*
