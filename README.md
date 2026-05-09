@@ -6,25 +6,20 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 
 ## Următoarele 14 zile
 
-### Vineri, 8 mai
-
-- `18:30` [321sport x Under Armour - Bucharest Half Marathon Shakeout Run](https://lu.ma/3oyn2w7i)  
-  <sub>321sport · 30 de participanți</sub>
-
 ### Duminică, 10 mai
 
 - `08:00` [Program 321sport: Bucharest Half Marathon](https://lu.ma/1ab9f9ni)  
-  <sub>321sport · 7 participanți</sub>
+  <sub>321sport · 12 participanți</sub>
 - `09:00` [Tura de duminică Cotroceni](https://lu.ma/b0m7lckq)  
-  <sub>Aleodor Tabarcea · 4 participanți</sub>
+  <sub>Aleodor Tabarcea · 5 participanți</sub>
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/620ya3nn)  
   <sub>Emily Merdus · 3 participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/5la8ledz)  
-  <sub>Irina Tenovici · 4 participanți</sub>
+  <sub>Irina Tenovici · 5 participanți</sub>
 - `09:00` [Tura de duminică Lacul Morii](https://lu.ma/1yepuzpv)  
   <sub>Alexandru Agatinei · 1 participant</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/vtwu1pph)  
-  <sub>Nicoleta Ifrim · 3 participanți</sub>
+  <sub>Nicoleta Ifrim · 4 participanți</sub>
 - `11:00` [Sketch & Brunch Bucharest #41](https://lu.ma/duyy0f8o)  
   <sub>Sketch & Brunch Bucharest · 7 participanți</sub>
 
@@ -38,14 +33,14 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 - `19:00` [🌿🤖 Lansare Bucharest Techies](https://lu.ma/e7nwf757)  
   <sub>Metapilot Academy</sub>
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S22E59](https://lu.ma/wjl4w48x)  
-  <sub>321sport · 5 participanți</sub>
+  <sub>321sport · 7 participanți</sub>
 
 ### Miercuri, 13 mai
 
 - `08:30` [RoFintech Breakfast \| Hosted by Fort](https://lu.ma/hifstc48)  
   <sub>Adrian Drinceanu</sub>
 - `18:00` [Workshop: From Soft Skills to Power Skills](https://lu.ma/4gjuie3a)  
-  <sub>Upskilling the Romanian IT Industry · 3 participanți</sub>
+  <sub>Upskilling the Romanian IT Industry · 9 participanți</sub>
 
 ### Vineri, 15 mai
 
@@ -53,6 +48,11 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
   <sub>Loredana Pipie · 9 participanți</sub>
 - `19:00` [The Builder’s Dinner \| DevNights Discussions Bucharest](https://lu.ma/63n4i863)  
   <sub>Bogdan Iasinovschi</sub>
+
+### Sâmbătă, 16 mai
+
+- `10:00` [ACS Keysight CTF](https://lu.ma/69j18lz9)  
+  <sub>Razvan Deaconescu · 45 de participanți</sub>
 
 ### Duminică, 17 mai
 
@@ -64,21 +64,30 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
   <sub>Irina Tenovici</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/klue245w)  
   <sub>Nicoleta Ifrim</sub>
+- `10:00` [ACS Keysight Challenge](https://lu.ma/t5qumu4a)  
+  <sub>Razvan Deaconescu · 31 de participanți</sub>
 
 ### Vineri, 22 mai
 
 - `17:00` [Bizza Day RO 2026 : Flip the Slice](https://lu.ma/BizzaDaybyBitget)  
-  <sub>Crypto Society · 177 de participanți</sub>
+  <sub>Crypto Society · 180 de participanți</sub>
+
+### Sâmbătă, 23 mai
+
+- `09:00` [Streetball 3x3: The Pre-Game Reset](https://lu.ma/4ttpnce0)  
+  <sub>Modern Owners · 3 participanți</sub>
+- `17:00` [Down Bad Ride: A Taylor Swift-Themed Indoor Cycling Experience - #1](https://lu.ma/9e4obby4)  
+  <sub>The Spinning Era · 11 participanți</sub>
 
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-08)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-09)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-08)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-09)
 
 ## Despre
 
@@ -90,4 +99,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 8 mai 2026*
+*Actualizat: 9 mai 2026*
