@@ -6,23 +6,6 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 
 ## Următoarele 14 zile
 
-### Duminică, 10 mai
-
-- `08:00` [Program 321sport: Bucharest Half Marathon](https://lu.ma/1ab9f9ni)  
-  <sub>321sport · 13 participanți</sub>
-- `09:00` [Tura de duminică Cotroceni](https://lu.ma/b0m7lckq)  
-  <sub>Aleodor Tabarcea · 7 participanți</sub>
-- `09:00` [Tura de duminică Herăstrău](https://lu.ma/620ya3nn)  
-  <sub>Emily Merdus · 13 participanți</sub>
-- `09:00` [Tura de duminică I.O.R.](https://lu.ma/5la8ledz)  
-  <sub>Irina Tenovici · 14 participanți</sub>
-- `09:00` [Tura de duminică Lacul Morii](https://lu.ma/1yepuzpv)  
-  <sub>Alexandru Agatinei · 1 participant</sub>
-- `09:00` [Tura de duminică Tineretului](https://lu.ma/vtwu1pph)  
-  <sub>Nicoleta Ifrim · 11 participanți</sub>
-- `11:00` [Sketch & Brunch Bucharest #41](https://lu.ma/duyy0f8o)  
-  <sub>Sketch & Brunch Bucharest · 6 participanți</sub>
-
 ### Luni, 11 mai
 
 - `18:45` [Meet 25 Interesting People… Then Grab a Padel Racket](https://lu.ma/ywd0192g)  
@@ -52,25 +35,25 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 ### Sâmbătă, 16 mai
 
 - `10:00` [ACS Keysight CTF](https://lu.ma/69j18lz9)  
-  <sub>Razvan Deaconescu · 51 de participanți</sub>
+  <sub>Razvan Deaconescu · 60 de participanți</sub>
 
 ### Duminică, 17 mai
 
 - `09:00` [Tura de duminică Cotroceni](https://lu.ma/kmmsdxlo)  
   <sub>Aleodor Tabarcea</sub>
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/vx9erfaw)  
-  <sub>Emily Merdus</sub>
+  <sub>Emily Merdus · 3 participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/achw46vz)  
   <sub>Irina Tenovici</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/klue245w)  
   <sub>Nicoleta Ifrim</sub>
 - `10:00` [ACS Keysight Challenge](https://lu.ma/t5qumu4a)  
-  <sub>Razvan Deaconescu · 37 de participanți</sub>
+  <sub>Razvan Deaconescu · 41 de participanți</sub>
 
 ### Vineri, 22 mai
 
 - `17:00` [Bizza Day RO 2026 : Flip the Slice](https://lu.ma/BizzaDaybyBitget)  
-  <sub>Crypto Society · 182 de participanți</sub>
+  <sub>Crypto Society · 183 de participanți</sub>
 
 ### Sâmbătă, 23 mai
 
@@ -98,11 +81,11 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-10)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-11)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-10)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-11)
 
 ## Despre
 
@@ -114,4 +97,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 10 mai 2026*
+*Actualizat: 11 mai 2026*
