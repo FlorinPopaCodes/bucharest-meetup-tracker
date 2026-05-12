@@ -6,24 +6,24 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 
 ## Următoarele 14 zile
 
-### Luni, 11 mai
-
-- `18:45` [Meet 25 Interesting People… Then Grab a Padel Racket](https://lu.ma/ywd0192g)  
-  <sub>Eric Melchor · 29 de participanți</sub>
-
 ### Marți, 12 mai
 
 - `19:00` [🌿🤖 Lansare Bucharest Techies](https://lu.ma/e7nwf757)  
-  <sub>Metapilot Academy</sub>
-- `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S22E59](https://lu.ma/wjl4w48x)  
-  <sub>321sport · 8 participanți</sub>
+  <sub>Metapilot Academy · 20 de participanți</sub>
+- `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E01](https://lu.ma/wjl4w48x)  
+  <sub>321sport · 13 participanți</sub>
 
 ### Miercuri, 13 mai
 
 - `08:30` [RoFintech Breakfast \| Hosted by Fort](https://lu.ma/hifstc48)  
   <sub>Adrian Drinceanu</sub>
 - `18:00` [Workshop: From Soft Skills to Power Skills](https://lu.ma/4gjuie3a)  
-  <sub>Upskilling the Romanian IT Industry · 11 participanți</sub>
+  <sub>Upskilling the Romanian IT Industry · 16 participanți</sub>
+
+### Joi, 14 mai
+
+- `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E02](https://lu.ma/drmw7cqo)  
+  <sub>321sport · 13 participanți</sub>
 
 ### Vineri, 15 mai
 
@@ -36,29 +36,36 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 
 - `10:00` [ACS Keysight CTF](https://lu.ma/69j18lz9)  
   <sub>Razvan Deaconescu · 60 de participanți</sub>
+- `10:00` [TURA x Mommy HAI, prima Tură pentru mămici, tătici și familii cu copii mici (sau mai mari), Parcul Tineretului](https://lu.ma/1uz29pkg)  
+  <sub>Endi Ungureanu · 17 participanți</sub>
 
 ### Duminică, 17 mai
 
 - `09:00` [Tura de duminică Cotroceni](https://lu.ma/kmmsdxlo)  
-  <sub>Aleodor Tabarcea</sub>
+  <sub>Aleodor Tabarcea · 4 participanți</sub>
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/vx9erfaw)  
   <sub>Emily Merdus · 3 participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/achw46vz)  
-  <sub>Irina Tenovici</sub>
+  <sub>Irina Tenovici · 3 participanți</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/klue245w)  
   <sub>Nicoleta Ifrim</sub>
 - `10:00` [ACS Keysight Challenge](https://lu.ma/t5qumu4a)  
-  <sub>Razvan Deaconescu · 41 de participanți</sub>
+  <sub>Razvan Deaconescu · 44 de participanți</sub>
+
+### Marți, 19 mai
+
+- `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E03](https://lu.ma/fe1nz1g0)  
+  <sub>321sport · 3 participanți</sub>
 
 ### Vineri, 22 mai
 
 - `17:00` [Bizza Day RO 2026 : Flip the Slice](https://lu.ma/BizzaDaybyBitget)  
-  <sub>Crypto Society · 183 de participanți</sub>
+  <sub>Crypto Society · 184 de participanți</sub>
 
 ### Sâmbătă, 23 mai
 
 - `09:00` [Streetball 3x3: The Pre-Game Reset](https://lu.ma/4ttpnce0)  
-  <sub>Modern Owners · 3 participanți</sub>
+  <sub>Modern Owners · 4 participanți</sub>
 - `17:00` [Down Bad Ride: A Taylor Swift-Themed Indoor Cycling Experience - #1](https://lu.ma/9e4obby4)  
   <sub>The Spinning Era · 11 participanți</sub>
 
@@ -73,7 +80,7 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/suvw7acq)  
   <sub>Nicoleta Ifrim · 1 participant</sub>
 - `15:00` [Down Bad Ride: A Taylor Swift-Themed Indoor Cycling Experience - #3](https://lu.ma/fkpubasg)  
-  <sub>The Spinning Era · 10 participanți</sub>
+  <sub>The Spinning Era · 12 participanți</sub>
 - `17:00` [Down Bad Ride: A Taylor Swift-Themed Indoor Cycling Experience - #4](https://lu.ma/c6wtzcnx)  
   <sub>The Spinning Era · 14 participanți</sub>
 
@@ -81,11 +88,11 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-11)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-12)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-11)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-12)
 
 ## Despre
 
@@ -97,4 +104,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 11 mai 2026*
+*Actualizat: 12 mai 2026*
