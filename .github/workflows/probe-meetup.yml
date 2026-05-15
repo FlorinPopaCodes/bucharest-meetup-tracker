@@ -1,0 +1,40 @@
+name: Probe meetup.com reachability
+
+on:
+  workflow_dispatch:
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Probe iCal + HTML endpoints
+        env:
+          UA: "bucharest-meetup-tracker (+https://github.com/FlorinPopaCodes/bucharest-meetup-tracker)"
+        run: |
+          set +e
+          probe() {
+            local label="$1" url="$2"
+            echo "=== $label ==="
+            echo "URL: $url"
+            local code
+            code=$(curl -sS -o "/tmp/${label}.body" -w "%{http_code}" \
+              -L --max-time 25 \
+              -A "$UA" \
+              -H "Accept: */*" \
+              "$url")
+            local size
+            size=$(wc -c < "/tmp/${label}.body" | tr -d ' ')
+            echo "HTTP: $code  size: ${size}B"
+            echo "--- first 25 lines ---"
+            head -25 "/tmp/${label}.body" || true
+            echo
+            echo "--- VEVENT count (if any) ---"
+            grep -c "^BEGIN:VEVENT" "/tmp/${label}.body" || echo 0
+            echo
+          }
+
+          probe ical_aws       "https://www.meetup.com/bucharest-aws-user-group/events/ical/"
+          probe ical_cnb       "https://www.meetup.com/cloud-native-bucharest/events/ical/"
+          probe ical_gdg       "https://www.meetup.com/google-developer-group-bucharest/events/ical/"
+          probe find_html      "https://www.meetup.com/find/?location=ro--bucharest&source=EVENTS"
+          probe group_html     "https://www.meetup.com/bucharest-aws-user-group/events/"
