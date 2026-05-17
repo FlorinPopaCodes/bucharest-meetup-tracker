@@ -6,29 +6,18 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 
 ## Următoarele 14 zile
 
-### Sâmbătă, 16 mai
-
-- `10:00` [#5 - I don’t care, I love it ⚡️](https://lu.ma/1bp3wg97)  
-  <sub>FOMO Urban Running Club · 41 de participanți</sub>
-- `10:00` [ACS Keysight CTF](https://lu.ma/69j18lz9)  
-  <sub>Razvan Deaconescu · 65 de participanți</sub>
-- `10:00` [TURA x Mommy HAI, prima Tură pentru mămici, tătici și familii cu copii mici (sau mai mari), Parcul Tineretului](https://lu.ma/1uz29pkg)  
-  <sub>Endi Ungureanu · 41 de participanți</sub>
-- `13:00` [Maker's Brunch #2: Cafea, Pizza și Tehnologie (3D Print, CNC, Laser)](https://lu.ma/fvx9s8rg)  
-  <sub>Andrei Pirvulet · 9 participanți</sub>
-
 ### Duminică, 17 mai
 
 - `09:00` [Tura de duminică Cotroceni](https://lu.ma/kmmsdxlo)  
   <sub>Aleodor Tabarcea · 5 participanți</sub>
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/vx9erfaw)  
-  <sub>Emily Merdus · 7 participanți</sub>
+  <sub>Emily Merdus · 13 participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/achw46vz)  
-  <sub>Irina Tenovici · 8 participanți</sub>
+  <sub>Irina Tenovici · 11 participanți</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/klue245w)  
-  <sub>Nicoleta Ifrim · 5 participanți</sub>
+  <sub>Nicoleta Ifrim · 11 participanți</sub>
 - `10:00` [ACS Keysight Challenge](https://lu.ma/t5qumu4a)  
-  <sub>Razvan Deaconescu · 50 de participanți</sub>
+  <sub>Razvan Deaconescu · 48 de participanți</sub>
 
 ### Marți, 19 mai
 
@@ -42,24 +31,24 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 ### Miercuri, 20 mai
 
 - `17:00` [THE BOARDROOM SECRETS](https://lu.ma/942vo2xr)  
-  <sub>Aiyon Capital · 13 participanți</sub>
+  <sub>Aiyon Capital · 17 participanți</sub>
 
 ### Joi, 21 mai
 
 - `18:00` [The Courage to Lead - Personal Brand & Self Advocacy](https://lu.ma/axlsdjho)  
-  <sub>Upskilling the Romanian IT Industry · 44 de participanți</sub>
+  <sub>Upskilling the Romanian IT Industry · 45 de participanți</sub>
 
 ### Vineri, 22 mai
 
 - `17:00` [₿izza Day 2026](https://lu.ma/BizzaDaybyBitget)  
-  <sub>Crypto Society · 253 de participanți</sub>
+  <sub>Crypto Society · 268 de participanți</sub>
 
 ### Sâmbătă, 23 mai
 
 - `09:00` [Streetball 3x3: The Pre-Game Reset](https://lu.ma/4ttpnce0)  
   <sub>Modern Owners · 6 participanți</sub>
 - `17:00` [Down Bad Ride: A Taylor Swift-Themed Indoor Cycling Experience - #1](https://lu.ma/9e4obby4)  
-  <sub>The Spinning Era · 11 participanți</sub>
+  <sub>The Spinning Era · 12 participanți</sub>
 
 ### Duminică, 24 mai
 
@@ -79,9 +68,9 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 ### Marți, 26 mai
 
 - `19:00` [Meet 24 Interesting People… Then Grab a Padel Racket](https://lu.ma/ryf0p3y0)  
-  <sub>Eric Melchor</sub>
+  <sub>Eric Melchor · 10 participanți</sub>
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E05](https://lu.ma/grdz2s08)  
-  <sub>321sport · 3 participanți</sub>
+  <sub>321sport · 4 participanți</sub>
 
 ### Joi, 28 mai
 
@@ -91,9 +80,9 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 ### Vineri, 29 mai
 
 - `18:00` [SEO Bucuresti Meetup - Using Claude for SEO](https://lu.ma/s9m0kj4t)  
-  <sub>Patrik Rojan · 27 de participanți</sub>
+  <sub>Patrik Rojan · 28 de participanți</sub>
 - `19:00` [Design Unfold #1: Friday unwind](https://lu.ma/e0vhhain)  
-  <sub>Eliza Marin · 12 participanți</sub>
+  <sub>Eliza Marin · 17 participanți</sub>
 
 ### Sâmbătă, 30 mai
 
@@ -106,11 +95,11 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-16)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-17)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-16)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-17)
 
 ## Despre
 
@@ -122,4 +111,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 16 mai 2026*
+*Actualizat: 17 mai 2026*
