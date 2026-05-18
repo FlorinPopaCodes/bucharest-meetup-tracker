@@ -6,42 +6,29 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 
 ## Următoarele 14 zile
 
-### Duminică, 17 mai
-
-- `09:00` [Tura de duminică Cotroceni](https://lu.ma/kmmsdxlo)  
-  <sub>Aleodor Tabarcea · 5 participanți</sub>
-- `09:00` [Tura de duminică Herăstrău](https://lu.ma/vx9erfaw)  
-  <sub>Emily Merdus · 13 participanți</sub>
-- `09:00` [Tura de duminică I.O.R.](https://lu.ma/achw46vz)  
-  <sub>Irina Tenovici · 11 participanți</sub>
-- `09:00` [Tura de duminică Tineretului](https://lu.ma/klue245w)  
-  <sub>Nicoleta Ifrim · 11 participanți</sub>
-- `10:00` [ACS Keysight Challenge](https://lu.ma/t5qumu4a)  
-  <sub>Razvan Deaconescu · 48 de participanți</sub>
-
 ### Marți, 19 mai
 
 - `09:30` [Product Macchiato](https://lu.ma/b58cq9m0)  
   <sub>Catalin Stanciu · 3 participanți</sub>
 - `17:30` [No Data, No AI: The Foundation Nobody Talks About (anymore)](https://lu.ma/g54tkfdp)  
-  <sub>Women in Tech Romania · 85 de participanți</sub>
+  <sub>Women in Tech Romania · 97 de participanți</sub>
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E03](https://lu.ma/fe1nz1g0)  
-  <sub>321sport · 7 participanți</sub>
+  <sub>321sport · 10 participanți</sub>
 
 ### Miercuri, 20 mai
 
 - `17:00` [THE BOARDROOM SECRETS](https://lu.ma/942vo2xr)  
-  <sub>Aiyon Capital · 17 participanți</sub>
+  <sub>Aiyon Capital · 24 de participanți</sub>
 
 ### Joi, 21 mai
 
 - `18:00` [The Courage to Lead - Personal Brand & Self Advocacy](https://lu.ma/axlsdjho)  
-  <sub>Upskilling the Romanian IT Industry · 45 de participanți</sub>
+  <sub>Upskilling the Romanian IT Industry · 49 de participanți</sub>
 
 ### Vineri, 22 mai
 
 - `17:00` [₿izza Day 2026](https://lu.ma/BizzaDaybyBitget)  
-  <sub>Crypto Society · 268 de participanți</sub>
+  <sub>Crypto Society · 273 de participanți</sub>
 
 ### Sâmbătă, 23 mai
 
@@ -59,7 +46,7 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 - `09:00` [Tura de duminică Lacul Morii](https://lu.ma/pvscejd5)  
   <sub>Alexandru Agatinei · 1 participant</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/suvw7acq)  
-  <sub>Nicoleta Ifrim · 1 participant</sub>
+  <sub>Nicoleta Ifrim · 2 participanți</sub>
 - `15:00` [Down Bad Ride: A Taylor Swift-Themed Indoor Cycling Experience - #3](https://lu.ma/fkpubasg)  
   <sub>The Spinning Era · 14 participanți</sub>
 - `17:00` [Down Bad Ride: A Taylor Swift-Themed Indoor Cycling Experience - #4](https://lu.ma/c6wtzcnx)  
@@ -70,7 +57,7 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 - `19:00` [Meet 24 Interesting People… Then Grab a Padel Racket](https://lu.ma/ryf0p3y0)  
   <sub>Eric Melchor · 10 participanți</sub>
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E05](https://lu.ma/grdz2s08)  
-  <sub>321sport · 4 participanți</sub>
+  <sub>321sport · 5 participanți</sub>
 
 ### Joi, 28 mai
 
@@ -80,9 +67,9 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 ### Vineri, 29 mai
 
 - `18:00` [SEO Bucuresti Meetup - Using Claude for SEO](https://lu.ma/s9m0kj4t)  
-  <sub>Patrik Rojan · 28 de participanți</sub>
+  <sub>Patrik Rojan · 32 de participanți</sub>
 - `19:00` [Design Unfold #1: Friday unwind](https://lu.ma/e0vhhain)  
-  <sub>Eliza Marin · 17 participanți</sub>
+  <sub>Eliza Marin · 18 participanți</sub>
 
 ### Sâmbătă, 30 mai
 
@@ -95,11 +82,11 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-17)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-18)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-17)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-18)
 
 ## Despre
 
@@ -111,4 +98,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 17 mai 2026*
+*Actualizat: 18 mai 2026*
