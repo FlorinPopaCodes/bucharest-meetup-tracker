@@ -6,26 +6,21 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 
 ## Următoarele 14 zile
 
-### Vineri, 22 mai
-
-- `17:00` [₿izza Day 2026](https://lu.ma/BizzaDaybyBitget)  
-  <sub>Crypto Society · 379 de participanți</sub>
-
 ### Sâmbătă, 23 mai
 
 - `09:00` [Streetball 3x3: The Pre-Game Reset](https://lu.ma/4ttpnce0)  
-  <sub>Modern Owners · 7 participanți</sub>
+  <sub>Modern Owners · 9 participanți</sub>
 - `17:00` [Down Bad Ride: A Taylor Swift-Themed Indoor Cycling Experience - #1](https://lu.ma/9e4obby4)  
   <sub>The Spinning Era · 12 participanți</sub>
 
 ### Duminică, 24 mai
 
 - `09:00` [Tura de duminică Cotroceni](https://lu.ma/0ur707ub)  
-  <sub>Aleodor Tabarcea · 1 participant</sub>
+  <sub>Aleodor Tabarcea · 2 participanți</sub>
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/9bv1zlxf)  
-  <sub>Emily Merdus · 5 participanți</sub>
+  <sub>Emily Merdus · 9 participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/v2fgks0y)  
-  <sub>Irina Tenovici · 3 participanți</sub>
+  <sub>Irina Tenovici · 5 participanți</sub>
 - `09:00` [Tura de duminică Lacul Morii](https://lu.ma/pvscejd5)  
   <sub>Alexandru Agatinei · 1 participant</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/suvw7acq)  
@@ -45,13 +40,13 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 ### Marți, 26 mai
 
 - `17:00` [n8n Bucharest Meetup: From Idea to a Working Product](https://lu.ma/bucharest-n8n-meetup)  
-  <sub>n8n · 22 de participanți</sub>
+  <sub>n8n · 27 de participanți</sub>
 - `17:30` [Reimagining the Future of Learning](https://lu.ma/5m3affjp)  
   <sub>Enrique · 9 participanți</sub>
 - `18:00` [Workshop: Cultural Archetypes and Their Impact in our Professional Life](https://lu.ma/yz403qiy)  
-  <sub>Upskilling the Romanian IT Industry · 11 participanți</sub>
+  <sub>Upskilling the Romanian IT Industry · 13 participanți</sub>
 - `19:00` [Meet 24 Interesting People… Then Grab a Padel Racket](https://lu.ma/ryf0p3y0)  
-  <sub>Eric Melchor · 24 de participanți</sub>
+  <sub>Eric Melchor · 25 de participanți</sub>
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E05](https://lu.ma/grdz2s08)  
   <sub>321sport · 11 participanți</sub>
 
@@ -71,7 +66,7 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 - `18:00` [SEO Bucuresti Meetup - Using Claude for SEO](https://lu.ma/s9m0kj4t)  
   <sub>Patrik Rojan · 46 de participanți</sub>
 - `19:00` [Design Unfold #1: Friday unwind](https://lu.ma/e0vhhain)  
-  <sub>Eliza Marin · 23 de participanți</sub>
+  <sub>Eliza Marin · 28 de participanți</sub>
 
 ### Sâmbătă, 30 mai
 
@@ -99,11 +94,11 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-22)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-23)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-22)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-23)
 
 ## Despre
 
@@ -115,4 +110,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 22 mai 2026*
+*Actualizat: 23 mai 2026*
