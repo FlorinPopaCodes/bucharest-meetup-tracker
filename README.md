@@ -6,42 +6,34 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 
 ## Următoarele 14 zile
 
-### Marți, 26 mai
+### Miercuri, 27 mai
 
-- `17:00` [n8n Bucharest Meetup: From Idea to a Working Product](https://lu.ma/bucharest-n8n-meetup)  
-  <sub>n8n · 35 de participanți</sub>
-- `17:30` [Reimagining the Future of Learning](https://lu.ma/5m3affjp)  
-  <sub>Enrique · 9 participanți</sub>
-- `18:00` [Workshop: Cultural Archetypes and Their Impact in our Professional Life](https://lu.ma/yz403qiy)  
-  <sub>Upskilling the Romanian IT Industry · 19 participanți</sub>
-- `19:00` [Meet 24 Interesting People… Then Grab a Padel Racket](https://lu.ma/ryf0p3y0)  
-  <sub>Eric Melchor · 26 de participanți</sub>
-- `19:00` [Product & Design drinks Bucuresti](https://lu.ma/qezj7cjw)  
-  <sub>Tudor Juravlea · 22 de participanți</sub>
-- `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E05](https://lu.ma/grdz2s08)  
-  <sub>321sport · 21 de participanți</sub>
+- `19:00` [PULSE #44 - muv your dragon](https://lu.ma/hddbrg1p)  
+  <sub>MuvOutside · 83 de participanți</sub>
 
 ### Joi, 28 mai
 
 - `09:00` [WORK EVOLUTION SUMMIT 2026](https://lu.ma/workevolutionsummit2026)  
   <sub>Life in Codes</sub>
 - `18:30` [AI Adoption Inside Companies > Culture > Tools](https://lu.ma/vfj6ic12)  
-  <sub>Alexandra Anghel · 39 de participanți</sub>
+  <sub>Alexandra Anghel · 40 de participanți</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E06](https://lu.ma/e4x2ikxm)  
-  <sub>321sport · 22 de participanți</sub>
+  <sub>321sport · 21 de participanți</sub>
 - `19:00` [DevNight#5 - The New Way of Building Software Products](https://lu.ma/cryw0laj)  
-  <sub>Bogdan Iasinovschi · 20 de participanți</sub>
+  <sub>Bogdan Iasinovschi · 22 de participanți</sub>
 
 ### Vineri, 29 mai
 
 - `18:00` [SEO Bucuresti Meetup - Using Claude for SEO](https://lu.ma/s9m0kj4t)  
-  <sub>Patrik Rojan · 51 de participanți</sub>
+  <sub>Patrik Rojan · 52 de participanți</sub>
 - `19:00` [Design Unfold #1: Friday unwind](https://lu.ma/e0vhhain)  
-  <sub>Eliza Marin · 30 de participanți</sub>
+  <sub>Eliza Marin · 35 de participanți</sub>
 
 ### Sâmbătă, 30 mai
 
-- `11:00` [AREA TALKS 1st Edition](https://lu.ma/x4uqmp4j)  
+- `10:00` [#6 - Level Up](https://lu.ma/nyh0zet9)  
+  <sub>FOMO Urban Running Club · 13 participanți</sub>
+- `12:00` [AREA TALKS 1st Edition](https://lu.ma/x4uqmp4j)  
   <sub>Teodor Anca</sub>
 - `17:00` [Drag Revolution Festival](https://lu.ma/ntvlm3a3)  
   <sub>Culture Association Beni Mihai</sub>
@@ -49,12 +41,12 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 ### Marți, 2 iunie
 
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E07](https://lu.ma/jubjk10q)  
-  <sub>321sport · 5 participanți</sub>
+  <sub>321sport · 6 participanți</sub>
 
 ### Joi, 4 iunie
 
 - `18:30` [CTO Craft Mixers: Bucharest](https://lu.ma/1hem1slo)  
-  <sub>CTO Craft · 30 de participanți</sub>
+  <sub>CTO Craft · 31 de participanți</sub>
 
 ### Vineri, 5 iunie
 
@@ -66,17 +58,21 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 - `18:00` [Lansare Carte "Cimitirul Aplicațiilor de Mesagerie"](https://lu.ma/la5h7l43)  
   <sub>Dan Boabes</sub>
 - `18:45` [Founders & Builders Night](https://lu.ma/9kngvhdm)  
-  <sub>Eric Melchor · 10 participanți</sub>
+  <sub>Eric Melchor · 11 participanți</sub>
+
+### Miercuri, 10 iunie
+
+- `18:30` [Alchemy Open Doors \| Meet the Builders](https://lu.ma/qblgongg)
 
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-26)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-27)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-26)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-27)
 
 ## Despre
 
@@ -88,4 +84,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 26 mai 2026*
+*Actualizat: 27 mai 2026*
