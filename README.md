@@ -6,47 +6,59 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 
 ## Următoarele 14 zile
 
-### Miercuri, 27 mai
-
-- `19:00` [PULSE #44 - muv your dragon](https://lu.ma/hddbrg1p)  
-  <sub>MuvOutside · 83 de participanți</sub>
-
 ### Joi, 28 mai
 
 - `09:00` [WORK EVOLUTION SUMMIT 2026](https://lu.ma/workevolutionsummit2026)  
   <sub>Life in Codes</sub>
 - `18:30` [AI Adoption Inside Companies > Culture > Tools](https://lu.ma/vfj6ic12)  
-  <sub>Alexandra Anghel · 40 de participanți</sub>
+  <sub>Alexandra Anghel</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E06](https://lu.ma/e4x2ikxm)  
-  <sub>321sport · 21 de participanți</sub>
+  <sub>321sport · 38 de participanți</sub>
 - `19:00` [DevNight#5 - The New Way of Building Software Products](https://lu.ma/cryw0laj)  
-  <sub>Bogdan Iasinovschi · 22 de participanți</sub>
+  <sub>Bogdan Iasinovschi · 25 de participanți</sub>
 
 ### Vineri, 29 mai
 
 - `18:00` [SEO Bucuresti Meetup - Using Claude for SEO](https://lu.ma/s9m0kj4t)  
-  <sub>Patrik Rojan · 52 de participanți</sub>
+  <sub>Patrik Rojan · 58 de participanți</sub>
 - `19:00` [Design Unfold #1: Friday unwind](https://lu.ma/e0vhhain)  
-  <sub>Eliza Marin · 35 de participanți</sub>
+  <sub>Eliza Marin · 37 de participanți</sub>
 
 ### Sâmbătă, 30 mai
 
 - `10:00` [#6 - Level Up](https://lu.ma/nyh0zet9)  
-  <sub>FOMO Urban Running Club · 13 participanți</sub>
+  <sub>FOMO Urban Running Club · 16 participanți</sub>
 - `12:00` [AREA TALKS 1st Edition](https://lu.ma/x4uqmp4j)  
   <sub>Teodor Anca</sub>
 - `17:00` [Drag Revolution Festival](https://lu.ma/ntvlm3a3)  
   <sub>Culture Association Beni Mihai</sub>
+
+### Duminică, 31 mai
+
+- `09:00` [Tura de duminică Herăstrău](https://lu.ma/fpcrkpi5)  
+  <sub>Endi Ungureanu · 5 participanți</sub>
+- `09:00` [Tura de duminică I.O.R.](https://lu.ma/vxfzdal0)  
+  <sub>Endi Ungureanu · 5 participanți</sub>
+
+### Luni, 1 iunie
+
+- `13:30` [Kids of BOILER - ATELIER DE ARHITECTURĂ PENTRU COPII](https://lu.ma/jmdxzp97)  
+  <sub>Boiler Coffee · 6 participanți</sub>
 
 ### Marți, 2 iunie
 
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E07](https://lu.ma/jubjk10q)  
   <sub>321sport · 6 participanți</sub>
 
+### Miercuri, 3 iunie
+
+- `18:00` [From Self Confidence to Strategic Vision](https://lu.ma/ntni0cbm)  
+  <sub>Upskilling the Romanian IT Industry · 12 participanți</sub>
+
 ### Joi, 4 iunie
 
 - `18:30` [CTO Craft Mixers: Bucharest](https://lu.ma/1hem1slo)  
-  <sub>CTO Craft · 31 de participanți</sub>
+  <sub>CTO Craft · 29 de participanți</sub>
 
 ### Vineri, 5 iunie
 
@@ -68,11 +80,11 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-27)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-28)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-27)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-28)
 
 ## Despre
 
@@ -84,4 +96,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 27 mai 2026*
+*Actualizat: 28 mai 2026*
