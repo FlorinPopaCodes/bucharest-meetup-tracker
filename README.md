@@ -6,28 +6,17 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 
 ## Următoarele 14 zile
 
-### Joi, 28 mai
-
-- `09:00` [WORK EVOLUTION SUMMIT 2026](https://lu.ma/workevolutionsummit2026)  
-  <sub>Life in Codes</sub>
-- `18:30` [AI Adoption Inside Companies > Culture > Tools](https://lu.ma/vfj6ic12)  
-  <sub>Alexandra Anghel</sub>
-- `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E06](https://lu.ma/e4x2ikxm)  
-  <sub>321sport · 38 de participanți</sub>
-- `19:00` [DevNight#5 - The New Way of Building Software Products](https://lu.ma/cryw0laj)  
-  <sub>Bogdan Iasinovschi · 25 de participanți</sub>
-
 ### Vineri, 29 mai
 
 - `18:00` [SEO Bucuresti Meetup - Using Claude for SEO](https://lu.ma/s9m0kj4t)  
-  <sub>Patrik Rojan · 58 de participanți</sub>
+  <sub>Patrik Rojan · 62 de participanți</sub>
 - `19:00` [Design Unfold #1: Friday unwind](https://lu.ma/e0vhhain)  
-  <sub>Eliza Marin · 37 de participanți</sub>
+  <sub>Eliza Marin · 42 de participanți</sub>
 
 ### Sâmbătă, 30 mai
 
 - `10:00` [#6 - Level Up](https://lu.ma/nyh0zet9)  
-  <sub>FOMO Urban Running Club · 16 participanți</sub>
+  <sub>FOMO Urban Running Club · 18 participanți</sub>
 - `12:00` [AREA TALKS 1st Edition](https://lu.ma/x4uqmp4j)  
   <sub>Teodor Anca</sub>
 - `17:00` [Drag Revolution Festival](https://lu.ma/ntvlm3a3)  
@@ -36,14 +25,14 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 ### Duminică, 31 mai
 
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/fpcrkpi5)  
-  <sub>Endi Ungureanu · 5 participanți</sub>
+  <sub>Endi Ungureanu · 7 participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/vxfzdal0)  
-  <sub>Endi Ungureanu · 5 participanți</sub>
+  <sub>Endi Ungureanu · 6 participanți</sub>
 
 ### Luni, 1 iunie
 
 - `13:30` [Kids of BOILER - ATELIER DE ARHITECTURĂ PENTRU COPII](https://lu.ma/jmdxzp97)  
-  <sub>Boiler Coffee · 6 participanți</sub>
+  <sub>Boiler Coffee · 8 participanți</sub>
 
 ### Marți, 2 iunie
 
@@ -52,8 +41,10 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 
 ### Miercuri, 3 iunie
 
+- `17:00` [AI & Automation Build Sprint](https://lu.ma/7xja3s2k)  
+  <sub>Andrei Popescu · 7 participanți</sub>
 - `18:00` [From Self Confidence to Strategic Vision](https://lu.ma/ntni0cbm)  
-  <sub>Upskilling the Romanian IT Industry · 12 participanți</sub>
+  <sub>Upskilling the Romanian IT Industry · 21 de participanți</sub>
 
 ### Joi, 4 iunie
 
@@ -70,21 +61,28 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 - `18:00` [Lansare Carte "Cimitirul Aplicațiilor de Mesagerie"](https://lu.ma/la5h7l43)  
   <sub>Dan Boabes</sub>
 - `18:45` [Founders & Builders Night](https://lu.ma/9kngvhdm)  
-  <sub>Eric Melchor · 11 participanți</sub>
+  <sub>Eric Melchor · 15 participanți</sub>
 
 ### Miercuri, 10 iunie
 
 - `18:30` [Alchemy Open Doors \| Meet the Builders](https://lu.ma/qblgongg)
 
+### Vineri, 12 iunie
+
+- `09:00` [Product Jam 2026](https://lu.ma/eph3j4e5)  
+  <sub>Stefania Cioroba · 115 de participanți</sub>
+- `15:00` [PUNTOUP CONNECT \| TENNIS EDITION 🎾](https://lu.ma/0kzn9m9z)  
+  <sub>PuntoUP Connect · 13 participanți</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-28)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-29)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-28)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-29)
 
 ## Despre
 
@@ -96,4 +94,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 28 mai 2026*
+*Actualizat: 29 mai 2026*
