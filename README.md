@@ -6,31 +6,22 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 
 ## Următoarele 14 zile
 
-### Sâmbătă, 30 mai
-
-- `10:00` [#6 - Level Up](https://lu.ma/nyh0zet9)  
-  <sub>FOMO Urban Running Club · 19 participanți</sub>
-- `12:00` [AREA TALKS 1st Edition](https://lu.ma/x4uqmp4j)  
-  <sub>Teodor Anca</sub>
-- `17:00` [Drag Revolution Festival](https://lu.ma/ntvlm3a3)  
-  <sub>Culture Association Beni Mihai</sub>
-
 ### Duminică, 31 mai
 
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/fpcrkpi5)  
-  <sub>Endi Ungureanu · 12 participanți</sub>
+  <sub>Endi Ungureanu · 37 de participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/vxfzdal0)  
-  <sub>Endi Ungureanu · 11 participanți</sub>
+  <sub>Endi Ungureanu · 15 participanți</sub>
 
 ### Luni, 1 iunie
 
 - `13:30` [Kids of BOILER - ATELIER DE ARHITECTURĂ PENTRU COPII](https://lu.ma/jmdxzp97)  
-  <sub>Boiler Coffee · 17 participanți</sub>
+  <sub>Boiler Coffee · 19 participanți</sub>
 
 ### Marți, 2 iunie
 
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E07](https://lu.ma/jubjk10q)  
-  <sub>321sport · 11 participanți</sub>
+  <sub>321sport · 13 participanți</sub>
 
 ### Miercuri, 3 iunie
 
@@ -56,7 +47,12 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 - `18:00` [Lansare Carte "Cimitirul Aplicațiilor de Mesagerie"](https://lu.ma/la5h7l43)  
   <sub>Dan Boabes</sub>
 - `18:45` [Founders & Builders Night](https://lu.ma/9kngvhdm)  
-  <sub>Eric Melchor · 20 de participanți</sub>
+  <sub>Eric Melchor · 22 de participanți</sub>
+
+### Marți, 9 iunie
+
+- `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E09](https://lu.ma/2xw6f1fg)  
+  <sub>321sport · 3 participanți</sub>
 
 ### Miercuri, 10 iunie
 
@@ -73,11 +69,11 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-30)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-31)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-30)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-31)
 
 ## Despre
 
@@ -89,4 +85,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 30 mai 2026*
+*Actualizat: 31 mai 2026*
