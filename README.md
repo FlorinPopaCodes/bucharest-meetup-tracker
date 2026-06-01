@@ -6,22 +6,15 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 
 ## Următoarele 14 zile
 
-### Duminică, 31 mai
-
-- `09:00` [Tura de duminică Herăstrău](https://lu.ma/fpcrkpi5)  
-  <sub>Endi Ungureanu · 37 de participanți</sub>
-- `09:00` [Tura de duminică I.O.R.](https://lu.ma/vxfzdal0)  
-  <sub>Endi Ungureanu · 15 participanți</sub>
-
 ### Luni, 1 iunie
 
 - `13:30` [Kids of BOILER - ATELIER DE ARHITECTURĂ PENTRU COPII](https://lu.ma/jmdxzp97)  
-  <sub>Boiler Coffee · 19 participanți</sub>
+  <sub>Boiler Coffee · 20 de participanți</sub>
 
 ### Marți, 2 iunie
 
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E07](https://lu.ma/jubjk10q)  
-  <sub>321sport · 13 participanți</sub>
+  <sub>321sport · 15 participanți</sub>
 
 ### Miercuri, 3 iunie
 
@@ -35,24 +28,29 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 - `10:00` [Conferinta ALTREAL: Cum isi reduc companiile costurile cu energia in 2026](https://lu.ma/mn23bdij)  
   <sub>Alt.Real</sub>
 - `18:30` [CTO Craft Mixers: Bucharest](https://lu.ma/1hem1slo)  
-  <sub>CTO Craft · 30 de participanți</sub>
+  <sub>CTO Craft · 29 de participanți</sub>
 
 ### Vineri, 5 iunie
 
 - `13:00` [Bucharest Techies Launch](https://lu.ma/83vaczaz)  
   <sub>Metapilot Academy</sub>
 
+### Duminică, 7 iunie
+
+- `10:00` [Tura de Bazar de Cotroceni](https://lu.ma/pcydzfai)  
+  <sub>Endi Ungureanu · 14 participanți</sub>
+
 ### Luni, 8 iunie
 
 - `18:00` [Lansare Carte "Cimitirul Aplicațiilor de Mesagerie"](https://lu.ma/la5h7l43)  
   <sub>Dan Boabes</sub>
 - `18:45` [Founders & Builders Night](https://lu.ma/9kngvhdm)  
-  <sub>Eric Melchor · 22 de participanți</sub>
+  <sub>Eric Melchor · 24 de participanți</sub>
 
 ### Marți, 9 iunie
 
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E09](https://lu.ma/2xw6f1fg)  
-  <sub>321sport · 3 participanți</sub>
+  <sub>321sport · 4 participanți</sub>
 
 ### Miercuri, 10 iunie
 
@@ -69,11 +67,11 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-31)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-06-01)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-31)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-06-01)
 
 ## Despre
 
@@ -85,4 +83,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 31 mai 2026*
+*Actualizat: 1 iunie 2026*
