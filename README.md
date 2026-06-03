@@ -6,28 +6,25 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 
 ## Următoarele 14 zile
 
-### Marți, 2 iunie
-
-- `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E07](https://lu.ma/jubjk10q)  
-  <sub>321sport · 17 participanți</sub>
-
 ### Miercuri, 3 iunie
 
 - `17:00` [AI & Automation Build Sprint](https://lu.ma/7xja3s2k)  
   <sub>Andrei Popescu · 9 participanți</sub>
 - `18:00` [From Self Confidence to Strategic Vision](https://lu.ma/ntni0cbm)  
-  <sub>Upskilling the Romanian IT Industry · 27 de participanți</sub>
+  <sub>Upskilling the Romanian IT Industry · 39 de participanți</sub>
 
 ### Joi, 4 iunie
 
 - `10:00` [Conferinta ALTREAL: Cum isi reduc companiile costurile cu energia in 2026](https://lu.ma/mn23bdij)  
   <sub>Alt.Real</sub>
+- `10:00` [Conferinta ALTREAL: Cum isi reduc companiile costurile cu energia in 2026](https://lu.ma/48y6re4r)  
+  <sub>Alt.Real</sub>
 - `18:30` [CTO Craft Mixers: Bucharest](https://lu.ma/1hem1slo)  
-  <sub>CTO Craft · 29 de participanți</sub>
+  <sub>CTO Craft · 28 de participanți</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E08](https://lu.ma/i1e0elpi)  
   <sub>321sport · 13 participanți</sub>
 - `19:00` [PULSE #45 - muv like a rebel](https://lu.ma/12rolevi)  
-  <sub>MuvOutside · 46 de participanți</sub>
+  <sub>MuvOutside · 59 de participanți</sub>
 
 ### Vineri, 5 iunie
 
@@ -42,19 +39,19 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 ### Duminică, 7 iunie
 
 - `10:00` [Tura de Bazar de Cotroceni](https://lu.ma/pcydzfai)  
-  <sub>Endi Ungureanu · 34 de participanți</sub>
+  <sub>Endi Ungureanu · 42 de participanți</sub>
 
 ### Luni, 8 iunie
 
 - `18:00` [Lansare Carte "Cimitirul Aplicațiilor de Mesagerie"](https://lu.ma/la5h7l43)  
   <sub>Dan Boabes</sub>
 - `18:45` [Founders & Builders Night](https://lu.ma/9kngvhdm)  
-  <sub>Eric Melchor · 24 de participanți</sub>
+  <sub>Eric Melchor · 26 de participanți</sub>
 
 ### Marți, 9 iunie
 
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E09](https://lu.ma/2xw6f1fg)  
-  <sub>321sport · 4 participanți</sub>
+  <sub>321sport · 5 participanți</sub>
 
 ### Miercuri, 10 iunie
 
@@ -68,9 +65,18 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 ### Vineri, 12 iunie
 
 - `09:00` [Product Jam 2026](https://lu.ma/eph3j4e5)  
-  <sub>Stefania Cioroba · 115 de participanți</sub>
+  <sub>Stefania Cioroba · 116 de participanți</sub>
 - `15:00` [PUNTOUP CONNECT \| TENNIS EDITION 🎾](https://lu.ma/0kzn9m9z)  
   <sub>PuntoUP Connect · 13 participanți</sub>
+
+### Duminică, 14 iunie
+
+- `09:00` [Tura de duminică Herăstrău](https://lu.ma/b7f89wn1)  
+  <sub>Emily Merdus</sub>
+- `09:00` [Tura de duminică I.O.R.](https://lu.ma/dj0pbhvd)  
+  <sub>Irina Tenovici</sub>
+- `09:00` [Tura de duminică Tineretului](https://lu.ma/8ng3cmmk)  
+  <sub>Nicoleta Ifrim</sub>
 
 ### Marți, 16 iunie
 
@@ -81,11 +87,11 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-06-02)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-06-03)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-06-02)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-06-03)
 
 ## Despre
 
@@ -97,4 +103,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 2 iunie 2026*
+*Actualizat: 3 iunie 2026*
