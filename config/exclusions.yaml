@@ -1,0 +1,7 @@
+# Host ids excluded from the upcoming list in README.md.
+# Events from these hosts are still kept in events.csv and still
+# counted in the activity heatmaps; they are only hidden from the
+# "Următoarele 14 zile" list.
+hosts:
+  # Eric Melchor — focuses on networking, not my thing
+  - usr-uHL1OV6r5VRysfX

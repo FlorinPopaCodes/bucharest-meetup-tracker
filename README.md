@@ -42,8 +42,6 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 
 - `18:00` [Lansare Carte "Cimitirul Aplicațiilor de Mesagerie"](https://lu.ma/la5h7l43)  
   <sub>Dan Boabes</sub>
-- `18:45` [Founders & Builders Night](https://lu.ma/9kngvhdm)  
-  <sub>Eric Melchor · 27 de participanți</sub>
 
 ### Marți, 9 iunie
 

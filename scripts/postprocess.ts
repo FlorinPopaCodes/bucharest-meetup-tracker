@@ -1,10 +1,12 @@
 import { readEventsCsv, type EventRow } from "./lib/csv.ts";
+import { loadExcludedHostIds } from "./lib/exclusions.ts";
 import { renderHeatmap } from "./lib/heatmap.ts";
 import { renderReadme, renderUpcomingList } from "./lib/render.ts";
 
 const REPO_ROOT = new URL("..", import.meta.url).pathname;
 const PATHS = {
   events: `${REPO_ROOT}data/events.csv`,
+  exclusions: `${REPO_ROOT}config/exclusions.yaml`,
   readme: `${REPO_ROOT}README.md`,
   eventsSvg: `${REPO_ROOT}assets/heatmap-events.svg`,
   guestsSvg: `${REPO_ROOT}assets/heatmap-guests.svg`,
@@ -47,6 +49,15 @@ function main() {
   const rows = readEventsCsv(PATHS.events);
   console.log(`[postprocess] events.csv: ${rows.length} rows`);
 
+  const excluded = loadExcludedHostIds(PATHS.exclusions);
+  const visibleRows = excluded.size > 0
+    ? rows.filter((r) => !excluded.has(r.host_id))
+    : rows;
+  const hiddenCount = rows.length - visibleRows.length;
+  if (hiddenCount > 0) {
+    console.log(`[postprocess] excluded ${hiddenCount} rows from ${excluded.size} hosts`);
+  }
+
   const { events, guests } = buildHeatmapInputs(rows);
 
   // Sliding 365-day window ending 14 days in the future,
@@ -59,7 +70,7 @@ function main() {
   Deno.writeTextFileSync(PATHS.eventsSvg, eventsSvg + "\n");
   Deno.writeTextFileSync(PATHS.guestsSvg, guestsSvg + "\n");
 
-  const upcomingMd = renderUpcomingList(rows);
+  const upcomingMd = renderUpcomingList(visibleRows);
   const cacheBust = new Date().toISOString().slice(0, 10);
   const readme = renderReadme({
     upcomingMd,
