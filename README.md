@@ -6,19 +6,6 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 
 ## Următoarele 14 zile
 
-### Joi, 4 iunie
-
-- `10:00` [Conferinta ALTREAL: Cum isi reduc companiile costurile cu energia in 2026](https://lu.ma/mn23bdij)  
-  <sub>Alt.Real</sub>
-- `10:00` [Conferinta ALTREAL: Cum isi reduc companiile costurile cu energia in 2026](https://lu.ma/48y6re4r)  
-  <sub>Alt.Real</sub>
-- `18:30` [CTO Craft Mixers: Bucharest](https://lu.ma/1hem1slo)  
-  <sub>CTO Craft · 29 de participanți</sub>
-- `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E08](https://lu.ma/i1e0elpi)  
-  <sub>321sport · 32 de participanți</sub>
-- `19:30` [PULSE #45 - muv like a rebel](https://lu.ma/12rolevi)  
-  <sub>MuvOutside · 60 de participanți</sub>
-
 ### Vineri, 5 iunie
 
 - `13:00` [Bucharest Techies Launch](https://lu.ma/83vaczaz)  
@@ -27,16 +14,16 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 ### Sâmbătă, 6 iunie
 
 - `08:00` [Training Season ⛰️❤️‍🔥](https://lu.ma/0wany36o)  
-  <sub>FOMO Urban Running Club · 11 participanți</sub>
+  <sub>FOMO Urban Running Club · 12 participanți</sub>
 - `11:30` [AREA TALKS](https://lu.ma/titfco9u)  
   <sub>Ramona Bahrim</sub>
 
 ### Duminică, 7 iunie
 
 - `10:00` [girls ride out](https://lu.ma/26boxx51)  
-  <sub>MuvOutside · 16 participanți</sub>
+  <sub>MuvOutside · 22 de participanți</sub>
 - `10:00` [Tura de Bazar de Cotroceni](https://lu.ma/pcydzfai)  
-  <sub>Endi Ungureanu · 66 de participanți</sub>
+  <sub>Endi Ungureanu · 78 de participanți</sub>
 
 ### Luni, 8 iunie
 
@@ -46,7 +33,7 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 ### Marți, 9 iunie
 
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E09](https://lu.ma/2xw6f1fg)  
-  <sub>321sport · 6 participanți</sub>
+  <sub>321sport · 7 participanți</sub>
 
 ### Miercuri, 10 iunie
 
@@ -87,11 +74,11 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-06-04)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-06-05)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-06-04)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-06-05)
 
 ## Despre
 
@@ -103,4 +90,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 4 iunie 2026*
+*Actualizat: 5 iunie 2026*
