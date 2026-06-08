@@ -6,13 +6,6 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 
 ## Următoarele 14 zile
 
-### Duminică, 7 iunie
-
-- `10:00` [girls ride out](https://lu.ma/26boxx51)  
-  <sub>MuvOutside · 32 de participanți</sub>
-- `10:00` [Tura de Bazar de Cotroceni](https://lu.ma/pcydzfai)  
-  <sub>Endi Ungureanu · 154 de participanți</sub>
-
 ### Luni, 8 iunie
 
 - `18:00` [Lansare Carte "Cimitirul Aplicațiilor de Mesagerie"](https://lu.ma/la5h7l43)  
@@ -30,7 +23,7 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 ### Miercuri, 10 iunie
 
 - `17:00` [Lansare Digital United by DWF & Upswing](https://lu.ma/7qv585cm)  
-  <sub>Zamfir Irina · 429 de participanți</sub>
+  <sub>Zamfir Irina · 436 de participanți</sub>
 - `18:30` [Alchemy Open Doors \| Meet the Builders](https://lu.ma/qblgongg)
 
 ### Joi, 11 iunie
@@ -45,12 +38,17 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 - `15:00` [PUNTOUP CONNECT \| TENNIS EDITION 🎾](https://lu.ma/0kzn9m9z)  
   <sub>PuntoUP Connect · 13 participanți</sub>
 
+### Sâmbătă, 13 iunie
+
+- `10:00` [Born this Way ⚡️⭐️](https://lu.ma/kru3mykg)  
+  <sub>FOMO Urban Running Club · 19 participanți</sub>
+
 ### Duminică, 14 iunie
 
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/b7f89wn1)  
   <sub>Emily Merdus · 2 participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/dj0pbhvd)  
-  <sub>Irina Tenovici · 1 participant</sub>
+  <sub>Irina Tenovici · 3 participanți</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/8ng3cmmk)  
   <sub>Nicoleta Ifrim</sub>
 
@@ -69,7 +67,7 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 - `11:00` [Workshop de yoga pentru persoane cu scleroză multiplă](https://lu.ma/ui512dja)  
   <sub>Eduard Andrei Pletea · 3 participanți</sub>
 - `20:30` [Tura de Vis - Summer Edition 2026](https://lu.ma/w6w0rvip)  
-  <sub>321sport · 253 de participanți</sub>
+  <sub>321sport · 258 de participanți</sub>
 
 ### Duminică, 21 iunie
 
@@ -84,15 +82,20 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 - `09:30` [Wealth, Power & Inner Freedom](https://lu.ma/qr86m7e9)  
   <sub>Alex Huditan · 15 participanți</sub>
 
+### Luni, 22 iunie
+
+- `17:00` [The Startup Playbook: a Founder Evening with BCR Seed Starter](https://lu.ma/bdyoe6n5)  
+  <sub>BCR Seed Starter · 9 participanți</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-06-07)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-06-08)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-06-07)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-06-08)
 
 ## Despre
 
@@ -104,4 +107,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 7 iunie 2026*
+*Actualizat: 8 iunie 2026*
