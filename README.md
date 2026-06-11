@@ -6,18 +6,10 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 
 ## Următoarele 14 zile
 
-### Miercuri, 10 iunie
-
-- `17:00` [Lansare Digital United by DWF & Upswing](https://lu.ma/7qv585cm)  
-  <sub>Zamfir Irina · 512 de participanți</sub>
-- `18:00` [The Future of Work is Co-Created](https://lu.ma/103dzri5)  
-  <sub>Anca · 9 participanți</sub>
-- `18:30` [Alchemy Open Doors \| Meet the Builders](https://lu.ma/qblgongg)
-
 ### Joi, 11 iunie
 
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E10](https://lu.ma/6t92zysa)  
-  <sub>321sport · 22 de participanți</sub>
+  <sub>321sport · 38 de participanți</sub>
 
 ### Vineri, 12 iunie
 
@@ -29,31 +21,37 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 ### Sâmbătă, 13 iunie
 
 - `10:00` [Born this Way ⚡️⭐️](https://lu.ma/kru3mykg)  
-  <sub>FOMO Urban Running Club · 33 de participanți</sub>
+  <sub>FOMO Urban Running Club · 40 de participanți</sub>
+- `12:00` [Garbage Dreams: justiție de mediu, muncă invizibilă și comunități marginalizate](https://lu.ma/30bs8xg0)  
+  <sub>Elena-Andreea Negoi · 4 participanți</sub>
 
 ### Duminică, 14 iunie
 
 - `09:00` [Tura de duminică Cotroceni](https://lu.ma/ebuz4n50)  
   <sub>Aleodor Tabarcea · 1 participant</sub>
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/b7f89wn1)  
-  <sub>Emily Merdus · 5 participanți</sub>
+  <sub>Emily Merdus · 6 participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/dj0pbhvd)  
-  <sub>Irina Tenovici · 4 participanți</sub>
+  <sub>Irina Tenovici · 6 participanți</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/8ng3cmmk)  
-  <sub>Nicoleta Ifrim · 4 participanți</sub>
+  <sub>Nicoleta Ifrim · 6 participanți</sub>
 
 ### Marți, 16 iunie
 
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E11](https://lu.ma/ywx8eehk)  
-  <sub>321sport · 4 participanți</sub>
+  <sub>321sport · 5 participanți</sub>
 
 ### Miercuri, 17 iunie
 
 - `18:30` [LANSARE DE CARTE](https://lu.ma/k7wbszt1)  
-  <sub>Atelier.Design.2.3. · 18 participanți</sub>
+  <sub>Atelier.Design.2.3. · 22 de participanți</sub>
+- `19:30` [AI Coding: Seniors vs. Juniors](https://lu.ma/xp2rtpxn)  
+  <sub>6 participanți</sub>
 
 ### Joi, 18 iunie
 
+- `18:00` [App Builders Night: Celebrating Innovation Labs Participants](https://lu.ma/5tzhni8e)  
+  <sub>Georgiana Haita · 4 participanți</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E12](https://lu.ma/lgvptic7)  
   <sub>321sport · 4 participanți</sub>
 
@@ -62,7 +60,7 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 - `11:00` [Workshop de yoga pentru persoane cu scleroză multiplă](https://lu.ma/ui512dja)  
   <sub>Eduard Andrei Pletea · 4 participanți</sub>
 - `20:30` [Tura de Vis - Summer Edition 2026](https://lu.ma/w6w0rvip)  
-  <sub>321sport · 268 de participanți</sub>
+  <sub>321sport · 277 de participanți</sub>
 
 ### Duminică, 21 iunie
 
@@ -77,7 +75,7 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 - `09:30` [Wealth, Power & Inner Freedom](https://lu.ma/qr86m7e9)  
   <sub>Alex Huditan · 15 participanți</sub>
 - `16:00` [VolleyTune 🏐](https://lu.ma/njs8qkuh)  
-  <sub>Oportune · 23 de participanți</sub>
+  <sub>Oportune · 37 de participanți</sub>
 
 ### Luni, 22 iunie
 
@@ -87,21 +85,30 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 ### Marți, 23 iunie
 
 - `08:00` [ROMANIAN ACCESSIBILITY SUMMIT](https://lu.ma/gexruwst)  
-  <sub>cosmin jurcan · 91 de participanți</sub>
+  <sub>cosmin jurcan · 94 de participanți</sub>
 - `08:30` [RoFintech Breakfast hosted by Supertree](https://lu.ma/0y9gw06r)  
   <sub>Adrian Drinceanu</sub>
+- `17:30` [Product Management in the Age of AI: How AI has accelerated insights, prototyping and development](https://lu.ma/hjy7u5w9)  
+  <sub>Amazon Romania · 18 participanți</sub>
 - `18:30` [LiT#14 - Enterprise Architecture for AI Readiness](https://lu.ma/lit14)  
   <sub>Bogdan Popescu</sub>
+- `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E13](https://lu.ma/oazfvl0s)  
+  <sub>321sport · 3 participanți</sub>
+
+### Joi, 25 iunie
+
+- `18:00` [RoFintech Summer Party](https://lu.ma/1bd30wcm)  
+  <sub>Adrian Drinceanu</sub>
 
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-06-10)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-06-11)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-06-10)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-06-11)
 
 ## Despre
 
@@ -113,4 +120,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 10 iunie 2026*
+*Actualizat: 11 iunie 2026*
