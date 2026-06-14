@@ -19,6 +19,7 @@ import {
 import { loadFingerprint, saveFingerprint, updateFingerprint } from "./lib/schema.ts";
 import { sanitizeSnapshot } from "./lib/sanitize.ts";
 import { fetchIcalRows, type IcalFeed } from "./lib/ical.ts";
+import { fetchVenueRows, type IabiletVenue } from "./lib/iabilet.ts";
 
 const REPO_ROOT = new URL("..", import.meta.url).pathname;
 const PATHS = {
@@ -79,6 +80,7 @@ async function fetchCalendar(slug: string, today: string): Promise<FetchResult> 
 interface SeedConfig {
   seed_calendars: string[];
   ical_feeds?: IcalFeed[];
+  iabilet_venues?: IabiletVenue[];
 }
 
 function loadConfig(): SeedConfig {
@@ -114,8 +116,10 @@ async function main() {
   const cfg = loadConfig();
   const slugs = cfg.seed_calendars ?? [];
   const icalFeeds = cfg.ical_feeds ?? [];
+  const iabiletVenues = cfg.iabilet_venues ?? [];
   console.log(`[scrape] seed calendars: ${slugs.join(", ") || "(none)"}`);
   console.log(`[scrape] ical feeds: ${icalFeeds.map((f) => f.slug).join(", ") || "(none)"}`);
+  console.log(`[scrape] iabilet venues: ${iabiletVenues.map((v) => v.slug).join(", ") || "(none)"}`);
 
   const [geoRes, ...calRes] = await Promise.all([
     fetchGeo(today),
@@ -201,6 +205,19 @@ async function main() {
     } catch (e) {
       errors.push({ date: today, source: `ical:${feed.slug}`, error_kind: "fetch_failed", message: String(e) });
       console.warn(`[scrape] ical:${feed.slug} failed: ${e}`);
+    }
+  }
+
+  // iaBilet venue pages (no feed): parse schema.org JSON-LD Event blocks off one
+  // venue page. Date-only, already Bucharest-filtered. A failure is logged, not fatal.
+  for (const venue of iabiletVenues) {
+    try {
+      const rows = await fetchVenueRows(venue, today);
+      fresh.push(...rows);
+      console.log(`[scrape] iabilet:${venue.slug}: ${rows.length} Bucharest events`);
+    } catch (e) {
+      errors.push({ date: today, source: `iabilet:${venue.slug}`, error_kind: "fetch_failed", message: String(e) });
+      console.warn(`[scrape] iabilet:${venue.slug} failed: ${e}`);
     }
   }
 

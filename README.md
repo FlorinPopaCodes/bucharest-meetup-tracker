@@ -6,6 +6,8 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Duminică, 14 iunie
 
+- [The Blind Date Show cu Gherghe și Teo Ioniță](https://www.iabilet.ro/bilete-the-fool-the-blind-date-show-cu-gherghe-si-teo-ionita-127459/)  
+  <sub>The Fool</sub>
 - `09:00` [Tura de duminică Cotroceni](https://lu.ma/ebuz4n50)  
   <sub>Aleodor Tabarcea · 8 participanți</sub>
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/b7f89wn1)  
@@ -26,6 +28,8 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Miercuri, 17 iunie
 
+- [Așa mi-a venit! \| Show de comedie on the spot](https://www.iabilet.ro/bilete-the-fool-asa-mi-a-venit-show-de-comedie-on-the-spot-127878/)  
+  <sub>The Fool</sub>
 - `18:30` [LANSARE DE CARTE](https://lu.ma/k7wbszt1)  
   <sub>Atelier.Design.2.3. · 63 de participanți</sub>
 - `19:30` [AI Coding: Seniors vs. Juniors](https://lu.ma/xp2rtpxn)  
@@ -44,11 +48,17 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Vineri, 19 iunie
 
+- [Stand-up comedy cu Cortea, Mane Voicu, Ioana State și Frînculescu](https://www.iabilet.ro/bilete-the-fool-stand-up-comedy-cu-cortea-mane-voicu-ioana-state-si-frinculescu-127609/)  
+  <sub>The Fool</sub>
 - `19:00` [Design Unfold #2](https://lu.ma/v89adj3y)  
   <sub>Eliza Marin · 22 de participanți</sub>
 
 ### Sâmbătă, 20 iunie
 
+- [Din viața lui Bogdan Șerban](https://www.iabilet.ro/bilete-the-fool-din-viata-lui-bogdan-serban-128009/)  
+  <sub>The Fool</sub>
+- [Din viața lui Vio](https://www.iabilet.ro/bilete-the-fool-din-viata-lui-vio-127989/)  
+  <sub>The Fool</sub>
 - `10:00` [TURA x Ideas Chat!, prima Tură de parc unde wantreprenorii se întâlnesc cu antreprenorii, Cișmigiu](https://lu.ma/uhqiyrds)  
   <sub>Endi Ungureanu · 50 de participanți</sub>
 - `11:00` [Workshop de yoga pentru persoane cu scleroză multiplă](https://lu.ma/ui512dja)  
@@ -58,6 +68,10 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Duminică, 21 iunie
 
+- [99% Lies, 1% Magic by Darisian](https://www.iabilet.ro/bilete-the-fool-99-lies-1-magic-by-darisian-127818/)  
+  <sub>The Fool</sub>
+- [Stand-up Comedy cu Ioana State, Mane Voicu, Drăcea și Gherghe](https://www.iabilet.ro/bilete-the-fool-stand-up-comedy-cu-ioana-state-mane-voicu-dracea-si-gherghe-127606/)  
+  <sub>The Fool</sub>
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/vw27mgkh)  
   <sub>Emily Merdus · 2 participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/kra43dro)  
@@ -73,6 +87,8 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Luni, 22 iunie
 
+- [Quiz Beez](https://www.iabilet.ro/bilete-the-fool-quiz-beez-127257/)  
+  <sub>The Fool</sub>
 - `17:00` [The Startup Playbook: a Founder Evening with BCR Seed Starter](https://lu.ma/bdyoe6n5)  
   <sub>BCR Seed Starter · 29 de participanți</sub>
 - `17:30` [Building AI Experiences: The unique engineering, UX & privacy challenges](https://lu.ma/s0hifd9z)  
@@ -98,6 +114,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `19:00` [DevNight#6 - The Architecture Layer of Building with AI](https://lu.ma/0308vtlk)  
   <sub>Bogdan Iasinovschi · 7 participanți</sub>
 
+### Duminică, 28 iunie
+
+- [Stand-up Maraton Caritabil Ramses](https://www.iabilet.ro/bilete-the-fool-stand-up-maraton-caritabil-ramses-127597/)  
+  <sub>The Fool</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
@@ -112,7 +133,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 *Hărțile de activitate se populează în timp — pornesc goale și ating vederea completă de 365 de zile după un an.*
 
-Surse: lu.ma (date supuse Termenilor lor), Roaba de Cultură (Green Revolution) și alte calendare publice.
+Surse: lu.ma (date supuse Termenilor lor), Roaba de Cultură (Green Revolution), The Fool (iaBilet.ro) și alte calendare publice.
 
 Date: `data/events.csv` (stare curentă, cumulativă) · `data/snapshots/` (arhivă zilnică brută) · `data/scrape_errors.csv` (jurnalul rulărilor care au eșuat parțial) · `data/schema.json` (amprenta câmpurilor API).
 
