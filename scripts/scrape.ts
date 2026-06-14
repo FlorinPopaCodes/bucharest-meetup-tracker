@@ -18,6 +18,7 @@ import {
 } from "./lib/csv.ts";
 import { loadFingerprint, saveFingerprint, updateFingerprint } from "./lib/schema.ts";
 import { sanitizeSnapshot } from "./lib/sanitize.ts";
+import { fetchIcalRows, type IcalFeed } from "./lib/ical.ts";
 
 const REPO_ROOT = new URL("..", import.meta.url).pathname;
 const PATHS = {
@@ -77,15 +78,14 @@ async function fetchCalendar(slug: string, today: string): Promise<FetchResult> 
 
 interface SeedConfig {
   seed_calendars: string[];
+  ical_feeds?: IcalFeed[];
 }
 
-function loadSeedCalendars(): string[] {
+function loadConfig(): SeedConfig {
   try {
-    const text = Deno.readTextFileSync(PATHS.config);
-    const cfg = parseYaml(text) as SeedConfig;
-    return cfg.seed_calendars ?? [];
+    return parseYaml(Deno.readTextFileSync(PATHS.config)) as SeedConfig;
   } catch {
-    return [];
+    return { seed_calendars: [] };
   }
 }
 
@@ -111,8 +111,11 @@ async function main() {
   const today = todayUtcKey();
   console.log(`[scrape] ${today}`);
 
-  const slugs = loadSeedCalendars();
+  const cfg = loadConfig();
+  const slugs = cfg.seed_calendars ?? [];
+  const icalFeeds = cfg.ical_feeds ?? [];
   console.log(`[scrape] seed calendars: ${slugs.join(", ") || "(none)"}`);
+  console.log(`[scrape] ical feeds: ${icalFeeds.map((f) => f.slug).join(", ") || "(none)"}`);
 
   const [geoRes, ...calRes] = await Promise.all([
     fetchGeo(today),
@@ -187,6 +190,19 @@ async function main() {
   }
   const fresh = [...freshById.values()];
   console.log(`[scrape] fresh Bucharest events: ${fresh.length} (dropped non-Bucharest: ${droppedNonBucharest})`);
+
+  // iCal sources (non-lu.ma): yield mapped EventRows directly, already Bucharest-filtered.
+  // They skip the lu.ma-only zod-parse/fingerprint layers. A feed failure is logged, not fatal.
+  for (const feed of icalFeeds) {
+    try {
+      const rows = await fetchIcalRows(feed, today);
+      fresh.push(...rows);
+      console.log(`[scrape] ical:${feed.slug}: ${rows.length} Bucharest events`);
+    } catch (e) {
+      errors.push({ date: today, source: `ical:${feed.slug}`, error_kind: "fetch_failed", message: String(e) });
+      console.warn(`[scrape] ical:${feed.slug} failed: ${e}`);
+    }
+  }
 
   // Layer 3: sanity threshold — only fail when we have a meaningful baseline.
   const existing = readEventsCsv(PATHS.events);

@@ -4,3 +4,11 @@
 # events from these calendars are dropped.
 seed_calendars:
   - turadeduminica
+
+# Non-lu.ma iCal (.ics) feeds. Only VEVENTs tagged with `category` are kept,
+# and they still pass the Bucharest text filter (on the iCal LOCATION field).
+ical_feeds:
+  - name: Roaba de Cultură
+    slug: roaba-de-cultura
+    url: "https://greenrevolution.ro/?post_type=tribe_events&ical=1&eventDisplay=list"
+    category: "2024"

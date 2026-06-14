@@ -124,9 +124,7 @@ export function renderReadme(i: ReadmeInput): string {
 
   return `# Evenimente București
 
-Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenimente din calendare selectate manual care nu apar în descoperirea geografică. Actualizat zilnic la 06:00 UTC.
-
-> Datele provin de la lu.ma, supuse Termenilor lor.
+Listă zilnică a evenimentelor din București, agregate din mai multe surse publice (descoperire geografică și calendare selectate manual). Actualizat zilnic la 06:00 UTC.
 
 ## Următoarele 14 zile
 
@@ -145,6 +143,8 @@ ${i.upcomingMd}
 ## Despre
 
 *Hărțile de activitate se populează în timp — pornesc goale și ating vederea completă de 365 de zile după un an.*
+
+Surse: lu.ma (date supuse Termenilor lor), Roaba de Cultură (Green Revolution) și alte calendare publice.
 
 Date: \`data/events.csv\` (stare curentă, cumulativă) · \`data/snapshots/\` (arhivă zilnică brută) · \`data/scrape_errors.csv\` (jurnalul rulărilor care au eșuat parțial) · \`data/schema.json\` (amprenta câmpurilor API).
 
