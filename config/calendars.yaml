@@ -12,3 +12,12 @@ ical_feeds:
     slug: roaba-de-cultura
     url: "https://greenrevolution.ro/?post_type=tribe_events&ical=1&eventDisplay=list"
     category: "2024"
+
+# iaBilet.ro venue pages. No feed exists, so we parse the schema.org JSON-LD
+# Event blocks off a single venue page. Date-only (iaBilet exposes no time-of-day).
+# Each event still passes the Bucharest text filter on its JSON-LD addressLocality,
+# so touring shows (e.g. Costinești) are dropped.
+iabilet_venues:
+  - name: The Fool
+    slug: the-fool
+    url: "https://www.iabilet.ro/bilete-the-fool-venue-3205/"

@@ -52,7 +52,10 @@ function escapeName(s: string): string {
 }
 
 function eventLine(row: EventRow, hhmm: string): string {
-  const head = `- \`${hhmm}\` [${escapeName(row.name)}](${row.url})`;
+  // Date-only events (e.g. iaBilet) carry no time; render without the chip.
+  const head = hhmm
+    ? `- \`${hhmm}\` [${escapeName(row.name)}](${row.url})`
+    : `- [${escapeName(row.name)}](${row.url})`;
   const meta: string[] = [];
   if (row.host) meta.push(row.host);
   if (row.city_state && !/bucure/i.test(row.city_state) && !/bucharest/i.test(row.city_state)) {
@@ -88,7 +91,9 @@ export function renderUpcomingList(rows: EventRow[], today: Date = new Date()): 
         dateKey: p.date, weekday: p.weekday, day: p.day, month: p.month, year: p.year, events: [],
       });
     }
-    buckets.get(p.date)!.events.push({ hhmm: p.hhmm, row: r });
+    // Bare YYYY-MM-DD start_at means date-only (no time); empty hhmm => no chip, sorts first.
+    const hhmm = r.start_at.includes("T") ? p.hhmm : "";
+    buckets.get(p.date)!.events.push({ hhmm, row: r });
   }
 
   if (buckets.size === 0) {
@@ -144,7 +149,7 @@ ${i.upcomingMd}
 
 *Hărțile de activitate se populează în timp — pornesc goale și ating vederea completă de 365 de zile după un an.*
 
-Surse: lu.ma (date supuse Termenilor lor), Roaba de Cultură (Green Revolution) și alte calendare publice.
+Surse: lu.ma (date supuse Termenilor lor), Roaba de Cultură (Green Revolution), The Fool (iaBilet.ro) și alte calendare publice.
 
 Date: \`data/events.csv\` (stare curentă, cumulativă) · \`data/snapshots/\` (arhivă zilnică brută) · \`data/scrape_errors.csv\` (jurnalul rulărilor care au eșuat parțial) · \`data/schema.json\` (amprenta câmpurilor API).
 
