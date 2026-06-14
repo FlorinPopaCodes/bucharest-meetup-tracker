@@ -9,6 +9,13 @@ function stripDiacritics(s: string): string {
   return s.normalize("NFD").replace(/\p{M}/gu, "").toLowerCase();
 }
 
+// Does a free-text location/city string name Bucharest (or Ilfov)?
+export function isBucharestText(s: string): boolean {
+  if (!s) return false;
+  const norm = stripDiacritics(s);
+  return CITY_NEEDLES.some((n) => norm.includes(n));
+}
+
 function haversineKm(lat1: number, lng1: number, lat2: number, lng2: number): number {
   const R = 6371;
   const dLat = (lat2 - lat1) * Math.PI / 180;

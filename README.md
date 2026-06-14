@@ -1,8 +1,6 @@
 # Evenimente București
 
-Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenimente din calendare selectate manual care nu apar în descoperirea geografică. Actualizat zilnic la 06:00 UTC.
-
-> Datele provin de la lu.ma, supuse Termenilor lor.
+Listă zilnică a evenimentelor din București, agregate din mai multe surse publice (descoperire geografică și calendare selectate manual). Actualizat zilnic la 06:00 UTC.
 
 ## Următoarele 14 zile
 
@@ -18,6 +16,8 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
   <sub>Nicoleta Ifrim · 15 participanți</sub>
 - `15:00` [Park Games & Picnic 🌳 (Bring Your Own Sport)](https://lu.ma/h854kxfr)  
   <sub>Ieșim din Casă · 16 participanți</sub>
+- `19:00` [Teatru în aer liber- Flagrant dupa Ion Baiesu](https://greenrevolution.ro/eveniment/teatru-in-aer-liber-flagrand-dupa-ion-baiesu/)  
+  <sub>Roaba de Cultură</sub>
 
 ### Marți, 16 iunie
 
@@ -27,7 +27,7 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 ### Miercuri, 17 iunie
 
 - `18:30` [LANSARE DE CARTE](https://lu.ma/k7wbszt1)  
-  <sub>Atelier.Design.2.3. · 30 de participanți</sub>
+  <sub>Atelier.Design.2.3. · 63 de participanți</sub>
 - `19:30` [AI Coding: Seniors vs. Juniors](https://lu.ma/xp2rtpxn)  
   <sub>6 participanți</sub>
 
@@ -45,21 +45,21 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 ### Vineri, 19 iunie
 
 - `19:00` [Design Unfold #2](https://lu.ma/v89adj3y)  
-  <sub>Eliza Marin · 19 participanți</sub>
+  <sub>Eliza Marin · 22 de participanți</sub>
 
 ### Sâmbătă, 20 iunie
 
 - `10:00` [TURA x Ideas Chat!, prima Tură de parc unde wantreprenorii se întâlnesc cu antreprenorii, Cișmigiu](https://lu.ma/uhqiyrds)  
-  <sub>Endi Ungureanu · 40 de participanți</sub>
+  <sub>Endi Ungureanu · 50 de participanți</sub>
 - `11:00` [Workshop de yoga pentru persoane cu scleroză multiplă](https://lu.ma/ui512dja)  
   <sub>Eduard Andrei Pletea · 6 participanți</sub>
 - `20:30` [Tura de Vis - Summer Edition 2026](https://lu.ma/w6w0rvip)  
-  <sub>321sport · 293 de participanți</sub>
+  <sub>321sport · 308 de participanți</sub>
 
 ### Duminică, 21 iunie
 
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/vw27mgkh)  
-  <sub>Emily Merdus · 1 participant</sub>
+  <sub>Emily Merdus · 2 participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/kra43dro)  
   <sub>Irina Tenovici</sub>
 - `09:00` [Tura de duminică Lacul Morii](https://lu.ma/2bmshnr2)  
@@ -111,6 +111,8 @@ Listă zilnică a evenimentelor din București disponibile pe lu.ma, plus evenim
 ## Despre
 
 *Hărțile de activitate se populează în timp — pornesc goale și ating vederea completă de 365 de zile după un an.*
+
+Surse: lu.ma (date supuse Termenilor lor), Roaba de Cultură (Green Revolution) și alte calendare publice.
 
 Date: `data/events.csv` (stare curentă, cumulativă) · `data/snapshots/` (arhivă zilnică brută) · `data/scrape_errors.csv` (jurnalul rulărilor care au eșuat parțial) · `data/schema.json` (amprenta câmpurilor API).
 
