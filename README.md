@@ -55,6 +55,8 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Sâmbătă, 20 iunie
 
+- [A naibii pălărie](https://www.iabilet.ro/bilete-a-naibii-palarie-127504/)  
+  <sub>Teatrul Improteca</sub>
 - [Din viața lui Bogdan Șerban](https://www.iabilet.ro/bilete-the-fool-din-viata-lui-bogdan-serban-128009/)  
   <sub>The Fool</sub>
 - [Din viața lui Vio](https://www.iabilet.ro/bilete-the-fool-din-viata-lui-vio-127989/)  
@@ -64,12 +66,14 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `11:00` [Workshop de yoga pentru persoane cu scleroză multiplă](https://lu.ma/ui512dja)  
   <sub>Eduard Andrei Pletea · 6 participanți</sub>
 - `20:30` [Tura de Vis - Summer Edition 2026](https://lu.ma/w6w0rvip)  
-  <sub>321sport · 308 de participanți</sub>
+  <sub>321sport · 309 de participanți</sub>
 
 ### Duminică, 21 iunie
 
 - [99% Lies, 1% Magic by Darisian](https://www.iabilet.ro/bilete-the-fool-99-lies-1-magic-by-darisian-127818/)  
   <sub>The Fool</sub>
+- [A naibii pălărie](https://www.iabilet.ro/bilete-a-naibii-palarie-127469/)  
+  <sub>Teatrul Improteca</sub>
 - [Stand-up Comedy cu Ioana State, Mane Voicu, Drăcea și Gherghe](https://www.iabilet.ro/bilete-the-fool-stand-up-comedy-cu-ioana-state-mane-voicu-dracea-si-gherghe-127606/)  
   <sub>The Fool</sub>
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/vw27mgkh)  
@@ -113,6 +117,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
   <sub>Adrian Drinceanu</sub>
 - `19:00` [DevNight#6 - The Architecture Layer of Building with AI](https://lu.ma/0308vtlk)  
   <sub>Bogdan Iasinovschi · 7 participanți</sub>
+
+### Sâmbătă, 27 iunie
+
+- [Show de comedie pe loc - Alt Ceva](https://www.iabilet.ro/bilete-show-de-comedie-pe-loc-alt-ceva-127231/)  
+  <sub>Teatrul Improteca</sub>
 
 ### Duminică, 28 iunie
 
