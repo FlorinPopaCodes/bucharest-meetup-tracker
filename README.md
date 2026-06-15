@@ -4,23 +4,6 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Duminică, 14 iunie
-
-- [The Blind Date Show cu Gherghe și Teo Ioniță](https://www.iabilet.ro/bilete-the-fool-the-blind-date-show-cu-gherghe-si-teo-ionita-127459/)  
-  <sub>The Fool</sub>
-- `09:00` [Tura de duminică Cotroceni](https://lu.ma/ebuz4n50)  
-  <sub>Aleodor Tabarcea · 8 participanți</sub>
-- `09:00` [Tura de duminică Herăstrău](https://lu.ma/b7f89wn1)  
-  <sub>Emily Merdus · 24 de participanți</sub>
-- `09:00` [Tura de duminică I.O.R.](https://lu.ma/dj0pbhvd)  
-  <sub>Irina Tenovici · 20 de participanți</sub>
-- `09:00` [Tura de duminică Tineretului](https://lu.ma/8ng3cmmk)  
-  <sub>Nicoleta Ifrim · 15 participanți</sub>
-- `15:00` [Park Games & Picnic 🌳 (Bring Your Own Sport)](https://lu.ma/h854kxfr)  
-  <sub>Ieșim din Casă · 16 participanți</sub>
-- `19:00` [Teatru în aer liber- Flagrant dupa Ion Baiesu](https://greenrevolution.ro/eveniment/teatru-in-aer-liber-flagrand-dupa-ion-baiesu/)  
-  <sub>Roaba de Cultură</sub>
-
 ### Marți, 16 iunie
 
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E11](https://lu.ma/ywx8eehk)  
@@ -31,18 +14,18 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - [Așa mi-a venit! \| Show de comedie on the spot](https://www.iabilet.ro/bilete-the-fool-asa-mi-a-venit-show-de-comedie-on-the-spot-127878/)  
   <sub>The Fool</sub>
 - `18:30` [LANSARE DE CARTE](https://lu.ma/k7wbszt1)  
-  <sub>Atelier.Design.2.3. · 63 de participanți</sub>
+  <sub>Atelier.Design.2.3. · 70 de participanți</sub>
 - `19:30` [AI Coding: Seniors vs. Juniors](https://lu.ma/xp2rtpxn)  
-  <sub>6 participanți</sub>
+  <sub>11 participanți</sub>
 
 ### Joi, 18 iunie
 
 - `16:00` [You & the CEO #8](https://lu.ma/aym46ozu)  
-  <sub>Madalina Vechiu · 34 de participanți</sub>
+  <sub>Madalina Vechiu · 35 de participanți</sub>
 - `18:00` [App Builders Night: Celebrating Innovation Labs Participants](https://lu.ma/5tzhni8e)  
   <sub>Georgiana Haita · 6 participanți</sub>
 - `18:30` [Winestorming](https://lu.ma/cll39l2p)  
-  <sub>Kickstart Romania · 18 participanți</sub>
+  <sub>Kickstart Romania · 21 de participanți</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E12](https://lu.ma/lgvptic7)  
   <sub>321sport · 4 participanți</sub>
 
@@ -61,12 +44,14 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
   <sub>The Fool</sub>
 - [Din viața lui Vio](https://www.iabilet.ro/bilete-the-fool-din-viata-lui-vio-127989/)  
   <sub>The Fool</sub>
+- `10:00` [Ice Ice Baby 🍦💛](https://lu.ma/iy8cp0yx)  
+  <sub>FOMO Urban Running Club · 13 participanți</sub>
 - `10:00` [TURA x Ideas Chat!, prima Tură de parc unde wantreprenorii se întâlnesc cu antreprenorii, Cișmigiu](https://lu.ma/uhqiyrds)  
-  <sub>Endi Ungureanu · 50 de participanți</sub>
+  <sub>Endi Ungureanu · 52 de participanți</sub>
 - `11:00` [Workshop de yoga pentru persoane cu scleroză multiplă](https://lu.ma/ui512dja)  
   <sub>Eduard Andrei Pletea · 6 participanți</sub>
 - `20:30` [Tura de Vis - Summer Edition 2026](https://lu.ma/w6w0rvip)  
-  <sub>321sport · 309 de participanți</sub>
+  <sub>321sport · 314 de participanți</sub>
 
 ### Duminică, 21 iunie
 
@@ -76,6 +61,8 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
   <sub>Teatrul Improteca</sub>
 - [Stand-up Comedy cu Ioana State, Mane Voicu, Drăcea și Gherghe](https://www.iabilet.ro/bilete-the-fool-stand-up-comedy-cu-ioana-state-mane-voicu-dracea-si-gherghe-127606/)  
   <sub>The Fool</sub>
+- `09:00` [Tura de duminică Cotroceni](https://lu.ma/qn3ls7y9)  
+  <sub>Aleodor Tabarcea</sub>
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/vw27mgkh)  
   <sub>Emily Merdus · 2 participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/kra43dro)  
@@ -101,7 +88,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Marți, 23 iunie
 
 - `08:00` [ROMANIAN ACCESSIBILITY SUMMIT](https://lu.ma/gexruwst)  
-  <sub>cosmin jurcan · 99 de participanți</sub>
+  <sub>cosmin jurcan · 100 de participanți</sub>
 - `08:30` [RoFintech Breakfast hosted by Supertree](https://lu.ma/0y9gw06r)  
   <sub>Adrian Drinceanu</sub>
 - `17:30` [Product Management in the Age of AI: How AI has accelerated insights, prototyping and development](https://lu.ma/hjy7u5w9)  
@@ -132,11 +119,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-06-14)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-06-15)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-06-14)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-06-15)
 
 ## Despre
 
@@ -150,4 +137,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 14 iunie 2026*
+*Actualizat: 15 iunie 2026*
