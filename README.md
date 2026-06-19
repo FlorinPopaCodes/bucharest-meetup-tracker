@@ -4,19 +4,6 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Joi, 18 iunie
-
-- `16:00` [You & the CEO #8](https://lu.ma/aym46ozu)  
-  <sub>Madalina Vechiu · 73 de participanți</sub>
-- `18:00` [App Builders Night: Celebrating Innovation Labs Participants](https://lu.ma/5tzhni8e)  
-  <sub>Georgiana Haita · 10 participanți</sub>
-- `18:30` [Winestorming](https://lu.ma/cll39l2p)  
-  <sub>Kickstart Romania · 43 de participanți</sub>
-- `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E12](https://lu.ma/lgvptic7)  
-  <sub>321sport · 41 de participanți</sub>
-- `21:30` [Film in aer liber: The Wolf on the Wall Street ](https://greenrevolution.ro/eveniment/film-in-aer-liber-the-wolf-on-the-wall-street/)  
-  <sub>Roaba de Cultură</sub>
-
 ### Vineri, 19 iunie
 
 - [Stand-up comedy cu Cortea, Mane Voicu, Ioana State și Frînculescu](https://www.iabilet.ro/bilete-the-fool-stand-up-comedy-cu-cortea-mane-voicu-ioana-state-si-frinculescu-127609/)  
@@ -24,7 +11,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:30` [Metalurgiei Meetup @ Colibri: vin, pictură și oameni faini 🎨🍷](https://lu.ma/afj1tx0y)  
   <sub>Loredana Pipie</sub>
 - `19:00` [Design Unfold #2](https://lu.ma/v89adj3y)  
-  <sub>Eliza Marin · 27 de participanți</sub>
+  <sub>Eliza Marin · 29 de participanți</sub>
 - `20:30` [Concert în aer liber: Bastien](https://greenrevolution.ro/eveniment/concert-in-aer-liber-bastien/)  
   <sub>Roaba de Cultură</sub>
 
@@ -43,15 +30,15 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `09:00` [Yoga cu Măriuca Patrichi](https://greenrevolution.ro/eveniment/yoga-cu-mariuca-patrichi-2/)  
   <sub>Roaba de Cultură</sub>
 - `10:00` [Ice Ice Baby 🍦💛](https://lu.ma/iy8cp0yx)  
-  <sub>FOMO Urban Running Club · 26 de participanți</sub>
+  <sub>FOMO Urban Running Club · 28 de participanți</sub>
 - `10:00` [TURA x Ideas Chat!, prima Tură de parc unde wantreprenorii se întâlnesc cu antreprenorii, Cișmigiu](https://lu.ma/uhqiyrds)  
-  <sub>Endi Ungureanu · 100 de participanți</sub>
+  <sub>Endi Ungureanu · 110 de participanți</sub>
 - `11:00` [Workshop de yoga pentru persoane cu scleroză multiplă](https://lu.ma/ui512dja)  
   <sub>Eduard Andrei Pletea · 8 participanți</sub>
 - `18:00` [Together in the park: Refugee Day](https://greenrevolution.ro/eveniment/together-in-the-park-refugee-day/)  
   <sub>Roaba de Cultură</sub>
 - `20:30` [Tura de Vis - Summer Edition 2026](https://lu.ma/w6w0rvip)  
-  <sub>321sport · 370 de participanți</sub>
+  <sub>321sport · 396 de participanți</sub>
 
 ### Duminică, 21 iunie
 
@@ -64,7 +51,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `08:00` [International Yoga day powered by Worldclass](https://greenrevolution.ro/eveniment/international-yoga-day-powered-by-worldclass/)  
   <sub>Roaba de Cultură</sub>
 - `09:00` [bike like a girl #2](https://lu.ma/011kr1wt)  
-  <sub>MuvOutside · 13 participanți</sub>
+  <sub>MuvOutside · 17 participanți</sub>
 - `09:00` [Tura de duminică Cotroceni](https://lu.ma/qn3ls7y9)  
   <sub>Aleodor Tabarcea · 1 participant</sub>
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/vw27mgkh)  
@@ -74,37 +61,39 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `09:00` [Tura de duminică Lacul Morii](https://lu.ma/2bmshnr2)  
   <sub>Alexandru Agatinei · 3 participanți</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/8xym6nih)  
-  <sub>Nicoleta Ifrim · 4 participanți</sub>
+  <sub>Nicoleta Ifrim · 6 participanți</sub>
 - `10:00` [👟 Product Walk & Talk Dorobanti](https://lu.ma/hh4hpoq8)  
-  <sub>Dragos · 10 participanți</sub>
+  <sub>Dragos · 11 participanți</sub>
 - `11:00` [Sketch & Brunch Bucharest #42](https://lu.ma/l6hiqct7)  
   <sub>Sketch & Brunch Bucharest · 7 participanți</sub>
 - `16:00` [VolleyTune 🏐](https://lu.ma/njs8qkuh)  
-  <sub>Oportune · 46 de participanți</sub>
+  <sub>Oportune · 49 de participanți</sub>
 
 ### Luni, 22 iunie
 
 - [Quiz Beez](https://www.iabilet.ro/bilete-the-fool-quiz-beez-127257/)  
   <sub>The Fool</sub>
 - `17:00` [The Startup Playbook: a Founder Evening with BCR Seed Starter](https://lu.ma/bdyoe6n5)  
-  <sub>BCR Seed Starter · 48 de participanți</sub>
+  <sub>BCR Seed Starter</sub>
 - `17:30` [Building AI Experiences: The unique engineering, UX & privacy challenges](https://lu.ma/s0hifd9z)  
-  <sub>Women in Tech Romania · 75 de participanți</sub>
+  <sub>Women in Tech Romania · 86 de participanți</sub>
 - `21:30` [Film in aer liber: The Voice of Hind Raja (Caravana Les films de Cannes a Bucharest)](https://greenrevolution.ro/eveniment/film-in-aer-liber-the-voice-of-hind-raja-caravana-les-films-de-cannes-a-bucharest/)  
   <sub>Roaba de Cultură</sub>
 
 ### Marți, 23 iunie
 
 - `08:00` [ROMANIAN ACCESSIBILITY SUMMIT](https://lu.ma/gexruwst)  
-  <sub>cosmin jurcan · 103 de participanți</sub>
+  <sub>cosmin jurcan · 108 de participanți</sub>
 - `08:30` [RoFintech Breakfast hosted by Supertree](https://lu.ma/0y9gw06r)  
   <sub>Adrian Drinceanu</sub>
 - `17:30` [Product Management in the Age of AI: How AI has accelerated insights, prototyping and development](https://lu.ma/hjy7u5w9)  
-  <sub>Amazon Romania · 66 de participanți</sub>
+  <sub>Amazon Romania · 73 de participanți</sub>
 - `18:30` [LiT#14 - Enterprise Architecture for AI Readiness](https://lu.ma/lit14)  
   <sub>Bogdan Popescu</sub>
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E13](https://lu.ma/oazfvl0s)  
-  <sub>321sport · 4 participanți</sub>
+  <sub>321sport · 5 participanți</sub>
+- `21:00` [Avanpremiera de gală a documentarului „Hoinari prin Munți” în aer liber](https://greenrevolution.ro/eveniment/avanpremiera-de-gala-a-documentarului-hoinari-prin-munti-in-aer-liber/)  
+  <sub>Roaba de Cultură</sub>
 
 ### Miercuri, 24 iunie
 
@@ -116,11 +105,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:00` [RoFintech Summer Party](https://lu.ma/1bd30wcm)  
   <sub>Adrian Drinceanu</sub>
 - `18:00` [Trust and Psychological Safety](https://lu.ma/dogxvdp7)  
-  <sub>Upskilling the Romanian IT Industry · 33 de participanți</sub>
+  <sub>Upskilling the Romanian IT Industry · 37 de participanți</sub>
 - `18:30` [Pielea după 35: Ce se schimbă și ce putem face?](https://lu.ma/wisqox46)  
   <sub>MENtalks · 5 participanți</sub>
 - `19:00` [DevNight#6 - The Architecture Layer of Building with AI](https://lu.ma/0308vtlk)  
-  <sub>Bogdan Iasinovschi · 19 participanți</sub>
+  <sub>Bogdan Iasinovschi · 21 de participanți</sub>
 
 ### Vineri, 26 iunie
 
@@ -129,10 +118,14 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Sâmbătă, 27 iunie
 
+- [Fool's Game - filmare cu public live](https://www.iabilet.ro/bilete-the-fool-fool-s-game-filmare-cu-public-live-128225/)  
+  <sub>The Fool</sub>
 - [Show de comedie pe loc - Alt Ceva](https://www.iabilet.ro/bilete-show-de-comedie-pe-loc-alt-ceva-127231/)  
   <sub>Teatrul Improteca</sub>
+- `09:00` [PRO RUN powered by PURINA PRO PLAN](https://lu.ma/if7pc4u5)  
+  <sub>321sport · 6 participanți</sub>
 - `10:00` [Cafe Cursor Bucharest](https://lu.ma/z8u44gnn)  
-  <sub>Sergei Chyrkov · 13 participanți</sub>
+  <sub>Sergei Chyrkov · 15 participanți</sub>
 
 ### Duminică, 28 iunie
 
@@ -144,24 +137,26 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Marți, 30 iunie
 
 - `17:00` [ARCHITECTING THE AI ERA](https://lu.ma/c7o3vb95)  
-  <sub>Andra Ghibutiu · 42 de participanți</sub>
+  <sub>Andra Ghibutiu · 44 de participanți</sub>
 - `19:30` [Digital Series by Rotaract Volume 02 - Digital Shadows: How Attention, Identity, Wellness & Opportunity Are Shaped in the Digital Age](https://lu.ma/g4b4faib)  
   <sub>Rotaract Club Bucuresti · 41 de participanți</sub>
 
 ### Miercuri, 1 iulie
 
+- `09:00` [LiT Unfiltered#6 w/ Dragos Barbulescu](https://lu.ma/litunfiltered6)  
+  <sub>Bogdan Popescu</sub>
 - `18:00` [𝗞𝗜𝗟𝗟𝗘𝗥 𝗥𝗘𝗗](https://lu.ma/agkcjlky)  
-  <sub>Murali Store · 33 de participanți</sub>
+  <sub>Murali Store · 34 de participanți</sub>
 
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-06-18)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-06-19)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-06-18)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-06-19)
 
 ## Despre
 
@@ -175,4 +170,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 18 iunie 2026*
+*Actualizat: 19 iunie 2026*
