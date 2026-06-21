@@ -26,7 +26,7 @@ function row(over: Partial<EventRow>): EventRow {
   };
 }
 
-Deno.test("renderUpcomingList: date-only row has no time chip, sorts first", () => {
+Deno.test("renderUpcomingList: date-only row has no time chip, grouped after timed", () => {
   const today = new Date("2026-06-14T05:00:00.000Z");
   const out = renderUpcomingList([
     row({ event_id: "t", start_at: "2026-06-14T16:00:00.000Z", name: "Timed", host: "X" }),
@@ -37,6 +37,18 @@ Deno.test("renderUpcomingList: date-only row has no time chip, sorts first", () 
   assert.match(out, /^- \[DateOnly\]\(https:\/\/e\.test\)/m);
   // timed line keeps its chip
   assert.match(out, /^- `19:00` \[Timed\]/m);
-  // date-only sorts before the timed event
-  assert.ok(out.indexOf("DateOnly") < out.indexOf("Timed"));
+  // date-only sorts after the timed event, behind a divider
+  assert.ok(out.indexOf("Timed") < out.indexOf("---"));
+  assert.ok(out.indexOf("---") < out.indexOf("DateOnly"));
+});
+
+Deno.test("renderUpcomingList: day with only date-only rows has no divider", () => {
+  const today = new Date("2026-06-14T05:00:00.000Z");
+  const out = renderUpcomingList([
+    row({ event_id: "a", start_at: "2026-06-14", name: "Alfa" }),
+    row({ event_id: "b", start_at: "2026-06-14", name: "Beta" }),
+  ], today);
+
+  assert.ok(!out.includes("---"));
+  assert.ok(out.indexOf("Alfa") < out.indexOf("Beta"));
 });
