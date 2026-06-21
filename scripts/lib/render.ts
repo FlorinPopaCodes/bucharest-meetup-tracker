@@ -105,11 +105,20 @@ export function renderUpcomingList(rows: EventRow[], today: Date = new Date()): 
   for (const day of sorted) {
     out.push(dayHeading(day.month, day.day, day.weekday));
     out.push("");
-    day.events.sort((a, b) =>
-      a.hhmm.localeCompare(b.hhmm) ||
-      a.row.name.localeCompare(b.row.name, "ro", { sensitivity: "base" })
-    );
-    for (const e of day.events) out.push(eventLine(e.row, e.hhmm));
+    const byName = (a: { row: EventRow }, b: { row: EventRow }) =>
+      a.row.name.localeCompare(b.row.name, "ro", { sensitivity: "base" });
+    // Timed events first (by time, then name); no-time events as a trailing group.
+    const timed = day.events.filter((e) => e.hhmm)
+      .sort((a, b) => a.hhmm.localeCompare(b.hhmm) || byName(a, b));
+    const untimed = day.events.filter((e) => !e.hhmm).sort(byName);
+    for (const e of timed) out.push(eventLine(e.row, e.hhmm));
+    // Divider only when both groups are present.
+    if (timed.length > 0 && untimed.length > 0) {
+      out.push("");
+      out.push("---");
+      out.push("");
+    }
+    for (const e of untimed) out.push(eventLine(e.row, e.hhmm));
     out.push("");
   }
   return out.join("\n").trim();
