@@ -4,22 +4,12 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Vineri, 26 iunie
-
-- `18:30` [Nomazi în culori 💚 Wine & Paint Private Event](https://lu.ma/t84i2klr)  
-  <sub>Loredana Pipie</sub>
-
----
-
-- [Stand-up comedy cu Mane, Bucălae, Frînculescu și Mincu](https://www.iabilet.ro/bilete-the-fool-stand-up-comedy-cu-mane-bucalae-frinculescu-si-mincu-128070/)  
-  <sub>The Fool</sub>
-
 ### Sâmbătă, 27 iunie
 
 - `09:00` [PRO RUN powered by PURINA PRO PLAN](https://lu.ma/if7pc4u5)  
-  <sub>321sport · 34 de participanți</sub>
+  <sub>321sport · 49 de participanți</sub>
 - `10:00` [Cafe Cursor Bucharest](https://lu.ma/z8u44gnn)  
-  <sub>Sergei Chyrkov · 105 de participanți</sub>
+  <sub>Sergei Chyrkov · 111 de participanți</sub>
 - `16:00` [Agros Paw Fest: festival dedicat patrupezilor](https://greenrevolution.ro/eveniment/agros-paw-fest-festival-dedicat-patrupezilor/)  
   <sub>Roaba de Cultură</sub>
 
@@ -33,7 +23,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 28 iunie
 
 - `09:00` [Tura de duminică București: Calea Victoriei x Cișmigiu x Velocità](https://lu.ma/r32y3r7v)  
-  <sub>Endi Ungureanu · 54 de participanți</sub>
+  <sub>Endi Ungureanu · 69 de participanți</sub>
 - `10:00` [Teatru pentru copii Tzitzi-Poc](https://greenrevolution.ro/eveniment/teatru-pentru-copii-tzitzi-poc-2/)  
   <sub>Roaba de Cultură</sub>
 
@@ -47,25 +37,29 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Marți, 30 iunie
 
 - `17:00` [ARCHITECTING THE AI ERA](https://lu.ma/c7o3vb95)  
-  <sub>Andra Ghibutiu · 72 de participanți</sub>
+  <sub>Andra Ghibutiu · 74 de participanți</sub>
+- `18:30` [All About You](https://lu.ma/mnl5iqw9)  
+  <sub>Michael Negrea</sub>
 - `19:00` [reading corner, chapter #48](https://lu.ma/t5t6fh1a)  
-  <sub>reading corner · 194 de participanți</sub>
+  <sub>reading corner · 201 de participanți</sub>
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E17](https://lu.ma/o1u3vw8a)  
-  <sub>321sport · 6 participanți</sub>
+  <sub>321sport · 9 participanți</sub>
 - `19:30` [Digital Series by Rotaract Volume 02 - Digital Shadows: How Attention, Identity, Wellness & Opportunity Are Shaped in the Digital Age](https://lu.ma/g4b4faib)  
-  <sub>Rotaract Club Bucuresti · 68 de participanți</sub>
+  <sub>Rotaract Club Bucuresti · 70 de participanți</sub>
 
 ### Miercuri, 1 iulie
 
 - `09:00` [LiT Unfiltered#6 w/ Dragos Barbulescu](https://lu.ma/litunfiltered6)  
   <sub>Bogdan Popescu</sub>
+- `18:00` [🎨🥂Paint & Gelato @ Velocità - Summer Edition🎨🥂](https://lu.ma/0pnbhoti)  
+  <sub>Loredana Pipie · 4 participanți</sub>
 - `18:00` [𝗞𝗜𝗟𝗟𝗘𝗥 𝗥𝗘𝗗](https://lu.ma/agkcjlky)  
-  <sub>Murali Store · 62 de participanți</sub>
+  <sub>Murali Store · 86 de participanți</sub>
 
 ### Joi, 2 iulie
 
 - `18:30` [Let’s Talk AI: Flair, Cocktails & AI Chats! #2 - powered by AI Leaders Romania](https://lu.ma/0vfdmh8i)  
-  <sub>Matei Stefan · 11 participanți</sub>
+  <sub>Matei Stefan · 18 participanți</sub>
 
 ### Sâmbătă, 4 iulie
 
@@ -74,8 +68,10 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Duminică, 5 iulie
 
-- `09:00` [Tura de duminică Herăstrău](https://lu.ma/8vnc61ig)  
+- `08:30` [Tura de duminică Herăstrău](https://lu.ma/8vnc61ig)  
   <sub>Emily Merdus · 1 participant</sub>
+- `08:30` [Tura de duminică Tineretului](https://lu.ma/oe3f2fqw)  
+  <sub>Nicoleta Ifrim</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/6i5ck0xq)  
   <sub>Irina Tenovici</sub>
 
@@ -89,19 +85,24 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `17:30` [BRDG3 Capital — Nexus Fund I Launch: An Investor Reception at The Marmorosch, Bucharest's Historic Bank Palace](https://lu.ma/k5lxzcji)  
   <sub>Luke Baker · 49 de participanți</sub>
 - `18:00` [DevOps Reloaded: GitOps, AI & the Future of Infrastructure](https://lu.ma/mt4au5rh)  
-  <sub>Andra Ghibutiu · 70 de participanți</sub>
+  <sub>Andra Ghibutiu · 72 de participanți</sub>
 - `18:00` [Tech Sparks: AI Innovation & Investment](https://lu.ma/cdz9gt48)  
-  <sub>Neo Mixers by ▲promocrat · 10 participanți</sub>
+  <sub>Neo Mixers by ▲promocrat · 16 participanți</sub>
+
+---
+
+- [Open Mic: MCs Moise & Păune](https://www.iabilet.ro/bilete-the-fool-open-mic-mcs-moise-paune-128414/)  
+  <sub>The Fool</sub>
 
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-06-26)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-06-27)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-06-26)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-06-27)
 
 ## Despre
 
@@ -115,4 +116,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 26 iunie 2026*
+*Actualizat: 27 iunie 2026*
