@@ -4,32 +4,18 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Duminică, 28 iunie
-
-- `09:00` [Tura de duminică București: Calea Victoriei x Cișmigiu x Velocità](https://lu.ma/r32y3r7v)  
-  <sub>Endi Ungureanu · 100 de participanți</sub>
-- `10:00` [Teatru pentru copii Tzitzi-Poc](https://greenrevolution.ro/eveniment/teatru-pentru-copii-tzitzi-poc-2/)  
-  <sub>Roaba de Cultură</sub>
-
----
-
-- [Stand-up comedy cu Cîrje, Anisia, Serghei și Gherghe](https://www.iabilet.ro/bilete-the-fool-stand-up-comedy-cu-cirje-anisia-serghei-si-gherghe-128066/)  
-  <sub>The Fool</sub>
-- [Stand-up Maraton Caritabil Ramses](https://www.iabilet.ro/bilete-the-fool-stand-up-maraton-caritabil-ramses-127597/)  
-  <sub>The Fool</sub>
-
 ### Marți, 30 iunie
 
 - `17:00` [ARCHITECTING THE AI ERA](https://lu.ma/c7o3vb95)  
-  <sub>Andra Ghibutiu · 77 de participanți</sub>
+  <sub>Andra Ghibutiu · 79 de participanți</sub>
 - `18:30` [All About You](https://lu.ma/mnl5iqw9)  
   <sub>Michael Negrea</sub>
 - `19:00` [reading corner, chapter #48](https://lu.ma/t5t6fh1a)  
-  <sub>reading corner · 201 de participanți</sub>
+  <sub>reading corner · 200 de participanți</sub>
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E17](https://lu.ma/o1u3vw8a)  
-  <sub>321sport · 7 participanți</sub>
+  <sub>321sport · 9 participanți</sub>
 - `19:30` [Digital Series by Rotaract Volume 02 - Digital Shadows: How Attention, Identity, Wellness & Opportunity Are Shaped in the Digital Age](https://lu.ma/g4b4faib)  
-  <sub>Rotaract Club Bucuresti · 72 de participanți</sub>
+  <sub>Rotaract Club Bucuresti · 75 de participanți</sub>
 
 ### Miercuri, 1 iulie
 
@@ -38,14 +24,14 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:00` [🎨🥂Paint & Gelato @ Velocità - Summer Edition🎨🥂](https://lu.ma/0pnbhoti)  
   <sub>Loredana Pipie · 4 participanți</sub>
 - `18:00` [𝗞𝗜𝗟𝗟𝗘𝗥 𝗥𝗘𝗗](https://lu.ma/agkcjlky)  
-  <sub>Murali Store · 90 de participanți</sub>
+  <sub>Murali Store · 92 de participanți</sub>
 - `18:00` [RBC #401: Networking & Cosmin Moroșanu - Antreprenor în serie](https://lu.ma/39do2hls)  
   <sub>VLAD MIHALACHIOIU</sub>
 
 ### Joi, 2 iulie
 
 - `18:30` [Let’s Talk AI: Flair, Cocktails & AI Chats! #2 - powered by AI Leaders Romania](https://lu.ma/0vfdmh8i)  
-  <sub>Matei Stefan · 21 de participanți</sub>
+  <sub>Matei Stefan · 22 de participanți</sub>
 
 ### Sâmbătă, 4 iulie
 
@@ -64,6 +50,8 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
   <sub>Nicoleta Ifrim</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/6i5ck0xq)  
   <sub>Irina Tenovici</sub>
+- `18:00` [Baschet cu Oportune 🏀](https://lu.ma/l3oyzzts)  
+  <sub>Oportune · 3 participanți</sub>
 
 ---
 
@@ -75,9 +63,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `17:30` [BRDG3 Capital — Nexus Fund I Launch: An Investor Reception at The Marmorosch, Bucharest's Historic Bank Palace](https://lu.ma/k5lxzcji)  
   <sub>Luke Baker · 50 de participanți</sub>
 - `18:00` [DevOps Reloaded: GitOps, AI & the Future of Infrastructure](https://lu.ma/mt4au5rh)  
-  <sub>Andra Ghibutiu · 74 de participanți</sub>
+  <sub>Andra Ghibutiu · 73 de participanți</sub>
 - `18:00` [Tech Sparks: AI Innovation & Investment](https://lu.ma/cdz9gt48)  
-  <sub>Neo Mixers by ▲promocrat · 18 participanți</sub>
+  <sub>Neo Mixers by ▲promocrat · 20 de participanți</sub>
 
 ---
 
@@ -99,11 +87,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-06-28)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-06-29)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-06-28)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-06-29)
 
 ## Despre
 
@@ -117,4 +105,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 28 iunie 2026*
+*Actualizat: 29 iunie 2026*
