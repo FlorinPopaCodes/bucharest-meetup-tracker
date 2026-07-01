@@ -4,41 +4,36 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Marți, 30 iunie
-
-- `17:00` [ARCHITECTING THE AI ERA](https://lu.ma/c7o3vb95)  
-  <sub>Andra Ghibutiu · 95 de participanți</sub>
-- `18:30` [All About You](https://lu.ma/mnl5iqw9)  
-  <sub>Michael Negrea</sub>
-- `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E17](https://lu.ma/o1u3vw8a)  
-  <sub>321sport · 10 participanți</sub>
-- `19:30` [Digital Series by Rotaract Volume 02 - Digital Shadows: How Attention, Identity, Wellness & Opportunity Are Shaped in the Digital Age](https://lu.ma/g4b4faib)  
-  <sub>Rotaract Club Bucuresti · 109 de participanți</sub>
-
 ### Miercuri, 1 iulie
 
 - `09:00` [LiT Unfiltered#6 w/ Dragos Barbulescu](https://lu.ma/litunfiltered6)  
   <sub>Bogdan Popescu</sub>
 - `18:00` [🎨🥂Paint & Gelato @ Velocità - Summer Edition🎨🥂](https://lu.ma/0pnbhoti)  
-  <sub>Loredana Pipie · 5 participanți</sub>
+  <sub>Loredana Pipie · 7 participanți</sub>
 - `18:00` [𝗞𝗜𝗟𝗟𝗘𝗥 𝗥𝗘𝗗](https://lu.ma/agkcjlky)  
-  <sub>Murali Store · 139 de participanți</sub>
+  <sub>Murali Store · 169 de participanți</sub>
 - `18:00` [RBC #401: Networking & Cosmin Moroșanu - Antreprenor în serie](https://lu.ma/39do2hls)  
   <sub>VLAD MIHALACHIOIU</sub>
 - `18:30` [PULSE #49 - muv that disc](https://lu.ma/d6zzz725)  
-  <sub>MuvOutside · 35 de participanți</sub>
+  <sub>MuvOutside · 46 de participanți</sub>
+- `20:00` [Teatru pentru adulti: O noapte furtunoasa](https://greenrevolution.ro/eveniment/teatru-pentru-adulti-o-noapte-furtunoasa/)  
+  <sub>Roaba de Cultură</sub>
 
 ### Joi, 2 iulie
 
 - `18:30` [Let’s Talk AI: Flair, Cocktails & AI Chats! #2 - powered by AI Leaders Romania](https://lu.ma/0vfdmh8i)  
-  <sub>Matei Stefan · 26 de participanți</sub>
+  <sub>Matei Stefan · 40 de participanți</sub>
+- `18:30` [Reading & Social Chess in the Garden — THE SQUARE X reading corner](https://lu.ma/v2291ux9)  
+  <sub>THE SQUARE Chess Club · 40 de participanți</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E18](https://lu.ma/6yj0zimq)  
   <sub>321sport · 7 participanți</sub>
+- `21:00` [Film in aer liber - Io Capitano (r. Matteo Garrone, 2023)](https://greenrevolution.ro/eveniment/film-in-aer-liber-io-capitano-r-matteo-garrone-2023/)  
+  <sub>Roaba de Cultură</sub>
 
 ### Sâmbătă, 4 iulie
 
 - `09:00` [All the Stars 🌠☄️](https://lu.ma/7xov47bi)  
-  <sub>FOMO Urban Running Club · 5 participanți</sub>
+  <sub>FOMO Urban Running Club · 10 participanți</sub>
 
 ---
 
@@ -56,7 +51,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `08:30` [Tura de duminică Tineretului](https://lu.ma/oe3f2fqw)  
   <sub>Nicoleta Ifrim</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/6i5ck0xq)  
-  <sub>Irina Tenovici</sub>
+  <sub>Irina Tenovici · 2 participanți</sub>
+- `10:00` [Teatru pentru copii Muzicantii din Bremen](https://greenrevolution.ro/eveniment/teatru-pentru-copii-muzicantii-din-bremen/)  
+  <sub>Roaba de Cultură</sub>
 - `18:00` [Baschet cu Oportune 🏀](https://lu.ma/l3oyzzts)  
   <sub>Oportune · 4 participanți</sub>
 
@@ -68,21 +65,28 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Marți, 7 iulie
 
 - `20:00` [reading corner, chapter #48](https://lu.ma/t5t6fh1a)  
-  <sub>reading corner · 227 de participanți</sub>
+  <sub>reading corner · 235 de participanți</sub>
 
 ### Joi, 9 iulie
 
 - `17:30` [BRDG3 Capital — Nexus Fund I Launch: An Investor Reception at The Marmorosch, Bucharest's Historic Bank Palace](https://lu.ma/k5lxzcji)  
-  <sub>Luke Baker · 50 de participanți</sub>
+  <sub>Luke Baker · 53 de participanți</sub>
 - `18:00` [DevOps Reloaded: GitOps, AI & the Future of Infrastructure](https://lu.ma/mt4au5rh)  
-  <sub>Andra Ghibutiu · 76 de participanți</sub>
+  <sub>Andra Ghibutiu · 82 de participanți</sub>
 - `18:00` [Tech Sparks: AI Innovation & Investment](https://lu.ma/cdz9gt48)  
-  <sub>Neo Mixers by ▲promocrat · 29 de participanți</sub>
+  <sub>Neo Mixers by ▲promocrat · 48 de participanți</sub>
 
 ---
 
 - [Open Mic: MCs Moise & Păune](https://www.iabilet.ro/bilete-the-fool-open-mic-mcs-moise-paune-128414/)  
   <sub>The Fool</sub>
+
+### Vineri, 10 iulie
+
+- `10:00` [DELTA Sprint](https://lu.ma/sqsbt23z)  
+  <sub>5 participanți</sub>
+- `17:00` [Build with Codex: Hello world!](https://lu.ma/6l7i8uk0)  
+  <sub>13 participanți</sub>
 
 ### Sâmbătă, 11 iulie
 
@@ -105,15 +109,20 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `21:00` [BingX Football Night @ Romania](https://lu.ma/zxgl1f1r)  
   <sub>BingX · 8 participanți</sub>
 
+### Miercuri, 15 iulie
+
+- `09:00` [Claude Code & Coffee \| Bucharest](https://lu.ma/fa5mfggn)  
+  <sub>Csongor Barabasi · 43 de participanți</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-06-30)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-01)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-06-30)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-01)
 
 ## Despre
 
@@ -127,4 +136,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 30 iunie 2026*
+*Actualizat: 1 iulie 2026*
