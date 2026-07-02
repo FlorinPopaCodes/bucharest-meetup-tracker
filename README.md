@@ -4,29 +4,14 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Miercuri, 1 iulie
-
-- `09:00` [LiT Unfiltered#6 w/ Dragos Barbulescu](https://lu.ma/litunfiltered6)  
-  <sub>Bogdan Popescu</sub>
-- `18:00` [🎨🥂Paint & Gelato @ Velocità - Summer Edition🎨🥂](https://lu.ma/0pnbhoti)  
-  <sub>Loredana Pipie · 7 participanți</sub>
-- `18:00` [𝗞𝗜𝗟𝗟𝗘𝗥 𝗥𝗘𝗗](https://lu.ma/agkcjlky)  
-  <sub>Murali Store · 169 de participanți</sub>
-- `18:00` [RBC #401: Networking & Cosmin Moroșanu - Antreprenor în serie](https://lu.ma/39do2hls)  
-  <sub>VLAD MIHALACHIOIU</sub>
-- `18:30` [PULSE #49 - muv that disc](https://lu.ma/d6zzz725)  
-  <sub>MuvOutside · 46 de participanți</sub>
-- `20:00` [Teatru pentru adulti: O noapte furtunoasa](https://greenrevolution.ro/eveniment/teatru-pentru-adulti-o-noapte-furtunoasa/)  
-  <sub>Roaba de Cultură</sub>
-
 ### Joi, 2 iulie
 
 - `18:30` [Let’s Talk AI: Flair, Cocktails & AI Chats! #2 - powered by AI Leaders Romania](https://lu.ma/0vfdmh8i)  
-  <sub>Matei Stefan · 40 de participanți</sub>
-- `18:30` [Reading & Social Chess in the Garden — THE SQUARE X reading corner](https://lu.ma/v2291ux9)  
-  <sub>THE SQUARE Chess Club · 40 de participanți</sub>
+  <sub>Matei Stefan · 47 de participanți</sub>
+- `18:30` [Reading & Social Chess at Random House — THE SQUARE X reading corner](https://lu.ma/v2291ux9)  
+  <sub>THE SQUARE Chess Club · 41 de participanți</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E18](https://lu.ma/6yj0zimq)  
-  <sub>321sport · 7 participanți</sub>
+  <sub>321sport · 30 de participanți</sub>
 - `21:00` [Film in aer liber - Io Capitano (r. Matteo Garrone, 2023)](https://greenrevolution.ro/eveniment/film-in-aer-liber-io-capitano-r-matteo-garrone-2023/)  
   <sub>Roaba de Cultură</sub>
 
@@ -47,11 +32,13 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `08:30` [Tura de duminică Herăstrău](https://lu.ma/8vnc61ig)  
   <sub>Emily Merdus · 1 participant</sub>
 - `08:30` [Tura de duminică Lacul Morii](https://lu.ma/odrc5kne)  
-  <sub>Alexandru Agatinei</sub>
+  <sub>Alexandru Agatinei · 1 participant</sub>
 - `08:30` [Tura de duminică Tineretului](https://lu.ma/oe3f2fqw)  
   <sub>Nicoleta Ifrim</sub>
+- `09:00` [like a girl #3](https://lu.ma/hs3y7mt4)  
+  <sub>MuvOutside · 10 participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/6i5ck0xq)  
-  <sub>Irina Tenovici · 2 participanți</sub>
+  <sub>Irina Tenovici · 3 participanți</sub>
 - `10:00` [Teatru pentru copii Muzicantii din Bremen](https://greenrevolution.ro/eveniment/teatru-pentru-copii-muzicantii-din-bremen/)  
   <sub>Roaba de Cultură</sub>
 - `18:00` [Baschet cu Oportune 🏀](https://lu.ma/l3oyzzts)  
@@ -64,17 +51,26 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Marți, 7 iulie
 
+- `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E19](https://lu.ma/femfpmfh)  
+  <sub>321sport · 3 participanți</sub>
 - `20:00` [reading corner, chapter #48](https://lu.ma/t5t6fh1a)  
-  <sub>reading corner · 235 de participanți</sub>
+  <sub>reading corner · 236 de participanți</sub>
+
+### Miercuri, 8 iulie
+
+- `18:00` [RBC #402: AI sau Dispari: Cum schimbă Inteligența Artificială regulile jocului în business - Sabin Belușică](https://lu.ma/ewky370f)  
+  <sub>Teodora Nicolaiciuc</sub>
 
 ### Joi, 9 iulie
 
 - `17:30` [BRDG3 Capital — Nexus Fund I Launch: An Investor Reception at The Marmorosch, Bucharest's Historic Bank Palace](https://lu.ma/k5lxzcji)  
-  <sub>Luke Baker · 53 de participanți</sub>
+  <sub>Luke Baker · 58 de participanți</sub>
 - `18:00` [DevOps Reloaded: GitOps, AI & the Future of Infrastructure](https://lu.ma/mt4au5rh)  
-  <sub>Andra Ghibutiu · 82 de participanți</sub>
+  <sub>Andra Ghibutiu · 86 de participanți</sub>
 - `18:00` [Tech Sparks: AI Innovation & Investment](https://lu.ma/cdz9gt48)  
-  <sub>Neo Mixers by ▲promocrat · 48 de participanți</sub>
+  <sub>Neo Mixers by ▲promocrat · 56 de participanți</sub>
+- `22:00` [Plan B(RDG3): The Unofficial BRDG3 Overflow Party](https://lu.ma/oeaztmmb)  
+  <sub>Luke Baker · 5 participanți</sub>
 
 ---
 
@@ -84,9 +80,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Vineri, 10 iulie
 
 - `10:00` [DELTA Sprint](https://lu.ma/sqsbt23z)  
-  <sub>5 participanți</sub>
+  <sub>7 participanți</sub>
 - `17:00` [Build with Codex: Hello world!](https://lu.ma/6l7i8uk0)  
-  <sub>13 participanți</sub>
+  <sub>21 de participanți</sub>
 
 ### Sâmbătă, 11 iulie
 
@@ -112,17 +108,17 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Miercuri, 15 iulie
 
 - `09:00` [Claude Code & Coffee \| Bucharest](https://lu.ma/fa5mfggn)  
-  <sub>Csongor Barabasi · 43 de participanți</sub>
+  <sub>Csongor Barabasi · 44 de participanți</sub>
 
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-01)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-02)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-01)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-02)
 
 ## Despre
 
@@ -136,4 +132,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 1 iulie 2026*
+*Actualizat: 2 iulie 2026*
