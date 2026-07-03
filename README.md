@@ -4,21 +4,10 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Joi, 2 iulie
-
-- `18:30` [Let’s Talk AI: Flair, Cocktails & AI Chats! #2 - powered by AI Leaders Romania](https://lu.ma/0vfdmh8i)  
-  <sub>Matei Stefan · 47 de participanți</sub>
-- `18:30` [Reading & Social Chess at Random House — THE SQUARE X reading corner](https://lu.ma/v2291ux9)  
-  <sub>THE SQUARE Chess Club · 41 de participanți</sub>
-- `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E18](https://lu.ma/6yj0zimq)  
-  <sub>321sport · 30 de participanți</sub>
-- `21:00` [Film in aer liber - Io Capitano (r. Matteo Garrone, 2023)](https://greenrevolution.ro/eveniment/film-in-aer-liber-io-capitano-r-matteo-garrone-2023/)  
-  <sub>Roaba de Cultură</sub>
-
 ### Sâmbătă, 4 iulie
 
 - `09:00` [All the Stars 🌠☄️](https://lu.ma/7xov47bi)  
-  <sub>FOMO Urban Running Club · 10 participanți</sub>
+  <sub>FOMO Urban Running Club · 20 de participanți</sub>
 
 ---
 
@@ -36,13 +25,13 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `08:30` [Tura de duminică Tineretului](https://lu.ma/oe3f2fqw)  
   <sub>Nicoleta Ifrim</sub>
 - `09:00` [like a girl #3](https://lu.ma/hs3y7mt4)  
-  <sub>MuvOutside · 10 participanți</sub>
+  <sub>MuvOutside · 17 participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/6i5ck0xq)  
-  <sub>Irina Tenovici · 3 participanți</sub>
+  <sub>Irina Tenovici · 6 participanți</sub>
 - `10:00` [Teatru pentru copii Muzicantii din Bremen](https://greenrevolution.ro/eveniment/teatru-pentru-copii-muzicantii-din-bremen/)  
   <sub>Roaba de Cultură</sub>
 - `18:00` [Baschet cu Oportune 🏀](https://lu.ma/l3oyzzts)  
-  <sub>Oportune · 4 participanți</sub>
+  <sub>Oportune · 10 participanți</sub>
 
 ---
 
@@ -52,7 +41,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Marți, 7 iulie
 
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E19](https://lu.ma/femfpmfh)  
-  <sub>321sport · 3 participanți</sub>
+  <sub>321sport · 5 participanți</sub>
 - `20:00` [reading corner, chapter #48](https://lu.ma/t5t6fh1a)  
   <sub>reading corner · 236 de participanți</sub>
 
@@ -64,13 +53,13 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Joi, 9 iulie
 
 - `17:30` [BRDG3 Capital — Nexus Fund I Launch: An Investor Reception at The Marmorosch, Bucharest's Historic Bank Palace](https://lu.ma/k5lxzcji)  
-  <sub>Luke Baker · 58 de participanți</sub>
+  <sub>Luke Baker · 61 de participanți</sub>
 - `18:00` [DevOps Reloaded: GitOps, AI & the Future of Infrastructure](https://lu.ma/mt4au5rh)  
-  <sub>Andra Ghibutiu · 86 de participanți</sub>
+  <sub>Andra Ghibutiu · 88 de participanți</sub>
 - `18:00` [Tech Sparks: AI Innovation & Investment](https://lu.ma/cdz9gt48)  
-  <sub>Neo Mixers by ▲promocrat · 56 de participanți</sub>
+  <sub>Neo Mixers by ▲promocrat · 60 de participanți</sub>
 - `22:00` [Plan B(RDG3): The Unofficial BRDG3 Overflow Party](https://lu.ma/oeaztmmb)  
-  <sub>Luke Baker · 5 participanți</sub>
+  <sub>Luke Baker · 20 de participanți</sub>
 
 ---
 
@@ -79,10 +68,10 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Vineri, 10 iulie
 
-- `10:00` [DELTA Sprint](https://lu.ma/sqsbt23z)  
-  <sub>7 participanți</sub>
+- `13:00` [DELTA Sprint](https://lu.ma/sqsbt23z)  
+  <sub>9 participanți</sub>
 - `17:00` [Build with Codex: Hello world!](https://lu.ma/6l7i8uk0)  
-  <sub>21 de participanți</sub>
+  <sub>35 de participanți</sub>
 
 ### Sâmbătă, 11 iulie
 
@@ -108,17 +97,22 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Miercuri, 15 iulie
 
 - `09:00` [Claude Code & Coffee \| Bucharest](https://lu.ma/fa5mfggn)  
-  <sub>Csongor Barabasi · 44 de participanți</sub>
+  <sub>Csongor Barabasi · 49 de participanți</sub>
+
+### Vineri, 17 iulie
+
+- `19:00` [Design Unfold #3](https://lu.ma/j6alqxoy)  
+  <sub>Eliza Marin · 16 participanți</sub>
 
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-02)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-03)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-02)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-03)
 
 ## Despre
 
@@ -132,4 +126,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 2 iulie 2026*
+*Actualizat: 3 iulie 2026*
