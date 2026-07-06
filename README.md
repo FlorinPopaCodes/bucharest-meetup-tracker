@@ -4,36 +4,12 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Duminică, 5 iulie
-
-- `08:30` [Tura de duminică Cotroceni](https://lu.ma/25wkvqb9)  
-  <sub>Aleodor Tabarcea · 6 participanți</sub>
-- `08:30` [Tura de duminică Herăstrău](https://lu.ma/8vnc61ig)  
-  <sub>Emily Merdus · 5 participanți</sub>
-- `08:30` [Tura de duminică I.O.R.](https://lu.ma/6i5ck0xq)  
-  <sub>Irina Tenovici · 8 participanți</sub>
-- `08:30` [Tura de duminică Lacul Morii](https://lu.ma/odrc5kne)  
-  <sub>Alexandru Agatinei · 1 participant</sub>
-- `08:30` [Tura de duminică Tineretului](https://lu.ma/oe3f2fqw)  
-  <sub>Nicoleta Ifrim · 6 participanți</sub>
-- `09:00` [like a girl #3](https://lu.ma/hs3y7mt4)  
-  <sub>MuvOutside · 25 de participanți</sub>
-- `10:00` [Teatru pentru copii Muzicantii din Bremen](https://greenrevolution.ro/eveniment/teatru-pentru-copii-muzicantii-din-bremen/)  
-  <sub>Roaba de Cultură</sub>
-- `18:00` [Baschet cu Oportune 🏀](https://lu.ma/l3oyzzts)  
-  <sub>Oportune · 13 participanți</sub>
-
----
-
-- [Teoria râsului în familie](https://www.iabilet.ro/bilete-teoria-rasului-in-familie-127263/)  
-  <sub>Teatrul Improteca</sub>
-
 ### Marți, 7 iulie
 
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E19](https://lu.ma/femfpmfh)  
-  <sub>321sport · 6 participanți</sub>
+  <sub>321sport · 9 participanți</sub>
 - `20:00` [reading corner, chapter #48](https://lu.ma/t5t6fh1a)  
-  <sub>reading corner · 246 de participanți</sub>
+  <sub>reading corner · 253 de participanți</sub>
 
 ### Miercuri, 8 iulie
 
@@ -43,17 +19,17 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Joi, 9 iulie
 
 - `17:30` [BRDG3 Capital — Nexus Fund I Launch: An Investor Reception at The Marmorosch, Bucharest's Historic Bank Palace](https://lu.ma/k5lxzcji)  
-  <sub>Luke Baker · 61 de participanți</sub>
+  <sub>Luke Baker · 62 de participanți</sub>
 - `18:00` [DevOps Reloaded: GitOps, AI & the Future of Infrastructure](https://lu.ma/mt4au5rh)  
-  <sub>Andra Ghibutiu · 94 de participanți</sub>
+  <sub>Andra Ghibutiu · 95 de participanți</sub>
 - `18:00` [Tech Sparks: AI Innovation & Investment](https://lu.ma/cdz9gt48)  
   <sub>Neo Mixers by ▲promocrat · 86 de participanți</sub>
 - `22:00` [Plan B(RDG3): The Unofficial BRDG3 Overflow Party](https://lu.ma/oeaztmmb)  
-  <sub>Luke Baker · 26 de participanți</sub>
+  <sub>Luke Baker · 36 de participanți</sub>
 
 ---
 
-- [Open Mic: MCs Moise & Păune](https://www.iabilet.ro/bilete-the-fool-open-mic-mcs-moise-paune-128414/)  
+- [Open Mic: MCs Moise & Păune](https://www.iabilet.ro/bilete-the-fool-open-mic-mc-paune-128414/)  
   <sub>The Fool</sub>
 
 ### Vineri, 10 iulie
@@ -61,9 +37,14 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `13:00` [DELTA Sprint](https://lu.ma/sqsbt23z)  
   <sub>13 participanți</sub>
 - `17:00` [Build with Codex: Hello world!](https://lu.ma/6l7i8uk0)  
-  <sub>51 de participanți</sub>
+  <sub>59 de participanți</sub>
 
 ### Sâmbătă, 11 iulie
+
+- `17:30` [Volei cu Oportune 🏐](https://lu.ma/mjnp6wix)  
+  <sub>Oportune · 12 participanți</sub>
+
+---
 
 - [Fool's Game - filmare cu public live](https://www.iabilet.ro/bilete-the-fool-fool-s-game-filmare-cu-public-live-128490/)  
   <sub>The Fool</sub>
@@ -71,9 +52,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 12 iulie
 
 - `08:30` [Tura de duminică Herăstrău](https://lu.ma/0vjf5o4s)  
-  <sub>Emily Merdus</sub>
+  <sub>Emily Merdus · 2 participanți</sub>
 - `08:30` [Tura de duminică I.O.R.](https://lu.ma/6rjierad)  
-  <sub>Irina Tenovici · 2 participanți</sub>
+  <sub>Irina Tenovici · 3 participanți</sub>
 - `08:30` [Tura de duminică Tineretului](https://lu.ma/s17cagoo)  
   <sub>Nicoleta Ifrim · 1 participant</sub>
 - `12:00` [Bookisim · Ediția II —Povestea care ne adună în jurul unei ierni rusești](https://lu.ma/lf7plpx4)  
@@ -115,15 +96,20 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `08:30` [Tura de duminică Tineretului](https://lu.ma/53e22s4x)  
   <sub>Nicoleta Ifrim</sub>
 
+### Luni, 20 iulie
+
+- [Quiz Beez](https://www.iabilet.ro/bilete-the-fool-quiz-beez-128338/)  
+  <sub>The Fool</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-05)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-06)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-05)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-06)
 
 ## Despre
 
@@ -137,4 +123,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 5 iulie 2026*
+*Actualizat: 6 iulie 2026*
