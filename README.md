@@ -4,34 +4,12 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Joi, 9 iulie
-
-- `18:00` [BRDG3 Capital — Nexus Fund I Launch: An Investor Reception at The Marmorosch, Bucharest's Historic Bank Palace](https://lu.ma/k5lxzcji)  
-  <sub>Luke Baker · 67 de participanți</sub>
-- `18:00` [DevOps Reloaded: GitOps, AI & the Future of Infrastructure](https://lu.ma/mt4au5rh)  
-  <sub>Andra Ghibutiu · 103 de participanți</sub>
-- `18:00` [Tech Sparks: AI Innovation & Investment](https://lu.ma/cdz9gt48)  
-  <sub>Neo Mixers by ▲promocrat · 99 de participanți</sub>
-- `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E20](https://lu.ma/wpan83cb)  
-  <sub>321sport · 38 de participanți</sub>
-- `19:00` [Safe space for founders #8](https://lu.ma/xz9yjerx)  
-  <sub>Claudiu Petria · 24 de participanți</sub>
-- `21:00` [Film în aer liber: Io Capitano (r. Matteo Garrone, 2023)](https://greenrevolution.ro/eveniment/film-in-aer-liber-io-capitano-r-matteo-garrone-2023-2/)  
-  <sub>Roaba de Cultură</sub>
-- `22:00` [Plan B(RDG3): The Unofficial BRDG3 Overflow Party](https://lu.ma/oeaztmmb)  
-  <sub>Luke Baker · 47 de participanți</sub>
-
----
-
-- [Open Mic: MCs Moise & Păune](https://www.iabilet.ro/bilete-the-fool-open-mic-mc-paune-128414/)  
-  <sub>The Fool</sub>
-
 ### Vineri, 10 iulie
 
 - `13:00` [DELTA Sprint](https://lu.ma/sqsbt23z)  
-  <sub>21 de participanți</sub>
+  <sub>22 de participanți</sub>
 - `17:00` [Build with Codex: Hello world!](https://lu.ma/6l7i8uk0)  
-  <sub>66 de participanți</sub>
+  <sub>68 de participanți</sub>
 - `20:30` [Concert Andra Andriuca](https://greenrevolution.ro/eveniment/concert-andra-andriuca/)  
   <sub>Roaba de Cultură</sub>
 
@@ -42,7 +20,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `09:00` [Pilates cu Ionela Spinu](https://greenrevolution.ro/eveniment/pilates-cu-ionela-spinu/)  
   <sub>Roaba de Cultură</sub>
 - `17:30` [Volei cu Oportune 🏐](https://lu.ma/mjnp6wix)  
-  <sub>Oportune · 24 de participanți</sub>
+  <sub>Oportune · 26 de participanți</sub>
 
 ---
 
@@ -52,19 +30,21 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 12 iulie
 
 - `08:30` [Granola Run - 321sport x Good Routine](https://lu.ma/648s33b9)  
-  <sub>321sport · 30 de participanți</sub>
+  <sub>321sport · 33 de participanți</sub>
+- `08:30` [Tura de duminică Cotroceni](https://lu.ma/cj3sdud6)  
+  <sub>Aleodor Tabarcea · 1 participant</sub>
 - `08:30` [Tura de duminică Herăstrău](https://lu.ma/0vjf5o4s)  
-  <sub>Emily Merdus · 3 participanți</sub>
+  <sub>Emily Merdus · 6 participanți</sub>
 - `08:30` [Tura de duminică I.O.R.](https://lu.ma/6rjierad)  
-  <sub>Irina Tenovici · 8 participanți</sub>
+  <sub>Irina Tenovici · 10 participanți</sub>
 - `08:30` [Tura de duminică Tineretului](https://lu.ma/s17cagoo)  
-  <sub>Nicoleta Ifrim · 3 participanți</sub>
+  <sub>Nicoleta Ifrim · 6 participanți</sub>
 - `09:00` [like a girl #4](https://lu.ma/qwe3y0iq)  
-  <sub>MuvOutside · 6 participanți</sub>
+  <sub>MuvOutside · 9 participanți</sub>
 - `10:00` [Teatru pentru copii Tzitzi-Poc](https://greenrevolution.ro/eveniment/teatru-pentru-copii-tzitzi-poc-3/)  
   <sub>Roaba de Cultură</sub>
 - `11:00` [Tura de Mici: Obor Brunch](https://lu.ma/7mvzfnzm)  
-  <sub>Endi Ungureanu · 10 participanți</sub>
+  <sub>Endi Ungureanu · 12 participanți</sub>
 - `12:00` [Bookisim · Ediția II —Povestea care ne adună în jurul unei ierni rusești](https://lu.ma/lf7plpx4)  
   <sub>R.O.S.T. Specialty Coffeshop · 3 participanți</sub>
 - `20:00` [Teatru pentru adulti: O noapte furtunoasa by Brightside Drama](https://greenrevolution.ro/eveniment/teatru-pentru-adulti-o-noapte-furtunoasa-by-brightside-drama/)  
@@ -110,7 +90,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 19 iulie
 
 - `08:30` [Tura de duminică Cotroceni](https://lu.ma/vfj29d0f)  
-  <sub>Aleodor Tabarcea</sub>
+  <sub>Aleodor Tabarcea · 1 participant</sub>
 - `08:30` [Tura de duminică Herăstrău](https://lu.ma/wvn8zu67)  
   <sub>Emily Merdus · 1 participant</sub>
 - `08:30` [Tura de duminică I.O.R.](https://lu.ma/2zyqn1nd)  
@@ -128,20 +108,30 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - [Quiz Beez](https://www.iabilet.ro/bilete-the-fool-quiz-beez-128338/)  
   <sub>The Fool</sub>
 
+### Marți, 21 iulie
+
+- `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E23](https://lu.ma/50xg3n60)  
+  <sub>321sport · 3 participanți</sub>
+
 ### Miercuri, 22 iulie
 
 - [O zi din viaţa unui politician fericit](https://www.iabilet.ro/bilete-o-zi-din-viata-unui-politician-fericit-128452/)  
   <sub>Teatrul Improteca</sub>
 
+### Vineri, 24 iulie
+
+- [Maraton de Crowd Work cu Gabriel Gherghe](https://www.iabilet.ro/bilete-the-fool-maraton-de-crowd-work-cu-gabriel-gherghe-128592/)  
+  <sub>The Fool</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-09)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-10)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-09)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-10)
 
 ## Despre
 
@@ -155,4 +145,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 9 iulie 2026*
+*Actualizat: 10 iulie 2026*
