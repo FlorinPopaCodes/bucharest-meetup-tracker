@@ -4,15 +4,6 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Vineri, 10 iulie
-
-- `13:00` [DELTA Sprint](https://lu.ma/sqsbt23z)  
-  <sub>22 de participanți</sub>
-- `17:00` [Build with Codex: Hello world!](https://lu.ma/6l7i8uk0)  
-  <sub>68 de participanți</sub>
-- `20:30` [Concert Andra Andriuca](https://greenrevolution.ro/eveniment/concert-andra-andriuca/)  
-  <sub>Roaba de Cultură</sub>
-
 ### Sâmbătă, 11 iulie
 
 - `08:00` [Yoga cu Mariuca Patruchi](https://greenrevolution.ro/eveniment/yoga-cu-mariuca-patruchi/)  
@@ -20,7 +11,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `09:00` [Pilates cu Ionela Spinu](https://greenrevolution.ro/eveniment/pilates-cu-ionela-spinu/)  
   <sub>Roaba de Cultură</sub>
 - `17:30` [Volei cu Oportune 🏐](https://lu.ma/mjnp6wix)  
-  <sub>Oportune · 26 de participanți</sub>
+  <sub>Oportune · 30 de participanți</sub>
 
 ---
 
@@ -30,21 +21,21 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 12 iulie
 
 - `08:30` [Granola Run - 321sport x Good Routine](https://lu.ma/648s33b9)  
-  <sub>321sport · 33 de participanți</sub>
+  <sub>321sport · 38 de participanți</sub>
 - `08:30` [Tura de duminică Cotroceni](https://lu.ma/cj3sdud6)  
-  <sub>Aleodor Tabarcea · 1 participant</sub>
+  <sub>Aleodor Tabarcea · 6 participanți</sub>
 - `08:30` [Tura de duminică Herăstrău](https://lu.ma/0vjf5o4s)  
-  <sub>Emily Merdus · 6 participanți</sub>
+  <sub>Emily Merdus · 8 participanți</sub>
 - `08:30` [Tura de duminică I.O.R.](https://lu.ma/6rjierad)  
-  <sub>Irina Tenovici · 10 participanți</sub>
+  <sub>Irina Tenovici · 14 participanți</sub>
 - `08:30` [Tura de duminică Tineretului](https://lu.ma/s17cagoo)  
-  <sub>Nicoleta Ifrim · 6 participanți</sub>
+  <sub>Nicoleta Ifrim · 10 participanți</sub>
 - `09:00` [like a girl #4](https://lu.ma/qwe3y0iq)  
-  <sub>MuvOutside · 9 participanți</sub>
+  <sub>MuvOutside · 14 participanți</sub>
 - `10:00` [Teatru pentru copii Tzitzi-Poc](https://greenrevolution.ro/eveniment/teatru-pentru-copii-tzitzi-poc-3/)  
   <sub>Roaba de Cultură</sub>
 - `11:00` [Tura de Mici: Obor Brunch](https://lu.ma/7mvzfnzm)  
-  <sub>Endi Ungureanu · 12 participanți</sub>
+  <sub>Endi Ungureanu · 24 de participanți</sub>
 - `12:00` [Bookisim · Ediția II —Povestea care ne adună în jurul unei ierni rusești](https://lu.ma/lf7plpx4)  
   <sub>R.O.S.T. Specialty Coffeshop · 3 participanți</sub>
 - `20:00` [Teatru pentru adulti: O noapte furtunoasa by Brightside Drama](https://greenrevolution.ro/eveniment/teatru-pentru-adulti-o-noapte-furtunoasa-by-brightside-drama/)  
@@ -52,6 +43,8 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Marți, 14 iulie
 
+- `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E21](https://lu.ma/p55g0g6w)  
+  <sub>321sport · 4 participanți</sub>
 - `21:00` [BingX Football Night @ Romania](https://lu.ma/zxgl1f1r)  
   <sub>BingX · 8 participanți</sub>
 
@@ -75,7 +68,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Vineri, 17 iulie
 
 - `19:00` [Design Unfold #3](https://lu.ma/j6alqxoy)  
-  <sub>Eliza Marin · 22 de participanți</sub>
+  <sub>Eliza Marin · 23 de participanți</sub>
 
 ---
 
@@ -85,6 +78,8 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Sâmbătă, 18 iulie
 
 - [Fool's Game - filmare cu public live](https://www.iabilet.ro/bilete-the-fool-fool-s-game-filmare-cu-public-live-128670/)  
+  <sub>The Fool</sub>
+- [Gherghe + Publicul = Crowdwork](https://www.iabilet.ro/bilete-the-fool-gherghe-publicul-crowdwork-128909/)  
   <sub>The Fool</sub>
 
 ### Duminică, 19 iulie
@@ -123,15 +118,29 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - [Maraton de Crowd Work cu Gabriel Gherghe](https://www.iabilet.ro/bilete-the-fool-maraton-de-crowd-work-cu-gabriel-gherghe-128592/)  
   <sub>The Fool</sub>
 
+### Sâmbătă, 25 iulie
+
+- `13:00` [AI Game Jam #1: Ship a Web Game in 6 Hours + Afterparty](https://lu.ma/tagpbosj)  
+  <sub>pax · 20 de participanți</sub>
+- `15:00` [Wildest Ride: A Taylor Swift-Themed Indoor Cycling Experience - #1](https://lu.ma/70stbph3)  
+  <sub>The Spinning Era · 12 participanți</sub>
+- `17:00` [Wildest Ride: A Taylor Swift-Themed Indoor Cycling Experience - #2](https://lu.ma/e8ahh1u6)  
+  <sub>The Spinning Era · 7 participanți</sub>
+
+---
+
+- [Ursul şi Ursoaica](https://www.iabilet.ro/bilete-ursul-si-ursoaica-128207/)  
+  <sub>Teatrul Improteca</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-10)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-11)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-10)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-11)
 
 ## Despre
 
@@ -145,4 +154,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 10 iulie 2026*
+*Actualizat: 11 iulie 2026*
