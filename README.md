@@ -4,33 +4,10 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Duminică, 12 iulie
-
-- `08:30` [Granola Run - 321sport x Good Routine](https://lu.ma/648s33b9)  
-  <sub>321sport · 43 de participanți</sub>
-- `08:30` [Tura de duminică Cotroceni](https://lu.ma/cj3sdud6)  
-  <sub>Aleodor Tabarcea · 14 participanți</sub>
-- `08:30` [Tura de duminică Herăstrău](https://lu.ma/0vjf5o4s)  
-  <sub>Emily Merdus · 18 participanți</sub>
-- `08:30` [Tura de duminică I.O.R.](https://lu.ma/6rjierad)  
-  <sub>Irina Tenovici · 23 de participanți</sub>
-- `08:30` [Tura de duminică Tineretului](https://lu.ma/s17cagoo)  
-  <sub>Nicoleta Ifrim · 18 participanți</sub>
-- `09:00` [like a girl #4](https://lu.ma/qwe3y0iq)  
-  <sub>MuvOutside · 23 de participanți</sub>
-- `10:00` [Teatru pentru copii Tzitzi-Poc](https://greenrevolution.ro/eveniment/teatru-pentru-copii-tzitzi-poc-3/)  
-  <sub>Roaba de Cultură</sub>
-- `11:00` [Tura de Mici: Obor Brunch](https://lu.ma/7mvzfnzm)  
-  <sub>Endi Ungureanu · 36 de participanți</sub>
-- `12:00` [Bookisim · Ediția II —Povestea care ne adună în jurul unei ierni rusești](https://lu.ma/lf7plpx4)  
-  <sub>R.O.S.T. Specialty Coffeshop · 3 participanți</sub>
-- `20:00` [Teatru pentru adulti: O noapte furtunoasa by Brightside Drama](https://greenrevolution.ro/eveniment/teatru-pentru-adulti-o-noapte-furtunoasa-by-brightside-drama/)  
-  <sub>Roaba de Cultură</sub>
-
 ### Marți, 14 iulie
 
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E21](https://lu.ma/p55g0g6w)  
-  <sub>321sport · 6 participanți</sub>
+  <sub>321sport · 7 participanți</sub>
 - `21:00` [BingX Football Night @ Romania](https://lu.ma/zxgl1f1r)  
   <sub>BingX · 8 participanți</sub>
 
@@ -42,7 +19,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Miercuri, 15 iulie
 
 - `09:00` [Claude Code & Coffee \| Bucharest](https://lu.ma/fa5mfggn)  
-  <sub>Csongor Barabasi · 55 de participanți</sub>
+  <sub>Csongor Barabasi · 58 de participanți</sub>
 - `18:00` [RBC #403: Automatizarea relației cu clienții - Rareș Bănescu fondator the Marketer.](https://lu.ma/g3kid85k)  
   <sub>VLAD MIHALACHIOIU</sub>
 
@@ -77,7 +54,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `08:30` [Tura de duminică I.O.R.](https://lu.ma/2zyqn1nd)  
   <sub>Irina Tenovici</sub>
 - `08:30` [Tura de duminică Tineretului](https://lu.ma/53e22s4x)  
-  <sub>Nicoleta Ifrim</sub>
+  <sub>Nicoleta Ifrim · 1 participant</sub>
 
 ---
 
@@ -121,7 +98,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 26 iulie
 
 - `09:00` [FOREVER OUTSIDERS - our first anniversary 🫶🏼](https://lu.ma/uxgskxe7)  
-  <sub>MuvOutside · 76 de participanți</sub>
+  <sub>MuvOutside · 78 de participanți</sub>
 - `15:00` [Wildest Ride: A Taylor Swift-Themed Indoor Cycling Experience - #3](https://lu.ma/lorptrqh)  
   <sub>The Spinning Era · 9 participanți</sub>
 - `16:00` [90s Noir: The Exhibition & Afterparty](https://lu.ma/68c45ncc)  
@@ -133,11 +110,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-12)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-13)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-12)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-13)
 
 ## Despre
 
@@ -151,4 +128,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 12 iulie 2026*
+*Actualizat: 13 iulie 2026*
