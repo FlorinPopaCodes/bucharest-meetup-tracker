@@ -4,26 +4,16 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Vineri, 17 iulie
-
-- `19:00` [Design Unfold #3 - AI + design?](https://lu.ma/j6alqxoy)  
-  <sub>Eliza Marin · 33 de participanți</sub>
-
----
-
-- [Silviu Gherman dă din casă](https://www.iabilet.ro/bilete-the-fool-silviu-gherman-da-din-casa-128754/)  
-  <sub>The Fool</sub>
-
 ### Sâmbătă, 18 iulie
 
 - `09:00` [Sport în aer liber: Yoga cu Angela Vasluianu](https://greenrevolution.ro/eveniment/sport-in-aer-liber-yoga-cu-angela-vasluianu/)  
   <sub>Roaba de Cultură</sub>
 - `09:00` [Walking On A Dream ✨](https://lu.ma/qfax8ne1)  
-  <sub>FOMO Urban Running Club · 41 de participanți</sub>
+  <sub>FOMO Urban Running Club · 45 de participanți</sub>
 - `10:30` [reading & dancing corner, chapter #49](https://lu.ma/xm96iytg)  
-  <sub>reading corner · 76 de participanți</sub>
+  <sub>reading corner · 70 de participanți</sub>
 - `18:00` [Badminton cu Oportune 🏸](https://lu.ma/apyvroo6)  
-  <sub>Oportune · 15 participanți</sub>
+  <sub>Oportune · 20 de participanți</sub>
 
 ---
 
@@ -37,15 +27,15 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `08:30` [Tura de duminică Cotroceni](https://lu.ma/vfj29d0f)  
   <sub>Aleodor Tabarcea · 4 participanți</sub>
 - `08:30` [Tura de duminică I.O.R.](https://lu.ma/2zyqn1nd)  
-  <sub>Irina Tenovici · 1 participant</sub>
+  <sub>Irina Tenovici · 4 participanți</sub>
 - `08:30` [Tura de duminică Tineretului](https://lu.ma/53e22s4x)  
-  <sub>Nicoleta Ifrim · 1 participant</sub>
+  <sub>Nicoleta Ifrim · 2 participanți</sub>
 - `09:30` [Tura de duminică Herăstrău](https://lu.ma/wvn8zu67)  
-  <sub>Emily Merdus · 13 participanți</sub>
+  <sub>Emily Merdus · 20 de participanți</sub>
 - `10:00` [Teatru pentru copii Alice in Tara Minunilor ](https://greenrevolution.ro/eveniment/teatru-pentru-copii-alice-in-tara-minunilor-2/)  
   <sub>Roaba de Cultură</sub>
 - `14:00` [outdoor play & world cup watchparty](https://lu.ma/d1rj5u9p)  
-  <sub>MuvOutside · 23 de participanți</sub>
+  <sub>MuvOutside · 64 de participanți</sub>
 
 ---
 
@@ -60,7 +50,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Marți, 21 iulie
 
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E23](https://lu.ma/50xg3n60)  
-  <sub>321sport · 5 participanți</sub>
+  <sub>321sport · 6 participanți</sub>
 
 ### Miercuri, 22 iulie
 
@@ -91,7 +81,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 26 iulie
 
 - `09:00` [FOREVER OUTSIDERS - our first anniversary 🫶🏼](https://lu.ma/uxgskxe7)  
-  <sub>MuvOutside · 118 de participanți</sub>
+  <sub>MuvOutside · 120 de participanți</sub>
 - `15:00` [Wildest Ride: A Taylor Swift-Themed Indoor Cycling Experience - #3](https://lu.ma/lorptrqh)  
   <sub>The Spinning Era · 9 participanți</sub>
 - `16:00` [90s Noir: The Exhibition & Afterparty](https://lu.ma/68c45ncc)  
@@ -113,11 +103,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-17)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-18)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-17)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-18)
 
 ## Despre
 
@@ -131,4 +121,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 17 iulie 2026*
+*Actualizat: 18 iulie 2026*
