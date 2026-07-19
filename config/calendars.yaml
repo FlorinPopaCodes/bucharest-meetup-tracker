@@ -18,9 +18,6 @@ ical_feeds:
 # Each event still passes the Bucharest text filter on its JSON-LD addressLocality,
 # so touring shows (e.g. Costinești) are dropped.
 iabilet_venues:
-  - name: The Fool
-    slug: the-fool
-    url: "https://www.iabilet.ro/bilete-the-fool-venue-3205/"
   - name: Teatrul Improteca
     slug: improteca
     url: "https://www.iabilet.ro/bilete-teatrul-improteca-venue-5427/"

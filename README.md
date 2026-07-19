@@ -46,8 +46,6 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Sâmbătă, 25 iulie
 
-- `09:30` [Atelier Constelații Familiale](https://lu.ma/4nbi4g87)  
-  <sub>Eleven True Self Exploration</sub>
 - `10:00` [Yoga & Sip 🧘‍♀️](https://lu.ma/9k4z867b)  
   <sub>Oportune · 10 participanți</sub>
 - `13:00` [AI Game Jam #1: Ship a Web Game in 6 Hours + Afterparty](https://lu.ma/tagpbosj)  
@@ -97,7 +95,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 *Hărțile de activitate se populează în timp — pornesc goale și ating vederea completă de 365 de zile după un an.*
 
-Surse: lu.ma (date supuse Termenilor lor), Roaba de Cultură (Green Revolution), The Fool (iaBilet.ro) și alte calendare publice.
+Surse: lu.ma (date supuse Termenilor lor), Roaba de Cultură (Green Revolution), iaBilet.ro și alte calendare publice.
 
 Date: `data/events.csv` (stare curentă, cumulativă) · `data/snapshots/` (arhivă zilnică brută) · `data/scrape_errors.csv` (jurnalul rulărilor care au eșuat parțial) · `data/schema.json` (amprenta câmpurilor API).
 
