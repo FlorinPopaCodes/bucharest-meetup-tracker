@@ -158,7 +158,7 @@ ${i.upcomingMd}
 
 *Hărțile de activitate se populează în timp — pornesc goale și ating vederea completă de 365 de zile după un an.*
 
-Surse: lu.ma (date supuse Termenilor lor), Roaba de Cultură (Green Revolution), The Fool (iaBilet.ro) și alte calendare publice.
+Surse: lu.ma (date supuse Termenilor lor), Roaba de Cultură (Green Revolution), iaBilet.ro și alte calendare publice.
 
 Date: \`data/events.csv\` (stare curentă, cumulativă) · \`data/snapshots/\` (arhivă zilnică brută) · \`data/scrape_errors.csv\` (jurnalul rulărilor care au eșuat parțial) · \`data/schema.json\` (amprenta câmpurilor API).
 
