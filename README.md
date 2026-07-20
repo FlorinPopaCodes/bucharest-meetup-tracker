@@ -4,26 +4,6 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Duminică, 19 iulie
-
-- `08:30` [Tura de duminică Cotroceni](https://lu.ma/vfj29d0f)  
-  <sub>Aleodor Tabarcea · 14 participanți</sub>
-- `08:30` [Tura de duminică I.O.R.](https://lu.ma/2zyqn1nd)  
-  <sub>Irina Tenovici · 6 participanți</sub>
-- `08:30` [Tura de duminică Tineretului](https://lu.ma/53e22s4x)  
-  <sub>Nicoleta Ifrim · 8 participanți</sub>
-- `09:30` [Tura de duminică Herăstrău](https://lu.ma/wvn8zu67)  
-  <sub>Emily Merdus · 30 de participanți</sub>
-- `10:00` [Teatru pentru copii Alice in Tara Minunilor ](https://greenrevolution.ro/eveniment/teatru-pentru-copii-alice-in-tara-minunilor-2/)  
-  <sub>Roaba de Cultură</sub>
-- `14:00` [outdoor play & world cup watchparty](https://lu.ma/d1rj5u9p)  
-  <sub>MuvOutside · 97 de participanți</sub>
-
----
-
-- [Iubitule, hai să renovăm!](https://www.iabilet.ro/bilete-iubitule-hai-sa-renovam-128693/)  
-  <sub>Teatrul Improteca</sub>
-
 ### Luni, 20 iulie
 
 - [Quiz Beez](https://www.iabilet.ro/bilete-the-fool-quiz-beez-128338/)  
@@ -32,7 +12,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Marți, 21 iulie
 
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E23](https://lu.ma/50xg3n60)  
-  <sub>321sport · 7 participanți</sub>
+  <sub>321sport · 9 participanți</sub>
 
 ### Miercuri, 22 iulie
 
@@ -46,8 +26,10 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Sâmbătă, 25 iulie
 
+- `09:30` [Pilates En Plein Air \| The Clique X Anamorphosis](https://lu.ma/vd425gve)  
+  <sub>The Clique · 11 participanți</sub>
 - `10:00` [Yoga & Sip 🧘‍♀️](https://lu.ma/9k4z867b)  
-  <sub>Oportune · 10 participanți</sub>
+  <sub>Oportune · 17 participanți</sub>
 - `13:00` [AI Game Jam #1: Ship a Web Game in 6 Hours + Afterparty](https://lu.ma/tagpbosj)  
   <sub>pax · 24 de participanți</sub>
 - `15:00` [Wildest Ride: A Taylor Swift-Themed Indoor Cycling Experience - #1](https://lu.ma/70stbph3)  
@@ -63,7 +45,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 26 iulie
 
 - `09:00` [FOREVER OUTSIDERS - our first anniversary 🫶🏼](https://lu.ma/uxgskxe7)  
-  <sub>MuvOutside · 125 de participanți</sub>
+  <sub>MuvOutside · 126 de participanți</sub>
 - `15:00` [Wildest Ride: A Taylor Swift-Themed Indoor Cycling Experience - #3](https://lu.ma/lorptrqh)  
   <sub>The Spinning Era · 9 participanți</sub>
 - `16:00` [90s Noir: The Exhibition & Afterparty](https://lu.ma/68c45ncc)  
@@ -78,18 +60,28 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Joi, 30 iulie
 
+- `18:00` [Lansare carte Adrian Matache si Alexandru Ungureanu](https://lu.ma/jz86se3y)  
+  <sub>Adrian Matache · 3 participanți</sub>
+
+---
+
 - [Bădăranii 20.26](https://www.iabilet.ro/bilete-badaranii-20-26-128455/)  
   <sub>Teatrul Improteca</sub>
+
+### Luni, 3 august
+
+- `19:00` [King of the Court + Social](https://lu.ma/kingofthecourt)  
+  <sub>Eric Melchor</sub>
 
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-19)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-20)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-19)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-20)
 
 ## Despre
 
@@ -103,4 +95,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 19 iulie 2026*
+*Actualizat: 20 iulie 2026*
