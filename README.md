@@ -4,15 +4,10 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Luni, 20 iulie
-
-- [Quiz Beez](https://www.iabilet.ro/bilete-the-fool-quiz-beez-128338/)  
-  <sub>The Fool</sub>
-
 ### Marți, 21 iulie
 
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E23](https://lu.ma/50xg3n60)  
-  <sub>321sport · 9 participanți</sub>
+  <sub>321sport · 13 participanți</sub>
 
 ### Miercuri, 22 iulie
 
@@ -26,16 +21,18 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Sâmbătă, 25 iulie
 
+- `08:30` [Granola Run & Barista Talk - 321sport x Good Routine](https://lu.ma/81m0k7nx)  
+  <sub>321sport · 35 de participanți</sub>
 - `09:30` [Pilates En Plein Air \| The Clique X Anamorphosis](https://lu.ma/vd425gve)  
-  <sub>The Clique · 11 participanți</sub>
+  <sub>The Clique · 14 participanți</sub>
 - `10:00` [Yoga & Sip 🧘‍♀️](https://lu.ma/9k4z867b)  
-  <sub>Oportune · 17 participanți</sub>
+  <sub>Oportune · 19 participanți</sub>
 - `13:00` [AI Game Jam #1: Ship a Web Game in 6 Hours + Afterparty](https://lu.ma/tagpbosj)  
   <sub>pax · 24 de participanți</sub>
 - `15:00` [Wildest Ride: A Taylor Swift-Themed Indoor Cycling Experience - #1](https://lu.ma/70stbph3)  
   <sub>The Spinning Era · 13 participanți</sub>
 - `17:00` [Wildest Ride: A Taylor Swift-Themed Indoor Cycling Experience - #2](https://lu.ma/e8ahh1u6)  
-  <sub>The Spinning Era · 7 participanți</sub>
+  <sub>The Spinning Era · 8 participanți</sub>
 
 ---
 
@@ -45,13 +42,18 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 26 iulie
 
 - `09:00` [FOREVER OUTSIDERS - our first anniversary 🫶🏼](https://lu.ma/uxgskxe7)  
-  <sub>MuvOutside · 126 de participanți</sub>
+  <sub>MuvOutside · 149 de participanți</sub>
 - `15:00` [Wildest Ride: A Taylor Swift-Themed Indoor Cycling Experience - #3](https://lu.ma/lorptrqh)  
   <sub>The Spinning Era · 9 participanți</sub>
 - `16:00` [90s Noir: The Exhibition & Afterparty](https://lu.ma/68c45ncc)  
   <sub>Armina Caponi</sub>
 - `17:00` [Wildest Ride: A Taylor Swift-Themed Indoor Cycling Experience - #4](https://lu.ma/vebdezno)  
   <sub>The Spinning Era · 10 participanți</sub>
+
+### Marți, 28 iulie
+
+- `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E25](https://lu.ma/cnxx28ns)  
+  <sub>321sport · 3 participanți</sub>
 
 ### Miercuri, 29 iulie
 
@@ -68,6 +70,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - [Bădăranii 20.26](https://www.iabilet.ro/bilete-badaranii-20-26-128455/)  
   <sub>Teatrul Improteca</sub>
 
+### Vineri, 31 iulie
+
+- `20:00` [PULSE #51 - muv now, pizza after](https://lu.ma/etd597c7)  
+  <sub>MuvOutside · 27 de participanți</sub>
+
 ### Luni, 3 august
 
 - `19:00` [King of the Court + Social](https://lu.ma/kingofthecourt)  
@@ -77,11 +84,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-20)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-21)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-20)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-21)
 
 ## Despre
 
@@ -95,4 +102,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 20 iulie 2026*
+*Actualizat: 21 iulie 2026*
