@@ -128,8 +128,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 25,
-      "ticket_count": 25,
+      "guest_count": 39,
+      "ticket_count": 39,
       "ticket_info": {
         "price": null,
         "is_free": false,
@@ -274,8 +274,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 44,
-      "ticket_count": 44,
+      "guest_count": 46,
+      "ticket_count": 46,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -363,8 +363,8 @@
           "username": null
         }
       ],
-      "guest_count": 29,
-      "ticket_count": 29,
+      "guest_count": 30,
+      "ticket_count": 30,
       "ticket_info": {
         "price": null,
         "is_free": false,
@@ -449,8 +449,8 @@
           "longitude": 26.1548441,
           "latitude": 44.421032200000006
         },
-        "waitlist_enabled": false,
-        "waitlist_status": "disabled"
+        "waitlist_enabled": true,
+        "waitlist_status": "enabled"
       },
       "calendar": {
         "access_level": "public",
@@ -478,8 +478,8 @@
           "username": null
         }
       ],
-      "guest_count": 21,
-      "ticket_count": 21,
+      "guest_count": 23,
+      "ticket_count": 23,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -980,8 +980,128 @@
           "username": "muvoutside"
         }
       ],
-      "guest_count": 173,
-      "ticket_count": 173,
+      "guest_count": 191,
+      "ticket_count": 191,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "role": null
+    },
+    {
+      "api_id": "evt-toGxR6krxqA6QyC",
+      "event": {
+        "api_id": "evt-toGxR6krxqA6QyC",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-07-26T19:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică x MUV Outside: Herăstrău x Roaba de Cultură",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/02/e1b81c83-7456-473f-83a1-abcc7078bd13.png",
+        "start_at": "2026-07-26T06:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "5kg9byko",
+        "user_api_id": "usr-VFzvpYr0VoLoSce",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Statue of Charles De Gaulle",
+          "country": "Romania",
+          "place_id": "ChIJ3QTW6BECskARp5Y5jlub2ok",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Statuia lui Charles De Gaulle",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Bucureşti Sectorul 1",
+              "full_address": "Statuia lui Charles De Gaulle, Piața Charles de Gaulle 3, București, România",
+              "region_short": "București",
+              "short_address": "Piața Charles de Gaulle 3, București"
+            },
+            "en-GB": {
+              "city": "București",
+              "region": "București",
+              "address": "Statue of Charles De Gaulle",
+              "country": "Romania",
+              "city_state": "București, Romania",
+              "sublocality": "Bucureşti Sectorul 1",
+              "full_address": "Statue of Charles De Gaulle, Piața Charles de Gaulle 3, București, Romania",
+              "region_short": "București",
+              "short_address": "Piața Charles de Gaulle 3, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Bucureşti Sectorul 1",
+          "country_code": "RO",
+          "full_address": "Statue of Charles De Gaulle, Piața Charles de Gaulle 3, București, Romania",
+          "region_short": "București",
+          "short_address": "Piața Charles de Gaulle 3, București",
+          "place_coordinate": {
+            "latitude": 44.4669898,
+            "longitude": 26.085720199999997
+          },
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.085720199999997,
+          "latitude": 44.4669898
+        },
+        "waitlist_enabled": true,
+        "waitlist_status": "active"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "slug": "turadeduminica",
+        "website": null,
+        "city": null,
+        "is_personal": false,
+        "personal_user": null,
+        "geo_city": null,
+        "geo_country": null,
+        "geo_region": null,
+        "timezone": null
+      },
+      "start_at": "2026-07-26T06:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-VFzvpYr0VoLoSce",
+          "name": "Endi Ungureanu",
+          "username": "endi"
+        },
+        {
+          "api_id": "usr-yomhnvpt5g17mhz",
+          "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 48,
+      "ticket_count": 48,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1122,8 +1242,8 @@
           "username": "TheSpinningEra"
         }
       ],
-      "guest_count": 10,
-      "ticket_count": 12,
+      "guest_count": 12,
+      "ticket_count": 14,
       "ticket_info": {
         "price": {
           "cents": 11700,
@@ -1385,7 +1505,7 @@
         }
       ],
       "guest_count": 10,
-      "ticket_count": 11,
+      "ticket_count": 10,
       "ticket_info": {
         "price": {
           "cents": 11700,
@@ -1788,6 +1908,11 @@
           "api_id": "usr-dMisZyZqBIGXuaZ",
           "name": "Bogdan Iasinovschi",
           "username": "anboias"
+        },
+        {
+          "api_id": "usr-D6MxzUp4uSMqW4u",
+          "name": "Alexandru Agatinei",
+          "username": "agatinei"
         }
       ],
       "guest_count": 0,
@@ -1898,8 +2023,8 @@
           "username": "muvoutside"
         }
       ],
-      "guest_count": 66,
-      "ticket_count": 66,
+      "guest_count": 83,
+      "ticket_count": 83,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1924,7 +2049,7 @@
         "name": "King of the Court + Social",
         "one_to_one": true,
         "recurrence_id": null,
-        "show_guest_list": false,
+        "show_guest_list": true,
         "social_image_url": "https://images.lumacdn.com/event-social/ul/b5d3c916-d046-4099-8208-2892f3056010.png",
         "start_at": "2026-08-03T16:00:00.000Z",
         "timezone": "Europe/Bucharest",
@@ -2002,8 +2127,8 @@
           "username": "ericmelchor"
         }
       ],
-      "guest_count": 0,
-      "ticket_count": 0,
+      "guest_count": 10,
+      "ticket_count": 10,
       "ticket_info": {
         "price": {
           "cents": 2600,
@@ -2129,6 +2254,265 @@
         "max_price": null,
         "is_sold_out": false,
         "require_approval": true
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "role": null
+    },
+    {
+      "api_id": "evt-1Xae6fU4L9JZNpV",
+      "event": {
+        "api_id": "evt-1Xae6fU4L9JZNpV",
+        "calendar_api_id": "cal-rWlQe2vrdPtmXuZ",
+        "end_at": "2026-08-08T13:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Business, Finance & AI Networking — Lansarea Psihologia Tradingului",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": false,
+        "social_image_url": "https://images.lumacdn.com/event-social/nc/59241cd0-8cba-4406-b215-07f57eec9ddf.png",
+        "start_at": "2026-08-08T08:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "yfksvj3n",
+        "user_api_id": "usr-jnGXBvrQSJXRX3N",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "The Vintage Pub",
+          "country": "Romania",
+          "place_id": "ChIJ8yFk2z__sUARGBiTtwjd3fE",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "The Vintage",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Centrul Vechi",
+              "full_address": "The Vintage, Strada Smârdan 43, 030167 București, România",
+              "region_short": "București",
+              "short_address": "Strada Smârdan 43, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Old Town",
+          "country_code": "RO",
+          "full_address": "The Vintage Pub, Strada Smârdan 43, 030167 București, Romania",
+          "region_short": "București",
+          "short_address": "Strada Smârdan 43, București",
+          "place_coordinate": {
+            "latitude": 44.430324399999996,
+            "longitude": 26.1004608
+          },
+          "apple_maps_place_id": "I5F8F2C6D6D13CF88",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.1004608,
+          "latitude": 44.430324399999996
+        },
+        "waitlist_enabled": true,
+        "waitlist_status": "enabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-rWlQe2vrdPtmXuZ",
+        "coordinate": null,
+        "description_short": null,
+        "location": null,
+        "name": "Personal",
+        "personal_user_api_id": "usr-jnGXBvrQSJXRX3N",
+        "slug": null,
+        "website": null,
+        "city": null,
+        "is_personal": true,
+        "personal_user": {
+          "api_id": "usr-jnGXBvrQSJXRX3N",
+          "name": "Armando Goldman Laszlo",
+          "username": "armandogoldman"
+        },
+        "geo_city": null,
+        "geo_country": null,
+        "geo_region": null,
+        "timezone": null
+      },
+      "start_at": "2026-08-08T08:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-jnGXBvrQSJXRX3N",
+          "name": "Armando Goldman Laszlo",
+          "username": "armandogoldman"
+        },
+        {
+          "api_id": "usr-6nzAGY2SqxykCEO",
+          "name": "Bogdan-Nicolae Albu",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "role": null
+    },
+    {
+      "api_id": "evt-j4un1kBJ30j3qXU",
+      "event": {
+        "api_id": "evt-j4un1kBJ30j3qXU",
+        "calendar_api_id": "cal-B872osgWqW83ENT",
+        "end_at": "2026-08-08T13:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Book Club #2: Portretul lui Dorian Gray | Invitat Special: Ioana (@ceaipoetic) 📚☕",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/iy/3053da88-9f03-4073-8bcc-dc80b9d86f0e.png",
+        "start_at": "2026-08-08T10:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "ww4hbyah",
+        "user_api_id": "usr-YBFN0wHZy8N0l6U",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "OTOTO Station",
+          "country": "Romania",
+          "place_id": "ChIJ-Zt_HlX_sUARPImMAXBcMHg",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "OTOTO Station",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Bucureşti Sectorul 1",
+              "full_address": "OTOTO Station, Strada Sfinții Voievozi 20-24, 030167 București, România",
+              "region_short": "București",
+              "short_address": "Strada Sfinții Voievozi 20-24, București"
+            },
+            "en-GB": {
+              "city": "București",
+              "region": "București",
+              "address": "OTOTO Station",
+              "country": "Romania",
+              "city_state": "București, Romania",
+              "sublocality": "Bucureşti Sectorul 1",
+              "full_address": "OTOTO Station, Strada Sfinții Voievozi 20-24, 030167 București, Romania",
+              "region_short": "București",
+              "short_address": "Strada Sfinții Voievozi 20-24, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Bucureşti Sectorul 1",
+          "country_code": "RO",
+          "full_address": "OTOTO Station, Strada Sfinții Voievozi 20-24, 030167 București, Romania",
+          "region_short": "București",
+          "short_address": "Strada Sfinții Voievozi 20-24, București",
+          "place_coordinate": {
+            "latitude": 44.446478,
+            "longitude": 26.0860794
+          },
+          "apple_maps_place_id": "I5896CC09A9718078",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.0860794,
+          "latitude": 44.446478
+        },
+        "waitlist_enabled": true,
+        "waitlist_status": "enabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-B872osgWqW83ENT",
+        "coordinate": {
+          "longitude": 26.1025384,
+          "latitude": 44.426767399999996
+        },
+        "description_short": "Ieșim din casă, lăsăm telefoanele și ne conectăm offline. 🚪✨ Comunitate și evenimente 100% gratuite pentru Gen Z din București. 🌳 Găsești calendarul următoarelor întâlniri mai jos. 🎟️",
+        "location": {
+          "city": "Bucharest",
+          "region": null,
+          "country": "Romania",
+          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
+          "timezone": "Europe/Bucharest",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": null,
+              "country": "România"
+            }
+          },
+          "country_code": "RO"
+        },
+        "name": "Ieșim din Casă",
+        "personal_user_api_id": null,
+        "slug": "iesimdincasa",
+        "website": "https://iesimdincasa.ro",
+        "city": {
+          "city": "Bucharest",
+          "region": null,
+          "country": "Romania",
+          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
+          "timezone": "Europe/Bucharest",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": null,
+              "country": "România"
+            }
+          },
+          "country_code": "RO"
+        },
+        "is_personal": false,
+        "personal_user": null,
+        "geo_city": "Bucharest",
+        "geo_country": "Romania",
+        "geo_region": null,
+        "timezone": "Europe/Bucharest"
+      },
+      "start_at": "2026-08-08T10:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-YBFN0wHZy8N0l6U",
+          "name": "Ieșim din Casă",
+          "username": "iesimdincasa"
+        }
+      ],
+      "guest_count": 10,
+      "ticket_count": 10,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
       },
       "registration_availability": "open",
       "waitlist_active": false,
@@ -2494,6 +2878,131 @@
       ],
       "guest_count": 0,
       "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "role": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
+    {
+      "api_id": "calev-sFpOGO8CBbe0rAp",
+      "event": {
+        "api_id": "evt-toGxR6krxqA6QyC",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-07-26T19:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică x MUV Outside: Herăstrău x Roaba de Cultură",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/02/e1b81c83-7456-473f-83a1-abcc7078bd13.png",
+        "start_at": "2026-07-26T06:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "5kg9byko",
+        "user_api_id": "usr-VFzvpYr0VoLoSce",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Statue of Charles De Gaulle",
+          "country": "Romania",
+          "place_id": "ChIJ3QTW6BECskARp5Y5jlub2ok",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Statuia lui Charles De Gaulle",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Bucureşti Sectorul 1",
+              "full_address": "Statuia lui Charles De Gaulle, Piața Charles de Gaulle 3, București, România",
+              "region_short": "București",
+              "short_address": "Piața Charles de Gaulle 3, București"
+            },
+            "en-GB": {
+              "city": "București",
+              "region": "București",
+              "address": "Statue of Charles De Gaulle",
+              "country": "Romania",
+              "city_state": "București, Romania",
+              "sublocality": "Bucureşti Sectorul 1",
+              "full_address": "Statue of Charles De Gaulle, Piața Charles de Gaulle 3, București, Romania",
+              "region_short": "București",
+              "short_address": "Piața Charles de Gaulle 3, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Bucureşti Sectorul 1",
+          "country_code": "RO",
+          "full_address": "Statue of Charles De Gaulle, Piața Charles de Gaulle 3, București, Romania",
+          "region_short": "București",
+          "short_address": "Piața Charles de Gaulle 3, București",
+          "place_coordinate": {
+            "latitude": 44.4669898,
+            "longitude": 26.085720199999997
+          },
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.085720199999997,
+          "latitude": 44.4669898
+        },
+        "waitlist_enabled": true,
+        "waitlist_status": "active"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "slug": "turadeduminica",
+        "website": null,
+        "city": null,
+        "is_personal": false,
+        "personal_user": null,
+        "geo_city": null,
+        "geo_country": null,
+        "geo_region": null,
+        "timezone": null
+      },
+      "start_at": "2026-07-26T06:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-VFzvpYr0VoLoSce",
+          "name": "Endi Ungureanu",
+          "username": "endi"
+        },
+        {
+          "api_id": "usr-yomhnvpt5g17mhz",
+          "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 48,
+      "ticket_count": 48,
       "ticket_info": {
         "price": null,
         "is_free": true,
