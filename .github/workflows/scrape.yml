@@ -3,6 +3,7 @@ name: Scrape Bucharest meetups
 on:
   schedule:
     - cron: "0 4 * * *"
+    - cron: "0 16 * * *"
   workflow_dispatch:
 
 permissions:
