@@ -4,15 +4,15 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Marți, 21 iulie
-
-- `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E23](https://lu.ma/50xg3n60)  
-  <sub>321sport · 13 participanți</sub>
-
 ### Miercuri, 22 iulie
 
 - [O zi din viaţa unui politician fericit](https://www.iabilet.ro/bilete-o-zi-din-viata-unui-politician-fericit-128452/)  
   <sub>Teatrul Improteca</sub>
+
+### Joi, 23 iulie
+
+- `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E24](https://lu.ma/mj1h0gmt)  
+  <sub>321sport · 25 de participanți</sub>
 
 ### Vineri, 24 iulie
 
@@ -22,11 +22,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Sâmbătă, 25 iulie
 
 - `08:30` [Granola Run & Barista Talk - 321sport x Good Routine](https://lu.ma/81m0k7nx)  
-  <sub>321sport · 35 de participanți</sub>
+  <sub>321sport · 44 de participanți</sub>
 - `09:30` [Pilates En Plein Air \| The Clique X Anamorphosis](https://lu.ma/vd425gve)  
-  <sub>The Clique · 14 participanți</sub>
+  <sub>The Clique · 29 de participanți</sub>
 - `10:00` [Yoga & Sip 🧘‍♀️](https://lu.ma/9k4z867b)  
-  <sub>Oportune · 19 participanți</sub>
+  <sub>Oportune · 21 de participanți</sub>
 - `13:00` [AI Game Jam #1: Ship a Web Game in 6 Hours + Afterparty](https://lu.ma/tagpbosj)  
   <sub>pax · 24 de participanți</sub>
 - `15:00` [Wildest Ride: A Taylor Swift-Themed Indoor Cycling Experience - #1](https://lu.ma/70stbph3)  
@@ -42,9 +42,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 26 iulie
 
 - `09:00` [FOREVER OUTSIDERS - our first anniversary 🫶🏼](https://lu.ma/uxgskxe7)  
-  <sub>MuvOutside · 149 de participanți</sub>
+  <sub>MuvOutside · 173 de participanți</sub>
 - `15:00` [Wildest Ride: A Taylor Swift-Themed Indoor Cycling Experience - #3](https://lu.ma/lorptrqh)  
-  <sub>The Spinning Era · 9 participanți</sub>
+  <sub>The Spinning Era · 10 participanți</sub>
 - `16:00` [90s Noir: The Exhibition & Afterparty](https://lu.ma/68c45ncc)  
   <sub>Armina Caponi</sub>
 - `17:00` [Wildest Ride: A Taylor Swift-Themed Indoor Cycling Experience - #4](https://lu.ma/vebdezno)  
@@ -53,7 +53,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Marți, 28 iulie
 
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E25](https://lu.ma/cnxx28ns)  
-  <sub>321sport · 3 participanți</sub>
+  <sub>321sport · 6 participanți</sub>
 
 ### Miercuri, 29 iulie
 
@@ -63,7 +63,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Joi, 30 iulie
 
 - `18:00` [Lansare carte Adrian Matache si Alexandru Ungureanu](https://lu.ma/jz86se3y)  
-  <sub>Adrian Matache · 3 participanți</sub>
+  <sub>Adrian Matache · 4 participanți</sub>
+- `19:00` [DevNights#7](https://lu.ma/em95ftyf)  
+  <sub>Oprea Matei</sub>
 
 ---
 
@@ -73,7 +75,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Vineri, 31 iulie
 
 - `20:00` [PULSE #51 - muv now, pizza after](https://lu.ma/etd597c7)  
-  <sub>MuvOutside · 27 de participanți</sub>
+  <sub>MuvOutside · 66 de participanți</sub>
 
 ### Luni, 3 august
 
@@ -84,11 +86,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-21)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-22)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-21)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-22)
 
 ## Despre
 
@@ -102,4 +104,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 21 iulie 2026*
+*Actualizat: 22 iulie 2026*
