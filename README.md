@@ -4,13 +4,6 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Joi, 23 iulie
-
-- `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E24](https://lu.ma/mj1h0gmt)  
-  <sub>321sport · 54 de participanți</sub>
-- `21:00` [Film in aer liber: The Hundred Foot Journey](https://greenrevolution.ro/eveniment/film-in-aer-liber-the-hundred-foot-journey/)  
-  <sub>Roaba de Cultură</sub>
-
 ### Vineri, 24 iulie
 
 - [Maraton de Crowd Work cu Gabriel Gherghe](https://www.iabilet.ro/bilete-the-fool-maraton-de-crowd-work-cu-gabriel-gherghe-128592/)  
@@ -21,13 +14,13 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `08:00` [Yoga in aer liber cu Alexandra Bordeianu](https://greenrevolution.ro/eveniment/yoga-in-aer-liber-cu-alexandra-bordeianu/)  
   <sub>Roaba de Cultură</sub>
 - `08:30` [Granola Run & Barista Talk - 321sport x Good Routine](https://lu.ma/81m0k7nx)  
-  <sub>321sport · 47 de participanți</sub>
+  <sub>321sport · 50 de participanți</sub>
 - `09:30` [Pilates En Plein Air \| The Clique X Anamorphosis](https://lu.ma/vd425gve)  
-  <sub>The Clique · 32 de participanți</sub>
+  <sub>The Clique · 33 de participanți</sub>
 - `10:00` [Yoga & Sip 🧘‍♀️](https://lu.ma/9k4z867b)  
   <sub>Oportune · 25 de participanți</sub>
 - `13:00` [AI Game Jam #1: Ship a Web Game in 6 Hours + Afterparty](https://lu.ma/tagpbosj)  
-  <sub>pax · 23 de participanți</sub>
+  <sub>pax · 24 de participanți</sub>
 - `15:00` [Wildest Ride: A Taylor Swift-Themed Indoor Cycling Experience - #1](https://lu.ma/70stbph3)  
   <sub>The Spinning Era · 13 participanți</sub>
 - `17:00` [Wildest Ride: A Taylor Swift-Themed Indoor Cycling Experience - #2](https://lu.ma/e8ahh1u6)  
@@ -45,11 +38,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `09:00` [Aniversarea comunitatii Muvoutside](https://greenrevolution.ro/eveniment/aniversarea-comunitatii-muvoutside/)  
   <sub>Roaba de Cultură</sub>
 - `09:00` [FOREVER OUTSIDERS - our first anniversary 🫶🏼](https://lu.ma/uxgskxe7)  
-  <sub>MuvOutside · 223 de participanți</sub>
+  <sub>MuvOutside · 236 de participanți</sub>
 - `09:00` [Tura de duminică x MUV Outside: Herăstrău x Roaba de Cultură](https://lu.ma/5kg9byko)  
-  <sub>Endi Ungureanu · 89 de participanți</sub>
+  <sub>Endi Ungureanu · 105 de participanți</sub>
 - `15:00` [Wildest Ride: A Taylor Swift-Themed Indoor Cycling Experience - #3](https://lu.ma/lorptrqh)  
-  <sub>The Spinning Era · 12 participanți</sub>
+  <sub>The Spinning Era · 13 participanți</sub>
 - `16:00` [90s Noir: The Exhibition & Afterparty](https://lu.ma/68c45ncc)  
   <sub>Armina Caponi</sub>
 - `17:00` [Wildest Ride: A Taylor Swift-Themed Indoor Cycling Experience - #4](https://lu.ma/vebdezno)  
@@ -85,7 +78,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Vineri, 31 iulie
 
 - `20:00` [PULSE #51 - muv now, pizza after](https://lu.ma/etd597c7)  
-  <sub>MuvOutside · 88 de participanți</sub>
+  <sub>MuvOutside · 90 de participanți</sub>
 
 ### Duminică, 2 august
 
@@ -94,17 +87,17 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `08:30` [Tura de duminică I.O.R.](https://lu.ma/10fat4xh)  
   <sub>Irina Tenovici · 1 participant</sub>
 - `08:30` [Tura de duminică Tineretului](https://lu.ma/ho6qq6zb)  
-  <sub>Nicoleta Ifrim</sub>
+  <sub>Nicoleta Ifrim · 1 participant</sub>
 
 ### Luni, 3 august
 
 - `19:00` [King of the Court + Social](https://lu.ma/kingofthecourt)  
-  <sub>Eric Melchor · 10 participanți</sub>
+  <sub>Eric Melchor · 11 participanți</sub>
 
 ### Joi, 6 august
 
 - `18:30` [Let's Talk AI: Flair, Cocktails and AI Chats - powered by AI Leaders Romania](https://lu.ma/i64r80ng)  
-  <sub>Matei Stefan · 42 de participanți</sub>
+  <sub>Matei Stefan · 43 de participanți</sub>
 
 ---
 
@@ -115,11 +108,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-23)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-24)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-23)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-24)
 
 ## Despre
 
@@ -133,4 +126,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 23 iulie 2026*
+*Actualizat: 24 iulie 2026*
