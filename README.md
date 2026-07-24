@@ -14,13 +14,15 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `08:00` [Yoga in aer liber cu Alexandra Bordeianu](https://greenrevolution.ro/eveniment/yoga-in-aer-liber-cu-alexandra-bordeianu/)  
   <sub>Roaba de Cultură</sub>
 - `08:30` [Granola Run & Barista Talk - 321sport x Good Routine](https://lu.ma/81m0k7nx)  
-  <sub>321sport · 50 de participanți</sub>
+  <sub>321sport · 52 de participanți</sub>
 - `09:30` [Pilates En Plein Air \| The Clique X Anamorphosis](https://lu.ma/vd425gve)  
   <sub>The Clique · 33 de participanți</sub>
 - `10:00` [Yoga & Sip 🧘‍♀️](https://lu.ma/9k4z867b)  
-  <sub>Oportune · 25 de participanți</sub>
+  <sub>Oportune · 24 de participanți</sub>
 - `13:00` [AI Game Jam #1: Ship a Web Game in 6 Hours + Afterparty](https://lu.ma/tagpbosj)  
-  <sub>pax · 24 de participanți</sub>
+  <sub>pax · 25 de participanți</sub>
+- `14:00` [Cafeaua De Sâmbăta #24](https://lu.ma/g714syuz)  
+  <sub>Ionut Alexandru Stanciu · 16 participanți</sub>
 - `15:00` [Wildest Ride: A Taylor Swift-Themed Indoor Cycling Experience - #1](https://lu.ma/70stbph3)  
   <sub>The Spinning Era · 13 participanți</sub>
 - `17:00` [Wildest Ride: A Taylor Swift-Themed Indoor Cycling Experience - #2](https://lu.ma/e8ahh1u6)  
@@ -38,9 +40,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `09:00` [Aniversarea comunitatii Muvoutside](https://greenrevolution.ro/eveniment/aniversarea-comunitatii-muvoutside/)  
   <sub>Roaba de Cultură</sub>
 - `09:00` [FOREVER OUTSIDERS - our first anniversary 🫶🏼](https://lu.ma/uxgskxe7)  
-  <sub>MuvOutside · 236 de participanți</sub>
+  <sub>MuvOutside · 238 de participanți</sub>
 - `09:00` [Tura de duminică x MUV Outside: Herăstrău x Roaba de Cultură](https://lu.ma/5kg9byko)  
-  <sub>Endi Ungureanu · 105 de participanți</sub>
+  <sub>Endi Ungureanu · 108 de participanți</sub>
 - `15:00` [Wildest Ride: A Taylor Swift-Themed Indoor Cycling Experience - #3](https://lu.ma/lorptrqh)  
   <sub>The Spinning Era · 13 participanți</sub>
 - `16:00` [90s Noir: The Exhibition & Afterparty](https://lu.ma/68c45ncc)  
@@ -78,7 +80,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Vineri, 31 iulie
 
 - `20:00` [PULSE #51 - muv now, pizza after](https://lu.ma/etd597c7)  
-  <sub>MuvOutside · 90 de participanți</sub>
+  <sub>MuvOutside · 91 de participanți</sub>
 
 ### Duminică, 2 august
 

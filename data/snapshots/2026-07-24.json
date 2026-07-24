@@ -132,16 +132,16 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 50,
-      "ticket_count": 50,
+      "guest_count": 52,
+      "ticket_count": 52,
       "ticket_info": {
         "price": null,
         "is_free": true,
         "max_price": null,
-        "is_sold_out": true,
+        "is_sold_out": false,
         "require_approval": false
       },
-      "registration_availability": "sold-out",
+      "registration_availability": "open",
       "waitlist_active": false,
       "featured_city": null,
       "role": null
@@ -336,17 +336,17 @@
           "username": null
         }
       ],
-      "guest_count": 25,
-      "ticket_count": 25,
+      "guest_count": 24,
+      "ticket_count": 24,
       "ticket_info": {
         "price": null,
         "is_free": true,
         "max_price": null,
-        "is_sold_out": true,
+        "is_sold_out": false,
         "require_approval": false
       },
-      "registration_availability": "waitlist",
-      "waitlist_active": true,
+      "registration_availability": "open",
+      "waitlist_active": false,
       "featured_city": null,
       "role": null
     },
@@ -440,8 +440,8 @@
           "username": "paxx"
         }
       ],
-      "guest_count": 24,
-      "ticket_count": 24,
+      "guest_count": 25,
+      "ticket_count": 25,
       "ticket_info": {
         "price": null,
         "is_free": false,
@@ -838,8 +838,8 @@
           "username": "muvoutside"
         }
       ],
-      "guest_count": 236,
-      "ticket_count": 236,
+      "guest_count": 238,
+      "ticket_count": 238,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -958,8 +958,8 @@
           "username": null
         }
       ],
-      "guest_count": 105,
-      "ticket_count": 105,
+      "guest_count": 108,
+      "ticket_count": 108,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2034,8 +2034,8 @@
           "username": "muvoutside"
         }
       ],
-      "guest_count": 90,
-      "ticket_count": 90,
+      "guest_count": 91,
+      "ticket_count": 91,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3110,8 +3110,8 @@
           "username": null
         }
       ],
-      "guest_count": 105,
-      "ticket_count": 105,
+      "guest_count": 108,
+      "ticket_count": 108,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -5541,6 +5541,144 @@
       "featured_city": null,
       "role": null,
       "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    }
+  ],
+  "calendar:CafeauaDeSambata": [
+    {
+      "api_id": "calev-D3tGC1yVScUc62f",
+      "event": {
+        "api_id": "evt-Mo8Qg55CRwR0UEn",
+        "calendar_api_id": "cal-EoV2Bj45CjQhWF3",
+        "end_at": "2026-07-25T14:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Cafeaua De Sâmbăta #24",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/25/df95a1ef-70f8-49d5-80b9-4259487aa476.png",
+        "start_at": "2026-07-25T11:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "g714syuz",
+        "user_api_id": "usr-qvDXAFqTEFvT4tG",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Mélange Café",
+          "country": "Romania",
+          "place_id": "ChIJ744zvFT_sUARqHmA4rPmrbo",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Mélange Café",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Sectorul 2",
+              "full_address": "Mélange Café, Strada Oltarului 3, 030167 București, România",
+              "region_short": "București",
+              "short_address": "Strada Oltarului 3, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Sectorul 2",
+          "country_code": "RO",
+          "full_address": "Mélange Café, Strada Oltarului 3, 030167 București, Romania",
+          "region_short": "București",
+          "short_address": "Strada Oltarului 3, București",
+          "apple_maps_place_id": "ICEAD269819C1EDE4",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.116931700000002,
+          "latitude": 44.4420794
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-EoV2Bj45CjQhWF3",
+        "coordinate": {
+          "longitude": 26.1025384,
+          "latitude": 44.426767399999996
+        },
+        "description_short": "",
+        "location": {
+          "city": "Bucharest",
+          "region": null,
+          "country": "Romania",
+          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
+          "timezone": "Europe/Bucharest",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": null,
+              "country": "România"
+            }
+          },
+          "country_code": "RO"
+        },
+        "name": "Coffees",
+        "personal_user_api_id": null,
+        "slug": "CafeauaDeSambata",
+        "website": null,
+        "city": {
+          "city": "Bucharest",
+          "region": null,
+          "country": "Romania",
+          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
+          "timezone": "Europe/Bucharest",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": null,
+              "country": "România"
+            }
+          },
+          "country_code": "RO"
+        },
+        "is_personal": false,
+        "personal_user": null,
+        "geo_city": "Bucharest",
+        "geo_country": "Romania",
+        "geo_region": null,
+        "timezone": "Europe/Bucharest"
+      },
+      "start_at": "2026-07-25T11:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-qvDXAFqTEFvT4tG",
+          "name": "Ionut Alexandru Stanciu",
+          "username": "alexstanciu"
+        }
+      ],
+      "guest_count": 16,
+      "ticket_count": 16,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "role": null,
+      "calendar_api_id": "cal-EoV2Bj45CjQhWF3",
       "is_manager": true,
       "platform": "luma",
       "status": "approved",
