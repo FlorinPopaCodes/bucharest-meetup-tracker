@@ -4,6 +4,7 @@
 # events from these calendars are dropped.
 seed_calendars:
   - turadeduminica
+  - CafeauaDeSambata
 
 # Non-lu.ma iCal (.ics) feeds. Only VEVENTs tagged with `category` are kept,
 # and they still pass the Bucharest text filter (on the iCal LOCATION field).
