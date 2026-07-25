@@ -4,11 +4,6 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Vineri, 24 iulie
-
-- [Maraton de Crowd Work cu Gabriel Gherghe](https://www.iabilet.ro/bilete-the-fool-maraton-de-crowd-work-cu-gabriel-gherghe-128592/)  
-  <sub>The Fool</sub>
-
 ### Sâmbătă, 25 iulie
 
 - `08:00` [Yoga in aer liber cu Alexandra Bordeianu](https://greenrevolution.ro/eveniment/yoga-in-aer-liber-cu-alexandra-bordeianu/)  
@@ -22,7 +17,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `13:00` [AI Game Jam #1: Ship a Web Game in 6 Hours + Afterparty](https://lu.ma/tagpbosj)  
   <sub>pax · 26 de participanți</sub>
 - `14:00` [Cafeaua De Sâmbăta #24](https://lu.ma/g714syuz)  
-  <sub>Ionut Alexandru Stanciu · 18 participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 19 participanți</sub>
 - `15:00` [Wildest Ride: A Taylor Swift-Themed Indoor Cycling Experience - #1](https://lu.ma/70stbph3)  
   <sub>The Spinning Era · 13 participanți</sub>
 - `17:00` [Wildest Ride: A Taylor Swift-Themed Indoor Cycling Experience - #2](https://lu.ma/e8ahh1u6)  
@@ -40,22 +35,22 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `09:00` [Aniversarea comunitatii Muvoutside](https://greenrevolution.ro/eveniment/aniversarea-comunitatii-muvoutside/)  
   <sub>Roaba de Cultură</sub>
 - `09:00` [FOREVER OUTSIDERS - our first anniversary 🫶🏼](https://lu.ma/uxgskxe7)  
-  <sub>MuvOutside · 256 de participanți</sub>
+  <sub>MuvOutside · 274 de participanți</sub>
 - `09:00` [Tura de duminică x MUV Outside: Herăstrău x Roaba de Cultură](https://lu.ma/5kg9byko)  
-  <sub>Endi Ungureanu · 116 de participanți</sub>
+  <sub>Endi Ungureanu · 119 de participanți</sub>
 - `15:00` [Wildest Ride: A Taylor Swift-Themed Indoor Cycling Experience - #3](https://lu.ma/lorptrqh)  
   <sub>The Spinning Era · 13 participanți</sub>
 - `16:00` [90s Noir: The Exhibition & Afterparty](https://lu.ma/68c45ncc)  
   <sub>Armina Caponi</sub>
 - `17:00` [Wildest Ride: A Taylor Swift-Themed Indoor Cycling Experience - #4](https://lu.ma/vebdezno)  
-  <sub>The Spinning Era · 13 participanți</sub>
+  <sub>The Spinning Era · 14 participanți</sub>
 - `18:00` [Volei cu Oportune 🏐](https://lu.ma/ecme268a)  
-  <sub>Oportune · 6 participanți</sub>
+  <sub>Oportune · 5 participanți</sub>
 
 ### Marți, 28 iulie
 
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E25](https://lu.ma/cnxx28ns)  
-  <sub>321sport · 6 participanți</sub>
+  <sub>321sport · 8 participanți</sub>
 
 ### Miercuri, 29 iulie
 
@@ -82,7 +77,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Vineri, 31 iulie
 
 - `20:00` [PULSE #51 - muv now, pizza after](https://lu.ma/etd597c7)  
-  <sub>MuvOutside · 94 de participanți</sub>
+  <sub>MuvOutside · 99 de participanți</sub>
 
 ### Duminică, 2 august
 
@@ -108,15 +103,27 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - [Iubitule, hai să renovăm!](https://www.iabilet.ro/bilete-iubitule-hai-sa-renovam-129154/)  
   <sub>Teatrul Improteca</sub>
 
+### Sâmbătă, 8 august
+
+- `11:00` [Business, Finance & AI Networking — Lansarea Psihologia Tradingului](https://lu.ma/yfksvj3n)  
+  <sub>Armando Goldman Laszlo</sub>
+- `13:00` [Book Club #2: Portretul lui Dorian Gray \| Invitat Special: Ioana (@ceaipoetic) 📚☕](https://lu.ma/ww4hbyah)  
+  <sub>Lucian Savu · 14 participanți</sub>
+
+---
+
+- [La joacă cu bunicii](https://www.iabilet.ro/bilete-la-joaca-cu-bunicii-129292/)  
+  <sub>Teatrul Improteca</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-24)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-25)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-24)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-25)
 
 ## Despre
 
@@ -130,4 +137,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 24 iulie 2026*
+*Actualizat: 25 iulie 2026*
