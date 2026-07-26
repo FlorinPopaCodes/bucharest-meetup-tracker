@@ -9,7 +9,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `09:00` [Aniversarea comunitatii Muvoutside](https://greenrevolution.ro/eveniment/aniversarea-comunitatii-muvoutside/)  
   <sub>Roaba de Cultură</sub>
 - `09:00` [FOREVER OUTSIDERS - our first anniversary 🫶🏼](https://lu.ma/uxgskxe7)  
-  <sub>MuvOutside · 353 de participanți</sub>
+  <sub>MuvOutside · 365 de participanți</sub>
 - `09:00` [Tura de duminică x MUV Outside: Herăstrău x Roaba de Cultură](https://lu.ma/5kg9byko)  
   <sub>Endi Ungureanu · 150 de participanți</sub>
 - `15:00` [Wildest Ride: A Taylor Swift-Themed Indoor Cycling Experience - #3](https://lu.ma/lorptrqh)  
@@ -19,12 +19,12 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `17:00` [Wildest Ride: A Taylor Swift-Themed Indoor Cycling Experience - #4](https://lu.ma/vebdezno)  
   <sub>The Spinning Era · 14 participanți</sub>
 - `18:00` [Volei cu Oportune 🏐](https://lu.ma/ecme268a)  
-  <sub>Oportune · 9 participanți</sub>
+  <sub>Oportune · 12 participanți</sub>
 
 ### Marți, 28 iulie
 
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E25](https://lu.ma/cnxx28ns)  
-  <sub>321sport · 10 participanți</sub>
+  <sub>321sport · 14 participanți</sub>
 
 ### Miercuri, 29 iulie
 
@@ -51,12 +51,12 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Vineri, 31 iulie
 
 - `20:00` [PULSE #51 - muv now, pizza after](https://lu.ma/etd597c7)  
-  <sub>MuvOutside · 101 de participanți</sub>
+  <sub>MuvOutside · 102 de participanți</sub>
 
 ### Sâmbătă, 1 august
 
 - `10:00` [Run after Coffee 🏃‍♂️☕️](https://lu.ma/qd16r7ie)  
-  <sub>Oportune · 9 participanți</sub>
+  <sub>Oportune · 11 participanți</sub>
 
 ### Duminică, 2 august
 
@@ -74,7 +74,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Joi, 6 august
 
-- `18:30` [Let's Talk AI: Flair, Cocktails and AI Chats - powered by AI Leaders Romania](https://lu.ma/i64r80ng)  
+- `18:30` [Let's Talk AI: Flair, Cocktails and AI Chats #3 (w/ The AI Collective)](https://lu.ma/i64r80ng)  
   <sub>Matei Stefan · 45 de participanți</sub>
 
 ---
@@ -87,7 +87,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `11:00` [Business, Finance & AI Networking — Lansarea Psihologia Tradingului](https://lu.ma/yfksvj3n)  
   <sub>Armando Goldman Laszlo</sub>
 - `13:00` [Book Club #2: Portretul lui Dorian Gray \| Invitat Special: Ioana (@ceaipoetic) 📚☕](https://lu.ma/ww4hbyah)  
-  <sub>Lucian Savu · 15 participanți</sub>
+  <sub>Lucian Savu · 14 participanți</sub>
 
 ---
 
