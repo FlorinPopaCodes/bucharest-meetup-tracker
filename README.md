@@ -4,27 +4,10 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Duminică, 26 iulie
-
-- `09:00` [Aniversarea comunitatii Muvoutside](https://greenrevolution.ro/eveniment/aniversarea-comunitatii-muvoutside/)  
-  <sub>Roaba de Cultură</sub>
-- `09:00` [FOREVER OUTSIDERS - our first anniversary 🫶🏼](https://lu.ma/uxgskxe7)  
-  <sub>MuvOutside · 365 de participanți</sub>
-- `09:00` [Tura de duminică x MUV Outside: Herăstrău x Roaba de Cultură](https://lu.ma/5kg9byko)  
-  <sub>Endi Ungureanu · 150 de participanți</sub>
-- `15:00` [Wildest Ride: A Taylor Swift-Themed Indoor Cycling Experience - #3](https://lu.ma/lorptrqh)  
-  <sub>The Spinning Era · 13 participanți</sub>
-- `16:00` [90s Noir: The Exhibition & Afterparty](https://lu.ma/68c45ncc)  
-  <sub>Armina Caponi</sub>
-- `17:00` [Wildest Ride: A Taylor Swift-Themed Indoor Cycling Experience - #4](https://lu.ma/vebdezno)  
-  <sub>The Spinning Era · 14 participanți</sub>
-- `18:00` [Volei cu Oportune 🏐](https://lu.ma/ecme268a)  
-  <sub>Oportune · 12 participanți</sub>
-
 ### Marți, 28 iulie
 
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E25](https://lu.ma/cnxx28ns)  
-  <sub>321sport · 14 participanți</sub>
+  <sub>321sport · 16 participanți</sub>
 
 ### Miercuri, 29 iulie
 
@@ -51,12 +34,12 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Vineri, 31 iulie
 
 - `20:00` [PULSE #51 - muv now, pizza after](https://lu.ma/etd597c7)  
-  <sub>MuvOutside · 102 de participanți</sub>
+  <sub>MuvOutside · 108 de participanți</sub>
 
 ### Sâmbătă, 1 august
 
 - `10:00` [Run after Coffee 🏃‍♂️☕️](https://lu.ma/qd16r7ie)  
-  <sub>Oportune · 11 participanți</sub>
+  <sub>Oportune · 13 participanți</sub>
 
 ### Duminică, 2 august
 
@@ -70,12 +53,12 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Luni, 3 august
 
 - `19:00` [King of the Court + Social](https://lu.ma/kingofthecourt)  
-  <sub>Eric Melchor · 16 participanți</sub>
+  <sub>Eric Melchor · 17 participanți</sub>
 
 ### Joi, 6 august
 
 - `18:30` [Let's Talk AI: Flair, Cocktails and AI Chats #3 (w/ The AI Collective)](https://lu.ma/i64r80ng)  
-  <sub>Matei Stefan · 45 de participanți</sub>
+  <sub>Matei Stefan · 46 de participanți</sub>
 
 ---
 
@@ -88,6 +71,8 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
   <sub>Armando Goldman Laszlo</sub>
 - `13:00` [Book Club #2: Portretul lui Dorian Gray \| Invitat Special: Ioana (@ceaipoetic) 📚☕](https://lu.ma/ww4hbyah)  
   <sub>Lucian Savu · 14 participanți</sub>
+- `14:00` [Cafeaua De Sâmbăta #25](https://lu.ma/y978bh72)  
+  <sub>Ionut Alexandru Stanciu</sub>
 
 ---
 
@@ -107,11 +92,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-26)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-27)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-26)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-27)
 
 ## Despre
 
@@ -125,4 +110,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 26 iulie 2026*
+*Actualizat: 27 iulie 2026*
