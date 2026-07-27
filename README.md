@@ -34,7 +34,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Vineri, 31 iulie
 
 - `20:00` [PULSE #51 - muv now, pizza after](https://lu.ma/etd597c7)  
-  <sub>MuvOutside · 108 de participanți</sub>
+  <sub>MuvOutside · 124 de participanți</sub>
 
 ### Sâmbătă, 1 august
 
@@ -48,7 +48,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `08:30` [Tura de duminică I.O.R.](https://lu.ma/10fat4xh)  
   <sub>Irina Tenovici · 1 participant</sub>
 - `08:30` [Tura de duminică Tineretului](https://lu.ma/ho6qq6zb)  
-  <sub>Nicoleta Ifrim · 1 participant</sub>
+  <sub>Nicoleta Ifrim · 4 participanți</sub>
 
 ### Luni, 3 august
 
@@ -58,7 +58,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Joi, 6 august
 
 - `18:30` [Let's Talk AI: Flair, Cocktails and AI Chats #3 (w/ The AI Collective)](https://lu.ma/i64r80ng)  
-  <sub>Matei Stefan · 46 de participanți</sub>
+  <sub>Matei Stefan · 48 de participanți</sub>
 
 ---
 
@@ -72,7 +72,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `13:00` [Book Club #2: Portretul lui Dorian Gray \| Invitat Special: Ioana (@ceaipoetic) 📚☕](https://lu.ma/ww4hbyah)  
   <sub>Lucian Savu · 14 participanți</sub>
 - `14:00` [Cafeaua De Sâmbăta #25](https://lu.ma/y978bh72)  
-  <sub>Ionut Alexandru Stanciu</sub>
+  <sub>Ionut Alexandru Stanciu · 3 participanți</sub>
 
 ---
 
