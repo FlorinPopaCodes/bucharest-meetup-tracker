@@ -7,7 +7,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Marți, 28 iulie
 
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E25](https://lu.ma/cnxx28ns)  
-  <sub>321sport · 16 participanți</sub>
+  <sub>321sport · 19 participanți</sub>
 
 ### Miercuri, 29 iulie
 
@@ -34,7 +34,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Vineri, 31 iulie
 
 - `20:00` [PULSE #51 - muv now, pizza after](https://lu.ma/etd597c7)  
-  <sub>MuvOutside · 124 de participanți</sub>
+  <sub>MuvOutside · 126 de participanți</sub>
 
 ### Sâmbătă, 1 august
 
@@ -44,9 +44,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 2 august
 
 - `08:30` [Tura de duminică Herăstrău](https://lu.ma/88x14yzf)  
-  <sub>Emily Merdus</sub>
+  <sub>Emily Merdus · 1 participant</sub>
 - `08:30` [Tura de duminică I.O.R.](https://lu.ma/10fat4xh)  
-  <sub>Irina Tenovici · 1 participant</sub>
+  <sub>Irina Tenovici · 2 participanți</sub>
 - `08:30` [Tura de duminică Tineretului](https://lu.ma/ho6qq6zb)  
   <sub>Nicoleta Ifrim · 4 participanți</sub>
 
@@ -70,9 +70,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `11:00` [Business, Finance & AI Networking — Lansarea Psihologia Tradingului](https://lu.ma/yfksvj3n)  
   <sub>Armando Goldman Laszlo</sub>
 - `13:00` [Book Club #2: Portretul lui Dorian Gray \| Invitat Special: Ioana (@ceaipoetic) 📚☕](https://lu.ma/ww4hbyah)  
-  <sub>Lucian Savu · 14 participanți</sub>
+  <sub>Lucian Savu · 15 participanți</sub>
 - `14:00` [Cafeaua De Sâmbăta #25](https://lu.ma/y978bh72)  
-  <sub>Ionut Alexandru Stanciu · 3 participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 4 participanți</sub>
 
 ---
 
@@ -92,11 +92,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-27)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-28)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-27)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-28)
 
 ## Despre
 
@@ -110,4 +110,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 27 iulie 2026*
+*Actualizat: 28 iulie 2026*
