@@ -19,7 +19,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:00` [Lansare carte Adrian Matache si Alexandru Ungureanu](https://lu.ma/jz86se3y)  
   <sub>Adrian Matache · 5 participanți</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E26](https://lu.ma/k04kn5eg)  
-  <sub>321sport · 24 de participanți</sub>
+  <sub>321sport · 41 de participanți</sub>
 - `19:00` [DevNights#7 - Building with AI, startups and more](https://lu.ma/em95ftyf)  
   <sub>Oprea Matei</sub>
 - `19:00` [Outdoor Reading Corner](https://greenrevolution.ro/eveniment/outdoor-reading-corner/)  
@@ -35,7 +35,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Vineri, 31 iulie
 
 - `20:00` [PULSE #51 - muv now, pizza after](https://lu.ma/etd597c7)  
-  <sub>MuvOutside · 141 de participanți</sub>
+  <sub>MuvOutside · 147 de participanți</sub>
 - `20:00` [Teatru in aer liber: Dead Poets by Brightside Drama](https://greenrevolution.ro/eveniment/teatru-in-aer-liber-dead-poets-by-brightside-drama/)  
   <sub>Roaba de Cultură</sub>
 
@@ -44,7 +44,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `08:00` [Sport în aer liber: Pilates cu Angela Vasluianu](https://greenrevolution.ro/eveniment/sport-in-aer-liber-pilates-cu-angela-vasluianu/)  
   <sub>Roaba de Cultură</sub>
 - `09:00` [Mama Mea E Florareasa 💐](https://lu.ma/gkqzlfmd)  
-  <sub>FOMO Urban Running Club · 12 participanți</sub>
+  <sub>FOMO Urban Running Club · 16 participanți</sub>
 - `10:00` [Run after Coffee 🏃‍♂️☕️](https://lu.ma/qd16r7ie)  
   <sub>Oportune · 16 participanți</sub>
 
@@ -53,25 +53,27 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `08:30` [Tura de duminică Cotroceni](https://lu.ma/1imwe2s2)  
   <sub>Aleodor Tabarcea</sub>
 - `08:30` [Tura de duminică Herăstrău](https://lu.ma/88x14yzf)  
-  <sub>Emily Merdus · 3 participanți</sub>
+  <sub>Emily Merdus · 4 participanți</sub>
 - `08:30` [Tura de duminică I.O.R.](https://lu.ma/10fat4xh)  
   <sub>Irina Tenovici · 4 participanți</sub>
 - `08:30` [Tura de duminică Tineretului](https://lu.ma/ho6qq6zb)  
-  <sub>Nicoleta Ifrim · 4 participanți</sub>
+  <sub>Nicoleta Ifrim · 5 participanți</sub>
 - `09:00` [like a girl #5](https://lu.ma/s31o9rzb)  
-  <sub>MuvOutside · 5 participanți</sub>
+  <sub>MuvOutside · 8 participanți</sub>
 - `10:00` [Treasure Hunt cu Tzitzi Poc](https://greenrevolution.ro/eveniment/treasure-hunt-cu-tzitzi-poc/)  
   <sub>Roaba de Cultură</sub>
 
 ### Luni, 3 august
 
 - `19:00` [King of the Court + Social](https://lu.ma/kingofthecourt)  
-  <sub>Eric Melchor · 17 participanți</sub>
+  <sub>Eric Melchor · 18 participanți</sub>
 
 ### Joi, 6 august
 
+- `12:30` [HeyGen User Meetup Bucharest](https://lu.ma/x3phjl94)  
+  <sub>Teodora Pl · 38 de participanți</sub>
 - `18:30` [Let's Talk AI: Flair, Cocktails and AI Chats #3 (w/ The AI Collective)](https://lu.ma/i64r80ng)  
-  <sub>Matei Stefan · 58 de participanți</sub>
+  <sub>Matei Stefan · 64 de participanți</sub>
 
 ---
 
@@ -83,9 +85,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `11:00` [Business, Finance & AI Networking — Lansarea Psihologia Tradingului](https://lu.ma/yfksvj3n)  
   <sub>Armando Goldman Laszlo</sub>
 - `13:00` [Book Club #2: Portretul lui Dorian Gray \| Invitat Special: Ioana (@ceaipoetic) 📚☕](https://lu.ma/ww4hbyah)  
-  <sub>Lucian Savu · 19 participanți</sub>
+  <sub>Lucian Savu · 20 de participanți</sub>
 - `14:00` [Cafeaua De Sâmbăta #25 \| Bucuresti](https://lu.ma/y978bh72)  
-  <sub>Ionut Alexandru Stanciu · 4 participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 8 participanți</sub>
 
 ---
 
@@ -102,6 +104,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
   <sub>Irina Tenovici · 1 participant</sub>
 - `08:30` [Tura de duminică Tineretului](https://lu.ma/qs79wo8d)  
   <sub>Nicoleta Ifrim · 1 participant</sub>
+
+### Luni, 10 august
+
+- `19:30` [321sport & FULFIL Run + Protein Talks](https://lu.ma/le22rpf9)  
+  <sub>321sport · 50 de participanți</sub>
 
 ## Activitate (ultimele 365 de zile)
 
