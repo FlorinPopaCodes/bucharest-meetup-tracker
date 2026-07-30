@@ -4,22 +4,12 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Miercuri, 29 iulie
-
-- `18:30` [🥂Art in Motion on the Rooftop @ DODA5🥂](https://lu.ma/q5dfr954)  
-  <sub>Loredana Pipie</sub>
-
----
-
-- [M-ai lovit la corporație - sketch comedy muzical Improteca](https://www.iabilet.ro/bilete-m-ai-lovit-la-corporatie-sketch-comedy-muzical-improteca-128453/)  
-  <sub>Teatrul Improteca</sub>
-
 ### Joi, 30 iulie
 
 - `18:00` [Lansare carte Adrian Matache si Alexandru Ungureanu](https://lu.ma/jz86se3y)  
   <sub>Adrian Matache · 5 participanți</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E26](https://lu.ma/k04kn5eg)  
-  <sub>321sport · 41 de participanți</sub>
+  <sub>321sport · 42 de participanți</sub>
 - `19:00` [DevNights#7 - Building with AI, startups and more](https://lu.ma/em95ftyf)  
   <sub>Oprea Matei</sub>
 - `19:00` [Outdoor Reading Corner](https://greenrevolution.ro/eveniment/outdoor-reading-corner/)  
@@ -35,7 +25,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Vineri, 31 iulie
 
 - `20:00` [PULSE #51 - muv now, pizza after](https://lu.ma/etd597c7)  
-  <sub>MuvOutside · 147 de participanți</sub>
+  <sub>MuvOutside · 162 de participanți</sub>
 - `20:00` [Teatru in aer liber: Dead Poets by Brightside Drama](https://greenrevolution.ro/eveniment/teatru-in-aer-liber-dead-poets-by-brightside-drama/)  
   <sub>Roaba de Cultură</sub>
 
@@ -44,22 +34,22 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `08:00` [Sport în aer liber: Pilates cu Angela Vasluianu](https://greenrevolution.ro/eveniment/sport-in-aer-liber-pilates-cu-angela-vasluianu/)  
   <sub>Roaba de Cultură</sub>
 - `09:00` [Mama Mea E Florareasa 💐](https://lu.ma/gkqzlfmd)  
-  <sub>FOMO Urban Running Club · 16 participanți</sub>
+  <sub>FOMO Urban Running Club · 15 participanți</sub>
 - `10:00` [Run after Coffee 🏃‍♂️☕️](https://lu.ma/qd16r7ie)  
-  <sub>Oportune · 16 participanți</sub>
+  <sub>Oportune · 17 participanți</sub>
 
 ### Duminică, 2 august
 
 - `08:30` [Tura de duminică Cotroceni](https://lu.ma/1imwe2s2)  
   <sub>Aleodor Tabarcea</sub>
 - `08:30` [Tura de duminică Herăstrău](https://lu.ma/88x14yzf)  
-  <sub>Emily Merdus · 4 participanți</sub>
+  <sub>Emily Merdus · 5 participanți</sub>
 - `08:30` [Tura de duminică I.O.R.](https://lu.ma/10fat4xh)  
   <sub>Irina Tenovici · 4 participanți</sub>
 - `08:30` [Tura de duminică Tineretului](https://lu.ma/ho6qq6zb)  
-  <sub>Nicoleta Ifrim · 5 participanți</sub>
+  <sub>Nicoleta Ifrim · 6 participanți</sub>
 - `09:00` [like a girl #5](https://lu.ma/s31o9rzb)  
-  <sub>MuvOutside · 8 participanți</sub>
+  <sub>MuvOutside · 9 participanți</sub>
 - `10:00` [Treasure Hunt cu Tzitzi Poc](https://greenrevolution.ro/eveniment/treasure-hunt-cu-tzitzi-poc/)  
   <sub>Roaba de Cultură</sub>
 
@@ -71,9 +61,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Joi, 6 august
 
 - `12:30` [HeyGen User Meetup Bucharest](https://lu.ma/x3phjl94)  
-  <sub>Teodora Pl · 38 de participanți</sub>
+  <sub>Teodora Pl · 39 de participanți</sub>
 - `18:30` [Let's Talk AI: Flair, Cocktails and AI Chats #3 (w/ The AI Collective)](https://lu.ma/i64r80ng)  
-  <sub>Matei Stefan · 64 de participanți</sub>
+  <sub>Matei Stefan · 70 de participanți</sub>
 
 ---
 
@@ -114,11 +104,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-29)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-30)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-29)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-30)
 
 ## Despre
 
@@ -132,4 +122,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 29 iulie 2026*
+*Actualizat: 30 iulie 2026*
