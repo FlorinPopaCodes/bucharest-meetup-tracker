@@ -7,7 +7,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Vineri, 31 iulie
 
 - `20:00` [PULSE #51 - muv now, pizza after](https://lu.ma/etd597c7)  
-  <sub>MuvOutside · 174 de participanți</sub>
+  <sub>MuvOutside · 171 de participanți</sub>
 - `20:00` [Teatru in aer liber: Dead Poets by Brightside Drama](https://greenrevolution.ro/eveniment/teatru-in-aer-liber-dead-poets-by-brightside-drama/)  
   <sub>Roaba de Cultură</sub>
 
@@ -16,9 +16,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `08:00` [Sport în aer liber: Pilates cu Angela Vasluianu](https://greenrevolution.ro/eveniment/sport-in-aer-liber-pilates-cu-angela-vasluianu/)  
   <sub>Roaba de Cultură</sub>
 - `09:00` [Mama Mea E Florareasa 💐](https://lu.ma/gkqzlfmd)  
-  <sub>FOMO Urban Running Club · 22 de participanți</sub>
+  <sub>FOMO Urban Running Club · 26 de participanți</sub>
 - `10:00` [Run after Coffee 🏃‍♂️☕️](https://lu.ma/qd16r7ie)  
-  <sub>Oportune · 17 participanți</sub>
+  <sub>Oportune · 18 participanți</sub>
 
 ### Duminică, 2 august
 
@@ -29,9 +29,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `08:30` [Tura de duminică I.O.R.](https://lu.ma/10fat4xh)  
   <sub>Irina Tenovici · 4 participanți</sub>
 - `08:30` [Tura de duminică Tineretului](https://lu.ma/ho6qq6zb)  
-  <sub>Nicoleta Ifrim · 6 participanți</sub>
+  <sub>Nicoleta Ifrim · 9 participanți</sub>
 - `09:00` [like a girl #5](https://lu.ma/s31o9rzb)  
-  <sub>MuvOutside · 11 participanți</sub>
+  <sub>MuvOutside · 13 participanți</sub>
 - `10:00` [Treasure Hunt cu Tzitzi Poc](https://greenrevolution.ro/eveniment/treasure-hunt-cu-tzitzi-poc/)  
   <sub>Roaba de Cultură</sub>
 
@@ -43,28 +43,33 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Marți, 4 august
 
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E27](https://lu.ma/05yqx84l)  
-  <sub>321sport · 4 participanți</sub>
+  <sub>321sport · 6 participanți</sub>
 
 ### Joi, 6 august
 
 - `12:30` [HeyGen User Meetup Bucharest](https://lu.ma/x3phjl94)  
-  <sub>Teodora Pl · 104 de participanți</sub>
+  <sub>Teodora Pl · 111 de participanți</sub>
 - `18:30` [Let's Talk AI: Flair, Cocktails and AI Chats #3 (w/ The AI Collective)](https://lu.ma/i64r80ng)  
-  <sub>Matei Stefan · 76 de participanți</sub>
+  <sub>Matei Stefan · 80 de participanți</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E28](https://lu.ma/m149jsub)  
-  <sub>321sport · 8 participanți</sub>
+  <sub>321sport · 9 participanți</sub>
 
 ---
 
 - [Iubitule, hai să renovăm!](https://www.iabilet.ro/bilete-iubitule-hai-sa-renovam-129154/)  
   <sub>Teatrul Improteca</sub>
 
+### Vineri, 7 august
+
+- `18:30` [Meet New People & Paint Your Own Tote Bag 🎨](https://lu.ma/cer3wgwz)  
+  <sub>By Mi · 4 participanți</sub>
+
 ### Sâmbătă, 8 august
 
-- `11:00` [Business, Finance & AI Networking — Lansarea Psihologia Tradingului](https://lu.ma/yfksvj3n)  
+- `12:00` [Business, Finance & AI Networking — Lansarea Psihologia Tradingului](https://lu.ma/yfksvj3n)  
   <sub>Armando Goldman Laszlo</sub>
 - `13:00` [AI Hacking Jam #1: Build offensive & defensive AI security projects inspired by the ANCPI breach](https://lu.ma/o4520lh6)  
-  <sub>pax · 8 participanți</sub>
+  <sub>pax · 9 participanți</sub>
 - `13:00` [Book Club #2: Portretul lui Dorian Gray \| Invitat Special: Ioana (@ceaipoetic) 📚☕](https://lu.ma/ww4hbyah)  
   <sub>Lucian Savu · 20 de participanți</sub>
 - `14:00` [Cafeaua De Sâmbăta #25 \| Bucuresti](https://lu.ma/y978bh72)  
@@ -94,7 +99,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Joi, 13 august
 
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E30](https://lu.ma/wgkl6pv2)  
-  <sub>321sport · 7 participanți</sub>
+  <sub>321sport · 8 participanți</sub>
 
 ## Activitate (ultimele 365 de zile)
 
