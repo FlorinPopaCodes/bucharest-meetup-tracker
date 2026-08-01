@@ -4,28 +4,21 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Vineri, 31 iulie
-
-- `20:00` [PULSE #51 - muv now, pizza after](https://lu.ma/etd597c7)  
-  <sub>MuvOutside · 171 de participanți</sub>
-- `20:00` [Teatru in aer liber: Dead Poets by Brightside Drama](https://greenrevolution.ro/eveniment/teatru-in-aer-liber-dead-poets-by-brightside-drama/)  
-  <sub>Roaba de Cultură</sub>
-
 ### Sâmbătă, 1 august
 
 - `08:00` [Sport în aer liber: Pilates cu Angela Vasluianu](https://greenrevolution.ro/eveniment/sport-in-aer-liber-pilates-cu-angela-vasluianu/)  
   <sub>Roaba de Cultură</sub>
 - `09:00` [Mama Mea E Florareasa 💐](https://lu.ma/gkqzlfmd)  
-  <sub>FOMO Urban Running Club · 26 de participanți</sub>
+  <sub>FOMO Urban Running Club · 28 de participanți</sub>
 - `10:00` [Run after Coffee 🏃‍♂️☕️](https://lu.ma/qd16r7ie)  
-  <sub>Oportune · 18 participanți</sub>
+  <sub>Oportune · 19 participanți</sub>
 
 ### Duminică, 2 august
 
 - `08:30` [Tura de duminică Cotroceni](https://lu.ma/1imwe2s2)  
   <sub>Aleodor Tabarcea · 3 participanți</sub>
 - `08:30` [Tura de duminică Herăstrău](https://lu.ma/88x14yzf)  
-  <sub>Emily Merdus · 8 participanți</sub>
+  <sub>Emily Merdus · 9 participanți</sub>
 - `08:30` [Tura de duminică I.O.R.](https://lu.ma/10fat4xh)  
   <sub>Irina Tenovici · 4 participanți</sub>
 - `08:30` [Tura de duminică Tineretului](https://lu.ma/ho6qq6zb)  
@@ -50,9 +43,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `12:30` [HeyGen User Meetup Bucharest](https://lu.ma/x3phjl94)  
   <sub>Teodora Pl · 111 de participanți</sub>
 - `18:30` [Let's Talk AI: Flair, Cocktails and AI Chats #3 (w/ The AI Collective)](https://lu.ma/i64r80ng)  
-  <sub>Matei Stefan · 80 de participanți</sub>
+  <sub>Matei Stefan · 81 de participanți</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E28](https://lu.ma/m149jsub)  
-  <sub>321sport · 9 participanți</sub>
+  <sub>321sport · 10 participanți</sub>
 
 ---
 
@@ -73,7 +66,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `13:00` [Book Club #2: Portretul lui Dorian Gray \| Invitat Special: Ioana (@ceaipoetic) 📚☕](https://lu.ma/ww4hbyah)  
   <sub>Lucian Savu · 20 de participanți</sub>
 - `14:00` [Cafeaua De Sâmbăta #25 \| Bucuresti](https://lu.ma/y978bh72)  
-  <sub>Ionut Alexandru Stanciu · 9 participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 10 participanți</sub>
 
 ---
 
@@ -105,11 +98,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-31)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-01)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-31)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-01)
 
 ## Despre
 
@@ -123,4 +116,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 31 iulie 2026*
+*Actualizat: 1 august 2026*
