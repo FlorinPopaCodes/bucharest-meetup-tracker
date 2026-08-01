@@ -16,15 +16,15 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 2 august
 
 - `08:30` [Tura de duminică Cotroceni](https://lu.ma/1imwe2s2)  
-  <sub>Aleodor Tabarcea · 3 participanți</sub>
+  <sub>Aleodor Tabarcea · 10 participanți</sub>
 - `08:30` [Tura de duminică Herăstrău](https://lu.ma/88x14yzf)  
-  <sub>Emily Merdus · 9 participanți</sub>
+  <sub>Emily Merdus · 21 de participanți</sub>
 - `08:30` [Tura de duminică I.O.R.](https://lu.ma/10fat4xh)  
-  <sub>Irina Tenovici · 4 participanți</sub>
+  <sub>Irina Tenovici · 6 participanți</sub>
 - `08:30` [Tura de duminică Tineretului](https://lu.ma/ho6qq6zb)  
-  <sub>Nicoleta Ifrim · 9 participanți</sub>
+  <sub>Nicoleta Ifrim · 10 participanți</sub>
 - `09:00` [like a girl #5](https://lu.ma/s31o9rzb)  
-  <sub>MuvOutside · 13 participanți</sub>
+  <sub>MuvOutside · 15 participanți</sub>
 - `10:00` [Treasure Hunt cu Tzitzi Poc](https://greenrevolution.ro/eveniment/treasure-hunt-cu-tzitzi-poc/)  
   <sub>Roaba de Cultură</sub>
 
