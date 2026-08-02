@@ -27,7 +27,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Marți, 4 august
 
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E27](https://lu.ma/05yqx84l)  
-  <sub>321sport · 6 participanți</sub>
+  <sub>321sport · 7 participanți</sub>
 
 ### Miercuri, 5 august
 
@@ -37,11 +37,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Joi, 6 august
 
 - `12:30` [HeyGen User Meetup Bucharest](https://lu.ma/x3phjl94)  
-  <sub>Teodora Pl · 110 de participanți</sub>
+  <sub>Teodora Pl · 113 de participanți</sub>
 - `18:30` [Let's Talk AI: Flair, Cocktails and AI Chats #3 (w/ The AI Collective)](https://lu.ma/i64r80ng)  
-  <sub>Matei Stefan · 81 de participanți</sub>
+  <sub>Matei Stefan · 80 de participanți</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E28](https://lu.ma/m149jsub)  
-  <sub>321sport · 10 participanți</sub>
+  <sub>321sport · 11 participanți</sub>
 
 ---
 
@@ -72,7 +72,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 9 august
 
 - `08:30` [Tura de duminică Cotroceni](https://lu.ma/he7rdx8w)  
-  <sub>Aleodor Tabarcea</sub>
+  <sub>Aleodor Tabarcea · 1 participant</sub>
 - `08:30` [Tura de duminică Herăstrău](https://lu.ma/8hoq0ljq)  
   <sub>Emily Merdus · 1 participant</sub>
 - `08:30` [Tura de duminică I.O.R.](https://lu.ma/z8aj9iac)  
@@ -88,7 +88,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Joi, 13 august
 
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E30](https://lu.ma/wgkl6pv2)  
-  <sub>321sport · 8 participanți</sub>
+  <sub>321sport · 9 participanți</sub>
 
 ### Duminică, 16 august
 
