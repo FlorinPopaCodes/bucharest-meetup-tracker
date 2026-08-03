@@ -4,21 +4,6 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Duminică, 2 august
-
-- `08:30` [Tura de duminică Cotroceni](https://lu.ma/1imwe2s2)  
-  <sub>Aleodor Tabarcea · 11 participanți</sub>
-- `08:30` [Tura de duminică Herăstrău](https://lu.ma/88x14yzf)  
-  <sub>Emily Merdus · 26 de participanți</sub>
-- `08:30` [Tura de duminică I.O.R.](https://lu.ma/10fat4xh)  
-  <sub>Irina Tenovici · 10 participanți</sub>
-- `08:30` [Tura de duminică Tineretului](https://lu.ma/ho6qq6zb)  
-  <sub>Nicoleta Ifrim · 14 participanți</sub>
-- `09:00` [like a girl #5](https://lu.ma/s31o9rzb)  
-  <sub>MuvOutside · 17 participanți</sub>
-- `10:00` [Treasure Hunt cu Tzitzi Poc](https://greenrevolution.ro/eveniment/treasure-hunt-cu-tzitzi-poc/)  
-  <sub>Roaba de Cultură</sub>
-
 ### Luni, 3 august
 
 - `19:00` [King of the Court + Social](https://lu.ma/kingofthecourt)  
@@ -27,7 +12,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Marți, 4 august
 
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E27](https://lu.ma/05yqx84l)  
-  <sub>321sport · 7 participanți</sub>
+  <sub>321sport · 8 participanți</sub>
 
 ### Miercuri, 5 august
 
@@ -51,12 +36,12 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Vineri, 7 august
 
 - `18:30` [Meet New People & Paint Your Own Tote Bag 🎨](https://lu.ma/cer3wgwz)  
-  <sub>By Mi · 4 participanți</sub>
+  <sub>By Mi · 5 participanți</sub>
 
 ### Sâmbătă, 8 august
 
 - `12:00` [Business, Finance & AI Networking — Lansarea Psihologia Tradingului](https://lu.ma/yfksvj3n)  
-  <sub>Armando Goldman Laszlo</sub>
+  <sub>Bogdan-Nicolae Albu</sub>
 - `13:00` [AI Hacking Jam #1: Build offensive & defensive AI security projects inspired by the ANCPI breach](https://lu.ma/o4520lh6)  
   <sub>pax · 9 participanți</sub>
 - `13:00` [Book Club #2: Portretul lui Dorian Gray \| Invitat Special: Ioana (@ceaipoetic) 📚☕](https://lu.ma/ww4hbyah)  
@@ -78,7 +63,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `08:30` [Tura de duminică I.O.R.](https://lu.ma/z8aj9iac)  
   <sub>Irina Tenovici · 1 participant</sub>
 - `08:30` [Tura de duminică Tineretului](https://lu.ma/qs79wo8d)  
-  <sub>Nicoleta Ifrim · 1 participant</sub>
+  <sub>Nicoleta Ifrim · 3 participanți</sub>
 
 ### Luni, 10 august
 
@@ -95,7 +80,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `08:30` [Tura de duminică Cotroceni](https://lu.ma/iiw7mnef)  
   <sub>Aleodor Tabarcea</sub>
 - `08:30` [Tura de duminică Herăstrău](https://lu.ma/34d03iee)  
-  <sub>Emily Merdus</sub>
+  <sub>Emily Merdus · 1 participant</sub>
 - `08:30` [Tura de duminică I.O.R.](https://lu.ma/6c8xyavq)  
   <sub>Irina Tenovici · 1 participant</sub>
 - `08:30` [Tura de duminică Tineretului](https://lu.ma/9ffsf7zy)  
@@ -105,11 +90,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-02)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-03)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-02)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-03)
 
 ## Despre
 
@@ -123,4 +108,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 2 august 2026*
+*Actualizat: 3 august 2026*
