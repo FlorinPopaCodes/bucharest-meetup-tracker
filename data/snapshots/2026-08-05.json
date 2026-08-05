@@ -129,6 +129,11 @@
           "api_id": "usr-rA1ejFsLe5mSkP4",
           "name": "VLAD MIHALACHIOIU",
           "username": null
+        },
+        {
+          "api_id": "usr-gAlufFoW5K3UucB",
+          "name": "Cristina Cizer",
+          "username": null
         }
       ],
       "guest_count": 0,
@@ -355,8 +360,8 @@
           "username": "muvoutside"
         }
       ],
-      "guest_count": 15,
-      "ticket_count": 15,
+      "guest_count": 36,
+      "ticket_count": 36,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -439,8 +444,8 @@
           "username": "heygen"
         }
       ],
-      "guest_count": 117,
-      "ticket_count": 117,
+      "guest_count": 122,
+      "ticket_count": 122,
       "ticket_info": {
         "price": null,
         "is_free": false,
@@ -569,8 +574,8 @@
           "username": "aicollective"
         }
       ],
-      "guest_count": 95,
-      "ticket_count": 95,
+      "guest_count": 100,
+      "ticket_count": 100,
       "ticket_info": {
         "price": null,
         "is_free": false,
@@ -710,8 +715,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 15,
-      "ticket_count": 15,
+      "guest_count": 36,
+      "ticket_count": 36,
       "ticket_info": {
         "price": null,
         "is_free": false,
@@ -817,8 +822,8 @@
           "username": "bymievents"
         }
       ],
-      "guest_count": 12,
-      "ticket_count": 12,
+      "guest_count": 14,
+      "ticket_count": 16,
       "ticket_info": {
         "price": {
           "cents": 9000,
@@ -939,8 +944,8 @@
           "username": null
         }
       ],
-      "guest_count": 10,
-      "ticket_count": 10,
+      "guest_count": 11,
+      "ticket_count": 11,
       "ticket_info": {
         "price": null,
         "is_free": false,
@@ -1064,7 +1069,7 @@
       "api_id": "evt-i7PJ8EkCAU0D2iR",
       "event": {
         "api_id": "evt-i7PJ8EkCAU0D2iR",
-        "calendar_api_id": "cal-clx3olTE8Pj4lyu",
+        "calendar_api_id": "cal-CiBi0wSjRptqzP2",
         "end_at": "2026-08-08T17:00:00.000Z",
         "event_type": "independent",
         "hide_rsvp": false,
@@ -1126,21 +1131,17 @@
       },
       "calendar": {
         "access_level": "public",
-        "api_id": "cal-clx3olTE8Pj4lyu",
+        "api_id": "cal-CiBi0wSjRptqzP2",
         "coordinate": null,
-        "description_short": null,
+        "description_short": "",
         "location": null,
-        "name": "Personal",
-        "personal_user_api_id": "usr-UiC23xkkHjhHJ8K",
-        "slug": null,
+        "name": "Ambasada",
+        "personal_user_api_id": null,
+        "slug": "ambasada",
         "website": null,
         "city": null,
-        "is_personal": true,
-        "personal_user": {
-          "api_id": "usr-UiC23xkkHjhHJ8K",
-          "name": "pax",
-          "username": "paxx"
-        },
+        "is_personal": false,
+        "personal_user": null,
         "geo_city": null,
         "geo_country": null,
         "geo_region": null,
@@ -1152,10 +1153,15 @@
           "api_id": "usr-UiC23xkkHjhHJ8K",
           "name": "pax",
           "username": "paxx"
+        },
+        {
+          "api_id": "usr-uj3jMR7KpCw3XGQ",
+          "name": "Catalin Cenac",
+          "username": "gecatalin"
         }
       ],
-      "guest_count": 16,
-      "ticket_count": 16,
+      "guest_count": 17,
+      "ticket_count": 17,
       "ticket_info": {
         "price": null,
         "is_free": false,
@@ -1299,17 +1305,17 @@
           "username": "iesimdincasa"
         }
       ],
-      "guest_count": 20,
-      "ticket_count": 20,
+      "guest_count": 19,
+      "ticket_count": 19,
       "ticket_info": {
         "price": null,
         "is_free": true,
         "max_price": null,
-        "is_sold_out": true,
+        "is_sold_out": false,
         "require_approval": false
       },
-      "registration_availability": "waitlist",
-      "waitlist_active": true,
+      "registration_availability": "open",
+      "waitlist_active": false,
       "featured_city": null
     },
     {
@@ -1511,8 +1517,8 @@
           "username": null
         }
       ],
-      "guest_count": 5,
-      "ticket_count": 5,
+      "guest_count": 6,
+      "ticket_count": 6,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1623,8 +1629,8 @@
           "username": null
         }
       ],
-      "guest_count": 3,
-      "ticket_count": 3,
+      "guest_count": 4,
+      "ticket_count": 4,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1741,8 +1747,8 @@
           "username": null
         }
       ],
-      "guest_count": 15,
-      "ticket_count": 15,
+      "guest_count": 26,
+      "ticket_count": 26,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2027,8 +2033,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 9,
-      "ticket_count": 9,
+      "guest_count": 12,
+      "ticket_count": 12,
       "ticket_info": {
         "price": null,
         "is_free": false,
@@ -2264,8 +2270,8 @@
           "username": null
         }
       ],
-      "guest_count": 39,
-      "ticket_count": 39,
+      "guest_count": 41,
+      "ticket_count": 41,
       "ticket_info": {
         "price": null,
         "is_free": false,
@@ -3224,8 +3230,8 @@
           "username": null
         }
       ],
-      "guest_count": 3,
-      "ticket_count": 3,
+      "guest_count": 4,
+      "ticket_count": 4,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3331,8 +3337,8 @@
           "username": null
         }
       ],
-      "guest_count": 5,
-      "ticket_count": 5,
+      "guest_count": 6,
+      "ticket_count": 6,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -4016,6 +4022,11 @@
         {
           "api_id": "usr-yomhnvpt5g17mhz",
           "name": "Emily Merdus",
+          "username": null
+        },
+        {
+          "api_id": "usr-xERfrkcRuPDFHT9",
+          "name": "omucubenzu",
           "username": null
         }
       ],
@@ -5143,6 +5154,11 @@
         {
           "api_id": "usr-yomhnvpt5g17mhz",
           "name": "Emily Merdus",
+          "username": null
+        },
+        {
+          "api_id": "usr-xERfrkcRuPDFHT9",
+          "name": "omucubenzu",
           "username": null
         }
       ],
@@ -7528,8 +7544,8 @@
           "username": null
         }
       ],
-      "guest_count": 2,
-      "ticket_count": 2,
+      "guest_count": 3,
+      "ticket_count": 3,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -7667,8 +7683,8 @@
           "username": "alexstanciu"
         }
       ],
-      "guest_count": 11,
-      "ticket_count": 11,
+      "guest_count": 13,
+      "ticket_count": 13,
       "ticket_info": {
         "price": null,
         "is_free": true,
