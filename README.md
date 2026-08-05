@@ -4,24 +4,21 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Marți, 4 august
-
-- `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E27](https://lu.ma/05yqx84l)  
-  <sub>321sport · 26 de participanți</sub>
-
 ### Miercuri, 5 august
 
 - `18:00` [RBC #406: Strategii testate & validate care aduc clienți, nu presupuneri │Ce funcționează și ce te poate falimenta în 2026│Vlad Cerghezan](https://lu.ma/rq0xojhf)  
   <sub>Teodora Nicolaiciuc</sub>
 - `18:30` [Badminton cu Oportune 🏸](https://lu.ma/7n634ssv)  
   <sub>Oportune · 7 participanți</sub>
+- `19:00` [PULSE #52 - muv your blanket](https://lu.ma/sececvos)  
+  <sub>MuvOutside · 15 participanți</sub>
 
 ### Joi, 6 august
 
 - `12:30` [HeyGen User Meetup Bucharest](https://lu.ma/x3phjl94)  
   <sub>Teodora Pl · 117 de participanți</sub>
 - `18:30` [Let's Talk AI: Flair, Cocktails and AI Chats #3 (w/ The AI Collective)](https://lu.ma/i64r80ng)  
-  <sub>Matei Stefan · 94 de participanți</sub>
+  <sub>Matei Stefan · 95 de participanți</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E28](https://lu.ma/m149jsub)  
   <sub>321sport · 15 participanți</sub>
 
@@ -38,17 +35,17 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Sâmbătă, 8 august
 
 - `08:30` [Unwritten 📚](https://lu.ma/ozs9dqi2)  
-  <sub>FOMO Urban Running Club · 9 participanți</sub>
+  <sub>FOMO Urban Running Club · 10 participanți</sub>
 - `12:00` [Business, Finance & AI Networking — Lansarea Psihologia Tradingului](https://lu.ma/yfksvj3n)  
   <sub>Bogdan-Nicolae Albu</sub>
 - `13:00` [AI Hacking Jam #1: Build offensive & defensive AI security projects inspired by the ANCPI breach](https://lu.ma/o4520lh6)  
-  <sub>pax · 15 participanți</sub>
+  <sub>pax · 16 participanți</sub>
 - `13:00` [Book Club #2: Portretul lui Dorian Gray \| Invitat Special: Ioana (@ceaipoetic) 📚☕](https://lu.ma/ww4hbyah)  
   <sub>Lucian Savu · 20 de participanți</sub>
 - `14:00` [Cafeaua De Sâmbăta #25 \| Bucuresti](https://lu.ma/y978bh72)  
   <sub>Ionut Alexandru Stanciu · 11 participanți</sub>
 - `18:00` [Volei cu Oportune 🏐](https://lu.ma/kedvm72v)  
-  <sub>Oportune · 4 participanți</sub>
+  <sub>Oportune · 5 participanți</sub>
 
 ---
 
@@ -62,14 +59,14 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `08:30` [Tura de duminică Herăstrău](https://lu.ma/8hoq0ljq)  
   <sub>Emily Merdus · 1 participant</sub>
 - `08:30` [Tura de duminică I.O.R.](https://lu.ma/z8aj9iac)  
-  <sub>Irina Tenovici · 4 participanți</sub>
+  <sub>Irina Tenovici · 5 participanți</sub>
 - `08:30` [Tura de duminică Tineretului](https://lu.ma/qs79wo8d)  
   <sub>Nicoleta Ifrim · 3 participanți</sub>
 
 ### Luni, 10 august
 
 - `19:00` [Meet the Ambassadors - RunSummitRuns](https://lu.ma/exz1fc2e)  
-  <sub>Silviu Popescu · 14 participanți</sub>
+  <sub>Silviu Popescu · 15 participanți</sub>
 - `19:30` [321sport & FULFIL Run + Protein Talks](https://lu.ma/le22rpf9)  
   <sub>321sport · 50 de participanți</sub>
 
@@ -98,11 +95,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-04)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-05)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-04)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-05)
 
 ## Despre
 
@@ -116,4 +113,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 4 august 2026*
+*Actualizat: 5 august 2026*
