@@ -4,23 +4,14 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Miercuri, 5 august
-
-- `18:00` [RBC #406: Strategii testate & validate care aduc clienți, nu presupuneri │Ce funcționează și ce te poate falimenta în 2026│Vlad Cerghezan](https://lu.ma/rq0xojhf)  
-  <sub>Teodora Nicolaiciuc</sub>
-- `18:30` [Badminton cu Oportune 🏸](https://lu.ma/7n634ssv)  
-  <sub>Oportune · 7 participanți</sub>
-- `19:00` [PULSE #52 - muv your blanket](https://lu.ma/sececvos)  
-  <sub>MuvOutside · 36 de participanți</sub>
-
 ### Joi, 6 august
 
 - `12:30` [HeyGen User Meetup Bucharest](https://lu.ma/x3phjl94)  
   <sub>Teodora Pl · 122 de participanți</sub>
 - `18:30` [Let's Talk AI: Flair, Cocktails and AI Chats #3 (w/ The AI Collective)](https://lu.ma/i64r80ng)  
-  <sub>Matei Stefan · 100 de participanți</sub>
+  <sub>Matei Stefan · 103 de participanți</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E28](https://lu.ma/m149jsub)  
-  <sub>321sport · 36 de participanți</sub>
+  <sub>321sport · 40 de participanți</sub>
 
 ---
 
@@ -30,7 +21,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Vineri, 7 august
 
 - `18:30` [Meet New People & Paint Your Own Tote Bag 🎨](https://lu.ma/cer3wgwz)  
-  <sub>By Mi · 14 participanți</sub>
+  <sub>By Mi · 15 participanți</sub>
 
 ### Sâmbătă, 8 august
 
@@ -39,7 +30,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `12:00` [Business, Finance & AI Networking — Lansarea Psihologia Tradingului](https://lu.ma/yfksvj3n)  
   <sub>Bogdan-Nicolae Albu</sub>
 - `13:00` [AI Hacking Jam #1: Build offensive & defensive AI security projects inspired by the ANCPI breach](https://lu.ma/o4520lh6)  
-  <sub>pax · 17 participanți</sub>
+  <sub>pax · 18 participanți</sub>
 - `13:00` [Book Club #2: Portretul lui Dorian Gray \| Invitat Special: Ioana (@ceaipoetic) 📚☕](https://lu.ma/ww4hbyah)  
   <sub>Lucian Savu · 19 participanți</sub>
 - `14:00` [Cafeaua De Sâmbăta #25 \| Bucuresti](https://lu.ma/y978bh72)  
@@ -55,7 +46,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 9 august
 
 - `08:30` [Tura de duminică Cotroceni](https://lu.ma/he7rdx8w)  
-  <sub>Aleodor Tabarcea · 1 participant</sub>
+  <sub>Aleodor Tabarcea · 2 participanți</sub>
 - `08:30` [Tura de duminică Herăstrău](https://lu.ma/8hoq0ljq)  
   <sub>Emily Merdus · 1 participant</sub>
 - `08:30` [Tura de duminică I.O.R.](https://lu.ma/z8aj9iac)  
@@ -66,7 +57,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Luni, 10 august
 
 - `19:00` [Meet the Ambassadors - RunSummitRuns](https://lu.ma/exz1fc2e)  
-  <sub>Silviu Popescu · 26 de participanți</sub>
+  <sub>Silviu Popescu · 28 de participanți</sub>
 - `19:30` [321sport & FULFIL Run + Protein Talks](https://lu.ma/le22rpf9)  
   <sub>321sport · 50 de participanți</sub>
 
@@ -91,15 +82,20 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - [O zi din viaţa unui politician fericit](https://www.iabilet.ro/bilete-o-zi-din-viata-unui-politician-fericit-129637/)  
   <sub>Teatrul Improteca</sub>
 
+### Joi, 20 august
+
+- [Aproape normal](https://www.iabilet.ro/bilete-aproape-normal-129526/)  
+  <sub>Teatrul Improteca</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-05)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-06)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-05)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-06)
 
 ## Despre
 
@@ -113,4 +109,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 5 august 2026*
+*Actualizat: 6 august 2026*
