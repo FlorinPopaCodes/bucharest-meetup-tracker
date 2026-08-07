@@ -12,17 +12,17 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Sâmbătă, 8 august
 
 - `08:30` [Unwritten 📚](https://lu.ma/ozs9dqi2)  
-  <sub>FOMO Urban Running Club · 14 participanți</sub>
+  <sub>FOMO Urban Running Club · 19 participanți</sub>
 - `12:00` [Business, Finance & AI Networking — Lansarea Psihologia Tradingului](https://lu.ma/yfksvj3n)  
   <sub>Bogdan-Nicolae Albu</sub>
 - `13:00` [AI Hacking Jam #1: Build offensive & defensive AI security projects inspired by the ANCPI breach](https://lu.ma/o4520lh6)  
-  <sub>pax · 24 de participanți</sub>
+  <sub>pax · 28 de participanți</sub>
 - `13:00` [Book Club #2: Portretul lui Dorian Gray \| Invitat Special: Ioana (@ceaipoetic) 📚☕](https://lu.ma/ww4hbyah)  
   <sub>Lucian Savu · 20 de participanți</sub>
 - `14:00` [Cafeaua De Sâmbăta #25 \| Bucuresti](https://lu.ma/y978bh72)  
-  <sub>Ionut Alexandru Stanciu · 17 participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 15 participanți</sub>
 - `18:00` [Volei cu Oportune 🏐](https://lu.ma/kedvm72v)  
-  <sub>Oportune · 7 participanți</sub>
+  <sub>Oportune · 14 participanți</sub>
 
 ---
 
@@ -32,13 +32,13 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 9 august
 
 - `08:30` [Tura de duminică Cotroceni](https://lu.ma/he7rdx8w)  
-  <sub>Aleodor Tabarcea · 5 participanți</sub>
+  <sub>Aleodor Tabarcea · 8 participanți</sub>
 - `08:30` [Tura de duminică Herăstrău](https://lu.ma/8hoq0ljq)  
   <sub>Emily Merdus · 1 participant</sub>
 - `08:30` [Tura de duminică I.O.R.](https://lu.ma/z8aj9iac)  
-  <sub>Irina Tenovici · 7 participanți</sub>
+  <sub>Irina Tenovici · 13 participanți</sub>
 - `08:30` [Tura de duminică Tineretului](https://lu.ma/qs79wo8d)  
-  <sub>Nicoleta Ifrim · 8 participanți</sub>
+  <sub>Nicoleta Ifrim · 12 participanți</sub>
 
 ### Luni, 10 august
 
@@ -47,12 +47,17 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `19:30` [321sport & FULFIL Run + Protein Talks](https://lu.ma/le22rpf9)  
   <sub>321sport · 50 de participanți</sub>
 
+### Marți, 11 august
+
+- `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E29](https://lu.ma/420drgtk)  
+  <sub>321sport · 5 participanți</sub>
+
 ### Miercuri, 12 august
 
 - `18:00` [RBC #407: I LOVE FAILURE │Cătălin Meșter](https://lu.ma/4ebqf9wr)  
   <sub>Teodora Nicolaiciuc</sub>
 - `19:00` [Place2Be - Eveniment CTR x AmpliFY](https://lu.ma/place-to-be-amplify-ctr-2026)  
-  <sub>AmpliFY ONG · 12 participanți</sub>
+  <sub>AmpliFY ONG · 16 participanți</sub>
 
 ### Joi, 13 august
 
