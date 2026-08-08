@@ -4,19 +4,14 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Vineri, 7 august
-
-- `18:30` [Meet New People & Paint Your Own Tote Bag 🎨](https://lu.ma/cer3wgwz)  
-  <sub>By Mi · 16 participanți</sub>
-
 ### Sâmbătă, 8 august
 
 - `08:30` [Unwritten 📚](https://lu.ma/ozs9dqi2)  
-  <sub>FOMO Urban Running Club · 19 participanți</sub>
+  <sub>FOMO Urban Running Club · 18 participanți</sub>
 - `12:00` [Business, Finance & AI Networking — Lansarea Psihologia Tradingului](https://lu.ma/yfksvj3n)  
   <sub>Bogdan-Nicolae Albu</sub>
 - `13:00` [AI Hacking Jam #1: Build offensive & defensive AI security projects inspired by the ANCPI breach](https://lu.ma/o4520lh6)  
-  <sub>pax · 28 de participanți</sub>
+  <sub>pax · 32 de participanți</sub>
 - `13:00` [Book Club #2: Portretul lui Dorian Gray \| Invitat Special: Ioana (@ceaipoetic) 📚☕](https://lu.ma/ww4hbyah)  
   <sub>Lucian Savu · 20 de participanți</sub>
 - `14:00` [Cafeaua De Sâmbăta #25 \| Bucuresti](https://lu.ma/y978bh72)  
@@ -32,13 +27,13 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 9 august
 
 - `08:30` [Tura de duminică Cotroceni](https://lu.ma/he7rdx8w)  
-  <sub>Aleodor Tabarcea · 8 participanți</sub>
+  <sub>Aleodor Tabarcea · 9 participanți</sub>
 - `08:30` [Tura de duminică Herăstrău](https://lu.ma/8hoq0ljq)  
   <sub>Emily Merdus · 1 participant</sub>
 - `08:30` [Tura de duminică I.O.R.](https://lu.ma/z8aj9iac)  
   <sub>Irina Tenovici · 13 participanți</sub>
 - `08:30` [Tura de duminică Tineretului](https://lu.ma/qs79wo8d)  
-  <sub>Nicoleta Ifrim · 12 participanți</sub>
+  <sub>Nicoleta Ifrim · 13 participanți</sub>
 
 ### Luni, 10 august
 
@@ -57,12 +52,12 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:00` [RBC #407: I LOVE FAILURE │Cătălin Meșter](https://lu.ma/4ebqf9wr)  
   <sub>Teodora Nicolaiciuc</sub>
 - `19:00` [Place2Be - Eveniment CTR x AmpliFY](https://lu.ma/place-to-be-amplify-ctr-2026)  
-  <sub>AmpliFY ONG · 16 participanți</sub>
+  <sub>AmpliFY ONG · 17 participanți</sub>
 
 ### Joi, 13 august
 
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E30](https://lu.ma/wgkl6pv2)  
-  <sub>321sport · 12 participanți</sub>
+  <sub>321sport · 13 participanți</sub>
 
 ### Duminică, 16 august
 
@@ -94,11 +89,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-07)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-08)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-07)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-08)
 
 ## Despre
 
@@ -112,4 +107,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 7 august 2026*
+*Actualizat: 8 august 2026*
