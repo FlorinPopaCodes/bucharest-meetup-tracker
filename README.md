@@ -18,26 +18,26 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Luni, 10 august
 
 - `19:00` [Meet the Ambassadors - RunSummitRuns](https://lu.ma/exz1fc2e)  
-  <sub>Silviu Popescu · 29 de participanți</sub>
+  <sub>Silviu Popescu · 30 de participanți</sub>
 - `19:30` [321sport & FULFIL Run + Protein Talks](https://lu.ma/le22rpf9)  
   <sub>321sport · 50 de participanți</sub>
 
 ### Marți, 11 august
 
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E29](https://lu.ma/420drgtk)  
-  <sub>321sport · 5 participanți</sub>
+  <sub>321sport · 6 participanți</sub>
 
 ### Miercuri, 12 august
 
 - `18:00` [RBC #407: I LOVE FAILURE │Cătălin Meșter](https://lu.ma/4ebqf9wr)  
   <sub>Teodora Nicolaiciuc</sub>
 - `19:00` [Place2Be - Eveniment CTR x AmpliFY](https://lu.ma/place-to-be-amplify-ctr-2026)  
-  <sub>AmpliFY ONG · 20 de participanți</sub>
+  <sub>AmpliFY ONG · 21 de participanți</sub>
 
 ### Joi, 13 august
 
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E30](https://lu.ma/wgkl6pv2)  
-  <sub>321sport · 13 participanți</sub>
+  <sub>321sport · 14 participanți</sub>
 
 ### Duminică, 16 august
 
@@ -48,7 +48,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `08:30` [Tura de duminică I.O.R.](https://lu.ma/6c8xyavq)  
   <sub>Irina Tenovici · 1 participant</sub>
 - `08:30` [Tura de duminică Tineretului](https://lu.ma/9ffsf7zy)  
-  <sub>Nicoleta Ifrim</sub>
+  <sub>Nicoleta Ifrim · 1 participant</sub>
 
 ### Marți, 18 august
 
