@@ -72,8 +72,8 @@
           "longitude": 26.1050687,
           "latitude": 44.4078666
         },
-        "waitlist_enabled": false,
-        "waitlist_status": "disabled"
+        "waitlist_enabled": true,
+        "waitlist_status": "enabled"
       },
       "calendar": {
         "access_level": "public",
@@ -105,8 +105,8 @@
           "username": null
         }
       ],
-      "guest_count": 31,
-      "ticket_count": 31,
+      "guest_count": 37,
+      "ticket_count": 37,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -270,7 +270,7 @@
         "calendar_api_id": "cal-vy7fTgxG01iG02Y",
         "end_at": "2026-08-10T19:30:00.000Z",
         "event_type": "independent",
-        "hide_rsvp": false,
+        "hide_rsvp": true,
         "location_type": "offline",
         "name": "Monday Quizmania @ T5",
         "one_to_one": true,
@@ -364,8 +364,8 @@
           "username": "t5social"
         }
       ],
-      "guest_count": 10,
-      "ticket_count": 56,
+      "guest_count": 19,
+      "ticket_count": 75,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -373,7 +373,7 @@
         "is_sold_out": false,
         "require_approval": false
       },
-      "registration_availability": "open",
+      "registration_availability": "sold-out",
       "waitlist_active": false,
       "featured_city": null
     },
@@ -505,8 +505,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 6,
-      "ticket_count": 6,
+      "guest_count": 7,
+      "ticket_count": 7,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -650,7 +650,7 @@
         },
         {
           "api_id": "usr-rA1ejFsLe5mSkP4",
-          "name": "Vlad Romanian Business Club",
+          "name": "Amalia WIN",
           "username": null
         }
       ],
@@ -774,8 +774,8 @@
           "username": null
         }
       ],
-      "guest_count": 22,
-      "ticket_count": 22,
+      "guest_count": 62,
+      "ticket_count": 62,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -888,8 +888,8 @@
           "username": null
         }
       ],
-      "guest_count": 8,
-      "ticket_count": 8,
+      "guest_count": 10,
+      "ticket_count": 10,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1029,14 +1029,254 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 14,
-      "ticket_count": 14,
+      "guest_count": 18,
+      "ticket_count": 18,
       "ticket_info": {
         "price": null,
         "is_free": true,
         "max_price": null,
         "is_sold_out": false,
         "require_approval": true
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-0bTDL3OF39hxKzO",
+      "event": {
+        "api_id": "evt-0bTDL3OF39hxKzO",
+        "calendar_api_id": "cal-rrofpsXbO10MGr0",
+        "end_at": "2026-08-15T07:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Sugar 🥐",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/tx/a9121aa2-e646-4563-ac9a-6591ebf4e816.png",
+        "start_at": "2026-08-15T06:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "zci0ryqa",
+        "user_api_id": "usr-rK0u7f6ZAymrya1",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Restaurant Casa Albă",
+          "country": "Romania",
+          "place_id": "ChIJbZyrhicDskARu5_BNprp2Ng",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Casa Albă",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Bucureşti Sectorul 1",
+              "full_address": "Casa Albă, Aleea Privighetorilor 31-35, 014031 București, România",
+              "region_short": "București",
+              "short_address": "Aleea Privighetorilor 31-35, București"
+            },
+            "en-GB": {
+              "city": "București",
+              "region": "București",
+              "address": "Restaurant Casa Albă",
+              "country": "Romania",
+              "city_state": "București, Romania",
+              "sublocality": "Bucureşti Sectorul 1",
+              "full_address": "Restaurant Casa Albă, Aleea Privighetorilor 31-35, 014031 București, Romania",
+              "region_short": "București",
+              "short_address": "Aleea Privighetorilor 31-35, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Bucureşti Sectorul 1",
+          "country_code": "RO",
+          "full_address": "Restaurant Casa Albă, Aleea Privighetorilor 31-35, 014031 București, Romania",
+          "region_short": "București",
+          "short_address": "Aleea Privighetorilor 31-35, București",
+          "place_coordinate": {
+            "latitude": 44.51911700000001,
+            "longitude": 26.0906421
+          },
+          "apple_maps_place_id": "I2E154177CF2F218E",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.0906421,
+          "latitude": 44.51911700000001
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-rrofpsXbO10MGr0",
+        "coordinate": null,
+        "description_short": null,
+        "location": null,
+        "name": "Personal",
+        "personal_user_api_id": "usr-rK0u7f6ZAymrya1",
+        "slug": null,
+        "website": null,
+        "city": null,
+        "is_personal": true,
+        "personal_user": {
+          "api_id": "usr-rK0u7f6ZAymrya1",
+          "name": "FOMO Urban Running Club",
+          "username": null
+        },
+        "geo_city": null,
+        "geo_country": null,
+        "geo_region": null,
+        "timezone": null
+      },
+      "start_at": "2026-08-15T06:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-rK0u7f6ZAymrya1",
+          "name": "FOMO Urban Running Club",
+          "username": null
+        }
+      ],
+      "guest_count": 5,
+      "ticket_count": 5,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": true
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-8h700cqkL9BTbIx",
+      "event": {
+        "api_id": "evt-8h700cqkL9BTbIx",
+        "calendar_api_id": "cal-vtTRvYx8UKwi3cp",
+        "end_at": "2026-08-17T18:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "THE SQUARE Social Chess Event @Grădina Floreasca",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": false,
+        "social_image_url": "https://images.lumacdn.com/event-social/g1/c38e1782-3380-45ca-8e0d-b1e2431df04b.png",
+        "start_at": "2026-08-17T15:30:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "vlm333n2",
+        "user_api_id": "usr-B0mYjwQfFHKwJRE",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Grădina Floreasca",
+          "country": "Romania",
+          "place_id": "ChIJeXJjDgoCskARN3LGpyAHPNc",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Grădina Floreasca",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Bucureşti Sectorul 1",
+              "full_address": "Grădina Floreasca, Bulevardul Mircea Eliade 16, 014192 București, România",
+              "region_short": "București",
+              "short_address": "Bulevardul Mircea Eliade 16, București"
+            },
+            "en-GB": {
+              "city": "București",
+              "region": "București",
+              "address": "Grădina Floreasca",
+              "country": "Romania",
+              "city_state": "București, Romania",
+              "sublocality": "Bucureşti Sectorul 1",
+              "full_address": "Grădina Floreasca, Bulevardul Mircea Eliade 16, 014192 București, Romania",
+              "region_short": "București",
+              "short_address": "Bulevardul Mircea Eliade 16, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Bucureşti Sectorul 1",
+          "country_code": "RO",
+          "full_address": "Grădina Floreasca, Bulevardul Mircea Eliade 16, 014192 București, Romania",
+          "region_short": "București",
+          "short_address": "Bulevardul Mircea Eliade 16, București",
+          "place_coordinate": {
+            "latitude": 44.465391499999996,
+            "longitude": 26.0990964
+          },
+          "apple_maps_place_id": "I9BC9D61E009776CF",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.0990964,
+          "latitude": 44.465391499999996
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-vtTRvYx8UKwi3cp",
+        "coordinate": null,
+        "description_short": null,
+        "location": null,
+        "name": "Personal",
+        "personal_user_api_id": "usr-B0mYjwQfFHKwJRE",
+        "slug": null,
+        "website": null,
+        "city": null,
+        "is_personal": true,
+        "personal_user": {
+          "api_id": "usr-B0mYjwQfFHKwJRE",
+          "name": "THE SQUARE Chess Club",
+          "username": null
+        },
+        "geo_city": null,
+        "geo_country": null,
+        "geo_region": null,
+        "timezone": null
+      },
+      "start_at": "2026-08-17T15:30:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-B0mYjwQfFHKwJRE",
+          "name": "THE SQUARE Chess Club",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": {
+          "cents": 6000,
+          "currency": "ron",
+          "is_flexible": false
+        },
+        "is_free": false,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
       },
       "registration_availability": "open",
       "waitlist_active": false,
@@ -1418,8 +1658,8 @@
           "username": null
         }
       ],
-      "guest_count": 50,
-      "ticket_count": 50,
+      "guest_count": 54,
+      "ticket_count": 54,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1712,7 +1952,7 @@
         "one_to_one": true,
         "recurrence_id": null,
         "show_guest_list": true,
-        "social_image_url": "https://images.lumacdn.com/event-social/ew/4b58c2e7-b247-4833-ad68-53f7a292cc09.png",
+        "social_image_url": "https://images.lumacdn.com/event-social/bl/de098f40-e718-4584-aa87-170bae89b47c.png",
         "start_at": "2026-08-28T14:00:00.000Z",
         "timezone": "Europe/Bucharest",
         "url": "82q9aclg",
@@ -1835,8 +2075,8 @@
           "username": null
         }
       ],
-      "guest_count": 11,
-      "ticket_count": 11,
+      "guest_count": 16,
+      "ticket_count": 16,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1932,8 +2172,8 @@
       },
       "start_at": "2026-09-08T15:30:00.000Z",
       "hosts": [],
-      "guest_count": 19,
-      "ticket_count": 19,
+      "guest_count": 20,
+      "ticket_count": 20,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2188,7 +2428,7 @@
       "ticket_count": 0,
       "ticket_info": {
         "price": null,
-        "is_free": false,
+        "is_free": true,
         "max_price": null,
         "is_sold_out": false,
         "require_approval": true
@@ -2303,8 +2543,8 @@
           "username": "razvandeax"
         }
       ],
-      "guest_count": 34,
-      "ticket_count": 34,
+      "guest_count": 38,
+      "ticket_count": 38,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2956,8 +3196,8 @@
           "username": null
         }
       ],
-      "guest_count": 0,
-      "ticket_count": 0,
+      "guest_count": 1,
+      "ticket_count": 1,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -5970,8 +6210,8 @@
           "username": "alexstanciu"
         }
       ],
-      "guest_count": 0,
-      "ticket_count": 0,
+      "guest_count": 2,
+      "ticket_count": 2,
       "ticket_info": {
         "price": null,
         "is_free": true,

@@ -7,30 +7,35 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Luni, 10 august
 
 - `19:00` [Meet the Ambassadors - RunSummitRuns](https://lu.ma/exz1fc2e)  
-  <sub>Silviu Popescu · 31 de participanți</sub>
+  <sub>Silviu Popescu · 37 de participanți</sub>
 - `19:30` [321sport & FULFIL Run + Protein Talks](https://lu.ma/le22rpf9)  
   <sub>321sport · 50 de participanți</sub>
 - `19:30` [Monday Quizmania @ T5](https://lu.ma/n5gs2ig5)  
-  <sub>T5 Social · 10 participanți</sub>
+  <sub>T5 Social · 19 participanți</sub>
 
 ### Marți, 11 august
 
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E29](https://lu.ma/420drgtk)  
-  <sub>321sport · 6 participanți</sub>
+  <sub>321sport · 7 participanți</sub>
 
 ### Miercuri, 12 august
 
 - `18:00` [RBC #407: I LOVE FAILURE │Cătălin Meșter](https://lu.ma/4ebqf9wr)  
   <sub>Teodora Nicolaiciuc</sub>
 - `19:00` [Place2Be - Eveniment CTR x AmpliFY](https://lu.ma/place-to-be-amplify-ctr-2026)  
-  <sub>AmpliFY ONG · 22 de participanți</sub>
+  <sub>AmpliFY ONG · 62 de participanți</sub>
 - `19:30` [Power of Social Media](https://lu.ma/xmdgus77)  
-  <sub>Oportune · 8 participanți</sub>
+  <sub>Oportune · 10 participanți</sub>
 
 ### Joi, 13 august
 
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E30](https://lu.ma/wgkl6pv2)  
-  <sub>321sport · 14 participanți</sub>
+  <sub>321sport · 18 participanți</sub>
+
+### Sâmbătă, 15 august
+
+- `09:00` [Sugar 🥐](https://lu.ma/zci0ryqa)  
+  <sub>FOMO Urban Running Club · 5 participanți</sub>
 
 ### Duminică, 16 august
 
@@ -42,6 +47,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
   <sub>Irina Tenovici · 1 participant</sub>
 - `08:30` [Tura de duminică Tineretului](https://lu.ma/9ffsf7zy)  
   <sub>Nicoleta Ifrim · 1 participant</sub>
+
+### Luni, 17 august
+
+- `18:30` [THE SQUARE Social Chess Event @Grădina Floreasca](https://lu.ma/vlm333n2)  
+  <sub>THE SQUARE Chess Club</sub>
 
 ### Marți, 18 august
 
@@ -61,7 +71,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Sâmbătă, 22 august
 
 - `14:00` [Cafeaua De Sâmbăta #26 \| Bucuresti](https://lu.ma/ghhnkryx)  
-  <sub>Ionut Alexandru Stanciu</sub>
+  <sub>Ionut Alexandru Stanciu · 2 participanți</sub>
 
 ### Duminică, 23 august
 
