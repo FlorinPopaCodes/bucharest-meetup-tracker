@@ -7,37 +7,44 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Marți, 11 august
 
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E29](https://lu.ma/420drgtk)  
-  <sub>321sport · 8 participanți</sub>
+  <sub>321sport · 10 participanți</sub>
 
 ### Miercuri, 12 august
 
 - `18:00` [RBC #407: I LOVE FAILURE │Cătălin Meșter](https://lu.ma/4ebqf9wr)  
   <sub>Teodora Nicolaiciuc</sub>
 - `19:00` [Place2Be - Eveniment CTR x AmpliFY](https://lu.ma/place-to-be-amplify-ctr-2026)  
-  <sub>AmpliFY ONG · 66 de participanți</sub>
+  <sub>AmpliFY ONG · 81 de participanți</sub>
 - `19:30` [Power of Social Media](https://lu.ma/xmdgus77)  
-  <sub>Oportune · 10 participanți</sub>
+  <sub>Oportune · 11 participanți</sub>
 
 ### Joi, 13 august
 
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E30](https://lu.ma/wgkl6pv2)  
   <sub>321sport · 18 participanți</sub>
+- `19:30` [Thursday Trivia](https://lu.ma/umyc02oh)  
+  <sub>T5 Social · 11 participanți</sub>
+
+### Vineri, 14 august
+
+- `20:30` [PULSE #53 - muv & pass](https://lu.ma/ygb796be)  
+  <sub>MuvOutside · 15 participanți</sub>
 
 ### Sâmbătă, 15 august
 
 - `09:00` [Sugar 🥐](https://lu.ma/zci0ryqa)  
-  <sub>FOMO Urban Running Club · 6 participanți</sub>
+  <sub>FOMO Urban Running Club · 8 participanți</sub>
 
 ### Duminică, 16 august
 
 - `08:30` [Tura de duminică Cotroceni](https://lu.ma/iiw7mnef)  
-  <sub>Aleodor Tabarcea</sub>
+  <sub>Aleodor Tabarcea · 1 participant</sub>
 - `08:30` [Tura de duminică Herăstrău](https://lu.ma/34d03iee)  
   <sub>Emily Merdus · 2 participanți</sub>
 - `08:30` [Tura de duminică I.O.R.](https://lu.ma/6c8xyavq)  
   <sub>Irina Tenovici · 1 participant</sub>
 - `08:30` [Tura de duminică Tineretului](https://lu.ma/9ffsf7zy)  
-  <sub>Nicoleta Ifrim · 1 participant</sub>
+  <sub>Nicoleta Ifrim · 4 participanți</sub>
 
 ### Luni, 17 august
 
@@ -75,12 +82,12 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `08:30` [Tura de duminică Tineretului](https://lu.ma/vca534uf)  
   <sub>Nicoleta Ifrim</sub>
 - `12:00` [Bookisim - Editia III - Vara in care mama a avut ochii verzi de Tatiana Tibuleac](https://lu.ma/7i6luoqt)  
-  <sub>R.O.S.T. Specialty Coffeshop · 7 participanți</sub>
+  <sub>R.O.S.T. Specialty Coffeshop · 8 participanți</sub>
 
 ### Marți, 25 august
 
 - `18:00` [Physical AI Bucharest#1 - AI Is Getting A Body](https://lu.ma/66k0k4us)  
-  <sub>Georgia Bucea · 57 de participanți</sub>
+  <sub>Georgia Bucea · 59 de participanți</sub>
 - `19:30` [Ethereum ATH Party/Meetup 🚀🎉 by Daniel Niță (locuri limitate) & Crypto Society](https://lu.ma/ETHATHParty)  
   <sub>Daniel Nita · 187 de participanți</sub>
 

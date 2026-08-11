@@ -128,8 +128,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 8,
-      "ticket_count": 8,
+      "guest_count": 10,
+      "ticket_count": 10,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -397,8 +397,8 @@
           "username": null
         }
       ],
-      "guest_count": 66,
-      "ticket_count": 66,
+      "guest_count": 81,
+      "ticket_count": 81,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -511,8 +511,8 @@
           "username": null
         }
       ],
-      "guest_count": 10,
-      "ticket_count": 10,
+      "guest_count": 11,
+      "ticket_count": 11,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -666,6 +666,227 @@
       "featured_city": null
     },
     {
+      "api_id": "evt-bDcMyBvaEZLLH8G",
+      "event": {
+        "api_id": "evt-bDcMyBvaEZLLH8G",
+        "calendar_api_id": "cal-vy7fTgxG01iG02Y",
+        "end_at": "2026-08-13T19:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Thursday Trivia",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/ph/ced2949d-02dd-48ef-8852-ebaa8895b52b.png",
+        "start_at": "2026-08-13T16:30:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "umyc02oh",
+        "user_api_id": "usr-dPTotCLGrq0bXdF",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "T5 Social",
+          "country": "Romania",
+          "place_id": "ChIJC5zHlhH_sUARihzCaU-u-bI",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "T5 Social",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Bucureşti Sectorul 4",
+              "full_address": "T5 Social, Strada Olimpului 13b, 040198 București, România",
+              "region_short": "București",
+              "short_address": "Strada Olimpului 13b, București"
+            },
+            "en-GB": {
+              "city": "București",
+              "region": "București",
+              "address": "T5 Social",
+              "country": "Romania",
+              "city_state": "București, Romania",
+              "sublocality": "Bucureşti Sectorul 4",
+              "full_address": "T5 Social, Strada Olimpului 13b, 040198 București, Romania",
+              "region_short": "București",
+              "short_address": "Strada Olimpului 13b, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Bucureşti Sectorul 4",
+          "country_code": "RO",
+          "full_address": "T5 Social, Strada Olimpului 13b, 040198 București, Romania",
+          "region_short": "București",
+          "short_address": "Strada Olimpului 13b, București",
+          "apple_maps_place_id": "IC36D6A9AE0B09760",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.0988267,
+          "latitude": 44.421987099999996
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-vy7fTgxG01iG02Y",
+        "coordinate": null,
+        "description_short": null,
+        "location": null,
+        "name": "Personal",
+        "personal_user_api_id": "usr-dPTotCLGrq0bXdF",
+        "slug": null,
+        "website": null,
+        "city": null,
+        "is_personal": true,
+        "personal_user": {
+          "api_id": "usr-dPTotCLGrq0bXdF",
+          "name": "T5 Social",
+          "username": "t5social"
+        },
+        "geo_city": null,
+        "geo_country": null,
+        "geo_region": null,
+        "timezone": null
+      },
+      "start_at": "2026-08-13T16:30:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-dPTotCLGrq0bXdF",
+          "name": "T5 Social",
+          "username": "t5social"
+        }
+      ],
+      "guest_count": 11,
+      "ticket_count": 75,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": true
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-6ch3bwBxz7LTF1b",
+      "event": {
+        "api_id": "evt-6ch3bwBxz7LTF1b",
+        "calendar_api_id": "cal-6K5GrdtV82VZAmK",
+        "end_at": "2026-08-14T19:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "PULSE #53 - muv & pass",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/2h/8a3e155e-4c72-400b-bbe9-027964b2ac7e.png",
+        "start_at": "2026-08-14T17:30:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "ygb796be",
+        "user_api_id": "usr-pWuw0GR71IwkMyj",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Polyvalent Hall",
+          "country": "Romania",
+          "place_id": "ChIJqXYjtVX-sUAR7uD9sL33uMo",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Sala Polivalentă",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Bucureşti Sectorul 4",
+              "full_address": "Sala Polivalentă, Calea Piscului 10, 040354 București, România",
+              "region_short": "București",
+              "short_address": "Calea Piscului 10, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Bucureşti Sectorul 4",
+          "country_code": "RO",
+          "full_address": "Polyvalent Hall, Calea Piscului 10, 040354 București, Romania",
+          "region_short": "București",
+          "short_address": "Calea Piscului 10, București",
+          "place_coordinate": {
+            "latitude": 44.405379499999995,
+            "longitude": 26.1109869
+          },
+          "apple_maps_place_id": "I7A37EC1969B80AE0",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.1109869,
+          "latitude": 44.405379499999995
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-6K5GrdtV82VZAmK",
+        "coordinate": null,
+        "description_short": null,
+        "location": null,
+        "name": "Personal",
+        "personal_user_api_id": "usr-pWuw0GR71IwkMyj",
+        "slug": null,
+        "website": null,
+        "city": null,
+        "is_personal": true,
+        "personal_user": {
+          "api_id": "usr-pWuw0GR71IwkMyj",
+          "name": "MuvOutside",
+          "username": "muvoutside"
+        },
+        "geo_city": null,
+        "geo_country": null,
+        "geo_region": null,
+        "timezone": null
+      },
+      "start_at": "2026-08-14T17:30:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-pWuw0GR71IwkMyj",
+          "name": "MuvOutside",
+          "username": "muvoutside"
+        }
+      ],
+      "guest_count": 15,
+      "ticket_count": 15,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
       "api_id": "evt-0bTDL3OF39hxKzO",
       "event": {
         "api_id": "evt-0bTDL3OF39hxKzO",
@@ -770,14 +991,126 @@
           "username": null
         }
       ],
-      "guest_count": 6,
-      "ticket_count": 6,
+      "guest_count": 8,
+      "ticket_count": 8,
       "ticket_info": {
         "price": null,
         "is_free": true,
         "max_price": null,
         "is_sold_out": false,
         "require_approval": true
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-EB2AsqHpdhE4fDP",
+      "event": {
+        "api_id": "evt-EB2AsqHpdhE4fDP",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-08-16T07:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică Tineretului",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/ln/0559ddf9-a31a-4e20-b2bd-3063e995c1db.png",
+        "start_at": "2026-08-16T05:30:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "9ffsf7zy",
+        "user_api_id": "usr-04pRO5uWe6ODtE4",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Bucharest",
+          "type": "google",
+          "region": "Bucharest",
+          "address": "Tineretului Park clock",
+          "country": "Romania",
+          "place_id": "ChIJKTQEbT3_sUAR86e5V_Rdafw",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "ceasul din Parcul Tineretului",
+              "country": "România",
+              "city_state": "București, București",
+              "sublocality": "Bucureşti Sectorul 4",
+              "full_address": "ceasul din Parcul Tineretului, Bucureşti Sectorul 4, București, România",
+              "short_address": "București"
+            },
+            "en-GB": {
+              "city": "Bucharest",
+              "region": "Bucharest",
+              "address": "Tineretului Park clock",
+              "country": "Romania",
+              "city_state": "Bucharest, Bucharest",
+              "sublocality": "Sector 4",
+              "full_address": "Tineretului Park clock, Sector 4, Bucharest, Romania",
+              "short_address": "Bucharest"
+            }
+          },
+          "city_state": "Bucharest, Bucharest",
+          "description": "",
+          "sublocality": "Sector 4",
+          "country_code": "RO",
+          "full_address": "Tineretului Park clock, Sector 4, Bucharest, Romania",
+          "short_address": "Bucharest",
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.1043384,
+          "latitude": 44.4136227
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "slug": "turadeduminica",
+        "website": null,
+        "city": null,
+        "is_personal": false,
+        "personal_user": null,
+        "geo_city": null,
+        "geo_country": null,
+        "geo_region": null,
+        "timezone": null
+      },
+      "start_at": "2026-08-16T05:30:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-04pRO5uWe6ODtE4",
+          "name": "Nicoleta Ifrim",
+          "username": null
+        },
+        {
+          "api_id": "usr-yomhnvpt5g17mhz",
+          "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 4,
+      "ticket_count": 4,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
       },
       "registration_availability": "open",
       "waitlist_active": false,
@@ -1147,8 +1480,8 @@
           "username": null
         }
       ],
-      "guest_count": 7,
-      "ticket_count": 7,
+      "guest_count": 8,
+      "ticket_count": 8,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1281,8 +1614,8 @@
           "username": null
         }
       ],
-      "guest_count": 57,
-      "ticket_count": 57,
+      "guest_count": 59,
+      "ticket_count": 59,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1571,11 +1904,11 @@
         "event_type": "independent",
         "hide_rsvp": false,
         "location_type": "offline",
-        "name": "GTM Skillathon",
+        "name": "GTM Skillathon - Formidable Builders & Codex Community in Bucharest",
         "one_to_one": true,
         "recurrence_id": null,
         "show_guest_list": true,
-        "social_image_url": "https://images.lumacdn.com/event-social/bl/de098f40-e718-4584-aa87-170bae89b47c.png",
+        "social_image_url": "https://images.lumacdn.com/event-social/a4/f81ae121-673d-4021-9d6c-d4dea1f820e8.png",
         "start_at": "2026-08-28T14:00:00.000Z",
         "timezone": "Europe/Bucharest",
         "url": "82q9aclg",
@@ -1696,10 +2029,25 @@
           "api_id": "usr-hq01kEcXVCFgxX4",
           "name": "Mara Ilie",
           "username": null
+        },
+        {
+          "api_id": "usr-4HvhGeuyHuGbOpj",
+          "name": "Pauline P. Narvas",
+          "username": "pawlean"
+        },
+        {
+          "api_id": "usr-dUjEATDUKZRuqoh",
+          "name": "Vaibhav Srivastav",
+          "username": "vb_oai"
+        },
+        {
+          "api_id": "usr-yaKXAo9XA53aMDE",
+          "name": "Gabriel Chua",
+          "username": "gchua"
         }
       ],
-      "guest_count": 16,
-      "ticket_count": 16,
+      "guest_count": 17,
+      "ticket_count": 17,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2166,8 +2514,8 @@
           "username": "razvandeax"
         }
       ],
-      "guest_count": 40,
-      "ticket_count": 40,
+      "guest_count": 42,
+      "ticket_count": 42,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2419,8 +2767,8 @@
           "username": null
         }
       ],
-      "guest_count": 0,
-      "ticket_count": 0,
+      "guest_count": 1,
+      "ticket_count": 1,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2536,8 +2884,8 @@
           "username": null
         }
       ],
-      "guest_count": 1,
-      "ticket_count": 1,
+      "guest_count": 4,
+      "ticket_count": 4,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2964,6 +3312,130 @@
         {
           "api_id": "usr-yomhnvpt5g17mhz",
           "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
+    {
+      "api_id": "calev-GtUAFglUwmF2Scy",
+      "event": {
+        "api_id": "evt-Sc9dqmj6dr3gI00",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-08-16T07:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică Vama Veche",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/mx/adcdb583-fc90-4f74-bcb0-6c70945ca708.png",
+        "start_at": "2026-08-16T06:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "8buwdblp",
+        "user_api_id": "usr-VFzvpYr0VoLoSce",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Vama Veche",
+          "type": "google",
+          "region": "Județul Constanța",
+          "address": "Stuf Vama Veche",
+          "country": "Romania",
+          "place_id": "ChIJMdIEDuksu0ARm4u2A1yZHAI",
+          "localized": {
+            "ro": {
+              "city": "Vama Veche",
+              "region": "Județul Constanța",
+              "address": "Stuf",
+              "country": "România",
+              "city_state": "Vama Veche, România",
+              "sublocality": null,
+              "full_address": "Stuf, Strada Falezei 12, 907163 Vama Veche, România",
+              "region_short": "CT",
+              "short_address": "Strada Falezei 12, Vama Veche"
+            },
+            "en-GB": {
+              "city": "Vama Veche",
+              "region": "Județul Constanța",
+              "address": "Stuf Vama Veche",
+              "country": "Romania",
+              "city_state": "Vama Veche, Romania",
+              "sublocality": null,
+              "full_address": "Stuf Vama Veche, Strada Falezei 12, 907163 Vama Veche, Romania",
+              "region_short": "CT",
+              "short_address": "Strada Falezei 12, Vama Veche"
+            }
+          },
+          "city_state": "Vama Veche, Romania",
+          "description": "",
+          "sublocality": null,
+          "country_code": "RO",
+          "full_address": "Stuf Vama Veche, Strada Falezei 12, 907163 Vama Veche, Romania",
+          "region_short": "CT",
+          "short_address": "Strada Falezei 12, Vama Veche",
+          "place_coordinate": {
+            "latitude": 43.7541716,
+            "longitude": 28.5742653
+          },
+          "apple_maps_place_id": "IF4AB48BED654344B",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 28.5742653,
+          "latitude": 43.7541716
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "slug": "turadeduminica",
+        "website": null,
+        "city": null,
+        "is_personal": false,
+        "personal_user": null,
+        "geo_city": null,
+        "geo_country": null,
+        "geo_region": null,
+        "timezone": null
+      },
+      "start_at": "2026-08-16T06:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-VFzvpYr0VoLoSce",
+          "name": "Endi Ungureanu",
+          "username": "endi"
+        },
+        {
+          "api_id": "usr-FuBuVoSxnOkplIf",
+          "name": "Sori Țigăeru ",
           "username": null
         }
       ],
@@ -3989,6 +4461,130 @@
       "tags": []
     },
     {
+      "api_id": "calev-hB9WLQi0IE0AQI3",
+      "event": {
+        "api_id": "evt-LN6WPrVKCrDFD0P",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-08-23T07:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică Vama Veche",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/35/1ac6e679-4f70-495d-9574-14b584a06b1f.png",
+        "start_at": "2026-08-23T06:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "tr7su6g4",
+        "user_api_id": "usr-VFzvpYr0VoLoSce",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Vama Veche",
+          "type": "google",
+          "region": "Județul Constanța",
+          "address": "Stuf Vama Veche",
+          "country": "Romania",
+          "place_id": "ChIJMdIEDuksu0ARm4u2A1yZHAI",
+          "localized": {
+            "ro": {
+              "city": "Vama Veche",
+              "region": "Județul Constanța",
+              "address": "Stuf",
+              "country": "România",
+              "city_state": "Vama Veche, România",
+              "sublocality": null,
+              "full_address": "Stuf, Strada Falezei 12, 907163 Vama Veche, România",
+              "region_short": "CT",
+              "short_address": "Strada Falezei 12, Vama Veche"
+            },
+            "en-GB": {
+              "city": "Vama Veche",
+              "region": "Județul Constanța",
+              "address": "Stuf Vama Veche",
+              "country": "Romania",
+              "city_state": "Vama Veche, Romania",
+              "sublocality": null,
+              "full_address": "Stuf Vama Veche, Strada Falezei 12, 907163 Vama Veche, Romania",
+              "region_short": "CT",
+              "short_address": "Strada Falezei 12, Vama Veche"
+            }
+          },
+          "city_state": "Vama Veche, Romania",
+          "description": "",
+          "sublocality": null,
+          "country_code": "RO",
+          "full_address": "Stuf Vama Veche, Strada Falezei 12, 907163 Vama Veche, Romania",
+          "region_short": "CT",
+          "short_address": "Strada Falezei 12, Vama Veche",
+          "place_coordinate": {
+            "latitude": 43.7541716,
+            "longitude": 28.5742653
+          },
+          "apple_maps_place_id": "IF4AB48BED654344B",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 28.5742653,
+          "latitude": 43.7541716
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "slug": "turadeduminica",
+        "website": null,
+        "city": null,
+        "is_personal": false,
+        "personal_user": null,
+        "geo_city": null,
+        "geo_country": null,
+        "geo_region": null,
+        "timezone": null
+      },
+      "start_at": "2026-08-23T06:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-VFzvpYr0VoLoSce",
+          "name": "Endi Ungureanu",
+          "username": "endi"
+        },
+        {
+          "api_id": "usr-FuBuVoSxnOkplIf",
+          "name": "Sori Țigăeru ",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
+    {
       "api_id": "calev-isuCpk9NmTKJmCa",
       "event": {
         "api_id": "evt-TGGYf2s8Apgo4C6",
@@ -4444,6 +5040,130 @@
         {
           "api_id": "usr-yomhnvpt5g17mhz",
           "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
+    {
+      "api_id": "calev-mzhlf5ErZwlTjMX",
+      "event": {
+        "api_id": "evt-37HSdUAr0nlCRI0",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-08-30T07:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică Vama Veche",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/69/d245ef51-dbad-4bd7-99ae-cb543ae04d42.png",
+        "start_at": "2026-08-30T06:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "fo34v6p2",
+        "user_api_id": "usr-VFzvpYr0VoLoSce",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Vama Veche",
+          "type": "google",
+          "region": "Județul Constanța",
+          "address": "Stuf Vama Veche",
+          "country": "Romania",
+          "place_id": "ChIJMdIEDuksu0ARm4u2A1yZHAI",
+          "localized": {
+            "ro": {
+              "city": "Vama Veche",
+              "region": "Județul Constanța",
+              "address": "Stuf",
+              "country": "România",
+              "city_state": "Vama Veche, România",
+              "sublocality": null,
+              "full_address": "Stuf, Strada Falezei 12, 907163 Vama Veche, România",
+              "region_short": "CT",
+              "short_address": "Strada Falezei 12, Vama Veche"
+            },
+            "en-GB": {
+              "city": "Vama Veche",
+              "region": "Județul Constanța",
+              "address": "Stuf Vama Veche",
+              "country": "Romania",
+              "city_state": "Vama Veche, Romania",
+              "sublocality": null,
+              "full_address": "Stuf Vama Veche, Strada Falezei 12, 907163 Vama Veche, Romania",
+              "region_short": "CT",
+              "short_address": "Strada Falezei 12, Vama Veche"
+            }
+          },
+          "city_state": "Vama Veche, Romania",
+          "description": "",
+          "sublocality": null,
+          "country_code": "RO",
+          "full_address": "Stuf Vama Veche, Strada Falezei 12, 907163 Vama Veche, Romania",
+          "region_short": "CT",
+          "short_address": "Strada Falezei 12, Vama Veche",
+          "place_coordinate": {
+            "latitude": 43.7541716,
+            "longitude": 28.5742653
+          },
+          "apple_maps_place_id": "IF4AB48BED654344B",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 28.5742653,
+          "latitude": 43.7541716
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "slug": "turadeduminica",
+        "website": null,
+        "city": null,
+        "is_personal": false,
+        "personal_user": null,
+        "geo_city": null,
+        "geo_country": null,
+        "geo_region": null,
+        "timezone": null
+      },
+      "start_at": "2026-08-30T06:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-VFzvpYr0VoLoSce",
+          "name": "Endi Ungureanu",
+          "username": "endi"
+        },
+        {
+          "api_id": "usr-FuBuVoSxnOkplIf",
+          "name": "Sori Țigăeru ",
           "username": null
         }
       ],
@@ -5050,6 +5770,130 @@
       "tags": []
     },
     {
+      "api_id": "calev-Xg4A2jgQpSKt0AZ",
+      "event": {
+        "api_id": "evt-gWVdyniebj5VHa5",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-09-06T07:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică Vama Veche",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/bt/42b88042-fa56-4975-b276-7c002d95ac7e.png",
+        "start_at": "2026-09-06T06:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "t7cahbpy",
+        "user_api_id": "usr-VFzvpYr0VoLoSce",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Vama Veche",
+          "type": "google",
+          "region": "Județul Constanța",
+          "address": "Stuf Vama Veche",
+          "country": "Romania",
+          "place_id": "ChIJMdIEDuksu0ARm4u2A1yZHAI",
+          "localized": {
+            "ro": {
+              "city": "Vama Veche",
+              "region": "Județul Constanța",
+              "address": "Stuf",
+              "country": "România",
+              "city_state": "Vama Veche, România",
+              "sublocality": null,
+              "full_address": "Stuf, Strada Falezei 12, 907163 Vama Veche, România",
+              "region_short": "CT",
+              "short_address": "Strada Falezei 12, Vama Veche"
+            },
+            "en-GB": {
+              "city": "Vama Veche",
+              "region": "Județul Constanța",
+              "address": "Stuf Vama Veche",
+              "country": "Romania",
+              "city_state": "Vama Veche, Romania",
+              "sublocality": null,
+              "full_address": "Stuf Vama Veche, Strada Falezei 12, 907163 Vama Veche, Romania",
+              "region_short": "CT",
+              "short_address": "Strada Falezei 12, Vama Veche"
+            }
+          },
+          "city_state": "Vama Veche, Romania",
+          "description": "",
+          "sublocality": null,
+          "country_code": "RO",
+          "full_address": "Stuf Vama Veche, Strada Falezei 12, 907163 Vama Veche, Romania",
+          "region_short": "CT",
+          "short_address": "Strada Falezei 12, Vama Veche",
+          "place_coordinate": {
+            "latitude": 43.7541716,
+            "longitude": 28.5742653
+          },
+          "apple_maps_place_id": "IF4AB48BED654344B",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 28.5742653,
+          "latitude": 43.7541716
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "slug": "turadeduminica",
+        "website": null,
+        "city": null,
+        "is_personal": false,
+        "personal_user": null,
+        "geo_city": null,
+        "geo_country": null,
+        "geo_region": null,
+        "timezone": null
+      },
+      "start_at": "2026-09-06T06:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-VFzvpYr0VoLoSce",
+          "name": "Endi Ungureanu",
+          "username": "endi"
+        },
+        {
+          "api_id": "usr-FuBuVoSxnOkplIf",
+          "name": "Sori Țigăeru ",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
+    {
       "api_id": "calev-8IFG8Wv8oj6AWwy",
       "event": {
         "api_id": "evt-R8d6jqSKkkJTU08",
@@ -5550,8 +6394,8 @@
           "username": null
         }
       ],
-      "guest_count": 0,
-      "ticket_count": 0,
+      "guest_count": 1,
+      "ticket_count": 1,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -5694,8 +6538,8 @@
           "username": null
         }
       ],
-      "guest_count": 0,
-      "ticket_count": 0,
+      "guest_count": 1,
+      "ticket_count": 1,
       "ticket_info": {
         "price": null,
         "is_free": true,
