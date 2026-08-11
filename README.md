@@ -4,26 +4,17 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Luni, 10 august
-
-- `19:00` [Meet the Ambassadors - RunSummitRuns](https://lu.ma/exz1fc2e)  
-  <sub>Silviu Popescu · 37 de participanți</sub>
-- `19:30` [321sport & FULFIL Run + Protein Talks](https://lu.ma/le22rpf9)  
-  <sub>321sport · 50 de participanți</sub>
-- `19:30` [Monday Quizmania @ T5](https://lu.ma/n5gs2ig5)  
-  <sub>T5 Social · 19 participanți</sub>
-
 ### Marți, 11 august
 
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E29](https://lu.ma/420drgtk)  
-  <sub>321sport · 7 participanți</sub>
+  <sub>321sport · 8 participanți</sub>
 
 ### Miercuri, 12 august
 
 - `18:00` [RBC #407: I LOVE FAILURE │Cătălin Meșter](https://lu.ma/4ebqf9wr)  
   <sub>Teodora Nicolaiciuc</sub>
 - `19:00` [Place2Be - Eveniment CTR x AmpliFY](https://lu.ma/place-to-be-amplify-ctr-2026)  
-  <sub>AmpliFY ONG · 62 de participanți</sub>
+  <sub>AmpliFY ONG · 66 de participanți</sub>
 - `19:30` [Power of Social Media](https://lu.ma/xmdgus77)  
   <sub>Oportune · 10 participanți</sub>
 
@@ -35,14 +26,14 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Sâmbătă, 15 august
 
 - `09:00` [Sugar 🥐](https://lu.ma/zci0ryqa)  
-  <sub>FOMO Urban Running Club · 5 participanți</sub>
+  <sub>FOMO Urban Running Club · 6 participanți</sub>
 
 ### Duminică, 16 august
 
 - `08:30` [Tura de duminică Cotroceni](https://lu.ma/iiw7mnef)  
   <sub>Aleodor Tabarcea</sub>
 - `08:30` [Tura de duminică Herăstrău](https://lu.ma/34d03iee)  
-  <sub>Emily Merdus · 1 participant</sub>
+  <sub>Emily Merdus · 2 participanți</sub>
 - `08:30` [Tura de duminică I.O.R.](https://lu.ma/6c8xyavq)  
   <sub>Irina Tenovici · 1 participant</sub>
 - `08:30` [Tura de duminică Tineretului](https://lu.ma/9ffsf7zy)  
@@ -86,15 +77,22 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `12:00` [Bookisim - Editia III - Vara in care mama a avut ochii verzi de Tatiana Tibuleac](https://lu.ma/7i6luoqt)  
   <sub>R.O.S.T. Specialty Coffeshop · 7 participanți</sub>
 
+### Marți, 25 august
+
+- `18:00` [Physical AI Bucharest#1 - AI Is Getting A Body](https://lu.ma/66k0k4us)  
+  <sub>Georgia Bucea · 57 de participanți</sub>
+- `19:30` [Ethereum ATH Party/Meetup 🚀🎉 by Daniel Niță (locuri limitate) & Crypto Society](https://lu.ma/ETHATHParty)  
+  <sub>Daniel Nita · 187 de participanți</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-10)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-11)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-10)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-11)
 
 ## Despre
 
@@ -108,4 +106,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 10 august 2026*
+*Actualizat: 11 august 2026*
