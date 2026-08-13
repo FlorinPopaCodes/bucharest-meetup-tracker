@@ -128,17 +128,17 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 39,
-      "ticket_count": 39,
+      "guest_count": 50,
+      "ticket_count": 50,
       "ticket_info": {
         "price": null,
         "is_free": true,
         "max_price": null,
-        "is_sold_out": false,
+        "is_sold_out": true,
         "require_approval": true
       },
-      "registration_availability": "open",
-      "waitlist_active": false,
+      "registration_availability": "waitlist",
+      "waitlist_active": true,
       "featured_city": null
     },
     {
@@ -148,7 +148,7 @@
         "calendar_api_id": "cal-vy7fTgxG01iG02Y",
         "end_at": "2026-08-13T19:30:00.000Z",
         "event_type": "independent",
-        "hide_rsvp": false,
+        "hide_rsvp": true,
         "location_type": "offline",
         "name": "Thursday Trivia",
         "one_to_one": true,
@@ -242,8 +242,8 @@
           "username": "t5social"
         }
       ],
-      "guest_count": 20,
-      "ticket_count": 111,
+      "guest_count": 30,
+      "ticket_count": 136,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -251,7 +251,7 @@
         "is_sold_out": false,
         "require_approval": true
       },
-      "registration_availability": "open",
+      "registration_availability": "sold-out",
       "waitlist_active": false,
       "featured_city": null
     },
@@ -349,8 +349,8 @@
           "username": "muvoutside"
         }
       ],
-      "guest_count": 21,
-      "ticket_count": 21,
+      "guest_count": 24,
+      "ticket_count": 24,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -467,8 +467,8 @@
           "username": null
         }
       ],
-      "guest_count": 13,
-      "ticket_count": 13,
+      "guest_count": 14,
+      "ticket_count": 14,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -612,8 +612,8 @@
           "username": "iesimdincasa"
         }
       ],
-      "guest_count": 14,
-      "ticket_count": 14,
+      "guest_count": 20,
+      "ticket_count": 20,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -802,8 +802,8 @@
           "username": null
         }
       ],
-      "guest_count": 3,
-      "ticket_count": 3,
+      "guest_count": 4,
+      "ticket_count": 4,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -914,8 +914,8 @@
           "username": null
         }
       ],
-      "guest_count": 4,
-      "ticket_count": 4,
+      "guest_count": 5,
+      "ticket_count": 5,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1021,8 +1021,8 @@
           "username": "bymievents"
         }
       ],
-      "guest_count": 3,
-      "ticket_count": 3,
+      "guest_count": 5,
+      "ticket_count": 5,
       "ticket_info": {
         "price": {
           "cents": 9000,
@@ -1138,8 +1138,8 @@
           "username": null
         }
       ],
-      "guest_count": 10,
-      "ticket_count": 10,
+      "guest_count": 11,
+      "ticket_count": 11,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1286,7 +1286,7 @@
         "one_to_one": true,
         "recurrence_id": null,
         "show_guest_list": false,
-        "social_image_url": "https://images.lumacdn.com/event-social/5e/52468417-8191-4307-a7db-45e98c199381.png",
+        "social_image_url": "https://images.lumacdn.com/event-social/6i/2f8f0584-e755-440d-a5ec-d717fe1a5c3a.png",
         "start_at": "2026-08-20T15:30:00.000Z",
         "timezone": "Europe/Bucharest",
         "url": "qrfen9bf",
@@ -1776,6 +1776,120 @@
       "featured_city": null
     },
     {
+      "api_id": "evt-gnmFeE71wGe34Nx",
+      "event": {
+        "api_id": "evt-gnmFeE71wGe34Nx",
+        "calendar_api_id": "cal-WEKLT0kIV0hGoeb",
+        "end_at": "2026-08-26T19:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Join the ▲neomixers x WHOOP Bucharest Community Meet-up",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/es/3ef738f5-0880-46e9-a200-07892d46de38.png",
+        "start_at": "2026-08-26T16:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "l8o1l0lm",
+        "user_api_id": "usr-E5GCUB6j90HcUzk",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Padel One",
+          "country": "Romania",
+          "place_id": "ChIJz9kefnwDskAR83rGryaGPqE",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Padel One",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Aviației",
+              "full_address": "Padel One, Nastase & Marica sport center, Șoseaua Pipera 38, 077190 București, România",
+              "region_short": "București",
+              "short_address": "Nastase & Marica sport center, Șoseaua Pipera 38, București"
+            },
+            "en-GB": {
+              "city": "București",
+              "region": "București",
+              "address": "Padel One",
+              "country": "Romania",
+              "city_state": "București, Romania",
+              "sublocality": "Aviației",
+              "full_address": "Padel One, Nastase & Marica sport center, Șoseaua Pipera 38, 077190 București, Romania",
+              "region_short": "București",
+              "short_address": "Nastase & Marica sport center, Șoseaua Pipera 38, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Aviației",
+          "country_code": "RO",
+          "full_address": "Padel One, Nastase & Marica sport center, Șoseaua Pipera 38, 077190 București, Romania",
+          "region_short": "București",
+          "short_address": "Nastase & Marica sport center, Șoseaua Pipera 38, București",
+          "place_coordinate": {
+            "latitude": 44.4769904,
+            "longitude": 26.098223299999997
+          },
+          "apple_maps_place_id": "I740EEB0696E54D7",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.098223299999997,
+          "latitude": 44.4769904
+        },
+        "waitlist_enabled": true,
+        "waitlist_status": "enabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-WEKLT0kIV0hGoeb",
+        "coordinate": null,
+        "description_short": "▲neomixers is a curated tech networking community in Bucharest running monthly evening mixer events for founders, product people, marketers, and operators in the local startup ecosystem.",
+        "location": null,
+        "name": "▲neomixers",
+        "personal_user_api_id": null,
+        "slug": null,
+        "website": null,
+        "city": null,
+        "is_personal": false,
+        "personal_user": null,
+        "geo_city": null,
+        "geo_country": null,
+        "geo_region": null,
+        "timezone": null
+      },
+      "start_at": "2026-08-26T16:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-E5GCUB6j90HcUzk",
+          "name": "Sandra Ehigiator",
+          "username": "neomixers"
+        }
+      ],
+      "guest_count": 4,
+      "ticket_count": 4,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
       "api_id": "evt-Le3jqyj3p70pjiL",
       "event": {
         "api_id": "evt-Le3jqyj3p70pjiL",
@@ -2081,8 +2195,8 @@
           "username": "gchua"
         }
       ],
-      "guest_count": 24,
-      "ticket_count": 24,
+      "guest_count": 29,
+      "ticket_count": 29,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2648,8 +2762,8 @@
           "username": "razvandeax"
         }
       ],
-      "guest_count": 47,
-      "ticket_count": 47,
+      "guest_count": 48,
+      "ticket_count": 48,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3018,8 +3132,8 @@
           "username": null
         }
       ],
-      "guest_count": 4,
-      "ticket_count": 4,
+      "guest_count": 5,
+      "ticket_count": 5,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3125,8 +3239,8 @@
           "username": null
         }
       ],
-      "guest_count": 1,
-      "ticket_count": 1,
+      "guest_count": 2,
+      "ticket_count": 2,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3213,8 +3327,8 @@
           "username": null
         }
       ],
-      "guest_count": 3,
-      "ticket_count": 3,
+      "guest_count": 4,
+      "ticket_count": 4,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3573,8 +3687,8 @@
           "username": null
         }
       ],
-      "guest_count": 0,
-      "ticket_count": 0,
+      "guest_count": 2,
+      "ticket_count": 2,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3680,8 +3794,8 @@
           "username": null
         }
       ],
-      "guest_count": 0,
-      "ticket_count": 0,
+      "guest_count": 1,
+      "ticket_count": 1,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -4700,8 +4814,8 @@
           "username": null
         }
       ],
-      "guest_count": 0,
-      "ticket_count": 0,
+      "guest_count": 3,
+      "ticket_count": 3,
       "ticket_info": {
         "price": null,
         "is_free": true,
