@@ -4,30 +4,19 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Miercuri, 12 august
-
-- `18:00` [RBC #407: I LOVE FAILURE │Cătălin Meșter](https://lu.ma/4ebqf9wr)  
-  <sub>Teodora Nicolaiciuc</sub>
-- `19:00` [Place2Be - Eveniment CTR x AmpliFY](https://lu.ma/place-to-be-amplify-ctr-2026)  
-  <sub>AmpliFY ONG · 125 de participanți</sub>
-- `19:30` [Power of Social Media](https://lu.ma/xmdgus77)  
-  <sub>Oportune · 13 participanți</sub>
-- `20:00` [Teatru in aer liber: Billy Schiopul](https://greenrevolution.ro/eveniment/teatru-in-aer-liber-billy-schiopul/)  
-  <sub>Roaba de Cultură</sub>
-
 ### Joi, 13 august
 
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E30](https://lu.ma/wgkl6pv2)  
-  <sub>321sport · 30 de participanți</sub>
+  <sub>321sport · 39 de participanți</sub>
 - `19:30` [Thursday Trivia](https://lu.ma/umyc02oh)  
-  <sub>T5 Social · 18 participanți</sub>
+  <sub>T5 Social · 20 de participanți</sub>
 - `20:30` [Film în aer liber: Jackie (r. Pablo Larraín)](https://greenrevolution.ro/eveniment/film-in-aer-liber-jackie-r-pablo-larrain/)  
   <sub>Roaba de Cultură</sub>
 
 ### Vineri, 14 august
 
 - `20:30` [PULSE #53 - muv & pass](https://lu.ma/ygb796be)  
-  <sub>MuvOutside · 19 participanți</sub>
+  <sub>MuvOutside · 21 de participanți</sub>
 
 ### Sâmbătă, 15 august
 
@@ -36,7 +25,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `09:00` [Yoga cu Catrina Prager](https://greenrevolution.ro/eveniment/yoga-cu-catrina-prager/)  
   <sub>Roaba de Cultură</sub>
 - `16:30` [Coloring & Chill: Mandale și Picnic în Parc 🖍️🌳 #11](https://lu.ma/5wp4ugn9)  
-  <sub>Lucian Savu · 10 participanți</sub>
+  <sub>Lucian Savu · 14 participanți</sub>
 - `20:30` [Concert Paul Tihan](https://greenrevolution.ro/eveniment/concert-paul-tihan/)  
   <sub>Roaba de Cultură</sub>
 
@@ -55,7 +44,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:00` [Make your own locket with us](https://lu.ma/v3u63xnn)  
   <sub>By Mi · 3 participanți</sub>
 - `18:00` [Volei cu Oportune 🏐](https://lu.ma/e4jkzm59)  
-  <sub>Oportune · 7 participanți</sub>
+  <sub>Oportune · 10 participanți</sub>
 
 ### Luni, 17 august
 
@@ -98,19 +87,24 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Marți, 25 august
 
 - `18:00` [Physical AI Bucharest#1 - AI Is Getting A Body](https://lu.ma/66k0k4us)  
-  <sub>Georgia Bucea · 61 de participanți</sub>
+  <sub>Georgia Bucea · 64 de participanți</sub>
 - `19:30` [Ethereum ATH Party/Meetup 🚀🎉 by Daniel Niță (locuri limitate) & Crypto Society](https://lu.ma/ETHATHParty)  
   <sub>Daniel Nita · 187 de participanți</sub>
+
+### Joi, 27 august
+
+- `19:00` [DevNights #8 - Building with AI, startups and more](https://lu.ma/avvvg0is)  
+  <sub>Oprea Matei</sub>
 
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-12)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-13)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-12)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-13)
 
 ## Despre
 
@@ -124,4 +118,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 12 august 2026*
+*Actualizat: 13 august 2026*
