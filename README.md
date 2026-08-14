@@ -7,7 +7,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Vineri, 14 august
 
 - `20:30` [PULSE #53 - muv & pass](https://lu.ma/ygb796be)  
-  <sub>MuvOutside · 25 de participanți</sub>
+  <sub>MuvOutside · 27 de participanți</sub>
 
 ### Sâmbătă, 15 august
 
@@ -25,15 +25,15 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `08:30` [Tura de duminică Cotroceni](https://lu.ma/iiw7mnef)  
   <sub>Aleodor Tabarcea · 3 participanți</sub>
 - `08:30` [Tura de duminică Herăstrău](https://lu.ma/34d03iee)  
-  <sub>Emily Merdus · 4 participanți</sub>
+  <sub>Emily Merdus · 6 participanți</sub>
 - `08:30` [Tura de duminică I.O.R.](https://lu.ma/6c8xyavq)  
-  <sub>Irina Tenovici · 2 participanți</sub>
+  <sub>Irina Tenovici · 4 participanți</sub>
 - `08:30` [Tura de duminică Tineretului](https://lu.ma/9ffsf7zy)  
   <sub>Nicoleta Ifrim · 6 participanți</sub>
 - `09:30` [Teatru de papusi cu Bibabo](https://greenrevolution.ro/eveniment/teatru-de-papusi-cu-bibabo/)  
   <sub>Roaba de Cultură</sub>
 - `18:00` [Make your own locket with us](https://lu.ma/v3u63xnn)  
-  <sub>By Mi · 6 participanți</sub>
+  <sub>By Mi · 9 participanți</sub>
 - `18:00` [Volei cu Oportune 🏐](https://lu.ma/e4jkzm59)  
   <sub>Oportune · 12 participanți</sub>
 
@@ -51,6 +51,8 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 - `18:30` [🥂Art in Motion on the Rooftop @ DODA5🥂](https://lu.ma/qrfen9bf)  
   <sub>Loredana Pipie</sub>
+- `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E32](https://lu.ma/aknmxhng)  
+  <sub>321sport · 5 participanți</sub>
 
 ---
 
@@ -60,7 +62,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Sâmbătă, 22 august
 
 - `14:00` [Cafeaua De Sâmbăta #26 \| Bucuresti](https://lu.ma/ghhnkryx)  
-  <sub>Ionut Alexandru Stanciu · 3 participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 4 participanți</sub>
 
 ### Duminică, 23 august
 
@@ -78,14 +80,14 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Marți, 25 august
 
 - `18:00` [Physical AI Bucharest#1 - AI Is Getting A Body](https://lu.ma/66k0k4us)  
-  <sub>Georgia Bucea · 65 de participanți</sub>
+  <sub>Georgia Bucea · 66 de participanți</sub>
 - `19:30` [Ethereum ATH Party/Meetup 🚀🎉 by Daniel Niță (locuri limitate) & Crypto Society](https://lu.ma/ETHATHParty)  
   <sub>Daniel Nita · 187 de participanți</sub>
 
 ### Miercuri, 26 august
 
 - `19:00` [Join the ▲neomixers x WHOOP Bucharest Community Meet-up](https://lu.ma/l8o1l0lm)  
-  <sub>Sandra Ehigiator · 7 participanți</sub>
+  <sub>Sandra Ehigiator · 17 participanți</sub>
 
 ### Joi, 27 august
 
@@ -95,7 +97,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Vineri, 28 august
 
 - `17:00` [GTM Skillathon - Formidable Builders x Codex Community x Apify](https://lu.ma/82q9aclg)  
-  <sub>Gabriel Moncha · 32 de participanți</sub>
+  <sub>Gabriel Moncha · 37 de participanți</sub>
 
 ## Activitate (ultimele 365 de zile)
 
