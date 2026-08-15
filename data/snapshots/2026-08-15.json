@@ -1,269 +1,6 @@
 {
   "geo": [
     {
-      "api_id": "evt-0bTDL3OF39hxKzO",
-      "event": {
-        "api_id": "evt-0bTDL3OF39hxKzO",
-        "calendar_api_id": "cal-rrofpsXbO10MGr0",
-        "end_at": "2026-08-15T07:00:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "Sugar 🥐",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": true,
-        "social_image_url": "https://images.lumacdn.com/event-social/tx/a9121aa2-e646-4563-ac9a-6591ebf4e816.png",
-        "start_at": "2026-08-15T06:00:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "zci0ryqa",
-        "user_api_id": "usr-rK0u7f6ZAymrya1",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "București",
-          "type": "google",
-          "region": "București",
-          "address": "Restaurant Casa Albă",
-          "country": "Romania",
-          "place_id": "ChIJbZyrhicDskARu5_BNprp2Ng",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": "București",
-              "address": "Casa Albă",
-              "country": "România",
-              "city_state": "București, România",
-              "sublocality": "Bucureşti Sectorul 1",
-              "full_address": "Casa Albă, Aleea Privighetorilor 31-35, 014031 București, România",
-              "region_short": "București",
-              "short_address": "Aleea Privighetorilor 31-35, București"
-            },
-            "en-GB": {
-              "city": "București",
-              "region": "București",
-              "address": "Restaurant Casa Albă",
-              "country": "Romania",
-              "city_state": "București, Romania",
-              "sublocality": "Bucureşti Sectorul 1",
-              "full_address": "Restaurant Casa Albă, Aleea Privighetorilor 31-35, 014031 București, Romania",
-              "region_short": "București",
-              "short_address": "Aleea Privighetorilor 31-35, București"
-            }
-          },
-          "city_state": "București, Romania",
-          "description": "",
-          "sublocality": "Bucureşti Sectorul 1",
-          "country_code": "RO",
-          "full_address": "Restaurant Casa Albă, Aleea Privighetorilor 31-35, 014031 București, Romania",
-          "region_short": "București",
-          "short_address": "Aleea Privighetorilor 31-35, București",
-          "place_coordinate": {
-            "latitude": 44.51911700000001,
-            "longitude": 26.0906421
-          },
-          "apple_maps_place_id": "I2E154177CF2F218E",
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 26.0906421,
-          "latitude": 44.51911700000001
-        },
-        "waitlist_enabled": false,
-        "waitlist_status": "disabled"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-rrofpsXbO10MGr0",
-        "coordinate": null,
-        "description_short": null,
-        "location": null,
-        "name": "Personal",
-        "personal_user_api_id": "usr-rK0u7f6ZAymrya1",
-        "slug": null,
-        "website": null,
-        "city": null,
-        "is_personal": true,
-        "personal_user": {
-          "api_id": "usr-rK0u7f6ZAymrya1",
-          "name": "FOMO Urban Running Club",
-          "username": null
-        },
-        "geo_city": null,
-        "geo_country": null,
-        "geo_region": null,
-        "timezone": null
-      },
-      "start_at": "2026-08-15T06:00:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-rK0u7f6ZAymrya1",
-          "name": "FOMO Urban Running Club",
-          "username": null
-        }
-      ],
-      "guest_count": 19,
-      "ticket_count": 19,
-      "ticket_info": {
-        "price": null,
-        "is_free": true,
-        "max_price": null,
-        "is_sold_out": false,
-        "require_approval": true
-      },
-      "registration_availability": "open",
-      "waitlist_active": false,
-      "featured_city": null
-    },
-    {
-      "api_id": "evt-cMLQPc3ZLI1DugG",
-      "event": {
-        "api_id": "evt-cMLQPc3ZLI1DugG",
-        "calendar_api_id": "cal-B872osgWqW83ENT",
-        "end_at": "2026-08-15T16:00:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "Coloring & Chill: Mandale și Picnic în Parc 🖍️🌳 #11",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": true,
-        "social_image_url": "https://images.lumacdn.com/event-social/hd/3ab73fc4-6e79-4198-8df4-094e6cc3b758.png",
-        "start_at": "2026-08-15T13:30:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "5wp4ugn9",
-        "user_api_id": "usr-YBFN0wHZy8N0l6U",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "București",
-          "type": "google",
-          "region": "București",
-          "address": "Insula Trandafirilor",
-          "country": "Romania",
-          "place_id": "ChIJrzeiQhUCskAR9l4iYrfRtXo",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": "București",
-              "address": "Insula Trandafirilor",
-              "country": "România",
-              "city_state": "București, România",
-              "sublocality": "Bucureşti Sectorul 1",
-              "full_address": "Insula Trandafirilor, București, România",
-              "region_short": "București",
-              "short_address": "București"
-            },
-            "en-GB": {
-              "city": "București",
-              "region": "București",
-              "address": "Insula Trandafirilor",
-              "country": "Romania",
-              "city_state": "București, Romania",
-              "sublocality": "Bucureşti Sectorul 1",
-              "full_address": "Insula Trandafirilor, București, Romania",
-              "region_short": "București",
-              "short_address": "Bucharest"
-            }
-          },
-          "city_state": "București, Romania",
-          "description": "📍 Locația exactă: Ne vedem în Parcul Herăstrău. Pentru că voi căuta cel mai bun și umbros loc pe iarbă în ziua respectivă, vă voi trimite pe email și în aplicația Luma pin-ul exact (locația pe Google Maps) cu aproximativ 30 - 40 de minute înainte de începerea evenimentului (în jur de ora 15:50 - 16:00).\n📱 Te rog să fii cu ochii pe notificări sâmbătă după-amiază!",
-          "sublocality": "Bucureşti Sectorul 1",
-          "country_code": "RO",
-          "full_address": "Insula Trandafirilor, București, Romania",
-          "region_short": "București",
-          "short_address": "Bucharest",
-          "place_coordinate": {
-            "latitude": 44.473114699999996,
-            "longitude": 26.079037
-          },
-          "apple_maps_place_id": "IE3587DBE76322A96",
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 26.079037,
-          "latitude": 44.473114699999996
-        },
-        "waitlist_enabled": true,
-        "waitlist_status": "active"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-B872osgWqW83ENT",
-        "coordinate": {
-          "longitude": 26.1025384,
-          "latitude": 44.426767399999996
-        },
-        "description_short": "Ieșim din casă, lăsăm telefoanele și ne conectăm offline. 🚪\n✨ Comunitate și evenimente 100% gratuite pentru tinerii din București.\n🌳 Găsești calendarul următoarelor întâlniri mai jos. 🎟️",
-        "location": {
-          "city": "Bucharest",
-          "region": null,
-          "country": "Romania",
-          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
-          "timezone": "Europe/Bucharest",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": null,
-              "country": "România"
-            }
-          },
-          "country_code": "RO"
-        },
-        "name": "Ieșim din Casă",
-        "personal_user_api_id": null,
-        "slug": "iesimdincasa",
-        "website": "https://iesimdincasa.ro",
-        "city": {
-          "city": "Bucharest",
-          "region": null,
-          "country": "Romania",
-          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
-          "timezone": "Europe/Bucharest",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": null,
-              "country": "România"
-            }
-          },
-          "country_code": "RO"
-        },
-        "is_personal": false,
-        "personal_user": null,
-        "geo_city": "Bucharest",
-        "geo_country": "Romania",
-        "geo_region": null,
-        "timezone": "Europe/Bucharest"
-      },
-      "start_at": "2026-08-15T13:30:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-YBFN0wHZy8N0l6U",
-          "name": "Lucian Savu",
-          "username": "iesimdincasa"
-        }
-      ],
-      "guest_count": 24,
-      "ticket_count": 24,
-      "ticket_info": {
-        "price": null,
-        "is_free": true,
-        "max_price": null,
-        "is_sold_out": false,
-        "require_approval": false
-      },
-      "registration_availability": "open",
-      "waitlist_active": false,
-      "featured_city": null
-    },
-    {
       "api_id": "evt-5sqCVORBHDFhAWO",
       "event": {
         "api_id": "evt-5sqCVORBHDFhAWO",
@@ -357,8 +94,8 @@
           "username": null
         }
       ],
-      "guest_count": 3,
-      "ticket_count": 3,
+      "guest_count": 5,
+      "ticket_count": 5,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -440,8 +177,8 @@
           "username": null
         }
       ],
-      "guest_count": 7,
-      "ticket_count": 7,
+      "guest_count": 8,
+      "ticket_count": 8,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -542,8 +279,8 @@
           "username": null
         }
       ],
-      "guest_count": 4,
-      "ticket_count": 4,
+      "guest_count": 7,
+      "ticket_count": 7,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -654,8 +391,8 @@
           "username": null
         }
       ],
-      "guest_count": 6,
-      "ticket_count": 6,
+      "guest_count": 9,
+      "ticket_count": 9,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -761,8 +498,8 @@
           "username": "bymievents"
         }
       ],
-      "guest_count": 9,
-      "ticket_count": 9,
+      "guest_count": 11,
+      "ticket_count": 11,
       "ticket_info": {
         "price": {
           "cents": 9000,
@@ -878,8 +615,8 @@
           "username": null
         }
       ],
-      "guest_count": 12,
-      "ticket_count": 12,
+      "guest_count": 13,
+      "ticket_count": 13,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1293,8 +1030,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 5,
-      "ticket_count": 5,
+      "guest_count": 6,
+      "ticket_count": 6,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1411,8 +1148,8 @@
           "username": null
         }
       ],
-      "guest_count": 25,
-      "ticket_count": 25,
+      "guest_count": 38,
+      "ticket_count": 38,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1514,8 +1251,8 @@
           "username": null
         }
       ],
-      "guest_count": 9,
-      "ticket_count": 9,
+      "guest_count": 10,
+      "ticket_count": 10,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1875,8 +1612,8 @@
           "username": "neomixers"
         }
       ],
-      "guest_count": 22,
-      "ticket_count": 22,
+      "guest_count": 23,
+      "ticket_count": 23,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2317,8 +2054,8 @@
           "username": null
         }
       ],
-      "guest_count": 13,
-      "ticket_count": 13,
+      "guest_count": 15,
+      "ticket_count": 15,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3137,8 +2874,8 @@
           "username": null
         }
       ],
-      "guest_count": 3,
-      "ticket_count": 3,
+      "guest_count": 5,
+      "ticket_count": 5,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3254,8 +2991,8 @@
           "username": null
         }
       ],
-      "guest_count": 6,
-      "ticket_count": 6,
+      "guest_count": 9,
+      "ticket_count": 9,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3361,8 +3098,8 @@
           "username": null
         }
       ],
-      "guest_count": 4,
-      "ticket_count": 4,
+      "guest_count": 7,
+      "ticket_count": 7,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3449,8 +3186,8 @@
           "username": null
         }
       ],
-      "guest_count": 7,
-      "ticket_count": 7,
+      "guest_count": 8,
+      "ticket_count": 8,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3537,8 +3274,8 @@
           "username": null
         }
       ],
-      "guest_count": 1,
-      "ticket_count": 1,
+      "guest_count": 5,
+      "ticket_count": 5,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -4398,8 +4135,8 @@
           "username": null
         }
       ],
-      "guest_count": 0,
-      "ticket_count": 0,
+      "guest_count": 1,
+      "ticket_count": 1,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -6642,7 +6379,7 @@
         {
           "api_id": "usr-d5LUqEPbebpVMpL",
           "name": "Teodora Pamfile",
-          "username": null
+          "username": "teodorapamfile"
         }
       ],
       "guest_count": 0,
@@ -7072,8 +6809,8 @@
           "username": "alexstanciu"
         }
       ],
-      "guest_count": 5,
-      "ticket_count": 5,
+      "guest_count": 6,
+      "ticket_count": 6,
       "ticket_info": {
         "price": null,
         "is_free": true,

@@ -18,19 +18,19 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 16 august
 
 - `08:30` [Tura de duminică Cotroceni](https://lu.ma/iiw7mnef)  
-  <sub>Aleodor Tabarcea · 3 participanți</sub>
+  <sub>Aleodor Tabarcea · 5 participanți</sub>
 - `08:30` [Tura de duminică Herăstrău](https://lu.ma/34d03iee)  
-  <sub>Emily Merdus · 7 participanți</sub>
+  <sub>Emily Merdus · 8 participanți</sub>
 - `08:30` [Tura de duminică I.O.R.](https://lu.ma/6c8xyavq)  
-  <sub>Irina Tenovici · 4 participanți</sub>
+  <sub>Irina Tenovici · 7 participanți</sub>
 - `08:30` [Tura de duminică Tineretului](https://lu.ma/9ffsf7zy)  
-  <sub>Nicoleta Ifrim · 6 participanți</sub>
+  <sub>Nicoleta Ifrim · 9 participanți</sub>
 - `09:30` [Teatru de papusi cu Bibabo](https://greenrevolution.ro/eveniment/teatru-de-papusi-cu-bibabo/)  
   <sub>Roaba de Cultură</sub>
 - `18:00` [Make your own locket with us](https://lu.ma/v3u63xnn)  
-  <sub>By Mi · 9 participanți</sub>
+  <sub>By Mi · 11 participanți</sub>
 - `18:00` [Volei cu Oportune 🏐](https://lu.ma/e4jkzm59)  
-  <sub>Oportune · 12 participanți</sub>
+  <sub>Oportune · 13 participanți</sub>
 
 ### Luni, 17 august
 
@@ -47,7 +47,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:30` [🥂Art in Motion on the Rooftop @ DODA5🥂](https://lu.ma/qrfen9bf)  
   <sub>Loredana Pipie</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E32](https://lu.ma/aknmxhng)  
-  <sub>321sport · 5 participanți</sub>
+  <sub>321sport · 6 participanți</sub>
 
 ---
 
@@ -57,12 +57,12 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Vineri, 21 august
 
 - `19:30` [FOMO x FRIDAY NIGHT LIGHTS](https://lu.ma/lrdhk60z)  
-  <sub>FOMO Urban Running Club · 25 de participanți</sub>
+  <sub>FOMO Urban Running Club · 38 de participanți</sub>
 
 ### Sâmbătă, 22 august
 
 - `14:00` [Cafeaua De Sâmbăta #26 \| Bucuresti](https://lu.ma/ghhnkryx)  
-  <sub>Ionut Alexandru Stanciu · 5 participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 6 participanți</sub>
 
 ### Duminică, 23 august
 
@@ -73,9 +73,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `08:30` [Tura de duminică I.O.R.](https://lu.ma/a7tr9774)  
   <sub>Irina Tenovici · 1 participant</sub>
 - `08:30` [Tura de duminică Tineretului](https://lu.ma/vca534uf)  
-  <sub>Nicoleta Ifrim</sub>
+  <sub>Nicoleta Ifrim · 1 participant</sub>
 - `12:00` [Bookisim - Editia III - Vara in care mama a avut ochii verzi de Tatiana Tibuleac](https://lu.ma/7i6luoqt)  
-  <sub>R.O.S.T. Specialty Coffeshop · 9 participanți</sub>
+  <sub>R.O.S.T. Specialty Coffeshop · 10 participanți</sub>
 
 ### Marți, 25 august
 
@@ -87,7 +87,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Miercuri, 26 august
 
 - `19:00` [Join the ▲neomixers x WHOOP Bucharest Community Meet-up](https://lu.ma/l8o1l0lm)  
-  <sub>Sandra Ehigiator · 22 de participanți</sub>
+  <sub>Sandra Ehigiator · 23 de participanți</sub>
 
 ### Joi, 27 august
 
@@ -99,7 +99,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `17:00` [GTM Skillathon - Formidable Builders x Codex Community x Apify](https://lu.ma/82q9aclg)  
   <sub>Gabriel Moncha · 38 de participanți</sub>
 - `19:00` [The Wine Social \| The Clique X Beyond The Frame](https://lu.ma/msqdqd5p)  
-  <sub>The Clique · 13 participanți</sub>
+  <sub>The Clique · 15 participanți</sub>
 
 ## Activitate (ultimele 365 de zile)
 
