@@ -19,12 +19,14 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:00` [Make your own locket with us](https://lu.ma/v3u63xnn)  
   <sub>By Mi · 12 participanți</sub>
 - `18:00` [Volei cu Oportune 🏐](https://lu.ma/e4jkzm59)  
-  <sub>Oportune · 14 participanți</sub>
+  <sub>Oportune · 15 participanți</sub>
 
 ### Luni, 17 august
 
 - `18:30` [THE SQUARE Social Chess Event @Grădina Floreasca](https://lu.ma/vlm333n2)  
   <sub>THE SQUARE Chess Club</sub>
+- `19:30` [Monday Quizmania](https://lu.ma/s6d4oh91)  
+  <sub>T5 Social · 4 participanți</sub>
 
 ### Marți, 18 august
 
@@ -46,19 +48,19 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Vineri, 21 august
 
 - `19:30` [FOMO x FRIDAY NIGHT LIGHTS](https://lu.ma/lrdhk60z)  
-  <sub>FOMO Urban Running Club · 41 de participanți</sub>
+  <sub>FOMO Urban Running Club · 45 de participanți</sub>
 
 ### Sâmbătă, 22 august
 
 - `14:00` [Cafeaua De Sâmbăta #26 \| Bucuresti](https://lu.ma/ghhnkryx)  
-  <sub>Ionut Alexandru Stanciu · 7 participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 10 participanți</sub>
 
 ### Duminică, 23 august
 
 - `08:30` [Tura de duminică Cotroceni](https://lu.ma/8uky7yed)  
   <sub>Aleodor Tabarcea</sub>
 - `08:30` [Tura de duminică Herăstrău](https://lu.ma/e7qw6i1p)  
-  <sub>Emily Merdus</sub>
+  <sub>Emily Merdus · 2 participanți</sub>
 - `08:30` [Tura de duminică I.O.R.](https://lu.ma/a7tr9774)  
   <sub>Irina Tenovici · 1 participant</sub>
 - `08:30` [Tura de duminică Tineretului](https://lu.ma/vca534uf)  
@@ -69,14 +71,14 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Marți, 25 august
 
 - `18:00` [Physical AI Bucharest#1 - AI Is Getting A Body](https://lu.ma/66k0k4us)  
-  <sub>Georgia Bucea · 67 de participanți</sub>
+  <sub>Georgia Bucea · 69 de participanți</sub>
 - `19:30` [Ethereum ATH Party/Meetup 🚀🎉 by Daniel Niță (locuri limitate) & Crypto Society](https://lu.ma/ETHATHParty)  
   <sub>Daniel Nita · 187 de participanți</sub>
 
 ### Miercuri, 26 august
 
 - `19:00` [Join the ▲neomixers x WHOOP Bucharest Community Meet-up](https://lu.ma/l8o1l0lm)  
-  <sub>Sandra Ehigiator · 27 de participanți</sub>
+  <sub>Sandra Ehigiator · 30 de participanți</sub>
 
 ### Joi, 27 august
 
@@ -86,7 +88,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Vineri, 28 august
 
 - `17:00` [GTM Skillathon - Formidable Builders x Codex Community x Apify](https://lu.ma/82q9aclg)  
-  <sub>Gabriel Moncha · 38 de participanți</sub>
+  <sub>Gabriel Moncha · 39 de participanți</sub>
 - `19:00` [The Wine Social \| The Clique X Beyond The Frame](https://lu.ma/msqdqd5p)  
   <sub>The Clique · 15 participanți</sub>
 
