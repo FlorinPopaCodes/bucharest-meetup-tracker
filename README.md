@@ -4,33 +4,22 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Sâmbătă, 15 august
-
-- `09:00` [Sugar 🥐](https://lu.ma/zci0ryqa)  
-  <sub>FOMO Urban Running Club · 19 participanți</sub>
-- `09:00` [Yoga cu Catrina Prager](https://greenrevolution.ro/eveniment/yoga-cu-catrina-prager/)  
-  <sub>Roaba de Cultură</sub>
-- `16:30` [Coloring & Chill: Mandale și Picnic în Parc 🖍️🌳 #11](https://lu.ma/5wp4ugn9)  
-  <sub>Lucian Savu · 24 de participanți</sub>
-- `20:30` [Concert Paul Tihan](https://greenrevolution.ro/eveniment/concert-paul-tihan/)  
-  <sub>Roaba de Cultură</sub>
-
 ### Duminică, 16 august
 
 - `08:30` [Tura de duminică Cotroceni](https://lu.ma/iiw7mnef)  
-  <sub>Aleodor Tabarcea · 5 participanți</sub>
+  <sub>Aleodor Tabarcea · 9 participanți</sub>
 - `08:30` [Tura de duminică Herăstrău](https://lu.ma/34d03iee)  
   <sub>Emily Merdus · 8 participanți</sub>
 - `08:30` [Tura de duminică I.O.R.](https://lu.ma/6c8xyavq)  
-  <sub>Irina Tenovici · 7 participanți</sub>
+  <sub>Irina Tenovici · 8 participanți</sub>
 - `08:30` [Tura de duminică Tineretului](https://lu.ma/9ffsf7zy)  
-  <sub>Nicoleta Ifrim · 9 participanți</sub>
+  <sub>Nicoleta Ifrim · 11 participanți</sub>
 - `09:30` [Teatru de papusi cu Bibabo](https://greenrevolution.ro/eveniment/teatru-de-papusi-cu-bibabo/)  
   <sub>Roaba de Cultură</sub>
 - `18:00` [Make your own locket with us](https://lu.ma/v3u63xnn)  
-  <sub>By Mi · 11 participanți</sub>
+  <sub>By Mi · 12 participanți</sub>
 - `18:00` [Volei cu Oportune 🏐](https://lu.ma/e4jkzm59)  
-  <sub>Oportune · 13 participanți</sub>
+  <sub>Oportune · 14 participanți</sub>
 
 ### Luni, 17 august
 
@@ -47,7 +36,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:30` [🥂Art in Motion on the Rooftop @ DODA5🥂](https://lu.ma/qrfen9bf)  
   <sub>Loredana Pipie</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E32](https://lu.ma/aknmxhng)  
-  <sub>321sport · 6 participanți</sub>
+  <sub>321sport · 11 participanți</sub>
 
 ---
 
@@ -57,12 +46,12 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Vineri, 21 august
 
 - `19:30` [FOMO x FRIDAY NIGHT LIGHTS](https://lu.ma/lrdhk60z)  
-  <sub>FOMO Urban Running Club · 38 de participanți</sub>
+  <sub>FOMO Urban Running Club · 41 de participanți</sub>
 
 ### Sâmbătă, 22 august
 
 - `14:00` [Cafeaua De Sâmbăta #26 \| Bucuresti](https://lu.ma/ghhnkryx)  
-  <sub>Ionut Alexandru Stanciu · 6 participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 7 participanți</sub>
 
 ### Duminică, 23 august
 
@@ -75,7 +64,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `08:30` [Tura de duminică Tineretului](https://lu.ma/vca534uf)  
   <sub>Nicoleta Ifrim · 1 participant</sub>
 - `12:00` [Bookisim - Editia III - Vara in care mama a avut ochii verzi de Tatiana Tibuleac](https://lu.ma/7i6luoqt)  
-  <sub>R.O.S.T. Specialty Coffeshop · 10 participanți</sub>
+  <sub>R.O.S.T. Specialty Coffeshop · 11 participanți</sub>
 
 ### Marți, 25 august
 
@@ -87,7 +76,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Miercuri, 26 august
 
 - `19:00` [Join the ▲neomixers x WHOOP Bucharest Community Meet-up](https://lu.ma/l8o1l0lm)  
-  <sub>Sandra Ehigiator · 23 de participanți</sub>
+  <sub>Sandra Ehigiator · 27 de participanți</sub>
 
 ### Joi, 27 august
 
@@ -101,15 +90,20 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `19:00` [The Wine Social \| The Clique X Beyond The Frame](https://lu.ma/msqdqd5p)  
   <sub>The Clique · 15 participanți</sub>
 
+### Duminică, 30 august
+
+- `14:00` [Unhinged Book Club #31](https://lu.ma/5cd3rzgc)  
+  <sub>Iulia condrea · 13 participanți</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-15)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-16)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-15)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-16)
 
 ## Despre
 
@@ -123,4 +117,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 15 august 2026*
+*Actualizat: 16 august 2026*
