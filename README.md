@@ -4,31 +4,19 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Duminică, 16 august
-
-- `08:30` [Tura de duminică Cotroceni](https://lu.ma/iiw7mnef)  
-  <sub>Aleodor Tabarcea · 9 participanți</sub>
-- `08:30` [Tura de duminică Herăstrău](https://lu.ma/34d03iee)  
-  <sub>Emily Merdus · 8 participanți</sub>
-- `08:30` [Tura de duminică I.O.R.](https://lu.ma/6c8xyavq)  
-  <sub>Irina Tenovici · 8 participanți</sub>
-- `08:30` [Tura de duminică Tineretului](https://lu.ma/9ffsf7zy)  
-  <sub>Nicoleta Ifrim · 11 participanți</sub>
-- `09:30` [Teatru de papusi cu Bibabo](https://greenrevolution.ro/eveniment/teatru-de-papusi-cu-bibabo/)  
-  <sub>Roaba de Cultură</sub>
-- `18:00` [Make your own locket with us](https://lu.ma/v3u63xnn)  
-  <sub>By Mi · 12 participanți</sub>
-- `18:00` [Volei cu Oportune 🏐](https://lu.ma/e4jkzm59)  
-  <sub>Oportune · 15 participanți</sub>
-
 ### Luni, 17 august
 
 - `18:30` [THE SQUARE Social Chess Event @Grădina Floreasca](https://lu.ma/vlm333n2)  
   <sub>THE SQUARE Chess Club</sub>
 - `19:30` [Monday Quizmania](https://lu.ma/s6d4oh91)  
-  <sub>T5 Social · 4 participanți</sub>
+  <sub>T5 Social · 10 participanți</sub>
 
 ### Marți, 18 august
+
+- `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E31](https://lu.ma/4sle6fzh)  
+  <sub>321sport · 4 participanți</sub>
+
+---
 
 - [O zi din viaţa unui politician fericit](https://www.iabilet.ro/bilete-o-zi-din-viata-unui-politician-fericit-129637/)  
   <sub>Teatrul Improteca</sub>
@@ -48,12 +36,12 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Vineri, 21 august
 
 - `19:30` [FOMO x FRIDAY NIGHT LIGHTS](https://lu.ma/lrdhk60z)  
-  <sub>FOMO Urban Running Club · 45 de participanți</sub>
+  <sub>FOMO Urban Running Club · 48 de participanți</sub>
 
 ### Sâmbătă, 22 august
 
 - `14:00` [Cafeaua De Sâmbăta #26 \| Bucuresti](https://lu.ma/ghhnkryx)  
-  <sub>Ionut Alexandru Stanciu · 10 participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 11 participanți</sub>
 
 ### Duminică, 23 august
 
@@ -71,7 +59,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Marți, 25 august
 
 - `18:00` [Physical AI Bucharest#1 - AI Is Getting A Body](https://lu.ma/66k0k4us)  
-  <sub>Georgia Bucea · 69 de participanți</sub>
+  <sub>Georgia Bucea · 73 de participanți</sub>
 - `19:30` [Ethereum ATH Party/Meetup 🚀🎉 by Daniel Niță (locuri limitate) & Crypto Society](https://lu.ma/ETHATHParty)  
   <sub>Daniel Nita · 187 de participanți</sub>
 
@@ -101,11 +89,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-16)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-17)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-16)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-17)
 
 ## Despre
 
@@ -119,4 +107,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 16 august 2026*
+*Actualizat: 17 august 2026*
