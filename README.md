@@ -4,17 +4,10 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Luni, 17 august
-
-- `18:30` [THE SQUARE Social Chess Event @Grădina Floreasca](https://lu.ma/vlm333n2)  
-  <sub>THE SQUARE Chess Club</sub>
-- `19:30` [Monday Quizmania](https://lu.ma/s6d4oh91)  
-  <sub>T5 Social · 24 de participanți</sub>
-
 ### Marți, 18 august
 
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E31](https://lu.ma/4sle6fzh)  
-  <sub>321sport · 6 participanți</sub>
+  <sub>321sport · 10 participanți</sub>
 
 ---
 
@@ -55,18 +48,20 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
   <sub>Nicoleta Ifrim · 2 participanți</sub>
 - `12:00` [Bookisim - Editia III - Vara in care mama a avut ochii verzi de Tatiana Tibuleac](https://lu.ma/7i6luoqt)  
   <sub>R.O.S.T. Specialty Coffeshop · 11 participanți</sub>
+- `17:30` [Mommy HAI la Velocita cu Minunații!](https://lu.ma/yilfwk3h)  
+  <sub>Stefana Rondak · 3 participanți</sub>
 
 ### Marți, 25 august
 
 - `18:00` [Physical AI Bucharest#1 - AI Is Getting A Body](https://lu.ma/66k0k4us)  
-  <sub>Georgia Bucea · 75 de participanți</sub>
+  <sub>Georgia Bucea · 76 de participanți</sub>
 - `19:30` [Ethereum ATH Party/Meetup 🚀🎉 by Daniel Niță (locuri limitate) & Crypto Society](https://lu.ma/ETHATHParty)  
   <sub>Daniel Nita · 187 de participanți</sub>
 
 ### Miercuri, 26 august
 
 - `19:00` [Join the ▲neomixers x WHOOP Bucharest Community Meet-up](https://lu.ma/l8o1l0lm)  
-  <sub>Sandra Ehigiator · 35 de participanți</sub>
+  <sub>Sandra Ehigiator · 36 de participanți</sub>
 
 ### Joi, 27 august
 
@@ -78,7 +73,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `17:00` [GTM Skillathon - Formidable Builders x Codex Community x Apify](https://lu.ma/82q9aclg)  
   <sub>Gabriel Moncha · 43 de participanți</sub>
 - `19:00` [The Wine Social \| The Clique X Beyond The Frame](https://lu.ma/msqdqd5p)  
-  <sub>The Clique · 16 participanți</sub>
+  <sub>The Clique · 17 participanți</sub>
 
 ### Duminică, 30 august
 
@@ -89,11 +84,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-17)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-18)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-17)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-18)
 
 ## Despre
 
@@ -107,4 +102,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 17 august 2026*
+*Actualizat: 18 august 2026*
