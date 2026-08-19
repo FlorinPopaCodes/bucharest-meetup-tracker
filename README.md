@@ -4,16 +4,6 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Marți, 18 august
-
-- `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E31](https://lu.ma/4sle6fzh)  
-  <sub>321sport · 17 participanți</sub>
-
----
-
-- [O zi din viaţa unui politician fericit](https://www.iabilet.ro/bilete-o-zi-din-viata-unui-politician-fericit-129637/)  
-  <sub>Teatrul Improteca</sub>
-
 ### Joi, 20 august
 
 - `09:30` [Product Macchiato](https://lu.ma/274x3986)  
@@ -21,9 +11,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:30` [🥂Art in Motion on the Rooftop @ DODA5🥂](https://lu.ma/qrfen9bf)  
   <sub>Loredana Pipie</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E32](https://lu.ma/aknmxhng)  
-  <sub>321sport · 29 de participanți</sub>
+  <sub>321sport · 31 de participanți</sub>
 - `19:30` [Thursday Trivia](https://lu.ma/ouhj79if)  
-  <sub>T5 Social · 11 participanți</sub>
+  <sub>T5 Social · 20 de participanți</sub>
 
 ---
 
@@ -33,12 +23,12 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Vineri, 21 august
 
 - `19:30` [FOMO x FRIDAY NIGHT LIGHTS](https://lu.ma/lrdhk60z)  
-  <sub>FOMO Urban Running Club · 56 de participanți</sub>
+  <sub>FOMO Urban Running Club · 60 de participanți</sub>
 
 ### Sâmbătă, 22 august
 
 - `14:00` [Cafeaua De Sâmbăta #26 \| Bucuresti](https://lu.ma/ghhnkryx)  
-  <sub>Ionut Alexandru Stanciu · 15 participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 16 participanți</sub>
 
 ### Duminică, 23 august
 
@@ -58,14 +48,16 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Marți, 25 august
 
 - `18:00` [Physical AI Bucharest#1 - AI Is Getting A Body](https://lu.ma/66k0k4us)  
-  <sub>Georgia Bucea · 84 de participanți</sub>
+  <sub>Georgia Bucea · 85 de participanți</sub>
+- `19:00` [Product & Design drinks Bucuresti](https://lu.ma/gooe0o28)  
+  <sub>Dragos · 5 participanți</sub>
 - `19:30` [Ethereum ATH Party/Meetup 🚀🎉 by Daniel Niță (locuri limitate) & Crypto Society](https://lu.ma/ETHATHParty)  
   <sub>Daniel Nita · 187 de participanți</sub>
 
 ### Miercuri, 26 august
 
 - `19:00` [Join the ▲neomixers x WHOOP Bucharest Community Meet-up](https://lu.ma/l8o1l0lm)  
-  <sub>Sandra Ehigiator · 43 de participanți</sub>
+  <sub>Sandra Ehigiator · 47 de participanți</sub>
 
 ### Joi, 27 august
 
@@ -75,7 +67,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Vineri, 28 august
 
 - `17:00` [GTM Skillathon - Formidable Builders x Codex Community x Apify](https://lu.ma/82q9aclg)  
-  <sub>Gabriel Moncha · 47 de participanți</sub>
+  <sub>Gabriel Moncha · 50 de participanți</sub>
 - `19:00` [The Wine Social \| The Clique X Beyond The Frame](https://lu.ma/msqdqd5p)  
   <sub>The Clique · 16 participanți</sub>
 
@@ -99,15 +91,20 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:00` [RBC Community Night Out - Paint, Wine & Connect](https://lu.ma/rbvnzbiv)  
   <sub>Loredana Pipie</sub>
 
+### Miercuri, 2 septembrie
+
+- `18:30` [AI Skills #1 — Work Smarter with AI](https://lu.ma/54ymerxv)  
+  <sub>Dr. Silviu Gresoi · 19 participanți</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-18)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-19)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-18)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-19)
 
 ## Despre
 
@@ -121,4 +118,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 18 august 2026*
+*Actualizat: 19 august 2026*
