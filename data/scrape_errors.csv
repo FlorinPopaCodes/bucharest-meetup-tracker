@@ -1,1 +1,2 @@
 date,source,error_kind,message
+"2026-08-19","ical:roaba-de-cultura","fetch_failed","Error: bad DTSTART: 20260829"
