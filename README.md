@@ -4,21 +4,18 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Miercuri, 19 august
-
-- `19:30` [ARITA Easy Run](https://lu.ma/8dinagvk)  
-  <sub>Arita Run Walk Society Bucharest · 5 participanți</sub>
-
 ### Joi, 20 august
 
 - `09:30` [Product Macchiato](https://lu.ma/274x3986)  
   <sub>Bogdan Lucaciu · 11 participanți</sub>
 - `18:30` [🥂Art in Motion on the Rooftop @ DODA5🥂](https://lu.ma/qrfen9bf)  
   <sub>Loredana Pipie</sub>
+- `18:30` [SMB & MonkeDAO's 5th Anniversary](https://lu.ma/mu6tb795)  
+  <sub>Bibsee · 8 participanți</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E32](https://lu.ma/aknmxhng)  
-  <sub>321sport · 38 de participanți</sub>
+  <sub>321sport · 42 de participanți</sub>
 - `19:30` [Thursday Trivia](https://lu.ma/ouhj79if)  
-  <sub>T5 Social · 25 de participanți</sub>
+  <sub>T5 Social · 32 de participanți</sub>
 
 ---
 
@@ -28,12 +25,12 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Vineri, 21 august
 
 - `19:30` [FOMO x FRIDAY NIGHT LIGHTS](https://lu.ma/lrdhk60z)  
-  <sub>FOMO Urban Running Club · 73 de participanți</sub>
+  <sub>FOMO Urban Running Club · 74 de participanți</sub>
 
 ### Sâmbătă, 22 august
 
 - `08:00` [PULSE #54 - muv like a pro](https://lu.ma/5glqimes)  
-  <sub>MuvOutside · 10 participanți</sub>
+  <sub>MuvOutside · 11 participanți</sub>
 - `14:00` [Cafeaua De Sâmbăta #26 \| Bucuresti](https://lu.ma/ghhnkryx)  
   <sub>Ionut Alexandru Stanciu · 16 participanți</sub>
 
@@ -50,14 +47,14 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `12:00` [Bookisim - Editia III - Vara in care mama a avut ochii verzi de Tatiana Tibuleac](https://lu.ma/7i6luoqt)  
   <sub>R.O.S.T. Specialty Coffeshop · 11 participanți</sub>
 - `17:30` [Mommy HAI la Velocita cu Minunații!](https://lu.ma/yilfwk3h)  
-  <sub>Stefana Rondak · 16 participanți</sub>
+  <sub>Stefana Rondak · 27 de participanți</sub>
 
 ### Marți, 25 august
 
 - `18:00` [Physical AI Bucharest#1 - AI Is Getting A Body](https://lu.ma/66k0k4us)  
-  <sub>Georgia Bucea · 87 de participanți</sub>
+  <sub>Georgia Bucea · 89 de participanți</sub>
 - `19:00` [Product & Design drinks Bucuresti](https://lu.ma/gooe0o28)  
-  <sub>Dragos · 9 participanți</sub>
+  <sub>Dragos · 13 participanți</sub>
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E33](https://lu.ma/vsk6937b)  
   <sub>321sport · 3 participanți</sub>
 - `19:30` [Ethereum ATH Party/Meetup 🚀🎉 by Daniel Niță (locuri limitate) & Crypto Society](https://lu.ma/ETHATHParty)  
@@ -66,17 +63,19 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Miercuri, 26 august
 
 - `19:00` [Join the ▲neomixers x WHOOP Bucharest Community Meet-up](https://lu.ma/l8o1l0lm)  
-  <sub>Sandra Ehigiator · 53 de participanți</sub>
+  <sub>Sandra Ehigiator · 55 de participanți</sub>
 
 ### Joi, 27 august
 
+- `19:00` [Beerstorming #1](https://lu.ma/kti4m3hb)  
+  <sub>Kickstart Romania · 3 participanți</sub>
 - `19:00` [DevNights #8 - Building with AI, startups and more](https://lu.ma/avvvg0is)  
   <sub>Oprea Matei</sub>
 
 ### Vineri, 28 august
 
 - `17:00` [GTM Skillathon - Formidable Builders x Codex Community x Apify](https://lu.ma/82q9aclg)  
-  <sub>Gabriel Moncha · 52 de participanți</sub>
+  <sub>Gabriel Moncha · 54 de participanți</sub>
 - `19:00` [The Wine Social \| The Clique X Beyond The Frame](https://lu.ma/msqdqd5p)  
   <sub>The Clique · 17 participanți</sub>
 
@@ -105,15 +104,20 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:30` [AI Skills #1 — Work Smarter with AI](https://lu.ma/54ymerxv)  
   <sub>Dr. Silviu Gresoi · 20 de participanți</sub>
 
+### Joi, 3 septembrie
+
+- `18:30` [Let's Talk AI! #4 (w/ The AI Collective)](https://lu.ma/lets-talk-ai-4)  
+  <sub>The AI Collective</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-19)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-20)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-19)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-20)
 
 ## Despre
 
@@ -127,4 +131,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 19 august 2026*
+*Actualizat: 20 august 2026*
