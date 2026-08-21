@@ -4,44 +4,26 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Joi, 20 august
-
-- `09:30` [Product Macchiato](https://lu.ma/274x3986)  
-  <sub>Bogdan Lucaciu · 11 participanți</sub>
-- `18:00` [SMB & MonkeDAO's 5th Anniversary](https://lu.ma/mu6tb795)  
-  <sub>Bibsee · 7 participanți</sub>
-- `18:30` [🥂Art in Motion on the Rooftop @ DODA5🥂](https://lu.ma/qrfen9bf)  
-  <sub>Loredana Pipie</sub>
-- `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E32](https://lu.ma/aknmxhng)  
-  <sub>321sport · 55 de participanți</sub>
-- `19:30` [Thursday Trivia](https://lu.ma/ouhj79if)  
-  <sub>T5 Social · 32 de participanți</sub>
-
----
-
-- [Aproape normal](https://www.iabilet.ro/bilete-aproape-normal-129526/)  
-  <sub>Teatrul Improteca</sub>
-
 ### Vineri, 21 august
 
 - `19:00` [AAR Summer Party](https://lu.ma/eajd05vx)  
-  <sub>Elena Calin · 42 de participanți</sub>
+  <sub>Elena Calin · 43 de participanți</sub>
 - `19:30` [FOMO x FRIDAY NIGHT LIGHTS](https://lu.ma/lrdhk60z)  
-  <sub>FOMO Urban Running Club · 80 de participanți</sub>
+  <sub>FOMO Urban Running Club · 86 de participanți</sub>
 
 ### Sâmbătă, 22 august
 
 - `08:00` [PULSE #54 - muv like a pro](https://lu.ma/5glqimes)  
-  <sub>MuvOutside · 14 participanți</sub>
+  <sub>MuvOutside · 15 participanți</sub>
 - `14:00` [Cafeaua De Sâmbăta #26 \| Bucuresti](https://lu.ma/ghhnkryx)  
   <sub>Ionut Alexandru Stanciu · 21 de participanți</sub>
 - `17:00` [Origami & Chill: Unwind in the Park #13 🌸🍃](https://lu.ma/63zu5vrf)  
-  <sub>Lucian Savu · 16 participanți</sub>
+  <sub>Lucian Savu · 21 de participanți</sub>
 
 ### Duminică, 23 august
 
 - `08:30` [Tura de duminică Cotroceni](https://lu.ma/8uky7yed)  
-  <sub>Aleodor Tabarcea · 3 participanți</sub>
+  <sub>Aleodor Tabarcea · 4 participanți</sub>
 - `08:30` [Tura de duminică Herăstrău](https://lu.ma/e7qw6i1p)  
   <sub>Emily Merdus · 8 participanți</sub>
 - `08:30` [Tura de duminică I.O.R.](https://lu.ma/a7tr9774)  
@@ -49,18 +31,18 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `08:30` [Tura de duminică Tineretului](https://lu.ma/vca534uf)  
   <sub>Nicoleta Ifrim · 3 participanți</sub>
 - `09:00` [like a girl #6](https://lu.ma/mj6xbdha)  
-  <sub>MuvOutside · 9 participanți</sub>
+  <sub>MuvOutside · 11 participanți</sub>
 - `12:00` [Bookisim - Editia III - Vara in care mama a avut ochii verzi de Tatiana Tibuleac](https://lu.ma/7i6luoqt)  
   <sub>R.O.S.T. Specialty Coffeshop · 11 participanți</sub>
 - `17:30` [Mommy HAI la Velocita cu Minunații!](https://lu.ma/yilfwk3h)  
-  <sub>Stefana Rondak · 41 de participanți</sub>
+  <sub>Stefana Rondak · 45 de participanți</sub>
 
 ### Marți, 25 august
 
 - `18:00` [Physical AI Bucharest#1 - AI Is Getting A Body](https://lu.ma/66k0k4us)  
   <sub>Georgia Bucea · 90 de participanți</sub>
 - `19:00` [Product & Design drinks Bucuresti](https://lu.ma/gooe0o28)  
-  <sub>Dragos · 22 de participanți</sub>
+  <sub>Dragos · 25 de participanți</sub>
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E33](https://lu.ma/vsk6937b)  
   <sub>321sport · 7 participanți</sub>
 - `19:30` [Ethereum ATH Party/Meetup 🚀🎉 by Daniel Niță (locuri limitate) & Crypto Society](https://lu.ma/ETHATHParty)  
@@ -69,7 +51,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Miercuri, 26 august
 
 - `19:00` [Join the ▲neomixers x WHOOP Bucharest Community Meet-up](https://lu.ma/l8o1l0lm)  
-  <sub>Sandra Ehigiator · 64 de participanți</sub>
+  <sub>Sandra Ehigiator · 65 de participanți</sub>
 
 ### Joi, 27 august
 
@@ -83,9 +65,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `17:00` [GTM Skillathon - Formidable Builders x Codex Community x Apify](https://lu.ma/82q9aclg)  
   <sub>Gabriel Moncha · 57 de participanți</sub>
 - `19:00` [Design Unfold #4 - summer's last Friday](https://lu.ma/zp2gi7lg)  
-  <sub>Eliza Marin · 6 participanți</sub>
+  <sub>Eliza Marin · 8 participanți</sub>
 - `19:00` [The Wine Social \| The Clique X Beyond The Frame](https://lu.ma/msqdqd5p)  
-  <sub>The Clique · 18 participanți</sub>
+  <sub>The Clique · 20 de participanți</sub>
 
 ### Sâmbătă, 29 august
 
@@ -121,11 +103,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-20)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-21)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-20)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-21)
 
 ## Despre
 
@@ -139,4 +121,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 20 august 2026*
+*Actualizat: 21 august 2026*
