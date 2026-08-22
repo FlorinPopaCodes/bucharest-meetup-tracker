@@ -4,19 +4,12 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Vineri, 21 august
-
-- `19:00` [AAR Summer Party](https://lu.ma/eajd05vx)  
-  <sub>Elena Calin · 48 de participanți</sub>
-- `19:30` [FOMO x FRIDAY NIGHT LIGHTS](https://lu.ma/lrdhk60z)  
-  <sub>FOMO Urban Running Club · 83 de participanți</sub>
-
 ### Sâmbătă, 22 august
 
 - `08:00` [PULSE #54 - muv like a pro](https://lu.ma/5glqimes)  
-  <sub>MuvOutside · 22 de participanți</sub>
+  <sub>MuvOutside · 21 de participanți</sub>
 - `14:00` [Cafeaua De Sâmbăta #26 \| Bucuresti](https://lu.ma/ghhnkryx)  
-  <sub>Ionut Alexandru Stanciu · 23 de participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 22 de participanți</sub>
 - `17:00` [Origami & Chill: Unwind in the Park #13 🌸🍃](https://lu.ma/63zu5vrf)  
   <sub>Lucian Savu · 25 de participanți</sub>
 
@@ -27,24 +20,29 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `08:30` [Tura de duminică Herăstrău](https://lu.ma/e7qw6i1p)  
   <sub>Emily Merdus · 11 participanți</sub>
 - `08:30` [Tura de duminică I.O.R.](https://lu.ma/a7tr9774)  
-  <sub>Irina Tenovici · 5 participanți</sub>
+  <sub>Irina Tenovici · 7 participanți</sub>
 - `08:30` [Tura de duminică Tineretului](https://lu.ma/vca534uf)  
   <sub>Nicoleta Ifrim · 4 participanți</sub>
 - `09:00` [like a girl #6](https://lu.ma/mj6xbdha)  
-  <sub>MuvOutside · 13 participanți</sub>
+  <sub>MuvOutside · 14 participanți</sub>
 - `12:00` [Bookisim - Editia III - Vara in care mama a avut ochii verzi de Tatiana Tibuleac](https://lu.ma/7i6luoqt)  
   <sub>R.O.S.T. Specialty Coffeshop · 11 participanți</sub>
 - `17:30` [Mommy HAI la Velocita cu Minunații!](https://lu.ma/yilfwk3h)  
-  <sub>Stefana Rondak · 48 de participanți</sub>
+  <sub>Stefana Rondak · 49 de participanți</sub>
 - `18:00` [Meet New People & Paint Your Own Tote Bag 🎨](https://lu.ma/zhn2y9ta)  
   <sub>By Mi · 3 participanți</sub>
+
+### Luni, 24 august
+
+- `19:30` [Monday Quizmania](https://lu.ma/r4vmj59w)  
+  <sub>T5 Social · 3 participanți</sub>
 
 ### Marți, 25 august
 
 - `18:00` [Physical AI Bucharest#1 - AI Is Getting A Body](https://lu.ma/66k0k4us)  
-  <sub>Georgia Bucea · 96 de participanți</sub>
+  <sub>Georgia Bucea · 99 de participanți</sub>
 - `19:00` [Product & Design drinks Bucuresti](https://lu.ma/gooe0o28)  
-  <sub>Dragos · 26 de participanți</sub>
+  <sub>Dragos · 29 de participanți</sub>
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E33](https://lu.ma/vsk6937b)  
   <sub>321sport · 7 participanți</sub>
 - `19:30` [Ethereum ATH Party/Meetup 🚀🎉 by Daniel Niță (locuri limitate) & Crypto Society](https://lu.ma/ETHATHParty)  
@@ -52,8 +50,10 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Miercuri, 26 august
 
+- `18:30` [Picnic & Play 🃏🏐](https://lu.ma/7p6az3pj)  
+  <sub>Oportune · 7 participanți</sub>
 - `19:00` [Join the ▲neomixers x WHOOP Bucharest Community Meet-up](https://lu.ma/l8o1l0lm)  
-  <sub>Sandra Ehigiator · 73 de participanți</sub>
+  <sub>Sandra Ehigiator · 74 de participanți</sub>
 
 ### Joi, 27 august
 
@@ -69,7 +69,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `19:00` [Design Unfold #4 - summer's last Friday](https://lu.ma/zp2gi7lg)  
   <sub>Eliza Marin · 10 participanți</sub>
 - `19:00` [The Wine Social \| The Clique X Beyond The Frame](https://lu.ma/msqdqd5p)  
-  <sub>The Clique · 20 de participanți</sub>
+  <sub>The Clique · 21 de participanți</sub>
 
 ### Sâmbătă, 29 august
 
@@ -105,11 +105,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-21)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-22)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-21)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-22)
 
 ## Despre
 
@@ -123,4 +123,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 21 august 2026*
+*Actualizat: 22 august 2026*
