@@ -4,31 +4,22 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Sâmbătă, 22 august
-
-- `08:00` [PULSE #54 - muv like a pro](https://lu.ma/5glqimes)  
-  <sub>MuvOutside · 21 de participanți</sub>
-- `14:00` [Cafeaua De Sâmbăta #26 \| Bucuresti](https://lu.ma/ghhnkryx)  
-  <sub>Ionut Alexandru Stanciu · 22 de participanți</sub>
-- `17:00` [Origami & Chill: Unwind in the Park #13 🌸🍃](https://lu.ma/63zu5vrf)  
-  <sub>Lucian Savu · 26 de participanți</sub>
-
 ### Duminică, 23 august
 
 - `08:30` [Tura de duminică Cotroceni](https://lu.ma/8uky7yed)  
   <sub>Aleodor Tabarcea · 11 participanți</sub>
 - `08:30` [Tura de duminică Herăstrău](https://lu.ma/e7qw6i1p)  
-  <sub>Emily Merdus · 15 participanți</sub>
+  <sub>Emily Merdus · 20 de participanți</sub>
 - `08:30` [Tura de duminică I.O.R.](https://lu.ma/a7tr9774)  
-  <sub>Irina Tenovici · 10 participanți</sub>
+  <sub>Irina Tenovici · 12 participanți</sub>
 - `08:30` [Tura de duminică Tineretului](https://lu.ma/vca534uf)  
-  <sub>Nicoleta Ifrim · 6 participanți</sub>
+  <sub>Nicoleta Ifrim · 7 participanți</sub>
 - `09:00` [like a girl #6](https://lu.ma/mj6xbdha)  
-  <sub>MuvOutside · 17 participanți</sub>
+  <sub>MuvOutside · 23 de participanți</sub>
 - `12:00` [Bookisim - Editia III - Vara in care mama a avut ochii verzi de Tatiana Tibuleac](https://lu.ma/7i6luoqt)  
   <sub>R.O.S.T. Specialty Coffeshop · 11 participanți</sub>
 - `17:30` [Mommy HAI la Velocita cu Minunații!](https://lu.ma/yilfwk3h)  
-  <sub>Stefana Rondak · 52 de participanți</sub>
+  <sub>Stefana Rondak · 55 de participanți</sub>
 - `18:00` [Meet New People & Paint Your Own Tote Bag 🎨](https://lu.ma/zhn2y9ta)  
   <sub>By Mi · 3 participanți</sub>
 
@@ -51,7 +42,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Miercuri, 26 august
 
 - `18:30` [Picnic & Play 🃏🏐](https://lu.ma/7p6az3pj)  
-  <sub>Oportune · 9 participanți</sub>
+  <sub>Oportune · 11 participanți</sub>
 - `19:00` [Join the ▲neomixers x WHOOP Bucharest Community Meet-up](https://lu.ma/l8o1l0lm)  
   <sub>Sandra Ehigiator · 75 de participanți</sub>
 
@@ -69,7 +60,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `19:00` [Design Unfold #4 - summer's last Friday](https://lu.ma/zp2gi7lg)  
   <sub>Eliza Marin · 10 participanți</sub>
 - `19:00` [The Wine Social \| The Clique X Beyond The Frame](https://lu.ma/msqdqd5p)  
-  <sub>The Clique · 21 de participanți</sub>
+  <sub>The Clique · 24 de participanți</sub>
 
 ### Sâmbătă, 29 august
 
@@ -101,15 +92,20 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:30` [Let's Talk AI! #4 (w/ The AI Collective)](https://lu.ma/lets-talk-ai-4)  
   <sub>The AI Collective</sub>
 
+### Duminică, 6 septembrie
+
+- [Show de comedie pe loc Alt Ceva cu extra-muzică](https://www.iabilet.ro/bilete-show-de-comedie-pe-loc-alt-ceva-cu-extra-muzica-130321/)  
+  <sub>Teatrul Improteca</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-22)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-23)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-22)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-23)
 
 ## Despre
 
@@ -123,4 +119,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 22 august 2026*
+*Actualizat: 23 august 2026*
