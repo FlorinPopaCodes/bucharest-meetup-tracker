@@ -7,3 +7,4 @@ date,source,error_kind,message
 "2026-08-22","ical:roaba-de-cultura","fetch_failed","Error: HTTP 500 for https://greenrevolution.ro/?post_type=tribe_events&ical=1&eventDisplay=list"
 "2026-08-22","ical:roaba-de-cultura","fetch_failed","Error: HTTP 500 for https://greenrevolution.ro/?post_type=tribe_events&ical=1&eventDisplay=list"
 "2026-08-23","ical:roaba-de-cultura","fetch_failed","Error: HTTP 500 for https://greenrevolution.ro/?post_type=tribe_events&ical=1&eventDisplay=list"
+"2026-08-23","ical:roaba-de-cultura","fetch_failed","Error: HTTP 500 for https://greenrevolution.ro/?post_type=tribe_events&ical=1&eventDisplay=list"

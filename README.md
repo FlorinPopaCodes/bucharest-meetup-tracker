@@ -19,30 +19,32 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `12:00` [Bookisim - Editia III - Vara in care mama a avut ochii verzi de Tatiana Tibuleac](https://lu.ma/7i6luoqt)  
   <sub>R.O.S.T. Specialty Coffeshop · 11 participanți</sub>
 - `17:30` [Mommy HAI la Velocita cu Minunații!](https://lu.ma/yilfwk3h)  
-  <sub>Stefana Rondak · 55 de participanți</sub>
+  <sub>Stefana Rondak · 57 de participanți</sub>
 - `18:00` [Meet New People & Paint Your Own Tote Bag 🎨](https://lu.ma/zhn2y9ta)  
-  <sub>By Mi · 3 participanți</sub>
+  <sub>By Mi · 4 participanți</sub>
 
 ### Luni, 24 august
 
 - `19:30` [Monday Quizmania](https://lu.ma/r4vmj59w)  
-  <sub>T5 Social · 3 participanți</sub>
+  <sub>T5 Social · 9 participanți</sub>
 
 ### Marți, 25 august
 
 - `18:00` [Physical AI Bucharest#1 - AI Is Getting A Body](https://lu.ma/66k0k4us)  
-  <sub>Georgia Bucea · 102 de participanți</sub>
+  <sub>Georgia Bucea · 106 de participanți</sub>
 - `19:00` [Product & Design drinks Bucuresti](https://lu.ma/gooe0o28)  
-  <sub>Dragos · 29 de participanți</sub>
+  <sub>Dragos · 28 de participanți</sub>
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E33](https://lu.ma/vsk6937b)  
-  <sub>321sport · 7 participanți</sub>
+  <sub>321sport · 8 participanți</sub>
 - `19:30` [Ethereum ATH Party/Meetup 🚀🎉 by Daniel Niță (locuri limitate) & Crypto Society](https://lu.ma/ETHATHParty)  
   <sub>Daniel Nita · 187 de participanți</sub>
 
 ### Miercuri, 26 august
 
 - `18:30` [Picnic & Play 🃏🏐](https://lu.ma/7p6az3pj)  
-  <sub>Oportune · 11 participanți</sub>
+  <sub>Oportune · 14 participanți</sub>
+- `18:30` [Power of Social Media](https://lu.ma/8rgj5qgr)  
+  <sub>Oportune · 6 participanți</sub>
 - `19:00` [Join the ▲neomixers x WHOOP Bucharest Community Meet-up](https://lu.ma/l8o1l0lm)  
   <sub>Sandra Ehigiator · 75 de participanți</sub>
 
@@ -56,11 +58,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Vineri, 28 august
 
 - `17:00` [GTM Skillathon - Formidable Builders x Codex Community x Apify](https://lu.ma/82q9aclg)  
-  <sub>Gabriel Moncha · 59 de participanți</sub>
+  <sub>Gabriel Moncha · 61 de participanți</sub>
 - `19:00` [Design Unfold #4 - summer's last Friday](https://lu.ma/zp2gi7lg)  
-  <sub>Eliza Marin · 10 participanți</sub>
+  <sub>Eliza Marin · 11 participanți</sub>
 - `19:00` [The Wine Social \| The Clique X Beyond The Frame](https://lu.ma/msqdqd5p)  
-  <sub>The Clique · 24 de participanți</sub>
+  <sub>The Clique · 27 de participanți</sub>
 
 ### Sâmbătă, 29 august
 
@@ -85,7 +87,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Miercuri, 2 septembrie
 
 - `18:30` [AI Skills #1 — Work Smarter with AI](https://lu.ma/54ymerxv)  
-  <sub>Dr. Silviu Gresoi · 23 de participanți</sub>
+  <sub>Dr. Silviu Gresoi · 24 de participanți</sub>
 
 ### Joi, 3 septembrie
 
