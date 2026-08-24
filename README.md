@@ -7,37 +7,43 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Luni, 24 august
 
 - `19:30` [Monday Quizmania](https://lu.ma/r4vmj59w)  
-  <sub>T5 Social · 15 participanți</sub>
+  <sub>T5 Social · 17 participanți</sub>
 
 ### Marți, 25 august
 
 - `18:00` [Physical AI Bucharest#1 - AI Is Getting A Body](https://lu.ma/66k0k4us)  
-  <sub>Georgia Bucea · 106 de participanți</sub>
+  <sub>Georgia Bucea · 107 de participanți</sub>
 - `19:00` [Product & Design drinks Bucuresti](https://lu.ma/gooe0o28)  
   <sub>Dragos · 28 de participanți</sub>
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E33](https://lu.ma/vsk6937b)  
-  <sub>321sport · 8 participanți</sub>
+  <sub>321sport · 11 participanți</sub>
 - `19:30` [Ethereum ATH Party/Meetup 🚀🎉 by Daniel Niță (locuri limitate) & Crypto Society](https://lu.ma/ETHATHParty)  
   <sub>Daniel Nita · 187 de participanți</sub>
 
 ### Miercuri, 26 august
 
 - `18:30` [Picnic & Play 🃏🏐](https://lu.ma/7p6az3pj)  
-  <sub>Oportune · 16 participanți</sub>
+  <sub>Oportune · 21 de participanți</sub>
 - `18:30` [Power of Social Media](https://lu.ma/8rgj5qgr)  
-  <sub>Oportune · 6 participanți</sub>
+  <sub>Oportune · 7 participanți</sub>
 - `19:00` [Join the ▲neomixers x WHOOP Bucharest Community Meet-up](https://lu.ma/l8o1l0lm)  
-  <sub>Sandra Ehigiator · 77 de participanți</sub>
+  <sub>Sandra Ehigiator · 94 de participanți</sub>
+- `19:00` [PULSE #55 - muv on wheels part II](https://lu.ma/h2yri02t)  
+  <sub>MuvOutside · 12 participanți</sub>
 
 ### Joi, 27 august
 
+- `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E34](https://lu.ma/ng9ekgxu)  
+  <sub>321sport · 10 participanți</sub>
 - `19:00` [Beerstorming #1](https://lu.ma/kti4m3hb)  
-  <sub>Kickstart Romania · 15 participanți</sub>
+  <sub>Kickstart Romania · 16 participanți</sub>
 - `19:00` [DevNights #8 - Building with AI, startups and more](https://lu.ma/avvvg0is)  
   <sub>Oprea Matei</sub>
 
 ### Vineri, 28 august
 
+- `17:00` [Building the Infrastructures for Change (BUILD)](https://lu.ma/b2s5o1ij)  
+  <sub>Climate Change Summit · 5 participanți</sub>
 - `17:00` [GTM Skillathon - Formidable Builders x Codex Community x Apify](https://lu.ma/82q9aclg)  
   <sub>Gabriel Moncha · 61 de participanți</sub>
 - `19:00` [Design Unfold #4 - summer's last Friday](https://lu.ma/zp2gi7lg)  
@@ -49,6 +55,8 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 - `13:00` [Book Club #3: Metamorfoza (Franz Kafka) \| Invitat special: Sînziana (@cititorisme) 📚✨](https://lu.ma/agm3od42)  
   <sub>Lucian Savu · 20 de participanți</sub>
+- `19:30` [Run after Sunset 🏃‍♂️🌅](https://lu.ma/g99tpc34)  
+  <sub>Oportune · 6 participanți</sub>
 
 ---
 
@@ -58,7 +66,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 30 august
 
 - `09:00` [Tura de duminică București, ediție specială: Pădurea Băneasa](https://lu.ma/y2ema0ag)  
-  <sub>Endi Ungureanu</sub>
+  <sub>Endi Ungureanu · 5 participanți</sub>
 - `14:00` [Unhinged Book Club #31](https://lu.ma/5cd3rzgc)  
   <sub>Iulia condrea · 13 participanți</sub>
 
@@ -80,7 +88,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Sâmbătă, 5 septembrie
 
 - `14:00` [Cafeaua De Sâmbăta #27 \| Bucuresti](https://lu.ma/keukj8z4)  
-  <sub>Ionut Alexandru Stanciu</sub>
+  <sub>Ionut Alexandru Stanciu · 4 participanți</sub>
 
 ### Duminică, 6 septembrie
 
