@@ -7,13 +7,13 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Miercuri, 26 august
 
 - `18:30` [Picnic & Play 🃏🏐](https://lu.ma/7p6az3pj)  
-  <sub>Oportune · 24 de participanți</sub>
+  <sub>Oportune · 26 de participanți</sub>
 - `18:30` [Power of Social Media](https://lu.ma/8rgj5qgr)  
   <sub>Oportune · 9 participanți</sub>
 - `19:00` [Join the ▲neomixers x WHOOP Bucharest Community Meet-up](https://lu.ma/l8o1l0lm)  
-  <sub>Sandra Ehigiator · 106 de participanți</sub>
+  <sub>neomixer by ▲promocrat · 108 de participanți</sub>
 - `19:00` [PULSE #55 - muv on wheels part II](https://lu.ma/h2yri02t)  
-  <sub>MuvOutside · 26 de participanți</sub>
+  <sub>MuvOutside · 41 de participanți</sub>
 - `19:00` [Social Chess @THE SQUARE Chess Club Studio](https://lu.ma/l6kwjdjx)  
   <sub>THE SQUARE Chess Club</sub>
 - `19:30` [Teatru in aer liber: Breakfast Club by Brightside Drama](https://greenrevolution.ro/eveniment/teatru-in-aer-liber-breakfast-club-by-brightside-drama/)  
@@ -22,9 +22,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Joi, 27 august
 
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E34](https://lu.ma/ng9ekgxu)  
-  <sub>321sport · 25 de participanți</sub>
+  <sub>321sport · 29 de participanți</sub>
 - `19:00` [Beerstorming #1](https://lu.ma/kti4m3hb)  
-  <sub>Kickstart Romania · 17 participanți</sub>
+  <sub>Kickstart Romania · 18 participanți</sub>
 - `19:00` [DevNights #8 - Building with AI, startups and more](https://lu.ma/avvvg0is)  
   <sub>Oprea Matei</sub>
 - `19:30` [Thursday Trivia](https://lu.ma/b9l3i4z6)  
@@ -35,11 +35,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Vineri, 28 august
 
 - `17:00` [Building the Infrastructures for Change (BUILD)](https://lu.ma/b2s5o1ij)  
-  <sub>Climate Change Summit · 8 participanți</sub>
+  <sub>Climate Change Summit · 10 participanți</sub>
 - `17:00` [GTM Skillathon - Formidable Builders x Codex Community x Apify](https://lu.ma/82q9aclg)  
-  <sub>Gabriel Moncha · 68 de participanți</sub>
+  <sub>Gabriel Moncha · 73 de participanți</sub>
 - `19:00` [Design Unfold #4 - summer's last Friday](https://lu.ma/zp2gi7lg)  
-  <sub>Eliza Marin · 14 participanți</sub>
+  <sub>Eliza Marin · 17 participanți</sub>
 - `19:00` [The Wine Social \| The Clique X Beyond The Frame](https://lu.ma/msqdqd5p)  
   <sub>The Clique · 26 de participanți</sub>
 
@@ -62,7 +62,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 30 august
 
 - `09:00` [Tura de duminică București, ediție specială: Pădurea Băneasa](https://lu.ma/y2ema0ag)  
-  <sub>Endi Ungureanu · 21 de participanți</sub>
+  <sub>Endi Ungureanu · 34 de participanți</sub>
 - `14:00` [Unhinged Book Club #31](https://lu.ma/5cd3rzgc)  
   <sub>Iulia condrea · 13 participanți</sub>
 - `17:00` [Social Chess @Hazelcup Coffee Shop](https://lu.ma/5fvlbmn7)  
@@ -88,7 +88,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Sâmbătă, 5 septembrie
 
 - `14:00` [Cafeaua De Sâmbăta #27 \| Bucuresti](https://lu.ma/keukj8z4)  
-  <sub>Ionut Alexandru Stanciu · 4 participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 6 participanți</sub>
 
 ### Duminică, 6 septembrie
 
