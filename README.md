@@ -4,17 +4,6 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Marți, 25 august
-
-- `18:00` [Physical AI Bucharest#1 - AI Is Getting A Body](https://lu.ma/66k0k4us)  
-  <sub>Georgia Bucea · 104 de participanți</sub>
-- `19:00` [Product & Design drinks Bucuresti](https://lu.ma/gooe0o28)  
-  <sub>Dragos · 24 de participanți</sub>
-- `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E33](https://lu.ma/vsk6937b)  
-  <sub>321sport · 17 participanți</sub>
-- `19:30` [Ethereum ATH Party/Meetup 🚀🎉 by Daniel Niță (locuri limitate) & Crypto Society](https://lu.ma/ETHATHParty)  
-  <sub>Daniel Nita · 187 de participanți</sub>
-
 ### Miercuri, 26 august
 
 - `18:30` [Picnic & Play 🃏🏐](https://lu.ma/7p6az3pj)  
@@ -22,9 +11,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:30` [Power of Social Media](https://lu.ma/8rgj5qgr)  
   <sub>Oportune · 9 participanți</sub>
 - `19:00` [Join the ▲neomixers x WHOOP Bucharest Community Meet-up](https://lu.ma/l8o1l0lm)  
-  <sub>Sandra Ehigiator · 102 de participanți</sub>
+  <sub>Sandra Ehigiator · 106 de participanți</sub>
 - `19:00` [PULSE #55 - muv on wheels part II](https://lu.ma/h2yri02t)  
-  <sub>MuvOutside · 25 de participanți</sub>
+  <sub>MuvOutside · 26 de participanți</sub>
 - `19:00` [Social Chess @THE SQUARE Chess Club Studio](https://lu.ma/l6kwjdjx)  
   <sub>THE SQUARE Chess Club</sub>
 - `19:30` [Teatru in aer liber: Breakfast Club by Brightside Drama](https://greenrevolution.ro/eveniment/teatru-in-aer-liber-breakfast-club-by-brightside-drama/)  
@@ -39,7 +28,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `19:00` [DevNights #8 - Building with AI, startups and more](https://lu.ma/avvvg0is)  
   <sub>Oprea Matei</sub>
 - `19:30` [Thursday Trivia](https://lu.ma/b9l3i4z6)  
-  <sub>T5 Social · 15 participanți</sub>
+  <sub>T5 Social · 23 de participanți</sub>
 - `20:30` [Film în aer liber: Thanks for sharing (r. Stuart Blumberg)](https://greenrevolution.ro/eveniment/film-in-aer-liber-thanks-for-sharing-r-stuart-blumberg/)  
   <sub>Roaba de Cultură</sub>
 
@@ -48,9 +37,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `17:00` [Building the Infrastructures for Change (BUILD)](https://lu.ma/b2s5o1ij)  
   <sub>Climate Change Summit · 8 participanți</sub>
 - `17:00` [GTM Skillathon - Formidable Builders x Codex Community x Apify](https://lu.ma/82q9aclg)  
-  <sub>Gabriel Moncha · 65 de participanți</sub>
+  <sub>Gabriel Moncha · 68 de participanți</sub>
 - `19:00` [Design Unfold #4 - summer's last Friday](https://lu.ma/zp2gi7lg)  
-  <sub>Eliza Marin · 13 participanți</sub>
+  <sub>Eliza Marin · 14 participanți</sub>
 - `19:00` [The Wine Social \| The Clique X Beyond The Frame](https://lu.ma/msqdqd5p)  
   <sub>The Clique · 26 de participanți</sub>
 
@@ -73,7 +62,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 30 august
 
 - `09:00` [Tura de duminică București, ediție specială: Pădurea Băneasa](https://lu.ma/y2ema0ag)  
-  <sub>Endi Ungureanu · 20 de participanți</sub>
+  <sub>Endi Ungureanu · 21 de participanți</sub>
 - `14:00` [Unhinged Book Club #31](https://lu.ma/5cd3rzgc)  
   <sub>Iulia condrea · 13 participanți</sub>
 - `17:00` [Social Chess @Hazelcup Coffee Shop](https://lu.ma/5fvlbmn7)  
@@ -117,11 +106,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-25)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-26)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-25)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-26)
 
 ## Despre
 
@@ -135,4 +124,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 25 august 2026*
+*Actualizat: 26 august 2026*
