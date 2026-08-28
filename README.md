@@ -9,13 +9,15 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `17:00` [Building the Infrastructures for Change (BUILD)](https://lu.ma/b2s5o1ij)  
   <sub>Climate Change Summit · 10 participanți</sub>
 - `17:00` [GTM Skillathon - Formidable Builders x Codex Community x Apify](https://lu.ma/82q9aclg)  
-  <sub>Gabriel Moncha · 74 de participanți</sub>
+  <sub>Gabriel Moncha · 80 de participanți</sub>
 - `18:30` [reading corner, chapter #53](https://lu.ma/x7sboxvx)  
-  <sub>reading corner · 99 de participanți</sub>
+  <sub>reading corner · 79 de participanți</sub>
 - `19:00` [Design Unfold #4 - summer's last Friday](https://lu.ma/zp2gi7lg)  
-  <sub>Eliza Marin · 21 de participanți</sub>
+  <sub>Eliza Marin</sub>
 - `19:00` [The Wine Social \| The Clique X Beyond The Frame](https://lu.ma/msqdqd5p)  
-  <sub>The Clique · 24 de participanți</sub>
+  <sub>The Clique · 22 de participanți</sub>
+- `19:30` [Music Bingo](https://lu.ma/mco5vfbt)  
+  <sub>T5 Social · 7 participanți</sub>
 
 ### Sâmbătă, 29 august
 
@@ -36,7 +38,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 30 august
 
 - `09:00` [Tura de duminică București, ediție specială: Pădurea Băneasa](https://lu.ma/y2ema0ag)  
-  <sub>Endi Ungureanu · 62 de participanți</sub>
+  <sub>Endi Ungureanu · 68 de participanți</sub>
 - `14:00` [Unhinged Book Club #31](https://lu.ma/5cd3rzgc)  
   <sub>Iulia condrea · 13 participanți</sub>
 - `17:00` [Social Chess @Hazelcup Coffee Shop](https://lu.ma/5fvlbmn7)  
@@ -47,29 +49,40 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:00` [RBC Community Night Out - Paint, Wine & Connect](https://lu.ma/rbvnzbiv)  
   <sub>Loredana Pipie</sub>
 
+### Marți, 1 septembrie
+
+- `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E35](https://lu.ma/pa07i6l5)  
+  <sub>321sport · 3 participanți</sub>
+
 ### Miercuri, 2 septembrie
 
 - `18:00` [Atelier de Colaje Analog & Offline: Nostalgia Edition✂️🖼️ #15](https://lu.ma/gnucioui)  
-  <sub>Lucian Savu · 3 participanți</sub>
+  <sub>Lucian Savu · 4 participanți</sub>
 - `18:00` [RBC #410 \| De la SCROLL la SALE – Cum transformi Social Media în creștere reală de business \| Diana Coman – Profa de Social Media](https://lu.ma/3lic96pz)  
   <sub>Teodora Nicolaiciuc</sub>
 - `18:30` [AI Skills #1 — Work Smarter with AI](https://lu.ma/54ymerxv)  
-  <sub>Dr. Silviu Gresoi · 28 de participanți</sub>
+  <sub>Dr. Silviu Gresoi · 30 de participanți</sub>
 
 ### Joi, 3 septembrie
 
 - `18:30` [Let's Talk AI! #4 (w/ The AI Collective)](https://lu.ma/lets-talk-ai-4)  
   <sub>The AI Collective</sub>
+- `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E36](https://lu.ma/a16m72gx)  
+  <sub>321sport · 6 participanți</sub>
 
 ### Sâmbătă, 5 septembrie
 
 - `14:00` [Cafeaua De Sâmbăta #27 \| Bucuresti](https://lu.ma/keukj8z4)  
-  <sub>Ionut Alexandru Stanciu · 9 participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 10 participanți</sub>
 
 ### Duminică, 6 septembrie
 
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/hu06idz4)  
   <sub>Emily Merdus</sub>
+- `09:00` [Tura de duminică I.O.R.](https://lu.ma/lhp1prba)  
+  <sub>Irina Tenovici</sub>
+- `09:00` [Tura de duminică Tineretului](https://lu.ma/8k01jv7v)  
+  <sub>Nicoleta Ifrim</sub>
 
 ---
 
@@ -84,6 +97,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
   <sub>Carmelina Lungu · 31 de participanți</sub>
 
 ### Vineri, 11 septembrie
+
+- `18:00` [Let’s Face It](https://lu.ma/s74vvy6q)  
+  <sub>Caroline Fischer · 7 participanți</sub>
+
+---
 
 - [Bădăranii 20.26](https://www.iabilet.ro/bilete-badaranii-20-26-129995/)  
   <sub>Teatrul Improteca</sub>
