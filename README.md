@@ -4,31 +4,18 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Joi, 27 august
-
-- `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E34](https://lu.ma/ng9ekgxu)  
-  <sub>321sport · 46 de participanți</sub>
-- `19:00` [Beerstorming #1](https://lu.ma/kti4m3hb)  
-  <sub>Kickstart Romania · 20 de participanți</sub>
-- `19:00` [DevNights #8 - Building with AI, startups and more](https://lu.ma/avvvg0is)  
-  <sub>Oprea Matei</sub>
-- `19:30` [Thursday Trivia](https://lu.ma/b9l3i4z6)  
-  <sub>T5 Social · 23 de participanți</sub>
-- `20:30` [Film în aer liber: Thanks for sharing (r. Stuart Blumberg)](https://greenrevolution.ro/eveniment/film-in-aer-liber-thanks-for-sharing-r-stuart-blumberg/)  
-  <sub>Roaba de Cultură</sub>
-
 ### Vineri, 28 august
 
 - `17:00` [Building the Infrastructures for Change (BUILD)](https://lu.ma/b2s5o1ij)  
   <sub>Climate Change Summit · 10 participanți</sub>
 - `17:00` [GTM Skillathon - Formidable Builders x Codex Community x Apify](https://lu.ma/82q9aclg)  
-  <sub>Gabriel Moncha · 72 de participanți</sub>
+  <sub>Gabriel Moncha · 74 de participanți</sub>
 - `18:30` [reading corner, chapter #53](https://lu.ma/x7sboxvx)  
-  <sub>reading corner · 64 de participanți</sub>
+  <sub>reading corner · 99 de participanți</sub>
 - `19:00` [Design Unfold #4 - summer's last Friday](https://lu.ma/zp2gi7lg)  
-  <sub>Eliza Marin · 20 de participanți</sub>
+  <sub>Eliza Marin · 21 de participanți</sub>
 - `19:00` [The Wine Social \| The Clique X Beyond The Frame](https://lu.ma/msqdqd5p)  
-  <sub>The Clique · 27 de participanți</sub>
+  <sub>The Clique · 24 de participanți</sub>
 
 ### Sâmbătă, 29 august
 
@@ -49,7 +36,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 30 august
 
 - `09:00` [Tura de duminică București, ediție specială: Pădurea Băneasa](https://lu.ma/y2ema0ag)  
-  <sub>Endi Ungureanu · 59 de participanți</sub>
+  <sub>Endi Ungureanu · 62 de participanți</sub>
 - `14:00` [Unhinged Book Club #31](https://lu.ma/5cd3rzgc)  
   <sub>Iulia condrea · 13 participanți</sub>
 - `17:00` [Social Chess @Hazelcup Coffee Shop](https://lu.ma/5fvlbmn7)  
@@ -62,6 +49,8 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Miercuri, 2 septembrie
 
+- `18:00` [Atelier de Colaje Analog & Offline: Nostalgia Edition✂️🖼️ #15](https://lu.ma/gnucioui)  
+  <sub>Lucian Savu · 3 participanți</sub>
 - `18:00` [RBC #410 \| De la SCROLL la SALE – Cum transformi Social Media în creștere reală de business \| Diana Coman – Profa de Social Media](https://lu.ma/3lic96pz)  
   <sub>Teodora Nicolaiciuc</sub>
 - `18:30` [AI Skills #1 — Work Smarter with AI](https://lu.ma/54ymerxv)  
@@ -94,15 +83,20 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:30` [DEMO NIGHTS by How to Web #7 \[Bucharest Edition\]](https://lu.ma/Demo-Nights-7)  
   <sub>Carmelina Lungu · 31 de participanți</sub>
 
+### Vineri, 11 septembrie
+
+- [Bădăranii 20.26](https://www.iabilet.ro/bilete-badaranii-20-26-129995/)  
+  <sub>Teatrul Improteca</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-27)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-28)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-27)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-28)
 
 ## Despre
 
@@ -116,4 +110,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 27 august 2026*
+*Actualizat: 28 august 2026*
