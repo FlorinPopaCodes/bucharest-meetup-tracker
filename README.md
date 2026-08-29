@@ -23,7 +23,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 30 august
 
 - `09:00` [Tura de duminică București, ediție specială: Pădurea Băneasa](https://lu.ma/y2ema0ag)  
-  <sub>Endi Ungureanu · 86 de participanți</sub>
+  <sub>Endi Ungureanu · 97 de participanți</sub>
 - `14:00` [Unhinged Book Club #31](https://lu.ma/5cd3rzgc)  
   <sub>Iulia condrea · 13 participanți</sub>
 - `17:00` [Social Chess @Hazelcup Coffee Shop](https://lu.ma/5fvlbmn7)  
@@ -46,7 +46,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:00` [RBC #410 \| De la SCROLL la SALE – Cum transformi Social Media în creștere reală de business \| Diana Coman – Profa de Social Media](https://lu.ma/3lic96pz)  
   <sub>Teodora Nicolaiciuc</sub>
 - `18:30` [AI Skills #1 — Work Smarter with AI](https://lu.ma/54ymerxv)  
-  <sub>Dr. Silviu Gresoi · 30 de participanți</sub>
+  <sub>Dr. Silviu Gresoi · 29 de participanți</sub>
 
 ### Joi, 3 septembrie
 
@@ -79,7 +79,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:30` [CISO Meetup Romania](https://lu.ma/8g3yhx3w)  
   <sub>Radware Cybersecurity</sub>
 - `18:30` [DEMO NIGHTS by How to Web #7 \[Bucharest Edition\]](https://lu.ma/Demo-Nights-7)  
-  <sub>Carmelina Lungu · 31 de participanți</sub>
+  <sub>Carmelina Lungu · 34 de participanți</sub>
 
 ### Vineri, 11 septembrie
 
