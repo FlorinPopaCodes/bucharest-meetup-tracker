@@ -4,27 +4,12 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Vineri, 28 august
-
-- `17:00` [Building the Infrastructures for Change (BUILD)](https://lu.ma/b2s5o1ij)  
-  <sub>Climate Change Summit · 10 participanți</sub>
-- `17:00` [GTM Skillathon - Formidable Builders x Codex Community x Apify](https://lu.ma/82q9aclg)  
-  <sub>Gabriel Moncha · 80 de participanți</sub>
-- `18:30` [reading corner, chapter #53](https://lu.ma/x7sboxvx)  
-  <sub>reading corner · 79 de participanți</sub>
-- `19:00` [Design Unfold #4 - summer's last Friday](https://lu.ma/zp2gi7lg)  
-  <sub>Eliza Marin</sub>
-- `19:00` [The Wine Social \| The Clique X Beyond The Frame](https://lu.ma/msqdqd5p)  
-  <sub>The Clique · 22 de participanți</sub>
-- `19:30` [Music Bingo](https://lu.ma/mco5vfbt)  
-  <sub>T5 Social · 7 participanți</sub>
-
 ### Sâmbătă, 29 august
 
 - `09:00` [Clasă de yoga în aer liber cu Măriuca Patrichi](https://greenrevolution.ro/eveniment/clasa-de-yoga-in-aer-liber-cu-mariuca-patrichi/)  
   <sub>Roaba de Cultură</sub>
 - `13:00` [Book Club #3: Metamorfoza (Franz Kafka) \| Invitat special: Sînziana (@cititorisme) 📚✨](https://lu.ma/agm3od42)  
-  <sub>Lucian Savu · 20 de participanți</sub>
+  <sub>Lucian Savu · 19 participanți</sub>
 - `17:00` [Together in the Park Different Cultures Same City](https://greenrevolution.ro/eveniment/togheter/)  
   <sub>Roaba de Cultură</sub>
 - `19:30` [Run after Sunset 🏃‍♂️🌅](https://lu.ma/g99tpc34)  
@@ -38,7 +23,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 30 august
 
 - `09:00` [Tura de duminică București, ediție specială: Pădurea Băneasa](https://lu.ma/y2ema0ag)  
-  <sub>Endi Ungureanu · 68 de participanți</sub>
+  <sub>Endi Ungureanu · 70 de participanți</sub>
 - `14:00` [Unhinged Book Club #31](https://lu.ma/5cd3rzgc)  
   <sub>Iulia condrea · 13 participanți</sub>
 - `17:00` [Social Chess @Hazelcup Coffee Shop](https://lu.ma/5fvlbmn7)  
@@ -106,15 +91,27 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - [Bădăranii 20.26](https://www.iabilet.ro/bilete-badaranii-20-26-129995/)  
   <sub>Teatrul Improteca</sub>
 
+### Sâmbătă, 12 septembrie
+
+- `16:00` [Tura de duminică la Masa care Unește](https://lu.ma/vo67yyyv)  
+  <sub>Endi Ungureanu</sub>
+
+---
+
+- [La joacă cu bunicii](https://www.iabilet.ro/bilete-la-joaca-cu-bunicii-130038/)  
+  <sub>Teatrul Improteca</sub>
+- [Ursul şi Ursoaica](https://www.iabilet.ro/bilete-ursul-si-ursoaica-129996/)  
+  <sub>Teatrul Improteca</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-28)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-29)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-28)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-29)
 
 ## Despre
 
@@ -128,4 +125,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 28 august 2026*
+*Actualizat: 29 august 2026*
