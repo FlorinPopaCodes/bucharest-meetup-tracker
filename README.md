@@ -9,11 +9,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `09:00` [Clasă de yoga în aer liber cu Măriuca Patrichi](https://greenrevolution.ro/eveniment/clasa-de-yoga-in-aer-liber-cu-mariuca-patrichi/)  
   <sub>Roaba de Cultură</sub>
 - `13:00` [Book Club #3: Metamorfoza (Franz Kafka) \| Invitat special: Sînziana (@cititorisme) 📚✨](https://lu.ma/agm3od42)  
-  <sub>Lucian Savu · 19 participanți</sub>
+  <sub>Lucian Savu · 16 participanți</sub>
 - `17:00` [Together in the Park Different Cultures Same City](https://greenrevolution.ro/eveniment/togheter/)  
   <sub>Roaba de Cultură</sub>
 - `19:30` [Run after Sunset 🏃‍♂️🌅](https://lu.ma/g99tpc34)  
-  <sub>Oportune · 8 participanți</sub>
+  <sub>Oportune · 9 participanți</sub>
 
 ---
 
@@ -23,7 +23,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 30 august
 
 - `09:00` [Tura de duminică București, ediție specială: Pădurea Băneasa](https://lu.ma/y2ema0ag)  
-  <sub>Endi Ungureanu · 70 de participanți</sub>
+  <sub>Endi Ungureanu · 86 de participanți</sub>
 - `14:00` [Unhinged Book Club #31](https://lu.ma/5cd3rzgc)  
   <sub>Iulia condrea · 13 participanți</sub>
 - `17:00` [Social Chess @Hazelcup Coffee Shop](https://lu.ma/5fvlbmn7)  
@@ -37,7 +37,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Marți, 1 septembrie
 
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E35](https://lu.ma/pa07i6l5)  
-  <sub>321sport · 3 participanți</sub>
+  <sub>321sport · 4 participanți</sub>
 
 ### Miercuri, 2 septembrie
 
@@ -84,7 +84,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Vineri, 11 septembrie
 
 - `18:00` [Let’s Face It](https://lu.ma/s74vvy6q)  
-  <sub>Caroline Fischer · 7 participanți</sub>
+  <sub>Caroline Fischer · 9 participanți</sub>
 
 ---
 

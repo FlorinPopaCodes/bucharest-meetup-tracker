@@ -1,162 +1,6 @@
 {
   "geo": [
     {
-      "api_id": "evt-UJjxXU8FbfoU0ls",
-      "event": {
-        "api_id": "evt-UJjxXU8FbfoU0ls",
-        "calendar_api_id": "cal-7bXIsT7PRi1t4un",
-        "end_at": "2026-08-29T10:30:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "Aqua Wellness Morning – Pilates & Breakfast | WIN x Kiki Constantinescu",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": false,
-        "social_image_url": "https://images.lumacdn.com/event-social/cm/3237a82a-be8c-4b9f-965a-999659e8f6f2.png",
-        "start_at": "2026-08-29T07:30:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "gtat6s6i",
-        "user_api_id": "usr-rA1ejFsLe5mSkP4",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "Niculești",
-          "type": "google",
-          "region": "Județul Dâmbovița",
-          "address": "National Golf & Country Club",
-          "country": "Romania",
-          "place_id": "ChIJ67tli-wVskARh9bKSShcdZw",
-          "localized": {
-            "ro": {
-              "city": "Niculești",
-              "region": "Județul Dâmbovița",
-              "address": "National Golf & Country Club",
-              "country": "România",
-              "city_state": "Niculești, România",
-              "sublocality": null,
-              "full_address": "National Golf & Country Club, DC 159, 137330 Niculești, România",
-              "region_short": "DB",
-              "short_address": "DC 159, Niculești"
-            },
-            "en-GB": {
-              "city": "Niculești",
-              "region": "Județul Dâmbovița",
-              "address": "National Golf & Country Club",
-              "country": "Romania",
-              "city_state": "Niculești, Romania",
-              "sublocality": null,
-              "full_address": "National Golf & Country Club, DC 159, 137330 Niculești, Romania",
-              "region_short": "DB",
-              "short_address": "DC 159, Niculești"
-            }
-          },
-          "city_state": "Niculești, Romania",
-          "description": "",
-          "sublocality": null,
-          "country_code": "RO",
-          "full_address": "National Golf & Country Club, DC 159, 137330 Niculești, Romania",
-          "region_short": "DB",
-          "short_address": "DC 159, Niculești",
-          "place_coordinate": {
-            "latitude": 44.693550099999996,
-            "longitude": 25.934816800000004
-          },
-          "apple_maps_place_id": null,
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 25.934816800000004,
-          "latitude": 44.693550099999996
-        },
-        "waitlist_enabled": false,
-        "waitlist_status": "disabled"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-7bXIsT7PRi1t4un",
-        "coordinate": null,
-        "description_short": "Women in Charge the first premium networking club only for Women. 1st edition 28th July 2027 - IHG Intercontinental Palace Athene.",
-        "location": null,
-        "name": "WIN community",
-        "personal_user_api_id": null,
-        "slug": null,
-        "website": null,
-        "city": null,
-        "is_personal": false,
-        "personal_user": null,
-        "geo_city": null,
-        "geo_country": null,
-        "geo_region": null,
-        "timezone": null
-      },
-      "start_at": "2026-08-29T07:30:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-rA1ejFsLe5mSkP4",
-          "name": "Vlad RBC",
-          "username": null
-        },
-        {
-          "api_id": "usr-olanw6mBUmJpLS2",
-          "name": "Amalia Mihalachioiu",
-          "username": null
-        },
-        {
-          "api_id": "usr-YoHNXg63tgIruJm",
-          "name": "Amalia Mihalachioiu",
-          "username": null
-        },
-        {
-          "api_id": "usr-iVZqVPeCHTSr0UV",
-          "name": "Andrada Zidaru",
-          "username": null
-        },
-        {
-          "api_id": "usr-aAWSvPjc2SC2B3F",
-          "name": "Gabriela Guranda",
-          "username": null
-        },
-        {
-          "api_id": "usr-XVdudtbZ3CEA7PG",
-          "name": "Teodora Nicolaiciuc",
-          "username": null
-        },
-        {
-          "api_id": "usr-FwD8uz58PRDa5sg",
-          "name": "Teodora N",
-          "username": null
-        },
-        {
-          "api_id": "usr-L8PEPF62IBO771Z",
-          "name": "Vlad Cerghezan",
-          "username": null
-        }
-      ],
-      "guest_count": 0,
-      "ticket_count": 0,
-      "ticket_info": {
-        "price": {
-          "cents": 24800,
-          "currency": "ron",
-          "is_flexible": false
-        },
-        "is_free": false,
-        "max_price": {
-          "cents": 44800,
-          "currency": "ron"
-        },
-        "is_sold_out": false,
-        "require_approval": true
-      },
-      "registration_availability": "open",
-      "waitlist_active": false,
-      "featured_city": null
-    },
-    {
       "api_id": "evt-r0yo6z77W44iT9e",
       "event": {
         "api_id": "evt-r0yo6z77W44iT9e",
@@ -293,8 +137,8 @@
           "username": null
         }
       ],
-      "guest_count": 19,
-      "ticket_count": 19,
+      "guest_count": 16,
+      "ticket_count": 16,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -407,8 +251,8 @@
           "username": null
         }
       ],
-      "guest_count": 8,
-      "ticket_count": 8,
+      "guest_count": 9,
+      "ticket_count": 9,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -514,8 +358,8 @@
           "username": "endi"
         }
       ],
-      "guest_count": 70,
-      "ticket_count": 70,
+      "guest_count": 86,
+      "ticket_count": 86,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -931,8 +775,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 3,
-      "ticket_count": 3,
+      "guest_count": 4,
+      "ticket_count": 4,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1474,11 +1318,11 @@
         "price": null,
         "is_free": true,
         "max_price": null,
-        "is_sold_out": true,
+        "is_sold_out": false,
         "require_approval": true
       },
-      "registration_availability": "waitlist",
-      "waitlist_active": true,
+      "registration_availability": "open",
+      "waitlist_active": false,
       "featured_city": null
     },
     {
@@ -2036,8 +1880,8 @@
           "username": null
         }
       ],
-      "guest_count": 7,
-      "ticket_count": 7,
+      "guest_count": 9,
+      "ticket_count": 9,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2943,8 +2787,8 @@
           "username": "razvandeax"
         }
       ],
-      "guest_count": 69,
-      "ticket_count": 69,
+      "guest_count": 71,
+      "ticket_count": 71,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3427,8 +3271,8 @@
           "username": "endi"
         }
       ],
-      "guest_count": 70,
-      "ticket_count": 70,
+      "guest_count": 86,
+      "ticket_count": 86,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3904,8 +3748,8 @@
           "username": null
         }
       ],
-      "guest_count": 1,
-      "ticket_count": 1,
+      "guest_count": 2,
+      "ticket_count": 2,
       "ticket_info": {
         "price": null,
         "is_free": true,
