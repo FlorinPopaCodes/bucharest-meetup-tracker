@@ -17,16 +17,18 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 - `18:00` [RBC Community Night Out - Paint, Wine & Connect](https://lu.ma/rbvnzbiv)  
   <sub>Loredana Pipie</sub>
+- `19:30` [Monday Quizmania](https://lu.ma/k806qj1h)  
+  <sub>T5 Social · 10 participanți</sub>
 
 ### Marți, 1 septembrie
 
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E35](https://lu.ma/pa07i6l5)  
-  <sub>321sport · 4 participanți</sub>
+  <sub>321sport · 7 participanți</sub>
 
 ### Miercuri, 2 septembrie
 
 - `18:00` [Atelier de Colaje Analog & Offline: Nostalgia Edition✂️🖼️ #15](https://lu.ma/gnucioui)  
-  <sub>Lucian Savu · 4 participanți</sub>
+  <sub>Lucian Savu · 6 participanți</sub>
 - `18:00` [RBC #410 \| De la SCROLL la SALE – Cum transformi Social Media în creștere reală de business \| Diana Coman – Profa de Social Media](https://lu.ma/3lic96pz)  
   <sub>Teodora Nicolaiciuc</sub>
 - `18:30` [AI Skills #1 — Work Smarter with AI](https://lu.ma/54ymerxv)  
@@ -63,12 +65,12 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:30` [CISO Meetup Romania](https://lu.ma/8g3yhx3w)  
   <sub>Radware Cybersecurity</sub>
 - `18:30` [DEMO NIGHTS by How to Web #7 \[Bucharest Edition\]](https://lu.ma/Demo-Nights-7)  
-  <sub>Carmelina Lungu · 35 de participanți</sub>
+  <sub>Carmelina Lungu · 42 de participanți</sub>
 
 ### Vineri, 11 septembrie
 
 - `18:00` [Let’s Face It](https://lu.ma/s74vvy6q)  
-  <sub>Caroline Fischer · 9 participanți</sub>
+  <sub>Caroline Fischer · 10 participanți</sub>
 
 ---
 
