@@ -4,22 +4,6 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Sâmbătă, 29 august
-
-- `09:00` [Clasă de yoga în aer liber cu Măriuca Patrichi](https://greenrevolution.ro/eveniment/clasa-de-yoga-in-aer-liber-cu-mariuca-patrichi/)  
-  <sub>Roaba de Cultură</sub>
-- `13:00` [Book Club #3: Metamorfoza (Franz Kafka) \| Invitat special: Sînziana (@cititorisme) 📚✨](https://lu.ma/agm3od42)  
-  <sub>Lucian Savu · 16 participanți</sub>
-- `17:00` [Together in the Park Different Cultures Same City](https://greenrevolution.ro/eveniment/togheter/)  
-  <sub>Roaba de Cultură</sub>
-- `19:30` [Run after Sunset 🏃‍♂️🌅](https://lu.ma/g99tpc34)  
-  <sub>Oportune · 9 participanți</sub>
-
----
-
-- [Ema și Eric învață bunele maniere - adaptare dupa cartea scrisa de Printesa Urbana](https://www.iabilet.ro/bilete-ema-si-eric-invata-bunele-maniere-adaptare-dupa-cartea-scrisa-de-printesa-urbana-130292/)  
-  <sub>Teatrul Improteca</sub>
-
 ### Duminică, 30 august
 
 - `09:00` [Tura de duminică București, ediție specială: Pădurea Băneasa](https://lu.ma/y2ema0ag)  
@@ -65,7 +49,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/hu06idz4)  
   <sub>Emily Merdus</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/lhp1prba)  
-  <sub>Irina Tenovici</sub>
+  <sub>Irina Tenovici · 1 participant</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/8k01jv7v)  
   <sub>Nicoleta Ifrim</sub>
 
@@ -79,7 +63,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:30` [CISO Meetup Romania](https://lu.ma/8g3yhx3w)  
   <sub>Radware Cybersecurity</sub>
 - `18:30` [DEMO NIGHTS by How to Web #7 \[Bucharest Edition\]](https://lu.ma/Demo-Nights-7)  
-  <sub>Carmelina Lungu · 34 de participanți</sub>
+  <sub>Carmelina Lungu · 35 de participanți</sub>
 
 ### Vineri, 11 septembrie
 
@@ -103,15 +87,31 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - [Ursul şi Ursoaica](https://www.iabilet.ro/bilete-ursul-si-ursoaica-129996/)  
   <sub>Teatrul Improteca</sub>
 
+### Duminică, 13 septembrie
+
+- `09:00` [Tura de duminică Herăstrău](https://lu.ma/czbpoxmp)  
+  <sub>Emily Merdus</sub>
+- `09:00` [Tura de duminică I.O.R.](https://lu.ma/9eu43gfy)  
+  <sub>Irina Tenovici</sub>
+- `09:00` [Tura de duminică Tineretului](https://lu.ma/klrc4713)  
+  <sub>Nicoleta Ifrim</sub>
+
+---
+
+- [Iadul este bucuria furată](https://www.iabilet.ro/bilete-iadul-este-bucuria-furata-129534/)  
+  <sub>Teatrul Improteca</sub>
+- [Iubitule, hai să renovăm!](https://www.iabilet.ro/bilete-iubitule-hai-sa-renovam-130622/)  
+  <sub>Teatrul Improteca</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-29)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-30)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-29)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-30)
 
 ## Despre
 
@@ -125,4 +125,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 29 august 2026*
+*Actualizat: 30 august 2026*
