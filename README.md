@@ -4,31 +4,22 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Duminică, 30 august
-
-- `09:00` [Tura de duminică București, ediție specială: Pădurea Băneasa](https://lu.ma/y2ema0ag)  
-  <sub>Endi Ungureanu · 97 de participanți</sub>
-- `14:00` [Unhinged Book Club #31](https://lu.ma/5cd3rzgc)  
-  <sub>Iulia condrea · 13 participanți</sub>
-- `17:00` [Social Chess @Hazelcup Coffee Shop](https://lu.ma/5fvlbmn7)  
-  <sub>THE SQUARE Chess Club</sub>
-
 ### Luni, 31 august
 
 - `18:00` [RBC Community Night Out - Paint, Wine & Connect](https://lu.ma/rbvnzbiv)  
   <sub>Loredana Pipie</sub>
 - `19:30` [Monday Quizmania](https://lu.ma/k806qj1h)  
-  <sub>T5 Social · 10 participanți</sub>
+  <sub>T5 Social · 20 de participanți</sub>
 
 ### Marți, 1 septembrie
 
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E35](https://lu.ma/pa07i6l5)  
-  <sub>321sport · 7 participanți</sub>
+  <sub>321sport · 8 participanți</sub>
 
 ### Miercuri, 2 septembrie
 
 - `18:00` [Atelier de Colaje Analog & Offline: Nostalgia Edition✂️🖼️ #15](https://lu.ma/gnucioui)  
-  <sub>Lucian Savu · 6 participanți</sub>
+  <sub>Lucian Savu · 9 participanți</sub>
 - `18:00` [RBC #410 \| De la SCROLL la SALE – Cum transformi Social Media în creștere reală de business \| Diana Coman – Profa de Social Media](https://lu.ma/3lic96pz)  
   <sub>Teodora Nicolaiciuc</sub>
 - `18:30` [AI Skills #1 — Work Smarter with AI](https://lu.ma/54ymerxv)  
@@ -65,12 +56,12 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:30` [CISO Meetup Romania](https://lu.ma/8g3yhx3w)  
   <sub>Radware Cybersecurity</sub>
 - `18:30` [DEMO NIGHTS by How to Web #7 \[Bucharest Edition\]](https://lu.ma/Demo-Nights-7)  
-  <sub>Carmelina Lungu · 42 de participanți</sub>
+  <sub>Carmelina Lungu · 44 de participanți</sub>
 
 ### Vineri, 11 septembrie
 
 - `18:00` [Let’s Face It](https://lu.ma/s74vvy6q)  
-  <sub>Caroline Fischer · 10 participanți</sub>
+  <sub>Caroline Fischer · 11 participanți</sub>
 
 ---
 
@@ -105,15 +96,20 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - [Iubitule, hai să renovăm!](https://www.iabilet.ro/bilete-iubitule-hai-sa-renovam-130622/)  
   <sub>Teatrul Improteca</sub>
 
+### Luni, 14 septembrie
+
+- `18:45` [3rd Space Bucharest AI Circle](https://lu.ma/3rdSpaceAICircle)  
+  <sub>Eric Melchor</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-30)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-31)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-30)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-31)
 
 ## Despre
 
@@ -127,4 +123,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 30 august 2026*
+*Actualizat: 31 august 2026*
