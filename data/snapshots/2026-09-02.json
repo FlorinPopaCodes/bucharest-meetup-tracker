@@ -1,429 +1,6 @@
 {
   "geo": [
     {
-      "api_id": "evt-TTC57QyHBioDqrt",
-      "event": {
-        "api_id": "evt-TTC57QyHBioDqrt",
-        "calendar_api_id": "cal-B872osgWqW83ENT",
-        "end_at": "2026-09-02T18:00:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "Atelier de Colaje Analog & Offline: Nostalgia Edition✂️🖼️ #15",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": true,
-        "social_image_url": "https://images.lumacdn.com/event-social/52/34c1996b-1097-44cc-9b20-43cb723f933e.png",
-        "start_at": "2026-09-02T15:00:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "gnucioui",
-        "user_api_id": "usr-YBFN0wHZy8N0l6U",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "București",
-          "type": "google",
-          "region": "București",
-          "address": "Random House",
-          "country": "Romania",
-          "place_id": "ChIJ4-PpUwD_sUARq8cUpsl14FY",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": "București",
-              "address": "Random House",
-              "country": "România",
-              "city_state": "București, România",
-              "sublocality": "Sectorul 2",
-              "full_address": "Random House, Strada Vasile Lascăr 69, 030167 București, România",
-              "region_short": "București",
-              "short_address": "Strada Vasile Lascăr 69, București"
-            },
-            "en-GB": {
-              "city": "București",
-              "region": "București",
-              "address": "Random House",
-              "country": "Romania",
-              "city_state": "București, Romania",
-              "sublocality": "Sectorul 2",
-              "full_address": "Random House, Strada Vasile Lascăr 69, 030167 București, Romania",
-              "region_short": "București",
-              "short_address": "Strada Vasile Lascăr 69, București"
-            }
-          },
-          "city_state": "București, Romania",
-          "description": "",
-          "sublocality": "Sectorul 2",
-          "country_code": "RO",
-          "full_address": "Random House, Strada Vasile Lascăr 69, 030167 București, Romania",
-          "region_short": "București",
-          "short_address": "Strada Vasile Lascăr 69, București",
-          "place_coordinate": {
-            "latitude": 44.443151,
-            "longitude": 26.110019800000003
-          },
-          "apple_maps_place_id": "I6827F90685F39107",
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 26.110019800000003,
-          "latitude": 44.443151
-        },
-        "waitlist_enabled": true,
-        "waitlist_status": "enabled"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-B872osgWqW83ENT",
-        "coordinate": {
-          "longitude": 26.1025384,
-          "latitude": 44.426767399999996
-        },
-        "description_short": "Spațiu safe pentru tinerii din București, offline. 🚪✨\nIeșiri gratuite + ateliere speciale (contribuție mică).\n🌳 Calendarul mai jos. 🎟️",
-        "location": {
-          "city": "Bucharest",
-          "region": null,
-          "country": "Romania",
-          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
-          "timezone": "Europe/Bucharest",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": null,
-              "country": "România"
-            }
-          },
-          "country_code": "RO"
-        },
-        "name": "Ieșim din Casă",
-        "personal_user_api_id": null,
-        "slug": "iesimdincasa",
-        "website": "https://iesimdincasa.ro",
-        "city": {
-          "city": "Bucharest",
-          "region": null,
-          "country": "Romania",
-          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
-          "timezone": "Europe/Bucharest",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": null,
-              "country": "România"
-            }
-          },
-          "country_code": "RO"
-        },
-        "is_personal": false,
-        "personal_user": null,
-        "geo_city": "Bucharest",
-        "geo_country": "Romania",
-        "geo_region": null,
-        "timezone": "Europe/Bucharest"
-      },
-      "start_at": "2026-09-02T15:00:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-YBFN0wHZy8N0l6U",
-          "name": "Lucian Savu",
-          "username": "iesimdincasa"
-        },
-        {
-          "api_id": "usr-wjeZdaSDsYNqwom",
-          "name": "Anda 🪷",
-          "username": null
-        }
-      ],
-      "guest_count": 9,
-      "ticket_count": 9,
-      "ticket_info": {
-        "price": null,
-        "is_free": true,
-        "max_price": null,
-        "is_sold_out": false,
-        "require_approval": false
-      },
-      "registration_availability": "open",
-      "waitlist_active": false,
-      "featured_city": null
-    },
-    {
-      "api_id": "evt-uL5xIZTKINCa58b",
-      "event": {
-        "api_id": "evt-uL5xIZTKINCa58b",
-        "calendar_api_id": "cal-yJAKxM13qvVzNC1",
-        "end_at": "2026-09-02T19:00:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "RBC #410 | De la SCROLL la SALE – Cum transformi Social Media în creștere reală de business | Diana Coman – Profa de Social Media",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": false,
-        "social_image_url": "https://images.lumacdn.com/event-social/5u/ec36f3dc-cd86-4fdd-bee0-a31e3b40c9df.png",
-        "start_at": "2026-09-02T15:00:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "3lic96pz",
-        "user_api_id": "usr-XVdudtbZ3CEA7PG",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "București",
-          "type": "google",
-          "region": "București",
-          "address": "InterContinental AthéNéE Palace Bucharest by IHG",
-          "country": "Romania",
-          "place_id": "ChIJS43vIcD_sUARiNxREOIuitA",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": "București",
-              "address": "InterContinental AthéNéE Palace Bucharest by IHG",
-              "country": "România",
-              "city_state": "București, România",
-              "sublocality": "Piața Romană",
-              "full_address": "InterContinental AthéNéE Palace Bucharest by IHG, Strada Episcopiei 1-3, 010292 București, România",
-              "region_short": "București",
-              "short_address": "Strada Episcopiei 1-3, București"
-            }
-          },
-          "city_state": "București, Romania",
-          "description": "",
-          "sublocality": "Piata Romana",
-          "country_code": "RO",
-          "full_address": "InterContinental AthéNéE Palace Bucharest by IHG, Strada Episcopiei 1-3, 010292 București, Romania",
-          "region_short": "București",
-          "short_address": "Strada Episcopiei 1-3, București",
-          "place_coordinate": {
-            "latitude": 44.4411024,
-            "longitude": 26.0958982
-          },
-          "apple_maps_place_id": "I1B6D57A3B946F104",
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 26.0958982,
-          "latitude": 44.4411024
-        },
-        "waitlist_enabled": true,
-        "waitlist_status": "active"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-yJAKxM13qvVzNC1",
-        "coordinate": {
-          "longitude": 26.0832993,
-          "latitude": 44.4661289
-        },
-        "description_short": "Peste 400 de ediții. O comunitate în care fiecare întâlnire poate schimba direcția unui business.                        \n460+ membri\n400+ evenimente\n35.000+ participanți",
-        "location": {
-          "city": "Bucharest",
-          "region": null,
-          "country": "Romania",
-          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
-          "timezone": "Europe/Bucharest",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": null,
-              "country": "România"
-            }
-          },
-          "country_code": "RO"
-        },
-        "name": "Evenimente Romanian Business Club",
-        "personal_user_api_id": null,
-        "slug": "calendarrbc",
-        "website": "https://www.buy.robc.ro",
-        "city": {
-          "city": "Bucharest",
-          "region": null,
-          "country": "Romania",
-          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
-          "timezone": "Europe/Bucharest",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": null,
-              "country": "România"
-            }
-          },
-          "country_code": "RO"
-        },
-        "is_personal": false,
-        "personal_user": null,
-        "geo_city": "Bucharest",
-        "geo_country": "Romania",
-        "geo_region": null,
-        "timezone": "Europe/Bucharest"
-      },
-      "start_at": "2026-09-02T15:00:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-XVdudtbZ3CEA7PG",
-          "name": "Teodora Nicolaiciuc",
-          "username": null
-        },
-        {
-          "api_id": "usr-FzjsDg2XGu9wAdX",
-          "name": "Razvan Sirmache",
-          "username": null
-        },
-        {
-          "api_id": "usr-rA1ejFsLe5mSkP4",
-          "name": "Vlad RBC",
-          "username": null
-        },
-        {
-          "api_id": "usr-PRXn0pUYoReFvEt",
-          "name": "Popa Elena Luminita",
-          "username": null
-        },
-        {
-          "api_id": "usr-5IKlrL5P0dLauV6",
-          "name": "Vlad Bunea",
-          "username": null
-        },
-        {
-          "api_id": "usr-vefneUvjQhf3qNR",
-          "name": "vladut conea",
-          "username": null
-        }
-      ],
-      "guest_count": 0,
-      "ticket_count": 0,
-      "ticket_info": {
-        "price": {
-          "cents": 14800,
-          "currency": "ron",
-          "is_flexible": false
-        },
-        "is_free": false,
-        "max_price": {
-          "cents": 31800,
-          "currency": "ron"
-        },
-        "is_sold_out": false,
-        "require_approval": true
-      },
-      "registration_availability": "open",
-      "waitlist_active": false,
-      "featured_city": null
-    },
-    {
-      "api_id": "evt-UwlDezj9Xf9sgED",
-      "event": {
-        "api_id": "evt-UwlDezj9Xf9sgED",
-        "calendar_api_id": "cal-V3LdXWtnN8lHbRV",
-        "end_at": "2026-09-02T18:30:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "AI Skills #1 — Work Smarter with AI",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": true,
-        "social_image_url": "https://images.lumacdn.com/event-social/4h/03dbbd7a-5125-47e3-b0cd-c3f708cbce5a.png",
-        "start_at": "2026-09-02T15:30:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "54ymerxv",
-        "user_api_id": "usr-XOI5gjEappeYQ2T",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "București",
-          "type": "google",
-          "region": "București",
-          "address": "Saint Roastery Botanica",
-          "country": "Romania",
-          "place_id": "ChIJE3VDOQABskAR1R2-rp7z6Rc",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": "București",
-              "address": "Saint Roastery Botanica",
-              "country": "România",
-              "city_state": "București, România",
-              "sublocality": "Bucureşti Sectorul 6",
-              "full_address": "Saint Roastery Botanica, Calea Plevnei 159, 060014 București, România",
-              "region_short": "București",
-              "short_address": "Calea Plevnei 159, București"
-            }
-          },
-          "city_state": "București, Romania",
-          "description": "",
-          "sublocality": "Bucureşti Sectorul 6",
-          "country_code": "RO",
-          "full_address": "Saint Roastery Botanica, Calea Plevnei 159, 060014 București, Romania",
-          "region_short": "București",
-          "short_address": "Calea Plevnei 159, București",
-          "place_coordinate": {
-            "latitude": 44.4458451,
-            "longitude": 26.064879899999998
-          },
-          "apple_maps_place_id": "ICDC33FC2373850E4",
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 26.064879899999998,
-          "latitude": 44.4458451
-        },
-        "waitlist_enabled": false,
-        "waitlist_status": "disabled"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-V3LdXWtnN8lHbRV",
-        "coordinate": null,
-        "description_short": null,
-        "location": null,
-        "name": "Personal",
-        "personal_user_api_id": "usr-XOI5gjEappeYQ2T",
-        "slug": null,
-        "website": null,
-        "city": null,
-        "is_personal": true,
-        "personal_user": {
-          "api_id": "usr-XOI5gjEappeYQ2T",
-          "name": "Dr. Silviu Gresoi",
-          "username": "silviu"
-        },
-        "geo_city": null,
-        "geo_country": null,
-        "geo_region": null,
-        "timezone": null
-      },
-      "start_at": "2026-09-02T15:30:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-XOI5gjEappeYQ2T",
-          "name": "Dr. Silviu Gresoi",
-          "username": "silviu"
-        }
-      ],
-      "guest_count": 33,
-      "ticket_count": 33,
-      "ticket_info": {
-        "price": null,
-        "is_free": true,
-        "max_price": null,
-        "is_sold_out": false,
-        "require_approval": true
-      },
-      "registration_availability": "open",
-      "waitlist_active": false,
-      "featured_city": null
-    },
-    {
       "api_id": "evt-knazbIdlWGHzWNi",
       "event": {
         "api_id": "evt-knazbIdlWGHzWNi",
@@ -549,8 +126,8 @@
           "username": null
         }
       ],
-      "guest_count": 43,
-      "ticket_count": 43,
+      "guest_count": 44,
+      "ticket_count": 44,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -809,8 +386,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 23,
-      "ticket_count": 23,
+      "guest_count": 36,
+      "ticket_count": 36,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -916,8 +493,8 @@
           "username": "muvoutside"
         }
       ],
-      "guest_count": 8,
-      "ticket_count": 8,
+      "guest_count": 24,
+      "ticket_count": 24,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -936,7 +513,7 @@
         "calendar_api_id": "cal-vy7fTgxG01iG02Y",
         "end_at": "2026-09-03T19:30:00.000Z",
         "event_type": "independent",
-        "hide_rsvp": false,
+        "hide_rsvp": true,
         "location_type": "offline",
         "name": "Thursday Trivia",
         "one_to_one": true,
@@ -1030,16 +607,16 @@
           "username": "t5social"
         }
       ],
-      "guest_count": 20,
-      "ticket_count": 124,
+      "guest_count": 25,
+      "ticket_count": 146,
       "ticket_info": {
         "price": null,
         "is_free": true,
         "max_price": null,
-        "is_sold_out": false,
-        "require_approval": true
+        "is_sold_out": true,
+        "require_approval": false
       },
-      "registration_availability": "open",
+      "registration_availability": "sold-out",
       "waitlist_active": false,
       "featured_city": null
     },
@@ -1148,14 +725,117 @@
           "username": null
         }
       ],
-      "guest_count": 20,
-      "ticket_count": 20,
+      "guest_count": 26,
+      "ticket_count": 26,
       "ticket_info": {
         "price": null,
         "is_free": true,
         "max_price": null,
         "is_sold_out": false,
         "require_approval": true
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-wsMCJT2S5Cdt7Hl",
+      "event": {
+        "api_id": "evt-wsMCJT2S5Cdt7Hl",
+        "calendar_api_id": "cal-ope3vlGFXGztQbl",
+        "end_at": "2026-09-05T10:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Career Reflection Event & Painting Session",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": false,
+        "social_image_url": "https://images.lumacdn.com/event-social/ff/bba84944-7392-4d0c-ae98-43a7dbf704ab.png",
+        "start_at": "2026-09-05T08:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "ljzh2jrd",
+        "user_api_id": "usr-FjbZwJLiCQBwtAD",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Kaya Holistic",
+          "country": "Romania",
+          "place_id": "ChIJx-yJKhj_sUARW3Ng_sBZ95I",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Kaya Holistic",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Bucureşti Sectorul 3",
+              "full_address": "Kaya Holistic, Calea Dudești 101, 031083 București, România",
+              "region_short": "București",
+              "short_address": "Calea Dudești 101, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Bucureşti Sectorul 3",
+          "country_code": "RO",
+          "full_address": "Kaya Holistic, Calea Dudești 101, 031083 București, Romania",
+          "region_short": "București",
+          "short_address": "Calea Dudești 101, București",
+          "place_coordinate": {
+            "latitude": 44.4242462,
+            "longitude": 26.124257
+          },
+          "apple_maps_place_id": "IB5B16B0C211566F4",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.124257,
+          "latitude": 44.4242462
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-ope3vlGFXGztQbl",
+        "coordinate": null,
+        "description_short": "",
+        "location": null,
+        "name": "Career Shift Community Events",
+        "personal_user_api_id": null,
+        "slug": "careershiftcommunityevents",
+        "website": null,
+        "city": null,
+        "is_personal": false,
+        "personal_user": null,
+        "geo_city": null,
+        "geo_country": null,
+        "geo_region": null,
+        "timezone": null
+      },
+      "start_at": "2026-09-05T08:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-FjbZwJLiCQBwtAD",
+          "name": "Career Shift",
+          "username": "careershift"
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
       },
       "registration_availability": "open",
       "waitlist_active": false,
@@ -1266,8 +946,8 @@
           "username": null
         }
       ],
-      "guest_count": 29,
-      "ticket_count": 29,
+      "guest_count": 25,
+      "ticket_count": 25,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1411,8 +1091,8 @@
           "username": "iesimdincasa"
         }
       ],
-      "guest_count": 12,
-      "ticket_count": 12,
+      "guest_count": 14,
+      "ticket_count": 14,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1495,8 +1175,8 @@
           "username": null
         }
       ],
-      "guest_count": 3,
-      "ticket_count": 3,
+      "guest_count": 5,
+      "ticket_count": 5,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1506,6 +1186,124 @@
       },
       "registration_availability": "open",
       "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-6SCIcAtEKygTRbJ",
+      "event": {
+        "api_id": "evt-6SCIcAtEKygTRbJ",
+        "calendar_api_id": "cal-sep1iBzNbClaD18",
+        "end_at": "2026-09-06T16:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "reading corner, chapter #55",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/jw/b97c71f9-00d8-4be0-8c3d-b4ff1b2ebffe.png",
+        "start_at": "2026-09-06T12:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "eppsxopy",
+        "user_api_id": "usr-V22zkkmgU35tOAr",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Control Club",
+          "country": "Romania",
+          "place_id": "ChIJJ0NP5kb_sUARywqM81TfZD0",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Control Club",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Bucureşti Sectorul 1",
+              "full_address": "Control Club, Strada Constantin Mille 4, 010142 București, România",
+              "region_short": "București",
+              "short_address": "Strada Constantin Mille 4, București"
+            },
+            "en-GB": {
+              "city": "București",
+              "region": "București",
+              "address": "Control Club",
+              "country": "Romania",
+              "city_state": "București, Romania",
+              "sublocality": "Bucureşti Sectorul 1",
+              "full_address": "Control Club, Strada Constantin Mille 4, 010142 București, Romania",
+              "region_short": "București",
+              "short_address": "Strada Constantin Mille 4, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Bucureşti Sectorul 1",
+          "country_code": "RO",
+          "full_address": "Control Club, Strada Constantin Mille 4, 010142 București, Romania",
+          "region_short": "București",
+          "short_address": "Strada Constantin Mille 4, București",
+          "place_coordinate": {
+            "latitude": 44.435482199999996,
+            "longitude": 26.0970716
+          },
+          "apple_maps_place_id": "I282FA3DC43665DCD",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.0970716,
+          "latitude": 44.435482199999996
+        },
+        "waitlist_enabled": true,
+        "waitlist_status": "active"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-sep1iBzNbClaD18",
+        "coordinate": null,
+        "description_short": null,
+        "location": null,
+        "name": "Personal",
+        "personal_user_api_id": "usr-V22zkkmgU35tOAr",
+        "slug": null,
+        "website": null,
+        "city": null,
+        "is_personal": true,
+        "personal_user": {
+          "api_id": "usr-V22zkkmgU35tOAr",
+          "name": "reading corner",
+          "username": "readingcorner"
+        },
+        "geo_city": null,
+        "geo_country": null,
+        "geo_region": null,
+        "timezone": null
+      },
+      "start_at": "2026-09-06T12:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-V22zkkmgU35tOAr",
+          "name": "reading corner",
+          "username": "readingcorner"
+        }
+      ],
+      "guest_count": 120,
+      "ticket_count": 120,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": true,
+        "require_approval": false
+      },
+      "registration_availability": "waitlist",
+      "waitlist_active": true,
       "featured_city": null
     },
     {
@@ -1691,8 +1489,8 @@
           "username": "agatinei"
         }
       ],
-      "guest_count": 58,
-      "ticket_count": 58,
+      "guest_count": 59,
+      "ticket_count": 59,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1809,8 +1607,8 @@
           "username": null
         }
       ],
-      "guest_count": 13,
-      "ticket_count": 13,
+      "guest_count": 17,
+      "ticket_count": 17,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1905,6 +1703,95 @@
           "cents": 29900,
           "currency": "eur"
         },
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-cWSfRKuYPN8mt7y",
+      "event": {
+        "api_id": "evt-cWSfRKuYPN8mt7y",
+        "calendar_api_id": "cal-3LUUTP6otvrmplt",
+        "end_at": "2026-09-15T20:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Product Drinks × Productlab Conference: satellite edition",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/k3/bb71e78c-d9d4-4523-8ccb-bd0154b5a717.png",
+        "start_at": "2026-09-15T16:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "7osceu5i",
+        "user_api_id": "usr-4qg8CVixRijhRoa",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "mode": "obfuscated",
+          "city": "București",
+          "city_state": "București, Romania",
+          "sublocality": "Dorobanți",
+          "country": "Romania",
+          "country_code": "RO",
+          "region": "București",
+          "region_short": "București"
+        },
+        "geo_address_visibility": "guests-only",
+        "coordinate": {
+          "latitude": 44.4614317319591,
+          "longitude": 26.08902534190958
+        },
+        "waitlist_enabled": true,
+        "waitlist_status": "active"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-3LUUTP6otvrmplt",
+        "coordinate": null,
+        "description_short": "The community of people with a passion for building Products.\n\nhttps://www.productmakers.ro/",
+        "location": null,
+        "name": "Product Makers Romania",
+        "personal_user_api_id": null,
+        "slug": "productro",
+        "website": "https://www.craft.do/s/7a1IkiJOMT0WPU",
+        "city": null,
+        "is_personal": false,
+        "personal_user": null,
+        "geo_city": null,
+        "geo_country": null,
+        "geo_region": null,
+        "timezone": null
+      },
+      "start_at": "2026-09-15T16:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-4qg8CVixRijhRoa",
+          "name": "Dragos",
+          "username": "Dragosg"
+        },
+        {
+          "api_id": "usr-lQimdd1CGq284zC",
+          "name": "Ahmed Sulaiman",
+          "username": "itssulaiman"
+        },
+        {
+          "api_id": "usr-qb9YvL5zA1nY8F8",
+          "name": "ProductLab Community",
+          "username": "ProductLab"
+        }
+      ],
+      "guest_count": 9,
+      "ticket_count": 9,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
         "is_sold_out": false,
         "require_approval": false
       },
@@ -2716,8 +2603,8 @@
           "username": "razvandeax"
         }
       ],
-      "guest_count": 74,
-      "ticket_count": 74,
+      "guest_count": 75,
+      "ticket_count": 75,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3004,8 +2891,8 @@
           "username": "cristinalupu"
         }
       ],
-      "guest_count": 6,
-      "ticket_count": 6,
+      "guest_count": 22,
+      "ticket_count": 22,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3019,6 +2906,123 @@
     }
   ],
   "calendar:turadeduminica": [
+    {
+      "api_id": "calev-0PPX9W6Mj71yeQB",
+      "event": {
+        "api_id": "evt-8DKmu27S9NGAflN",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-09-06T07:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică Timișoara",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/n7/35dfd36f-5b0d-4e01-b50d-e85de24636ff.png",
+        "start_at": "2026-09-06T06:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "q5txzhfm",
+        "user_api_id": "usr-u2C2ySptnWgaKDy",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Timișoara",
+          "type": "google",
+          "region": "Județul Timiș",
+          "address": "\"Three Holy Hierarchs\" Metropolitan Cathedral",
+          "country": "Romania",
+          "place_id": "ChIJi_AdrXhdRUcR8NjoSndw16Y",
+          "localized": {
+            "ro": {
+              "city": "Timișoara",
+              "region": "Județul Timiș",
+              "address": "Catedrala Mitropolitană „Sfinții Trei Ierarhi”",
+              "country": "România",
+              "city_state": "Timișoara, Județul Timiș",
+              "sublocality": "Parcul Catedralei",
+              "full_address": "Catedrala Mitropolitană „Sfinții Trei Ierarhi”, Bulevardul Regele Ferdinand I, Timișoara, România",
+              "short_address": "Bulevardul Regele Ferdinand I, Timișoara"
+            },
+            "en-GB": {
+              "city": "Timișoara",
+              "region": "Județul Timiș",
+              "address": "\"Three Holy Hierarchs\" Metropolitan Cathedral",
+              "country": "Romania",
+              "city_state": "Timișoara, Județul Timiș",
+              "sublocality": "Cathedral Park",
+              "full_address": "\"Three Holy Hierarchs\" Metropolitan Cathedral, Bulevardul Regele Ferdinand I, Timișoara, Romania",
+              "short_address": "Bulevardul Regele Ferdinand I, Timișoara"
+            }
+          },
+          "city_state": "Timișoara, Județul Timiș",
+          "description": "",
+          "sublocality": "Cathedral Park",
+          "country_code": "RO",
+          "full_address": "\"Three Holy Hierarchs\" Metropolitan Cathedral, Bulevardul Regele Ferdinand I, Timișoara, Romania",
+          "short_address": "Bulevardul Regele Ferdinand I, Timișoara",
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 21.2243018,
+          "latitude": 45.750875099999995
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "slug": "turadeduminica",
+        "website": null,
+        "city": null,
+        "is_personal": false,
+        "personal_user": null,
+        "geo_city": null,
+        "geo_country": null,
+        "geo_region": null,
+        "timezone": null
+      },
+      "start_at": "2026-09-06T06:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-u2C2ySptnWgaKDy",
+          "name": "Natalia Ronkov",
+          "username": "NataliaR"
+        },
+        {
+          "api_id": "usr-yomhnvpt5g17mhz",
+          "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 1,
+      "ticket_count": 1,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
     {
       "api_id": "calev-nVXiUi0I0OCimCH",
       "event": {
@@ -3429,8 +3433,8 @@
           "username": null
         }
       ],
-      "guest_count": 3,
-      "ticket_count": 3,
+      "guest_count": 5,
+      "ticket_count": 5,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3761,6 +3765,11 @@
           "api_id": "usr-FGJ121ix75DkgRJ",
           "name": "Andrei Catinas",
           "username": null
+        },
+        {
+          "api_id": "usr-QXwFC3hQB3klkE6",
+          "name": "Diana Emilia",
+          "username": null
         }
       ],
       "guest_count": 3,
@@ -3994,6 +4003,123 @@
           "api_id": "usr-04pRO5uWe6ODtE4",
           "name": "Nicoleta Ifrim",
           "username": null
+        },
+        {
+          "api_id": "usr-yomhnvpt5g17mhz",
+          "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
+    {
+      "api_id": "calev-K56MWHWWQBAvh2j",
+      "event": {
+        "api_id": "evt-Cri8pIPIcPpK5Ej",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-09-13T07:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică Timișoara",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/mu/5d86c17b-30b6-475c-b200-764a5a2aa58b.png",
+        "start_at": "2026-09-13T06:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "95xtl05m",
+        "user_api_id": "usr-u2C2ySptnWgaKDy",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Timișoara",
+          "type": "google",
+          "region": "Județul Timiș",
+          "address": "\"Three Holy Hierarchs\" Metropolitan Cathedral",
+          "country": "Romania",
+          "place_id": "ChIJi_AdrXhdRUcR8NjoSndw16Y",
+          "localized": {
+            "ro": {
+              "city": "Timișoara",
+              "region": "Județul Timiș",
+              "address": "Catedrala Mitropolitană „Sfinții Trei Ierarhi”",
+              "country": "România",
+              "city_state": "Timișoara, Județul Timiș",
+              "sublocality": "Parcul Catedralei",
+              "full_address": "Catedrala Mitropolitană „Sfinții Trei Ierarhi”, Bulevardul Regele Ferdinand I, Timișoara, România",
+              "short_address": "Bulevardul Regele Ferdinand I, Timișoara"
+            },
+            "en-GB": {
+              "city": "Timișoara",
+              "region": "Județul Timiș",
+              "address": "\"Three Holy Hierarchs\" Metropolitan Cathedral",
+              "country": "Romania",
+              "city_state": "Timișoara, Județul Timiș",
+              "sublocality": "Cathedral Park",
+              "full_address": "\"Three Holy Hierarchs\" Metropolitan Cathedral, Bulevardul Regele Ferdinand I, Timișoara, Romania",
+              "short_address": "Bulevardul Regele Ferdinand I, Timișoara"
+            }
+          },
+          "city_state": "Timișoara, Județul Timiș",
+          "description": "",
+          "sublocality": "Cathedral Park",
+          "country_code": "RO",
+          "full_address": "\"Three Holy Hierarchs\" Metropolitan Cathedral, Bulevardul Regele Ferdinand I, Timișoara, Romania",
+          "short_address": "Bulevardul Regele Ferdinand I, Timișoara",
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 21.2243018,
+          "latitude": 45.750875099999995
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "slug": "turadeduminica",
+        "website": null,
+        "city": null,
+        "is_personal": false,
+        "personal_user": null,
+        "geo_city": null,
+        "geo_country": null,
+        "geo_region": null,
+        "timezone": null
+      },
+      "start_at": "2026-09-13T06:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-u2C2ySptnWgaKDy",
+          "name": "Natalia Ronkov",
+          "username": "NataliaR"
         },
         {
           "api_id": "usr-yomhnvpt5g17mhz",
@@ -4430,6 +4556,11 @@
           "api_id": "usr-FGJ121ix75DkgRJ",
           "name": "Andrei Catinas",
           "username": null
+        },
+        {
+          "api_id": "usr-QXwFC3hQB3klkE6",
+          "name": "Diana Emilia",
+          "username": null
         }
       ],
       "guest_count": 1,
@@ -4480,6 +4611,123 @@
           "color": "green"
         }
       ]
+    },
+    {
+      "api_id": "calev-C8mYW7am3HEzO8I",
+      "event": {
+        "api_id": "evt-GpEGlRGXbE8ZXJj",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-09-20T07:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică Timișoara",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/n7/65722e02-73d8-4a8a-98c8-6d2b3a32b729.png",
+        "start_at": "2026-09-20T06:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "fofg14nt",
+        "user_api_id": "usr-u2C2ySptnWgaKDy",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Timișoara",
+          "type": "google",
+          "region": "Județul Timiș",
+          "address": "\"Three Holy Hierarchs\" Metropolitan Cathedral",
+          "country": "Romania",
+          "place_id": "ChIJi_AdrXhdRUcR8NjoSndw16Y",
+          "localized": {
+            "ro": {
+              "city": "Timișoara",
+              "region": "Județul Timiș",
+              "address": "Catedrala Mitropolitană „Sfinții Trei Ierarhi”",
+              "country": "România",
+              "city_state": "Timișoara, Județul Timiș",
+              "sublocality": "Parcul Catedralei",
+              "full_address": "Catedrala Mitropolitană „Sfinții Trei Ierarhi”, Bulevardul Regele Ferdinand I, Timișoara, România",
+              "short_address": "Bulevardul Regele Ferdinand I, Timișoara"
+            },
+            "en-GB": {
+              "city": "Timișoara",
+              "region": "Județul Timiș",
+              "address": "\"Three Holy Hierarchs\" Metropolitan Cathedral",
+              "country": "Romania",
+              "city_state": "Timișoara, Județul Timiș",
+              "sublocality": "Cathedral Park",
+              "full_address": "\"Three Holy Hierarchs\" Metropolitan Cathedral, Bulevardul Regele Ferdinand I, Timișoara, Romania",
+              "short_address": "Bulevardul Regele Ferdinand I, Timișoara"
+            }
+          },
+          "city_state": "Timișoara, Județul Timiș",
+          "description": "",
+          "sublocality": "Cathedral Park",
+          "country_code": "RO",
+          "full_address": "\"Three Holy Hierarchs\" Metropolitan Cathedral, Bulevardul Regele Ferdinand I, Timișoara, Romania",
+          "short_address": "Bulevardul Regele Ferdinand I, Timișoara",
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 21.2243018,
+          "latitude": 45.750875099999995
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "slug": "turadeduminica",
+        "website": null,
+        "city": null,
+        "is_personal": false,
+        "personal_user": null,
+        "geo_city": null,
+        "geo_country": null,
+        "geo_region": null,
+        "timezone": null
+      },
+      "start_at": "2026-09-20T06:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-u2C2ySptnWgaKDy",
+          "name": "Natalia Ronkov",
+          "username": "NataliaR"
+        },
+        {
+          "api_id": "usr-yomhnvpt5g17mhz",
+          "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
     },
     {
       "api_id": "calev-cJrbGsr4BYBccuG",
@@ -5099,6 +5347,11 @@
           "api_id": "usr-FGJ121ix75DkgRJ",
           "name": "Andrei Catinas",
           "username": null
+        },
+        {
+          "api_id": "usr-QXwFC3hQB3klkE6",
+          "name": "Diana Emilia",
+          "username": null
         }
       ],
       "guest_count": 1,
@@ -5232,6 +5485,123 @@
           "api_id": "usr-k3FGko4fTI60c3z",
           "name": "Alex Ștefănescu",
           "username": null
+        },
+        {
+          "api_id": "usr-yomhnvpt5g17mhz",
+          "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
+    {
+      "api_id": "calev-mCQ8qDHJzyn2jvs",
+      "event": {
+        "api_id": "evt-ZDIvcSXQXmPs1jK",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-09-27T07:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică Timișoara",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/p2/b3dbbe8a-b85f-4f65-8b64-293112f3d202.png",
+        "start_at": "2026-09-27T06:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "3ygdeznu",
+        "user_api_id": "usr-u2C2ySptnWgaKDy",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Timișoara",
+          "type": "google",
+          "region": "Județul Timiș",
+          "address": "\"Three Holy Hierarchs\" Metropolitan Cathedral",
+          "country": "Romania",
+          "place_id": "ChIJi_AdrXhdRUcR8NjoSndw16Y",
+          "localized": {
+            "ro": {
+              "city": "Timișoara",
+              "region": "Județul Timiș",
+              "address": "Catedrala Mitropolitană „Sfinții Trei Ierarhi”",
+              "country": "România",
+              "city_state": "Timișoara, Județul Timiș",
+              "sublocality": "Parcul Catedralei",
+              "full_address": "Catedrala Mitropolitană „Sfinții Trei Ierarhi”, Bulevardul Regele Ferdinand I, Timișoara, România",
+              "short_address": "Bulevardul Regele Ferdinand I, Timișoara"
+            },
+            "en-GB": {
+              "city": "Timișoara",
+              "region": "Județul Timiș",
+              "address": "\"Three Holy Hierarchs\" Metropolitan Cathedral",
+              "country": "Romania",
+              "city_state": "Timișoara, Județul Timiș",
+              "sublocality": "Cathedral Park",
+              "full_address": "\"Three Holy Hierarchs\" Metropolitan Cathedral, Bulevardul Regele Ferdinand I, Timișoara, Romania",
+              "short_address": "Bulevardul Regele Ferdinand I, Timișoara"
+            }
+          },
+          "city_state": "Timișoara, Județul Timiș",
+          "description": "",
+          "sublocality": "Cathedral Park",
+          "country_code": "RO",
+          "full_address": "\"Three Holy Hierarchs\" Metropolitan Cathedral, Bulevardul Regele Ferdinand I, Timișoara, Romania",
+          "short_address": "Bulevardul Regele Ferdinand I, Timișoara",
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 21.2243018,
+          "latitude": 45.750875099999995
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "slug": "turadeduminica",
+        "website": null,
+        "city": null,
+        "is_personal": false,
+        "personal_user": null,
+        "geo_city": null,
+        "geo_country": null,
+        "geo_region": null,
+        "timezone": null
+      },
+      "start_at": "2026-09-27T06:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-u2C2ySptnWgaKDy",
+          "name": "Natalia Ronkov",
+          "username": "NataliaR"
         },
         {
           "api_id": "usr-yomhnvpt5g17mhz",
@@ -5503,6 +5873,123 @@
           "color": "green"
         }
       ]
+    },
+    {
+      "api_id": "calev-XijnmqHwdeXcJZD",
+      "event": {
+        "api_id": "evt-IzhnD83toPjBwBg",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-10-04T07:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică Timișoara",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/z3/df58942f-fe8d-4e9f-bac8-64209ac48d55.png",
+        "start_at": "2026-10-04T06:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "g0r0072u",
+        "user_api_id": "usr-u2C2ySptnWgaKDy",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Timișoara",
+          "type": "google",
+          "region": "Județul Timiș",
+          "address": "\"Three Holy Hierarchs\" Metropolitan Cathedral",
+          "country": "Romania",
+          "place_id": "ChIJi_AdrXhdRUcR8NjoSndw16Y",
+          "localized": {
+            "ro": {
+              "city": "Timișoara",
+              "region": "Județul Timiș",
+              "address": "Catedrala Mitropolitană „Sfinții Trei Ierarhi”",
+              "country": "România",
+              "city_state": "Timișoara, Județul Timiș",
+              "sublocality": "Parcul Catedralei",
+              "full_address": "Catedrala Mitropolitană „Sfinții Trei Ierarhi”, Bulevardul Regele Ferdinand I, Timișoara, România",
+              "short_address": "Bulevardul Regele Ferdinand I, Timișoara"
+            },
+            "en-GB": {
+              "city": "Timișoara",
+              "region": "Județul Timiș",
+              "address": "\"Three Holy Hierarchs\" Metropolitan Cathedral",
+              "country": "Romania",
+              "city_state": "Timișoara, Județul Timiș",
+              "sublocality": "Cathedral Park",
+              "full_address": "\"Three Holy Hierarchs\" Metropolitan Cathedral, Bulevardul Regele Ferdinand I, Timișoara, Romania",
+              "short_address": "Bulevardul Regele Ferdinand I, Timișoara"
+            }
+          },
+          "city_state": "Timișoara, Județul Timiș",
+          "description": "",
+          "sublocality": "Cathedral Park",
+          "country_code": "RO",
+          "full_address": "\"Three Holy Hierarchs\" Metropolitan Cathedral, Bulevardul Regele Ferdinand I, Timișoara, Romania",
+          "short_address": "Bulevardul Regele Ferdinand I, Timișoara",
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 21.2243018,
+          "latitude": 45.750875099999995
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "slug": "turadeduminica",
+        "website": null,
+        "city": null,
+        "is_personal": false,
+        "personal_user": null,
+        "geo_city": null,
+        "geo_country": null,
+        "geo_region": null,
+        "timezone": null
+      },
+      "start_at": "2026-10-04T06:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-u2C2ySptnWgaKDy",
+          "name": "Natalia Ronkov",
+          "username": "NataliaR"
+        },
+        {
+          "api_id": "usr-yomhnvpt5g17mhz",
+          "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
     },
     {
       "api_id": "calev-4WwMF8mJ8uOQyDH",
@@ -6030,8 +6517,8 @@
           "username": null
         }
       ],
-      "guest_count": 5,
-      "ticket_count": 5,
+      "guest_count": 8,
+      "ticket_count": 8,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -6313,8 +6800,8 @@
           "username": "alexstanciu"
         }
       ],
-      "guest_count": 20,
-      "ticket_count": 20,
+      "guest_count": 21,
+      "ticket_count": 21,
       "ticket_info": {
         "price": null,
         "is_free": true,
