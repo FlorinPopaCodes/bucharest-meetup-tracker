@@ -4,13 +4,6 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Marți, 1 septembrie
-
-- `19:00` [Sport în aer liber: Yoga cu Gabriela Iancu](https://greenrevolution.ro/eveniment/sport-in-aer-liber-yoga-cu-gabriela-iancu/)  
-  <sub>Roaba de Cultură</sub>
-- `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E35](https://lu.ma/pa07i6l5)  
-  <sub>321sport · 9 participanți</sub>
-
 ### Miercuri, 2 septembrie
 
 - `18:00` [Atelier de Colaje Analog & Offline: Nostalgia Edition✂️🖼️ #15](https://lu.ma/gnucioui)  
@@ -24,12 +17,16 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Joi, 3 septembrie
 
+- `18:00` [Back to Balance Community Evening](https://lu.ma/cllp8y7z)  
+  <sub>Andra Ghibutiu · 43 de participanți</sub>
 - `18:30` [Let's Talk AI! #4 (w/ The AI Collective)](https://lu.ma/lets-talk-ai-4)  
   <sub>The AI Collective</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E36](https://lu.ma/a16m72gx)  
   <sub>321sport · 23 de participanți</sub>
+- `19:00` [PULSE #56 - muv like a duck](https://lu.ma/o6benk6o)  
+  <sub>MuvOutside · 8 participanți</sub>
 - `19:30` [Thursday Trivia](https://lu.ma/h15cn2yd)  
-  <sub>T5 Social · 15 participanți</sub>
+  <sub>T5 Social · 20 de participanți</sub>
 - `20:00` [Film în aer liber:  Casablanca (r. Michael Curtiz)](https://greenrevolution.ro/eveniment/film-in-aer-liber-casablanca-r-michael-curtiz/)  
   <sub>Roaba de Cultură</sub>
 
@@ -45,9 +42,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `09:00` [Yoga cu Oana Radu ](https://greenrevolution.ro/eveniment/yoga-cu-oana-radu-3/)  
   <sub>Roaba de Cultură</sub>
 - `10:30` [Lace up & Charm up](https://lu.ma/q50uw77k)  
-  <sub>FOMO Urban Running Club · 16 participanți</sub>
+  <sub>FOMO Urban Running Club · 20 de participanți</sub>
 - `14:00` [Cafeaua De Sâmbăta #27 \| Bucuresti](https://lu.ma/keukj8z4)  
-  <sub>Ionut Alexandru Stanciu · 16 participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 20 de participanți</sub>
 - `17:00` [Movie Club in the Park #3: Shutter Island (2010) 🌳 \| Ieșim din Casă #16](https://lu.ma/3m6smdmf)  
   <sub>Lucian Savu · 12 participanți</sub>
 - `19:30` [Concert Diana Caldararu](https://greenrevolution.ro/eveniment/concert-diana-caldararu/)  
@@ -74,7 +71,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:30` [CISO Meetup Romania](https://lu.ma/8g3yhx3w)  
   <sub>Radware Cybersecurity</sub>
 - `18:30` [DEMO NIGHTS by How to Web #7 \[Bucharest Edition\]](https://lu.ma/Demo-Nights-7)  
-  <sub>How to Web · 57 de participanți</sub>
+  <sub>How to Web · 58 de participanți</sub>
 
 ### Vineri, 11 septembrie
 
@@ -123,11 +120,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-01)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-02)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-01)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-02)
 
 ## Despre
 
@@ -141,4 +138,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 1 septembrie 2026*
+*Actualizat: 2 septembrie 2026*
