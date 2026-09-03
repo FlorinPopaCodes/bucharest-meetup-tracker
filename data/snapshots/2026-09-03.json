@@ -124,6 +124,11 @@
           "api_id": "usr-ws4LeD99gzcep7c",
           "name": "Gregoire Vigroux",
           "username": null
+        },
+        {
+          "api_id": "usr-tfONz7dxU1mIpAH",
+          "name": "Alex Proca",
+          "username": null
         }
       ],
       "guest_count": 44,
@@ -256,254 +261,6 @@
       },
       "registration_availability": "waitlist",
       "waitlist_active": true,
-      "featured_city": null
-    },
-    {
-      "api_id": "evt-NQw9kJc2slnms8k",
-      "event": {
-        "api_id": "evt-NQw9kJc2slnms8k",
-        "calendar_api_id": "cal-2IEiwmiOVdw7mWt",
-        "end_at": "2026-09-03T17:30:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E36",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": true,
-        "social_image_url": "https://images.lumacdn.com/event-social/4a/01523071-c63e-4516-8e7f-7fd2e10e1f55.png",
-        "start_at": "2026-09-03T16:00:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "a16m72gx",
-        "user_api_id": "usr-tO8x9AVXxlXajv7",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "București",
-          "type": "google",
-          "region": "București",
-          "address": "Pista de Atletism „Lia Manoliu”",
-          "country": "Romania",
-          "place_id": "ChIJpzd8NxH_sUARAPBpBpvx9b8",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": "București",
-              "address": "Pista de Atletism „Lia Manoliu”",
-              "country": "România",
-              "city_state": "București, România",
-              "sublocality": "Sectorul 2",
-              "full_address": "Pista de Atletism „Lia Manoliu”, Bulevardul Basarabia 37-39, 022103 București, România",
-              "region_short": "București",
-              "short_address": "Bulevardul Basarabia 37-39, București"
-            },
-            "en-GB": {
-              "city": "București",
-              "region": "București",
-              "address": "Pista de Atletism „Lia Manoliu”",
-              "country": "Romania",
-              "city_state": "București, Romania",
-              "sublocality": "Sectorul 2",
-              "full_address": "Pista de Atletism „Lia Manoliu”, Bulevardul Basarabia 37-39, 022103 București, Romania",
-              "region_short": "București",
-              "short_address": "Bulevardul Basarabia 37-39, București"
-            }
-          },
-          "city_state": "București, Romania",
-          "description": "",
-          "sublocality": "Sectorul 2",
-          "country_code": "RO",
-          "full_address": "Pista de Atletism „Lia Manoliu”, Bulevardul Basarabia 37-39, 022103 București, Romania",
-          "region_short": "București",
-          "short_address": "Bulevardul Basarabia 37-39, București",
-          "apple_maps_place_id": "IFDEA7B1DF5233807",
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 26.1521454,
-          "latitude": 44.434506000000006
-        },
-        "waitlist_enabled": true,
-        "waitlist_status": "active"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-2IEiwmiOVdw7mWt",
-        "coordinate": {
-          "longitude": 26.1025384,
-          "latitude": 44.426767399999996
-        },
-        "description_short": "321sport este o comunitate de alergare fondată în 2015, care aduce împreună oameni din toate categoriile sociale prin evenimente organizate offline sau online.",
-        "location": {
-          "city": "Bucharest",
-          "region": null,
-          "country": "Romania",
-          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
-          "timezone": "Europe/Bucharest",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": null,
-              "country": "România"
-            }
-          },
-          "country_code": "RO"
-        },
-        "name": "Calendar 321sport",
-        "personal_user_api_id": null,
-        "slug": "321sport",
-        "website": "https://www.321sport.ro",
-        "city": {
-          "city": "Bucharest",
-          "region": null,
-          "country": "Romania",
-          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
-          "timezone": "Europe/Bucharest",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": null,
-              "country": "România"
-            }
-          },
-          "country_code": "RO"
-        },
-        "is_personal": false,
-        "personal_user": null,
-        "geo_city": "Bucharest",
-        "geo_country": "Romania",
-        "geo_region": null,
-        "timezone": "Europe/Bucharest"
-      },
-      "start_at": "2026-09-03T16:00:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-tO8x9AVXxlXajv7",
-          "name": "321sport",
-          "username": "321sport"
-        }
-      ],
-      "guest_count": 43,
-      "ticket_count": 43,
-      "ticket_info": {
-        "price": null,
-        "is_free": true,
-        "max_price": null,
-        "is_sold_out": false,
-        "require_approval": true
-      },
-      "registration_availability": "open",
-      "waitlist_active": false,
-      "featured_city": null
-    },
-    {
-      "api_id": "evt-BBN701zPKtCk7oC",
-      "event": {
-        "api_id": "evt-BBN701zPKtCk7oC",
-        "calendar_api_id": "cal-6K5GrdtV82VZAmK",
-        "end_at": "2026-09-03T18:00:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "PULSE #56 - muv like a duck",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": true,
-        "social_image_url": "https://images.lumacdn.com/event-social/pu/a30576f7-7c5f-4875-8623-63e09f179958.png",
-        "start_at": "2026-09-03T16:00:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "o6benk6o",
-        "user_api_id": "usr-pWuw0GR71IwkMyj",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "București",
-          "type": "google",
-          "region": "București",
-          "address": "Crângași Park",
-          "country": "Romania",
-          "place_id": "ChIJWcX595ABskARFj7lfhc3Jm0",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": "București",
-              "address": "Parcul Crângași",
-              "country": "România",
-              "city_state": "București, România",
-              "sublocality": "Crângași",
-              "full_address": "Parcul Crângași, Calea Crângași, 060402 București, România",
-              "region_short": "București",
-              "short_address": "Calea Crângași, București"
-            }
-          },
-          "city_state": "București, Romania",
-          "description": "",
-          "sublocality": "Crângași",
-          "country_code": "RO",
-          "full_address": "Crângași Park, Calea Crângași, 060402 București, Romania",
-          "region_short": "București",
-          "short_address": "Calea Crângași, București",
-          "place_coordinate": {
-            "latitude": 44.4524985,
-            "longitude": 26.0457479
-          },
-          "apple_maps_place_id": null,
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 26.0457479,
-          "latitude": 44.4524985
-        },
-        "waitlist_enabled": false,
-        "waitlist_status": "disabled"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-6K5GrdtV82VZAmK",
-        "coordinate": null,
-        "description_short": null,
-        "location": null,
-        "name": "Personal",
-        "personal_user_api_id": "usr-pWuw0GR71IwkMyj",
-        "slug": null,
-        "website": null,
-        "city": null,
-        "is_personal": true,
-        "personal_user": {
-          "api_id": "usr-pWuw0GR71IwkMyj",
-          "name": "MuvOutside",
-          "username": "muvoutside"
-        },
-        "geo_city": null,
-        "geo_country": null,
-        "geo_region": null,
-        "timezone": null
-      },
-      "start_at": "2026-09-03T16:00:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-pWuw0GR71IwkMyj",
-          "name": "MuvOutside",
-          "username": "muvoutside"
-        }
-      ],
-      "guest_count": 26,
-      "ticket_count": 26,
-      "ticket_info": {
-        "price": null,
-        "is_free": true,
-        "max_price": null,
-        "is_sold_out": false,
-        "require_approval": false
-      },
-      "registration_availability": "open",
-      "waitlist_active": false,
       "featured_city": null
     },
     {
@@ -725,8 +482,8 @@
           "username": null
         }
       ],
-      "guest_count": 26,
-      "ticket_count": 26,
+      "guest_count": 27,
+      "ticket_count": 27,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1175,8 +932,8 @@
           "username": null
         }
       ],
-      "guest_count": 7,
-      "ticket_count": 7,
+      "guest_count": 9,
+      "ticket_count": 9,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1304,6 +1061,262 @@
       },
       "registration_availability": "waitlist",
       "waitlist_active": true,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-U6InzTepmnhYDRz",
+      "event": {
+        "api_id": "evt-U6InzTepmnhYDRz",
+        "calendar_api_id": "cal-B872osgWqW83ENT",
+        "end_at": "2026-09-06T15:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Jigsaw Puzzle in the Park 🧩🌳 | Ieșim din Casă #17",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/pz/72fabaeb-9b75-430a-b031-eb574a58cd75.png",
+        "start_at": "2026-09-06T13:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "jw8h2fl8",
+        "user_api_id": "usr-YBFN0wHZy8N0l6U",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Insula Trandafirilor",
+          "country": "Romania",
+          "place_id": "ChIJrzeiQhUCskAR9l4iYrfRtXo",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Insula Trandafirilor",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Bucureşti Sectorul 1",
+              "full_address": "Insula Trandafirilor, București, România",
+              "region_short": "București",
+              "short_address": "București"
+            },
+            "en-GB": {
+              "city": "București",
+              "region": "București",
+              "address": "Insula Trandafirilor",
+              "country": "Romania",
+              "city_state": "București, Romania",
+              "sublocality": "Bucureşti Sectorul 1",
+              "full_address": "Insula Trandafirilor, București, Romania",
+              "region_short": "București",
+              "short_address": "Bucharest"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "Locația exactă (pinul pe hartă) o trimit cu aproximativ 30-50 minute înainte de eveniment, ca să ne găsim ușor pe toți. 🌟",
+          "sublocality": "Bucureşti Sectorul 1",
+          "country_code": "RO",
+          "full_address": "Insula Trandafirilor, București, Romania",
+          "region_short": "București",
+          "short_address": "Bucharest",
+          "place_coordinate": {
+            "latitude": 44.473114699999996,
+            "longitude": 26.079037
+          },
+          "apple_maps_place_id": "IE3587DBE76322A96",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.079037,
+          "latitude": 44.473114699999996
+        },
+        "waitlist_enabled": true,
+        "waitlist_status": "enabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-B872osgWqW83ENT",
+        "coordinate": {
+          "longitude": 26.1025384,
+          "latitude": 44.426767399999996
+        },
+        "description_short": "Spațiu safe pentru tinerii din București, offline. 🚪✨\nIeșiri gratuite + ateliere speciale (contribuție mică).\n🌳 Calendarul mai jos. 🎟️",
+        "location": {
+          "city": "Bucharest",
+          "region": null,
+          "country": "Romania",
+          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
+          "timezone": "Europe/Bucharest",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": null,
+              "country": "România"
+            }
+          },
+          "country_code": "RO"
+        },
+        "name": "Ieșim din Casă",
+        "personal_user_api_id": null,
+        "slug": "iesimdincasa",
+        "website": "https://iesimdincasa.ro",
+        "city": {
+          "city": "Bucharest",
+          "region": null,
+          "country": "Romania",
+          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
+          "timezone": "Europe/Bucharest",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": null,
+              "country": "România"
+            }
+          },
+          "country_code": "RO"
+        },
+        "is_personal": false,
+        "personal_user": null,
+        "geo_city": "Bucharest",
+        "geo_country": "Romania",
+        "geo_region": null,
+        "timezone": "Europe/Bucharest"
+      },
+      "start_at": "2026-09-06T13:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-YBFN0wHZy8N0l6U",
+          "name": "Lucian Savu",
+          "username": "iesimdincasa"
+        }
+      ],
+      "guest_count": 10,
+      "ticket_count": 10,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-WAT5il9MgzNNLGS",
+      "event": {
+        "api_id": "evt-WAT5il9MgzNNLGS",
+        "calendar_api_id": "cal-ot5ZcmBTBR6zoCX",
+        "end_at": "2026-09-06T17:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Volei cu Oportune 🏐",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/yv/0167439e-1593-419e-8a8d-25bf46dfd7fe.png",
+        "start_at": "2026-09-06T15:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "kc53by0b",
+        "user_api_id": "usr-pPsXiLjPVvFaH2f",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Bucharest",
+          "type": "google",
+          "region": "Bucharest",
+          "address": "Izvor Park",
+          "country": "Romania",
+          "place_id": "ChIJvVOtymn_sUAR1ZDpGu_-W18",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Parcul Izvor",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Bucureşti Sectorul 5",
+              "full_address": "Parcul Izvor, Bucureşti Sectorul 5, 030167 București, România",
+              "region_short": "București",
+              "short_address": "București"
+            },
+            "en-GB": {
+              "city": "Bucharest",
+              "region": "Bucharest",
+              "address": "Izvor Park",
+              "country": "Romania",
+              "city_state": "Bucharest, Romania",
+              "sublocality": "Sector 5",
+              "full_address": "Izvor Park, Sector 5, 030167 Bucharest, Romania",
+              "region_short": "Bucharest",
+              "short_address": "Bucharest"
+            }
+          },
+          "city_state": "Bucharest, Romania",
+          "description": "",
+          "sublocality": "Sector 5",
+          "country_code": "RO",
+          "full_address": "Izvor Park, Sector 5, 030167 Bucharest, Romania",
+          "region_short": "Bucharest",
+          "short_address": "Bucharest",
+          "place_coordinate": null,
+          "apple_maps_place_id": "IE89FC2BDBB0FB01F",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.0878218,
+          "latitude": 44.431787799999995
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-ot5ZcmBTBR6zoCX",
+        "coordinate": null,
+        "description_short": "✨ Dezvoltare personală și profesională\n🩵 3500 de tineri în comunitate, peste 1450 oportunități\n🌐 Mobilități Erasmus, voluntariate, proiecte, joburi\n🗓️ Calendarul cu evenimentele săptămânale",
+        "location": null,
+        "name": "Oportune",
+        "personal_user_api_id": null,
+        "slug": "oportune.ro",
+        "website": "https://oportune.ro/anunturi",
+        "city": null,
+        "is_personal": false,
+        "personal_user": null,
+        "geo_city": null,
+        "geo_country": null,
+        "geo_region": null,
+        "timezone": null
+      },
+      "start_at": "2026-09-06T15:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-pPsXiLjPVvFaH2f",
+          "name": "Oportune",
+          "username": null
+        }
+      ],
+      "guest_count": 5,
+      "ticket_count": 5,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
       "featured_city": null
     },
     {
@@ -1489,14 +1502,124 @@
           "username": "agatinei"
         }
       ],
-      "guest_count": 59,
-      "ticket_count": 59,
+      "guest_count": 60,
+      "ticket_count": 60,
       "ticket_info": {
         "price": null,
         "is_free": true,
         "max_price": null,
         "is_sold_out": false,
         "require_approval": true
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-gX81XV7L4YBCT62",
+      "event": {
+        "api_id": "evt-gX81XV7L4YBCT62",
+        "calendar_api_id": "cal-ot5ZcmBTBR6zoCX",
+        "end_at": "2026-09-09T17:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Picnic & Play 🃏🏐",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/q1/c77a0726-d1c8-43bf-b3c7-74d9b1421850.png",
+        "start_at": "2026-09-09T15:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "kxv62p0b",
+        "user_api_id": "usr-pPsXiLjPVvFaH2f",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Bucharest",
+          "type": "google",
+          "region": "Bucharest",
+          "address": "Izvor Park",
+          "country": "Romania",
+          "place_id": "ChIJvVOtymn_sUAR1ZDpGu_-W18",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Parcul Izvor",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Bucureşti Sectorul 5",
+              "full_address": "Parcul Izvor, Bucureşti Sectorul 5, 030167 București, România",
+              "region_short": "București",
+              "short_address": "București"
+            },
+            "en-GB": {
+              "city": "Bucharest",
+              "region": "Bucharest",
+              "address": "Izvor Park",
+              "country": "Romania",
+              "city_state": "Bucharest, Romania",
+              "sublocality": "Sector 5",
+              "full_address": "Izvor Park, Sector 5, 030167 Bucharest, Romania",
+              "region_short": "Bucharest",
+              "short_address": "Bucharest"
+            }
+          },
+          "city_state": "Bucharest, Romania",
+          "description": "În spatele meselor de ping pong / terenul de baschet",
+          "sublocality": "Sector 5",
+          "country_code": "RO",
+          "full_address": "Izvor Park, Sector 5, 030167 Bucharest, Romania",
+          "region_short": "Bucharest",
+          "short_address": "Bucharest",
+          "apple_maps_place_id": "IE89FC2BDBB0FB01F",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.0878218,
+          "latitude": 44.431787799999995
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-ot5ZcmBTBR6zoCX",
+        "coordinate": null,
+        "description_short": "✨ Dezvoltare personală și profesională\n🩵 3500 de tineri în comunitate, peste 1450 oportunități\n🌐 Mobilități Erasmus, voluntariate, proiecte, joburi\n🗓️ Calendarul cu evenimentele săptămânale",
+        "location": null,
+        "name": "Oportune",
+        "personal_user_api_id": null,
+        "slug": "oportune.ro",
+        "website": "https://oportune.ro/anunturi",
+        "city": null,
+        "is_personal": false,
+        "personal_user": null,
+        "geo_city": null,
+        "geo_country": null,
+        "geo_region": null,
+        "timezone": null
+      },
+      "start_at": "2026-09-09T15:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-pPsXiLjPVvFaH2f",
+          "name": "Oportune",
+          "username": null
+        }
+      ],
+      "guest_count": 4,
+      "ticket_count": 4,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
       },
       "registration_availability": "open",
       "waitlist_active": false,
@@ -1607,8 +1730,8 @@
           "username": null
         }
       ],
-      "guest_count": 17,
-      "ticket_count": 17,
+      "guest_count": 19,
+      "ticket_count": 19,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2052,6 +2175,113 @@
       "featured_city": null
     },
     {
+      "api_id": "evt-wOH7f8MkUeP9ciD",
+      "event": {
+        "api_id": "evt-wOH7f8MkUeP9ciD",
+        "calendar_api_id": "cal-6K5GrdtV82VZAmK",
+        "end_at": "2026-09-19T09:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "FFF x come out and play",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/uh/d4ecbea6-7591-49a2-b52c-b471829e6ef6.png",
+        "start_at": "2026-09-19T06:30:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "t0q8u2f3",
+        "user_api_id": "usr-pWuw0GR71IwkMyj",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Cinema Muzeul Țăranului",
+          "country": "Romania",
+          "place_id": "ChIJZ9gYOwADskAR8dsNJXPuo-A",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Cinema Muzeul Țăranului",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Bucureşti Sectorul 1",
+              "full_address": "Cinema Muzeul Țăranului, Strada Monetăriei 3, București, România",
+              "region_short": "București",
+              "short_address": "Strada Monetăriei 3, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Bucureşti Sectorul 1",
+          "country_code": "RO",
+          "full_address": "Cinema Muzeul Țăranului, Strada Monetăriei 3, București, Romania",
+          "region_short": "București",
+          "short_address": "Strada Monetăriei 3, București",
+          "place_coordinate": {
+            "latitude": 44.4542219,
+            "longitude": 26.0836941
+          },
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.0836941,
+          "latitude": 44.4542219
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-6K5GrdtV82VZAmK",
+        "coordinate": null,
+        "description_short": null,
+        "location": null,
+        "name": "Personal",
+        "personal_user_api_id": "usr-pWuw0GR71IwkMyj",
+        "slug": null,
+        "website": null,
+        "city": null,
+        "is_personal": true,
+        "personal_user": {
+          "api_id": "usr-pWuw0GR71IwkMyj",
+          "name": "MuvOutside",
+          "username": "muvoutside"
+        },
+        "geo_city": null,
+        "geo_country": null,
+        "geo_region": null,
+        "timezone": null
+      },
+      "start_at": "2026-09-19T06:30:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-pWuw0GR71IwkMyj",
+          "name": "MuvOutside",
+          "username": "muvoutside"
+        }
+      ],
+      "guest_count": 8,
+      "ticket_count": 8,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
       "api_id": "evt-486XMPbZJuxrGbE",
       "event": {
         "api_id": "evt-486XMPbZJuxrGbE",
@@ -2156,16 +2386,16 @@
           "username": null
         }
       ],
-      "guest_count": 40,
-      "ticket_count": 40,
+      "guest_count": 39,
+      "ticket_count": 39,
       "ticket_info": {
         "price": null,
         "is_free": true,
         "max_price": null,
-        "is_sold_out": true,
-        "require_approval": false
+        "is_sold_out": false,
+        "require_approval": true
       },
-      "registration_availability": "sold-out",
+      "registration_availability": "open",
       "waitlist_active": false,
       "featured_city": null
     },
@@ -2244,8 +2474,8 @@
           "username": null
         }
       ],
-      "guest_count": 20,
-      "ticket_count": 20,
+      "guest_count": 22,
+      "ticket_count": 22,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2603,8 +2833,8 @@
           "username": "razvandeax"
         }
       ],
-      "guest_count": 75,
-      "ticket_count": 75,
+      "guest_count": 76,
+      "ticket_count": 76,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2891,8 +3121,8 @@
           "username": "cristinalupu"
         }
       ],
-      "guest_count": 23,
-      "ticket_count": 23,
+      "guest_count": 25,
+      "ticket_count": 25,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3433,8 +3663,8 @@
           "username": null
         }
       ],
-      "guest_count": 7,
-      "ticket_count": 7,
+      "guest_count": 9,
+      "ticket_count": 9,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -6517,8 +6747,8 @@
           "username": null
         }
       ],
-      "guest_count": 8,
-      "ticket_count": 8,
+      "guest_count": 9,
+      "ticket_count": 9,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -6800,8 +7030,8 @@
           "username": "alexstanciu"
         }
       ],
-      "guest_count": 24,
-      "ticket_count": 24,
+      "guest_count": 30,
+      "ticket_count": 30,
       "ticket_info": {
         "price": null,
         "is_free": true,

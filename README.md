@@ -31,11 +31,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `09:00` [Yoga cu Oana Radu ](https://greenrevolution.ro/eveniment/yoga-cu-oana-radu-3/)  
   <sub>Roaba de Cultură</sub>
 - `10:30` [Lace up & Charm up](https://lu.ma/q50uw77k)  
-  <sub>FOMO Urban Running Club · 26 de participanți</sub>
+  <sub>FOMO Urban Running Club · 27 de participanți</sub>
 - `11:00` [Career Reflection Event & Painting Session](https://lu.ma/ljzh2jrd)  
   <sub>Career Shift</sub>
 - `14:00` [Cafeaua De Sâmbăta #27 \| Bucuresti](https://lu.ma/keukj8z4)  
-  <sub>Ionut Alexandru Stanciu · 24 de participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 30 de participanți</sub>
 - `17:00` [Movie Club in the Park #3: Shutter Island (2010) 🌳 \| Ieșim din Casă #16](https://lu.ma/3m6smdmf)  
   <sub>Lucian Savu · 15 participanți</sub>
 - `19:30` [Concert Diana Caldararu](https://greenrevolution.ro/eveniment/concert-diana-caldararu/)  
@@ -44,7 +44,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 6 septembrie
 
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/hu06idz4)  
-  <sub>Emily Merdus · 7 participanți</sub>
+  <sub>Emily Merdus · 9 participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/lhp1prba)  
   <sub>Irina Tenovici · 2 participanți</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/8k01jv7v)  
@@ -53,6 +53,10 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
   <sub>Roaba de Cultură</sub>
 - `15:00` [reading corner, chapter #55](https://lu.ma/eppsxopy)  
   <sub>reading corner · 125 de participanți</sub>
+- `16:00` [Jigsaw Puzzle in the Park 🧩🌳 \| Ieșim din Casă #17](https://lu.ma/jw8h2fl8)  
+  <sub>Lucian Savu · 10 participanți</sub>
+- `18:00` [Volei cu Oportune 🏐](https://lu.ma/kc53by0b)  
+  <sub>Oportune · 5 participanți</sub>
 
 ---
 
@@ -64,12 +68,17 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:30` [CISO Meetup Romania](https://lu.ma/8g3yhx3w)  
   <sub>Radware Cybersecurity</sub>
 - `18:30` [DEMO NIGHTS by How to Web #7 \[Bucharest Edition\]](https://lu.ma/Demo-Nights-7)  
-  <sub>How to Web · 59 de participanți</sub>
+  <sub>How to Web · 60 de participanți</sub>
+
+### Miercuri, 9 septembrie
+
+- `18:00` [Picnic & Play 🃏🏐](https://lu.ma/kxv62p0b)  
+  <sub>Oportune · 4 participanți</sub>
 
 ### Vineri, 11 septembrie
 
 - `18:00` [Let’s Face It](https://lu.ma/s74vvy6q)  
-  <sub>Caroline Fischer · 17 participanți</sub>
+  <sub>Caroline Fischer · 19 participanți</sub>
 
 ---
 
