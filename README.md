@@ -4,21 +4,6 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Joi, 3 septembrie
-
-- `18:00` [Back to Balance Community Evening](https://lu.ma/cllp8y7z)  
-  <sub>Andra Ghibutiu · 44 de participanți</sub>
-- `18:30` [Let's Talk AI! #4 (w/ The AI Collective)](https://lu.ma/lets-talk-ai-4)  
-  <sub>The AI Collective</sub>
-- `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E36](https://lu.ma/a16m72gx)  
-  <sub>321sport · 43 de participanți</sub>
-- `19:00` [PULSE #56 - muv like a duck](https://lu.ma/o6benk6o)  
-  <sub>MuvOutside · 26 de participanți</sub>
-- `19:30` [Thursday Trivia](https://lu.ma/h15cn2yd)  
-  <sub>T5 Social · 25 de participanți</sub>
-- `20:00` [Film în aer liber:  Casablanca (r. Michael Curtiz)](https://greenrevolution.ro/eveniment/film-in-aer-liber-casablanca-r-michael-curtiz/)  
-  <sub>Roaba de Cultură</sub>
-
 ### Vineri, 4 septembrie
 
 - `18:00` [Atelier de creatie vizuala cu Vali Ivan by Editura Corint](https://greenrevolution.ro/eveniment/atelier-de-creatie-vizuala-cu-vali-ivan-by-editura-corint/)  
@@ -35,7 +20,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `11:00` [Career Reflection Event & Painting Session](https://lu.ma/ljzh2jrd)  
   <sub>Career Shift</sub>
 - `14:00` [Cafeaua De Sâmbăta #27 \| Bucuresti](https://lu.ma/keukj8z4)  
-  <sub>Ionut Alexandru Stanciu · 30 de participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 31 de participanți</sub>
 - `17:00` [Movie Club in the Park #3: Shutter Island (2010) 🌳 \| Ieșim din Casă #16](https://lu.ma/3m6smdmf)  
   <sub>Lucian Savu · 15 participanți</sub>
 - `19:30` [Concert Diana Caldararu](https://greenrevolution.ro/eveniment/concert-diana-caldararu/)  
@@ -46,9 +31,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/hu06idz4)  
   <sub>Emily Merdus · 9 participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/lhp1prba)  
-  <sub>Irina Tenovici · 2 participanți</sub>
+  <sub>Irina Tenovici · 3 participanți</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/8k01jv7v)  
-  <sub>Nicoleta Ifrim</sub>
+  <sub>Nicoleta Ifrim · 1 participant</sub>
 - `10:00` [Teatru de păpuși BiBaBo](https://greenrevolution.ro/eveniment/teatru-de-papusi-bibabo/)  
   <sub>Roaba de Cultură</sub>
 - `15:00` [reading corner, chapter #55](https://lu.ma/eppsxopy)  
@@ -69,6 +54,8 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
   <sub>Radware Cybersecurity</sub>
 - `18:30` [DEMO NIGHTS by How to Web #7 \[Bucharest Edition\]](https://lu.ma/Demo-Nights-7)  
   <sub>How to Web · 60 de participanți</sub>
+- `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E37](https://lu.ma/75bq5hav)  
+  <sub>321sport · 3 participanți</sub>
 
 ### Miercuri, 9 septembrie
 
@@ -120,6 +107,8 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Marți, 15 septembrie
 
+- `19:00` [Documentary Screening \| Can We Do It Ourselves?](https://lu.ma/sylh4kr2)  
+  <sub>Ariel Pontes · 3 participanți</sub>
 - `19:00` [Product Drinks × Productlab Conference: satellite edition](https://lu.ma/7osceu5i)  
   <sub>Dragos · 9 participanți</sub>
 
@@ -128,15 +117,20 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:00` [Lansare carte Adrian Matache si Alexandru Ungureanu](https://lu.ma/jz86se3y)  
   <sub>Adrian Matache · 8 participanți</sub>
 
+### Vineri, 18 septembrie
+
+- `08:30` [RoFintech Breakfast hosted by Unicredit Bank](https://lu.ma/iuw0brbc)  
+  <sub>Adrian Drinceanu</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-03)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-04)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-03)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-04)
 
 ## Despre
 
@@ -150,4 +144,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 3 septembrie 2026*
+*Actualizat: 4 septembrie 2026*
