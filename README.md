@@ -16,7 +16,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `09:00` [Yoga cu Oana Radu ](https://greenrevolution.ro/eveniment/yoga-cu-oana-radu-3/)  
   <sub>Roaba de Cultură</sub>
 - `10:30` [Lace up & Charm up](https://lu.ma/q50uw77k)  
-  <sub>FOMO Urban Running Club · 27 de participanți</sub>
+  <sub>FOMO Urban Running Club · 29 de participanți</sub>
 - `11:00` [Career Reflection Event & Painting Session](https://lu.ma/ljzh2jrd)  
   <sub>Career Shift</sub>
 - `14:00` [Cafeaua De Sâmbăta #27 \| Bucuresti](https://lu.ma/keukj8z4)  
