@@ -4,11 +4,6 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Vineri, 4 septembrie
-
-- `18:00` [Atelier de creatie vizuala cu Vali Ivan by Editura Corint](https://greenrevolution.ro/eveniment/atelier-de-creatie-vizuala-cu-vali-ivan-by-editura-corint/)  
-  <sub>Roaba de Cultură</sub>
-
 ### Sâmbătă, 5 septembrie
 
 - `08:00` [Sport in aer liber: Yoga cu Alexandra Bordeianu](https://greenrevolution.ro/eveniment/sport-in-aer-liber-yoga-cu-alexandra-bordeianu/)  
@@ -16,11 +11,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `09:00` [Yoga cu Oana Radu ](https://greenrevolution.ro/eveniment/yoga-cu-oana-radu-3/)  
   <sub>Roaba de Cultură</sub>
 - `10:30` [Lace up & Charm up](https://lu.ma/q50uw77k)  
-  <sub>FOMO Urban Running Club · 31 de participanți</sub>
+  <sub>FOMO Urban Running Club · 32 de participanți</sub>
 - `11:00` [Career Reflection Event & Painting Session](https://lu.ma/ljzh2jrd)  
   <sub>Career Shift</sub>
 - `14:00` [Cafeaua De Sâmbăta #27 \| Bucuresti](https://lu.ma/keukj8z4)  
-  <sub>Ionut Alexandru Stanciu · 35 de participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 37 de participanți</sub>
 - `17:00` [Movie Club in the Park #3: Shutter Island (2010) 🌳 \| Ieșim din Casă #16](https://lu.ma/3m6smdmf)  
   <sub>Lucian Savu · 16 participanți</sub>
 - `19:30` [Concert Diana Caldararu](https://greenrevolution.ro/eveniment/concert-diana-caldararu/)  
@@ -29,15 +24,17 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 6 septembrie
 
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/hu06idz4)  
-  <sub>Emily Merdus · 13 participanți</sub>
+  <sub>Emily Merdus · 14 participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/lhp1prba)  
-  <sub>Irina Tenovici · 4 participanți</sub>
+  <sub>Irina Tenovici · 7 participanți</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/8k01jv7v)  
   <sub>Nicoleta Ifrim · 3 participanți</sub>
 - `10:00` [Teatru de păpuși BiBaBo](https://greenrevolution.ro/eveniment/teatru-de-papusi-bibabo/)  
   <sub>Roaba de Cultură</sub>
+- `13:00` [Meet New People & Paint Your Own Hand Fan](https://lu.ma/trdzst0k)  
+  <sub>By Mi · 3 participanți</sub>
 - `15:00` [reading corner, chapter #55](https://lu.ma/eppsxopy)  
-  <sub>reading corner · 123 de participanți</sub>
+  <sub>reading corner · 122 de participanți</sub>
 - `16:00` [Jigsaw Puzzle in the Park 🧩🌳 \| Ieșim din Casă #17](https://lu.ma/jw8h2fl8)  
   <sub>Lucian Savu · 12 participanți</sub>
 - `18:00` [Volei cu Oportune 🏐](https://lu.ma/kc53by0b)  
@@ -112,7 +109,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `19:00` [Documentary Screening \| Can We Do It Ourselves?](https://lu.ma/sylh4kr2)  
   <sub>Ariel Pontes · 5 participanți</sub>
 - `19:00` [Product Drinks × Productlab Conference: satellite edition](https://lu.ma/7osceu5i)  
-  <sub>Dragos · 10 participanți</sub>
+  <sub>Dragos · 11 participanți</sub>
 
 ### Joi, 17 septembrie
 
@@ -124,15 +121,29 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `08:30` [RoFintech Breakfast hosted by Unicredit Bank](https://lu.ma/iuw0brbc)  
   <sub>Adrian Drinceanu</sub>
 
+### Sâmbătă, 19 septembrie
+
+- `09:30` [FFF x come out and play](https://lu.ma/t0q8u2f3)  
+  <sub>MuvOutside · 13 participanți</sub>
+- `11:00` [Charlie și Fabrica de Ciocolată - 19 septembrie ora 11.00](https://lu.ma/4typlmgm)  
+  <sub>Opera Comică pentru Copii · 3 participanți</sub>
+- `16:00` [She Owns The Run.She Owns The Fight Too](https://lu.ma/kwavr9cz)  
+  <sub>FOMO Urban Running Club · 40 de participanți</sub>
+
+---
+
+- [Inteligenta artificiala si prostia naturala](https://www.iabilet.ro/bilete-inteligenta-artificiala-si-prostia-naturala-130102/)  
+  <sub>Teatrul Improteca</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-04)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-05)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-04)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-05)
 
 ## Despre
 
@@ -146,4 +157,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 4 septembrie 2026*
+*Actualizat: 5 septembrie 2026*
