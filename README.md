@@ -23,22 +23,24 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Duminică, 6 septembrie
 
+- `09:00` [Tura de duminică Cotroceni](https://lu.ma/nj9d0t4w)  
+  <sub>Aleodor Tabarcea · 9 participanți</sub>
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/hu06idz4)  
-  <sub>Emily Merdus · 14 participanți</sub>
+  <sub>Emily Merdus · 22 de participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/lhp1prba)  
-  <sub>Irina Tenovici · 7 participanți</sub>
+  <sub>Irina Tenovici · 9 participanți</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/8k01jv7v)  
-  <sub>Nicoleta Ifrim · 3 participanți</sub>
+  <sub>Nicoleta Ifrim · 9 participanți</sub>
 - `10:00` [Teatru de păpuși BiBaBo](https://greenrevolution.ro/eveniment/teatru-de-papusi-bibabo/)  
   <sub>Roaba de Cultură</sub>
 - `13:00` [Meet New People & Paint Your Own Hand Fan](https://lu.ma/trdzst0k)  
   <sub>By Mi · 3 participanți</sub>
 - `15:00` [reading corner, chapter #55](https://lu.ma/eppsxopy)  
-  <sub>reading corner · 122 de participanți</sub>
+  <sub>reading corner · 128 de participanți</sub>
 - `16:00` [Jigsaw Puzzle in the Park 🧩🌳 \| Ieșim din Casă #17](https://lu.ma/jw8h2fl8)  
-  <sub>Lucian Savu · 12 participanți</sub>
+  <sub>Lucian Savu · 8 participanți</sub>
 - `18:00` [Volei cu Oportune 🏐](https://lu.ma/kc53by0b)  
-  <sub>Oportune · 4 participanți</sub>
+  <sub>Oportune · 6 participanți</sub>
 
 ---
 
@@ -47,24 +49,26 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Marți, 8 septembrie
 
+- `18:00` [WIN #9 - Cum îți prezinți business-ul viitorilor clienți: public speaking & Social Media -Mihaela Călin](https://lu.ma/o9bea21n)  
+  <sub>Vlad RBC · 7 participanți</sub>
 - `18:30` [CISO Meetup Romania](https://lu.ma/8g3yhx3w)  
   <sub>Radware Cybersecurity</sub>
 - `18:30` [DEMO NIGHTS by How to Web #7 \[Bucharest Edition\]](https://lu.ma/Demo-Nights-7)  
-  <sub>How to Web · 71 de participanți</sub>
+  <sub>How to Web · 74 de participanți</sub>
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E37](https://lu.ma/75bq5hav)  
   <sub>321sport · 3 participanți</sub>
 
 ### Miercuri, 9 septembrie
 
 - `18:00` [Picnic & Play 🃏🏐](https://lu.ma/kxv62p0b)  
-  <sub>Oportune · 4 participanți</sub>
+  <sub>Oportune · 5 participanți</sub>
 - `18:30` [Rooftop Social Chess @ Deschis Gastrobar](https://lu.ma/jm7y8s6u)  
   <sub>THE SQUARE Chess Club</sub>
 
 ### Vineri, 11 septembrie
 
 - `18:00` [Let’s Face It](https://lu.ma/s74vvy6q)  
-  <sub>Caroline Fischer · 19 participanți</sub>
+  <sub>Caroline Fischer · 20 de participanți</sub>
 
 ---
 
@@ -86,9 +90,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 13 septembrie
 
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/czbpoxmp)  
-  <sub>Emily Merdus · 2 participanți</sub>
+  <sub>Emily Merdus · 3 participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/9eu43gfy)  
   <sub>Irina Tenovici</sub>
+- `09:00` [Tura de duminică Lacul Morii](https://lu.ma/s4awrp4p)  
+  <sub>Alexandru Agatinei</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/klrc4713)  
   <sub>Nicoleta Ifrim</sub>
 
