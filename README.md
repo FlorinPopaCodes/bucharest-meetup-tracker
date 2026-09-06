@@ -4,23 +4,6 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Sâmbătă, 5 septembrie
-
-- `08:00` [Sport in aer liber: Yoga cu Alexandra Bordeianu](https://greenrevolution.ro/eveniment/sport-in-aer-liber-yoga-cu-alexandra-bordeianu/)  
-  <sub>Roaba de Cultură</sub>
-- `09:00` [Yoga cu Oana Radu ](https://greenrevolution.ro/eveniment/yoga-cu-oana-radu-3/)  
-  <sub>Roaba de Cultură</sub>
-- `10:30` [Lace up & Charm up](https://lu.ma/q50uw77k)  
-  <sub>FOMO Urban Running Club · 32 de participanți</sub>
-- `11:00` [Career Reflection Event & Painting Session](https://lu.ma/ljzh2jrd)  
-  <sub>Career Shift</sub>
-- `14:00` [Cafeaua De Sâmbăta #27 \| Bucuresti](https://lu.ma/keukj8z4)  
-  <sub>Ionut Alexandru Stanciu · 37 de participanți</sub>
-- `17:00` [Movie Club in the Park #3: Shutter Island (2010) 🌳 \| Ieșim din Casă #16](https://lu.ma/3m6smdmf)  
-  <sub>Lucian Savu · 16 participanți</sub>
-- `19:30` [Concert Diana Caldararu](https://greenrevolution.ro/eveniment/concert-diana-caldararu/)  
-  <sub>Roaba de Cultură</sub>
-
 ### Duminică, 6 septembrie
 
 - `09:00` [Tura de duminică Cotroceni](https://lu.ma/nj9d0t4w)  
@@ -36,11 +19,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `13:00` [Meet New People & Paint Your Own Hand Fan](https://lu.ma/trdzst0k)  
   <sub>By Mi · 3 participanți</sub>
 - `15:00` [reading corner, chapter #55](https://lu.ma/eppsxopy)  
-  <sub>reading corner · 128 de participanți</sub>
+  <sub>reading corner · 120 de participanți</sub>
 - `16:00` [Jigsaw Puzzle in the Park 🧩🌳 \| Ieșim din Casă #17](https://lu.ma/jw8h2fl8)  
-  <sub>Lucian Savu · 8 participanți</sub>
+  <sub>Lucian Savu · 9 participanți</sub>
 - `18:00` [Volei cu Oportune 🏐](https://lu.ma/kc53by0b)  
-  <sub>Oportune · 6 participanți</sub>
+  <sub>Oportune · 7 participanți</sub>
 
 ---
 
@@ -50,18 +33,18 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Marți, 8 septembrie
 
 - `18:00` [WIN #9 - Cum îți prezinți business-ul viitorilor clienți: public speaking & Social Media -Mihaela Călin](https://lu.ma/o9bea21n)  
-  <sub>Vlad RBC · 7 participanți</sub>
+  <sub>Vlad RBC · 8 participanți</sub>
 - `18:30` [CISO Meetup Romania](https://lu.ma/8g3yhx3w)  
   <sub>Radware Cybersecurity</sub>
 - `18:30` [DEMO NIGHTS by How to Web #7 \[Bucharest Edition\]](https://lu.ma/Demo-Nights-7)  
-  <sub>How to Web · 74 de participanți</sub>
+  <sub>How to Web · 76 de participanți</sub>
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E37](https://lu.ma/75bq5hav)  
-  <sub>321sport · 3 participanți</sub>
+  <sub>321sport · 4 participanți</sub>
 
 ### Miercuri, 9 septembrie
 
 - `18:00` [Picnic & Play 🃏🏐](https://lu.ma/kxv62p0b)  
-  <sub>Oportune · 5 participanți</sub>
+  <sub>Oportune · 7 participanți</sub>
 - `18:30` [Rooftop Social Chess @ Deschis Gastrobar](https://lu.ma/jm7y8s6u)  
   <sub>THE SQUARE Chess Club</sub>
 
@@ -133,6 +116,8 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
   <sub>MuvOutside · 13 participanți</sub>
 - `11:00` [Charlie și Fabrica de Ciocolată - 19 septembrie ora 11.00](https://lu.ma/4typlmgm)  
   <sub>Opera Comică pentru Copii · 3 participanți</sub>
+- `14:00` [Cafeaua De Sâmbăta #28 \| Bucuresti](https://lu.ma/yfvxiucj)  
+  <sub>Ionut Alexandru Stanciu · 1 participant</sub>
 - `16:00` [She Owns The Run.She Owns The Fight Too](https://lu.ma/kwavr9cz)  
   <sub>FOMO Urban Running Club · 40 de participanți</sub>
 
@@ -141,15 +126,31 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - [Inteligenta artificiala si prostia naturala](https://www.iabilet.ro/bilete-inteligenta-artificiala-si-prostia-naturala-130102/)  
   <sub>Teatrul Improteca</sub>
 
+### Duminică, 20 septembrie
+
+- `09:00` [Tura de duminică Herăstrău](https://lu.ma/47eavvzt)  
+  <sub>Emily Merdus</sub>
+- `09:00` [Tura de duminică I.O.R.](https://lu.ma/s8idrq69)  
+  <sub>Irina Tenovici</sub>
+- `09:00` [Tura de duminică Lacul Morii](https://lu.ma/0qe7c55c)  
+  <sub>Alexandru Agatinei · 1 participant</sub>
+- `09:00` [Tura de duminică Tineretului](https://lu.ma/2wjuqsp0)  
+  <sub>Nicoleta Ifrim</sub>
+
+---
+
+- [Aproape normal](https://www.iabilet.ro/bilete-aproape-normal-130624/)  
+  <sub>Teatrul Improteca</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-05)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-06)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-05)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-06)
 
 ## Despre
 
@@ -163,4 +164,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 5 septembrie 2026*
+*Actualizat: 6 septembrie 2026*
