@@ -30,21 +30,26 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - [Show de comedie pe loc Alt Ceva cu extra-muzică](https://www.iabilet.ro/bilete-show-de-comedie-pe-loc-alt-ceva-cu-extra-muzica-130321/)  
   <sub>Teatrul Improteca</sub>
 
+### Luni, 7 septembrie
+
+- `19:30` [Monday Quizmania](https://lu.ma/8vgqvxsg)  
+  <sub>T5 Social · 3 participanți</sub>
+
 ### Marți, 8 septembrie
 
 - `18:00` [WIN #9 - Cum îți prezinți business-ul viitorilor clienți: public speaking & Social Media -Mihaela Călin](https://lu.ma/o9bea21n)  
-  <sub>Vlad RBC · 8 participanți</sub>
+  <sub>Vlad RBC · 14 participanți</sub>
 - `18:30` [CISO Meetup Romania](https://lu.ma/8g3yhx3w)  
   <sub>Radware Cybersecurity</sub>
 - `18:30` [DEMO NIGHTS by How to Web #7 \[Bucharest Edition\]](https://lu.ma/Demo-Nights-7)  
-  <sub>How to Web · 76 de participanți</sub>
+  <sub>How to Web · 79 de participanți</sub>
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E37](https://lu.ma/75bq5hav)  
   <sub>321sport · 4 participanți</sub>
 
 ### Miercuri, 9 septembrie
 
 - `18:00` [Picnic & Play 🃏🏐](https://lu.ma/kxv62p0b)  
-  <sub>Oportune · 7 participanți</sub>
+  <sub>Oportune · 10 participanți</sub>
 - `18:30` [Rooftop Social Chess @ Deschis Gastrobar](https://lu.ma/jm7y8s6u)  
   <sub>THE SQUARE Chess Club</sub>
 
@@ -73,7 +78,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 13 septembrie
 
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/czbpoxmp)  
-  <sub>Emily Merdus · 3 participanți</sub>
+  <sub>Emily Merdus · 5 participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/9eu43gfy)  
   <sub>Irina Tenovici</sub>
 - `09:00` [Tura de duminică Lacul Morii](https://lu.ma/s4awrp4p)  
@@ -90,6 +95,8 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Luni, 14 septembrie
 
+- `18:30` [THE SQUARE Social & Diving Chess @Grădina Floreasca](https://lu.ma/w3fjfd7n)  
+  <sub>THE SQUARE Chess Club</sub>
 - `18:45` [3rd Space Bucharest AI Circle](https://lu.ma/3rdSpaceAICircle)  
   <sub>Eric Melchor</sub>
 
@@ -98,7 +105,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `19:00` [Documentary Screening \| Can We Do It Ourselves?](https://lu.ma/sylh4kr2)  
   <sub>Ariel Pontes · 5 participanți</sub>
 - `19:00` [Product Drinks × Productlab Conference: satellite edition](https://lu.ma/7osceu5i)  
-  <sub>Dragos · 11 participanți</sub>
+  <sub>Dragos · 12 participanți</sub>
 
 ### Joi, 17 septembrie
 

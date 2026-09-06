@@ -1,23 +1,23 @@
 {
   "geo": [
     {
-      "api_id": "evt-6SCIcAtEKygTRbJ",
+      "api_id": "evt-SLvgzGm3aDbNkTR",
       "event": {
-        "api_id": "evt-6SCIcAtEKygTRbJ",
-        "calendar_api_id": "cal-sep1iBzNbClaD18",
-        "end_at": "2026-09-06T16:30:00.000Z",
+        "api_id": "evt-SLvgzGm3aDbNkTR",
+        "calendar_api_id": "cal-vy7fTgxG01iG02Y",
+        "end_at": "2026-09-07T19:30:00.000Z",
         "event_type": "independent",
         "hide_rsvp": false,
         "location_type": "offline",
-        "name": "reading corner, chapter #55",
+        "name": "Monday Quizmania",
         "one_to_one": true,
         "recurrence_id": null,
         "show_guest_list": true,
-        "social_image_url": "https://images.lumacdn.com/event-social/jw/b97c71f9-00d8-4be0-8c3d-b4ff1b2ebffe.png",
-        "start_at": "2026-09-06T12:00:00.000Z",
+        "social_image_url": "https://images.lumacdn.com/event-social/zd/0e68d105-a8b6-44f5-b714-74f18025069e.png",
+        "start_at": "2026-09-07T16:30:00.000Z",
         "timezone": "Europe/Bucharest",
-        "url": "eppsxopy",
-        "user_api_id": "usr-V22zkkmgU35tOAr",
+        "url": "8vgqvxsg",
+        "user_api_id": "usr-dPTotCLGrq0bXdF",
         "visibility": "public",
         "virtual_info": {
           "has_access": false
@@ -26,343 +26,84 @@
           "city": "București",
           "type": "google",
           "region": "București",
-          "address": "Control Club",
+          "address": "T5 Social",
           "country": "Romania",
-          "place_id": "ChIJJ0NP5kb_sUARywqM81TfZD0",
+          "place_id": "ChIJC5zHlhH_sUARihzCaU-u-bI",
           "localized": {
             "ro": {
               "city": "București",
               "region": "București",
-              "address": "Control Club",
+              "address": "T5 Social",
               "country": "România",
               "city_state": "București, România",
-              "sublocality": "Bucureşti Sectorul 1",
-              "full_address": "Control Club, Strada Constantin Mille 4, 010142 București, România",
+              "sublocality": "Bucureşti Sectorul 4",
+              "full_address": "T5 Social, Strada Olimpului 13b, 040198 București, România",
               "region_short": "București",
-              "short_address": "Strada Constantin Mille 4, București"
+              "short_address": "Strada Olimpului 13b, București"
             },
             "en-GB": {
               "city": "București",
               "region": "București",
-              "address": "Control Club",
+              "address": "T5 Social",
               "country": "Romania",
               "city_state": "București, Romania",
-              "sublocality": "Bucureşti Sectorul 1",
-              "full_address": "Control Club, Strada Constantin Mille 4, 010142 București, Romania",
+              "sublocality": "Bucureşti Sectorul 4",
+              "full_address": "T5 Social, Strada Olimpului 13b, 040198 București, Romania",
               "region_short": "București",
-              "short_address": "Strada Constantin Mille 4, București"
+              "short_address": "Strada Olimpului 13b, București"
             }
           },
           "city_state": "București, Romania",
           "description": "",
-          "sublocality": "Bucureşti Sectorul 1",
+          "sublocality": "Bucureşti Sectorul 4",
           "country_code": "RO",
-          "full_address": "Control Club, Strada Constantin Mille 4, 010142 București, Romania",
+          "full_address": "T5 Social, Strada Olimpului 13b, 040198 București, Romania",
           "region_short": "București",
-          "short_address": "Strada Constantin Mille 4, București",
-          "place_coordinate": {
-            "latitude": 44.435482199999996,
-            "longitude": 26.0970716
-          },
-          "apple_maps_place_id": "I282FA3DC43665DCD",
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 26.0970716,
-          "latitude": 44.435482199999996
-        },
-        "waitlist_enabled": true,
-        "waitlist_status": "active"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-sep1iBzNbClaD18",
-        "coordinate": null,
-        "description_short": null,
-        "location": null,
-        "name": "Personal",
-        "personal_user_api_id": "usr-V22zkkmgU35tOAr",
-        "slug": null,
-        "website": null,
-        "city": null,
-        "is_personal": true,
-        "personal_user": {
-          "api_id": "usr-V22zkkmgU35tOAr",
-          "name": "reading corner",
-          "username": "readingcorner"
-        },
-        "geo_city": null,
-        "geo_country": null,
-        "geo_region": null,
-        "timezone": null
-      },
-      "start_at": "2026-09-06T12:00:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-V22zkkmgU35tOAr",
-          "name": "reading corner",
-          "username": "readingcorner"
-        }
-      ],
-      "guest_count": 120,
-      "ticket_count": 120,
-      "ticket_info": {
-        "price": null,
-        "is_free": true,
-        "max_price": null,
-        "is_sold_out": true,
-        "require_approval": false
-      },
-      "registration_availability": "waitlist",
-      "waitlist_active": true,
-      "featured_city": null
-    },
-    {
-      "api_id": "evt-U6InzTepmnhYDRz",
-      "event": {
-        "api_id": "evt-U6InzTepmnhYDRz",
-        "calendar_api_id": "cal-B872osgWqW83ENT",
-        "end_at": "2026-09-06T15:30:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "Jigsaw Puzzle in the Park 🧩🌳 | Ieșim din Casă #17",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": true,
-        "social_image_url": "https://images.lumacdn.com/event-social/pz/72fabaeb-9b75-430a-b031-eb574a58cd75.png",
-        "start_at": "2026-09-06T13:00:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "jw8h2fl8",
-        "user_api_id": "usr-YBFN0wHZy8N0l6U",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "București",
-          "type": "google",
-          "region": "București",
-          "address": "Insula Trandafirilor",
-          "country": "Romania",
-          "place_id": "ChIJrzeiQhUCskAR9l4iYrfRtXo",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": "București",
-              "address": "Insula Trandafirilor",
-              "country": "România",
-              "city_state": "București, România",
-              "sublocality": "Bucureşti Sectorul 1",
-              "full_address": "Insula Trandafirilor, București, România",
-              "region_short": "București",
-              "short_address": "București"
-            },
-            "en-GB": {
-              "city": "București",
-              "region": "București",
-              "address": "Insula Trandafirilor",
-              "country": "Romania",
-              "city_state": "București, Romania",
-              "sublocality": "Bucureşti Sectorul 1",
-              "full_address": "Insula Trandafirilor, București, Romania",
-              "region_short": "București",
-              "short_address": "Bucharest"
-            }
-          },
-          "city_state": "București, Romania",
-          "description": "Locația exactă (pinul pe hartă) o trimit cu aproximativ 30-50 minute înainte de eveniment, ca să ne găsim ușor pe toți. 🌟",
-          "sublocality": "Bucureşti Sectorul 1",
-          "country_code": "RO",
-          "full_address": "Insula Trandafirilor, București, Romania",
-          "region_short": "București",
-          "short_address": "Bucharest",
-          "place_coordinate": {
-            "latitude": 44.473114699999996,
-            "longitude": 26.079037
-          },
-          "apple_maps_place_id": "IE3587DBE76322A96",
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 26.079037,
-          "latitude": 44.473114699999996
-        },
-        "waitlist_enabled": true,
-        "waitlist_status": "enabled"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-B872osgWqW83ENT",
-        "coordinate": {
-          "longitude": 26.1025384,
-          "latitude": 44.426767399999996
-        },
-        "description_short": "Spațiu safe pentru tinerii din București, offline. 🚪✨\nIeșiri gratuite + ateliere speciale (contribuție mică).\n🌳 Calendarul mai jos. 🎟️",
-        "location": {
-          "city": "Bucharest",
-          "region": null,
-          "country": "Romania",
-          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
-          "timezone": "Europe/Bucharest",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": null,
-              "country": "România"
-            }
-          },
-          "country_code": "RO"
-        },
-        "name": "Ieșim din Casă",
-        "personal_user_api_id": null,
-        "slug": "iesimdincasa",
-        "website": "https://iesimdincasa.ro",
-        "city": {
-          "city": "Bucharest",
-          "region": null,
-          "country": "Romania",
-          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
-          "timezone": "Europe/Bucharest",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": null,
-              "country": "România"
-            }
-          },
-          "country_code": "RO"
-        },
-        "is_personal": false,
-        "personal_user": null,
-        "geo_city": "Bucharest",
-        "geo_country": "Romania",
-        "geo_region": null,
-        "timezone": "Europe/Bucharest"
-      },
-      "start_at": "2026-09-06T13:00:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-YBFN0wHZy8N0l6U",
-          "name": "Lucian Savu",
-          "username": "iesimdincasa"
-        }
-      ],
-      "guest_count": 9,
-      "ticket_count": 9,
-      "ticket_info": {
-        "price": null,
-        "is_free": true,
-        "max_price": null,
-        "is_sold_out": false,
-        "require_approval": false
-      },
-      "registration_availability": "open",
-      "waitlist_active": false,
-      "featured_city": null
-    },
-    {
-      "api_id": "evt-WAT5il9MgzNNLGS",
-      "event": {
-        "api_id": "evt-WAT5il9MgzNNLGS",
-        "calendar_api_id": "cal-ot5ZcmBTBR6zoCX",
-        "end_at": "2026-09-06T17:00:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "Volei cu Oportune 🏐",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": true,
-        "social_image_url": "https://images.lumacdn.com/event-social/yv/0167439e-1593-419e-8a8d-25bf46dfd7fe.png",
-        "start_at": "2026-09-06T15:00:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "kc53by0b",
-        "user_api_id": "usr-pPsXiLjPVvFaH2f",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "Bucharest",
-          "type": "google",
-          "region": "Bucharest",
-          "address": "Izvor Park",
-          "country": "Romania",
-          "place_id": "ChIJvVOtymn_sUAR1ZDpGu_-W18",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": "București",
-              "address": "Parcul Izvor",
-              "country": "România",
-              "city_state": "București, România",
-              "sublocality": "Bucureşti Sectorul 5",
-              "full_address": "Parcul Izvor, Bucureşti Sectorul 5, 030167 București, România",
-              "region_short": "București",
-              "short_address": "București"
-            },
-            "en-GB": {
-              "city": "Bucharest",
-              "region": "Bucharest",
-              "address": "Izvor Park",
-              "country": "Romania",
-              "city_state": "Bucharest, Romania",
-              "sublocality": "Sector 5",
-              "full_address": "Izvor Park, Sector 5, 030167 Bucharest, Romania",
-              "region_short": "Bucharest",
-              "short_address": "Bucharest"
-            }
-          },
-          "city_state": "Bucharest, Romania",
-          "description": "",
-          "sublocality": "Sector 5",
-          "country_code": "RO",
-          "full_address": "Izvor Park, Sector 5, 030167 Bucharest, Romania",
-          "region_short": "Bucharest",
-          "short_address": "Bucharest",
+          "short_address": "Strada Olimpului 13b, București",
           "place_coordinate": null,
-          "apple_maps_place_id": "IE89FC2BDBB0FB01F",
+          "apple_maps_place_id": "IC36D6A9AE0B09760",
           "mode": "shown"
         },
         "geo_address_visibility": "public",
         "coordinate": {
-          "longitude": 26.0878218,
-          "latitude": 44.431787799999995
+          "longitude": 26.0988267,
+          "latitude": 44.421987099999996
         },
         "waitlist_enabled": false,
         "waitlist_status": "disabled"
       },
       "calendar": {
         "access_level": "public",
-        "api_id": "cal-ot5ZcmBTBR6zoCX",
+        "api_id": "cal-vy7fTgxG01iG02Y",
         "coordinate": null,
-        "description_short": "✨ Dezvoltare personală și profesională\n🩵 3500 de tineri în comunitate, peste 1450 oportunități\n🌐 Mobilități Erasmus, voluntariate, proiecte, joburi\n🗓️ Calendarul cu evenimentele săptămânale",
+        "description_short": null,
         "location": null,
-        "name": "Oportune",
-        "personal_user_api_id": null,
-        "slug": "oportune.ro",
-        "website": "https://oportune.ro/anunturi",
+        "name": "Personal",
+        "personal_user_api_id": "usr-dPTotCLGrq0bXdF",
+        "slug": null,
+        "website": null,
         "city": null,
-        "is_personal": false,
-        "personal_user": null,
+        "is_personal": true,
+        "personal_user": {
+          "api_id": "usr-dPTotCLGrq0bXdF",
+          "name": "T5 Social",
+          "username": "t5social"
+        },
         "geo_city": null,
         "geo_country": null,
         "geo_region": null,
         "timezone": null
       },
-      "start_at": "2026-09-06T15:00:00.000Z",
+      "start_at": "2026-09-07T16:30:00.000Z",
       "hosts": [
         {
-          "api_id": "usr-pPsXiLjPVvFaH2f",
-          "name": "Oportune",
-          "username": null
+          "api_id": "usr-dPTotCLGrq0bXdF",
+          "name": "T5 Social",
+          "username": "t5social"
         }
       ],
-      "guest_count": 7,
-      "ticket_count": 7,
+      "guest_count": 3,
+      "ticket_count": 21,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -489,8 +230,8 @@
           "username": null
         }
       ],
-      "guest_count": 8,
-      "ticket_count": 8,
+      "guest_count": 14,
+      "ticket_count": 14,
       "ticket_info": {
         "price": {
           "cents": 7800,
@@ -692,8 +433,8 @@
           "username": "agatinei"
         }
       ],
-      "guest_count": 76,
-      "ticket_count": 76,
+      "guest_count": 79,
+      "ticket_count": 79,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -943,8 +684,8 @@
           "username": null
         }
       ],
-      "guest_count": 7,
-      "ticket_count": 7,
+      "guest_count": 10,
+      "ticket_count": 10,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1268,11 +1009,133 @@
           "username": null
         }
       ],
-      "guest_count": 3,
-      "ticket_count": 3,
+      "guest_count": 5,
+      "ticket_count": 5,
       "ticket_info": {
         "price": null,
         "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-j4bHOUz0Vh59HDi",
+      "event": {
+        "api_id": "evt-j4bHOUz0Vh59HDi",
+        "calendar_api_id": "cal-vtTRvYx8UKwi3cp",
+        "end_at": "2026-09-14T16:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "THE SQUARE Social & Diving Chess @Grădina Floreasca",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": false,
+        "social_image_url": "https://images.lumacdn.com/event-social/c9/04f67e2b-2789-4b85-b013-f05ba7b772c3.png",
+        "start_at": "2026-09-14T15:30:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "w3fjfd7n",
+        "user_api_id": "usr-B0mYjwQfFHKwJRE",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Grădina Floreasca",
+          "country": "Romania",
+          "place_id": "ChIJeXJjDgoCskARN3LGpyAHPNc",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Grădina Floreasca",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Bucureşti Sectorul 1",
+              "full_address": "Grădina Floreasca, Bulevardul Mircea Eliade 16, 014192 București, România",
+              "region_short": "București",
+              "short_address": "Bulevardul Mircea Eliade 16, București"
+            },
+            "en-GB": {
+              "city": "București",
+              "region": "București",
+              "address": "Grădina Floreasca",
+              "country": "Romania",
+              "city_state": "București, Romania",
+              "sublocality": "Bucureşti Sectorul 1",
+              "full_address": "Grădina Floreasca, Bulevardul Mircea Eliade 16, 014192 București, Romania",
+              "region_short": "București",
+              "short_address": "Bulevardul Mircea Eliade 16, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Bucureşti Sectorul 1",
+          "country_code": "RO",
+          "full_address": "Grădina Floreasca, Bulevardul Mircea Eliade 16, 014192 București, Romania",
+          "region_short": "București",
+          "short_address": "Bulevardul Mircea Eliade 16, București",
+          "place_coordinate": {
+            "latitude": 44.465391499999996,
+            "longitude": 26.0990964
+          },
+          "apple_maps_place_id": "I9BC9D61E009776CF",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.0990964,
+          "latitude": 44.465391499999996
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-vtTRvYx8UKwi3cp",
+        "coordinate": null,
+        "description_short": null,
+        "location": null,
+        "name": "Personal",
+        "personal_user_api_id": "usr-B0mYjwQfFHKwJRE",
+        "slug": null,
+        "website": null,
+        "city": null,
+        "is_personal": true,
+        "personal_user": {
+          "api_id": "usr-B0mYjwQfFHKwJRE",
+          "name": "THE SQUARE Chess Club",
+          "username": null
+        },
+        "geo_city": null,
+        "geo_country": null,
+        "geo_region": null,
+        "timezone": null
+      },
+      "start_at": "2026-09-14T15:30:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-B0mYjwQfFHKwJRE",
+          "name": "THE SQUARE Chess Club",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": {
+          "cents": 6000,
+          "currency": "ron",
+          "is_flexible": false
+        },
+        "is_free": false,
         "max_price": null,
         "is_sold_out": false,
         "require_approval": false
@@ -1550,8 +1413,8 @@
           "username": "ProductLab"
         }
       ],
-      "guest_count": 11,
-      "ticket_count": 11,
+      "guest_count": 12,
+      "ticket_count": 12,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2129,6 +1992,145 @@
       "featured_city": null
     },
     {
+      "api_id": "evt-0AFXJeDygEBZlpr",
+      "event": {
+        "api_id": "evt-0AFXJeDygEBZlpr",
+        "calendar_api_id": "cal-zhiHYlmVMhIcWmM",
+        "end_at": "2026-09-23T17:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Hello World! Kobudei Debut & Kotlin Anniversary",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/i0/b6a42d68-5cb2-4f30-b675-00dce51dde55.png",
+        "start_at": "2026-09-23T14:30:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "iud6vztv",
+        "user_api_id": "usr-ZaWs6sD2xnctkVo",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "AD/01",
+          "country": "Romania",
+          "place_id": "ChIJy-JfWwD_sUARaKTdbkUHbTE",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "AD/01",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Bucureşti Sectorul 3",
+              "full_address": "AD/01, clădirea TN 03B, Splaiul Unirii 165, etaj 3, 030133 București, România",
+              "region_short": "București",
+              "short_address": "clădirea TN 03B, Splaiul Unirii 165, etaj 3, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "Building TN03B, Third Floor",
+          "sublocality": "Bucureşti Sectorul 3",
+          "country_code": "RO",
+          "full_address": "AD/01, clădirea TN 03B, Splaiul Unirii 165, etaj 3, 030133 București, Romania",
+          "region_short": "București",
+          "short_address": "clădirea TN 03B, Splaiul Unirii 165, etaj 3, București",
+          "place_coordinate": {
+            "latitude": 44.4158088,
+            "longitude": 26.1155678
+          },
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.1155678,
+          "latitude": 44.4158088
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-zhiHYlmVMhIcWmM",
+        "coordinate": {
+          "longitude": 26.1025384,
+          "latitude": 44.426767399999996
+        },
+        "description_short": "We organize events for technical presentations, open discussions regarding the many ways Kotlin has improved the community's approach to delivering concise, reliable and fast software.",
+        "location": {
+          "city": "Bucharest",
+          "region": null,
+          "country": "Romania",
+          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
+          "timezone": "Europe/Bucharest",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": null,
+              "country": "România"
+            }
+          },
+          "country_code": "RO"
+        },
+        "name": "Kobudei",
+        "personal_user_api_id": null,
+        "slug": "kobudei",
+        "website": null,
+        "city": {
+          "city": "Bucharest",
+          "region": null,
+          "country": "Romania",
+          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
+          "timezone": "Europe/Bucharest",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": null,
+              "country": "România"
+            }
+          },
+          "country_code": "RO"
+        },
+        "is_personal": false,
+        "personal_user": null,
+        "geo_city": "Bucharest",
+        "geo_country": "Romania",
+        "geo_region": null,
+        "timezone": "Europe/Bucharest"
+      },
+      "start_at": "2026-09-23T14:30:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-ZaWs6sD2xnctkVo",
+          "name": "Viorel Alexandrescu",
+          "username": "valexandrescu"
+        },
+        {
+          "api_id": "usr-yFTMazJ30gSqNln",
+          "name": null,
+          "username": null
+        }
+      ],
+      "guest_count": 4,
+      "ticket_count": 4,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
       "api_id": "evt-RnYBP1JQ4m8rrXO",
       "event": {
         "api_id": "evt-RnYBP1JQ4m8rrXO",
@@ -2263,19 +2265,43 @@
           "has_access": false
         },
         "geo_address_info": {
-          "mode": "obfuscated",
           "city": "București",
-          "city_state": "București, Romania",
-          "sublocality": "Bucureşti Sectorul 1",
-          "country": "Romania",
-          "country_code": "RO",
+          "type": "google",
           "region": "București",
-          "region_short": "București"
+          "address": "Central University Library Carol I",
+          "country": "Romania",
+          "place_id": "ChIJ0WrDQbIBskAR6dE8CFLqezM",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Biblioteca Centrală Universitară Carol I",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Bucureşti Sectorul 1",
+              "full_address": "Biblioteca Centrală Universitară Carol I, Strada Boteanu 1, 010292 București, România",
+              "region_short": "București",
+              "short_address": "Strada Boteanu 1, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "Time: 11:00 AM–12:00 PM (Bucharest time)\nPlease arrive 15 minutes early to allow time for check-in and seating.",
+          "sublocality": "Bucureşti Sectorul 1",
+          "country_code": "RO",
+          "full_address": "Central University Library Carol I, Strada Boteanu 1, 010292 București, Romania",
+          "region_short": "București",
+          "short_address": "Strada Boteanu 1, București",
+          "place_coordinate": {
+            "latitude": 44.4398528,
+            "longitude": 26.097541
+          },
+          "apple_maps_place_id": "I5BCD4B7CD89C22BD",
+          "mode": "shown"
         },
-        "geo_address_visibility": "guests-only",
+        "geo_address_visibility": "public",
         "coordinate": {
-          "latitude": 44.441756867852455,
-          "longitude": 26.098039787229386
+          "longitude": 26.097541,
+          "latitude": 44.4398528
         },
         "waitlist_enabled": true,
         "waitlist_status": "enabled"
@@ -2803,8 +2829,8 @@
           "username": "razvandeax"
         }
       ],
-      "guest_count": 80,
-      "ticket_count": 80,
+      "guest_count": 81,
+      "ticket_count": 81,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3107,115 +3133,6 @@
   ],
   "calendar:turadeduminica": [
     {
-      "api_id": "calev-dGHYrP6BZuEIHen",
-      "event": {
-        "api_id": "evt-uAsGA8MZe2RrJ41",
-        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
-        "end_at": "2026-09-06T09:00:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "Tura de Duminică Constanța",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": true,
-        "social_image_url": "https://images.lumacdn.com/event-social/l9/8ffccd5c-5784-42cf-b82f-6d541d343091.png",
-        "start_at": "2026-09-06T06:00:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "xb55q1q1",
-        "user_api_id": "usr-oxdboDH8wFbsuFh",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "Constanța",
-          "type": "google",
-          "region": "Județul Constanța",
-          "address": "Harta Asezari Antice din Dobrogea",
-          "country": "Romania",
-          "place_id": "ChIJjfDZY9nlukARRfZJBvxmJhE",
-          "localized": {
-            "ro": {
-              "city": "Constanța",
-              "region": "Județul Constanța",
-              "address": "Harta Asezari Antice din Dobrogea",
-              "country": "România",
-              "city_state": "Constanța, România",
-              "sublocality": null,
-              "full_address": "Harta Asezari Antice din Dobrogea, Bulevardul Ferdinand 7b, 900178 Constanța, România",
-              "region_short": "CT",
-              "short_address": "Bulevardul Ferdinand 7b, Constanța"
-            }
-          },
-          "city_state": "Constanța, Romania",
-          "description": "",
-          "sublocality": null,
-          "country_code": "RO",
-          "full_address": "Harta Asezari Antice din Dobrogea, Bulevardul Ferdinand 7b, 900178 Constanța, Romania",
-          "region_short": "CT",
-          "short_address": "Bulevardul Ferdinand 7b, Constanța",
-          "apple_maps_place_id": null,
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 28.651353399999998,
-          "latitude": 44.1781459
-        },
-        "waitlist_enabled": false,
-        "waitlist_status": "disabled"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-Su3WAWlpDDLutSO",
-        "coordinate": null,
-        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
-        "location": null,
-        "name": "Tura de duminică",
-        "personal_user_api_id": null,
-        "slug": "turadeduminica",
-        "website": null,
-        "city": null,
-        "is_personal": false,
-        "personal_user": null,
-        "geo_city": null,
-        "geo_country": null,
-        "geo_region": null,
-        "timezone": null
-      },
-      "start_at": "2026-09-06T06:00:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-oxdboDH8wFbsuFh",
-          "name": "AMZU SORIN",
-          "username": null
-        },
-        {
-          "api_id": "usr-yomhnvpt5g17mhz",
-          "name": "Emily Merdus",
-          "username": null
-        }
-      ],
-      "guest_count": 2,
-      "ticket_count": 2,
-      "ticket_info": {
-        "price": null,
-        "is_free": true,
-        "max_price": null,
-        "is_sold_out": false,
-        "require_approval": false
-      },
-      "registration_availability": "open",
-      "waitlist_active": false,
-      "featured_city": null,
-      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
-      "is_manager": true,
-      "platform": "luma",
-      "status": "approved",
-      "tags": []
-    },
-    {
       "api_id": "calev-5IvFxJ6DnpXSVme",
       "event": {
         "api_id": "evt-CRt3sdBkr9BkSKf",
@@ -3395,8 +3312,8 @@
           "username": null
         }
       ],
-      "guest_count": 3,
-      "ticket_count": 3,
+      "guest_count": 5,
+      "ticket_count": 5,
       "ticket_info": {
         "price": null,
         "is_free": true,
