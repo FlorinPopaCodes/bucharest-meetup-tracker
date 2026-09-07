@@ -4,47 +4,21 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Duminică, 6 septembrie
-
-- `09:00` [Tura de duminică Cotroceni](https://lu.ma/nj9d0t4w)  
-  <sub>Aleodor Tabarcea · 9 participanți</sub>
-- `09:00` [Tura de duminică Herăstrău](https://lu.ma/hu06idz4)  
-  <sub>Emily Merdus · 22 de participanți</sub>
-- `09:00` [Tura de duminică I.O.R.](https://lu.ma/lhp1prba)  
-  <sub>Irina Tenovici · 9 participanți</sub>
-- `09:00` [Tura de duminică Tineretului](https://lu.ma/8k01jv7v)  
-  <sub>Nicoleta Ifrim · 9 participanți</sub>
-- `10:00` [Teatru de păpuși BiBaBo](https://greenrevolution.ro/eveniment/teatru-de-papusi-bibabo/)  
-  <sub>Roaba de Cultură</sub>
-- `13:00` [Meet New People & Paint Your Own Hand Fan](https://lu.ma/trdzst0k)  
-  <sub>By Mi · 3 participanți</sub>
-- `15:00` [reading corner, chapter #55](https://lu.ma/eppsxopy)  
-  <sub>reading corner · 120 de participanți</sub>
-- `16:00` [Jigsaw Puzzle in the Park 🧩🌳 \| Ieșim din Casă #17](https://lu.ma/jw8h2fl8)  
-  <sub>Lucian Savu · 9 participanți</sub>
-- `18:00` [Volei cu Oportune 🏐](https://lu.ma/kc53by0b)  
-  <sub>Oportune · 7 participanți</sub>
-
----
-
-- [Show de comedie pe loc Alt Ceva cu extra-muzică](https://www.iabilet.ro/bilete-show-de-comedie-pe-loc-alt-ceva-cu-extra-muzica-130321/)  
-  <sub>Teatrul Improteca</sub>
-
 ### Luni, 7 septembrie
 
 - `19:30` [Monday Quizmania](https://lu.ma/8vgqvxsg)  
-  <sub>T5 Social · 3 participanți</sub>
+  <sub>T5 Social · 10 participanți</sub>
 
 ### Marți, 8 septembrie
 
 - `18:00` [WIN #9 - Cum îți prezinți business-ul viitorilor clienți: public speaking & Social Media -Mihaela Călin](https://lu.ma/o9bea21n)  
-  <sub>Vlad RBC · 14 participanți</sub>
+  <sub>Vlad RBC · 18 participanți</sub>
 - `18:30` [CISO Meetup Romania](https://lu.ma/8g3yhx3w)  
   <sub>Radware Cybersecurity</sub>
 - `18:30` [DEMO NIGHTS by How to Web #7 \[Bucharest Edition\]](https://lu.ma/Demo-Nights-7)  
-  <sub>How to Web · 79 de participanți</sub>
+  <sub>How to Web · 83 de participanți</sub>
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E37](https://lu.ma/75bq5hav)  
-  <sub>321sport · 4 participanți</sub>
+  <sub>321sport · 5 participanți</sub>
 
 ### Miercuri, 9 septembrie
 
@@ -56,7 +30,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Vineri, 11 septembrie
 
 - `18:00` [Let’s Face It](https://lu.ma/s74vvy6q)  
-  <sub>Caroline Fischer · 20 de participanți</sub>
+  <sub>Caroline Fischer · 21 de participanți</sub>
 
 ---
 
@@ -105,7 +79,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `19:00` [Documentary Screening \| Can We Do It Ourselves?](https://lu.ma/sylh4kr2)  
   <sub>Ariel Pontes · 5 participanți</sub>
 - `19:00` [Product Drinks × Productlab Conference: satellite edition](https://lu.ma/7osceu5i)  
-  <sub>Dragos · 12 participanți</sub>
+  <sub>Dragos · 14 participanți</sub>
 
 ### Joi, 17 septembrie
 
@@ -120,7 +94,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Sâmbătă, 19 septembrie
 
 - `09:30` [FFF x come out and play](https://lu.ma/t0q8u2f3)  
-  <sub>MuvOutside · 13 participanți</sub>
+  <sub>MuvOutside · 14 participanți</sub>
 - `11:00` [Charlie și Fabrica de Ciocolată - 19 septembrie ora 11.00](https://lu.ma/4typlmgm)  
   <sub>Opera Comică pentru Copii · 3 participanți</sub>
 - `14:00` [Cafeaua De Sâmbăta #28 \| Bucuresti](https://lu.ma/yfvxiucj)  
@@ -153,11 +127,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-06)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-07)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-06)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-07)
 
 ## Despre
 
@@ -171,4 +145,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 6 septembrie 2026*
+*Actualizat: 7 septembrie 2026*
