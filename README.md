@@ -7,25 +7,34 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Luni, 7 septembrie
 
 - `19:30` [Monday Quizmania](https://lu.ma/8vgqvxsg)  
-  <sub>T5 Social · 10 participanți</sub>
+  <sub>T5 Social · 15 participanți</sub>
 
 ### Marți, 8 septembrie
 
 - `18:00` [WIN #9 - Cum îți prezinți business-ul viitorilor clienți: public speaking & Social Media -Mihaela Călin](https://lu.ma/o9bea21n)  
-  <sub>Vlad RBC · 18 participanți</sub>
+  <sub>Vlad RBC · 34 de participanți</sub>
 - `18:30` [CISO Meetup Romania](https://lu.ma/8g3yhx3w)  
   <sub>Radware Cybersecurity</sub>
 - `18:30` [DEMO NIGHTS by How to Web #7 \[Bucharest Edition\]](https://lu.ma/Demo-Nights-7)  
-  <sub>How to Web · 83 de participanți</sub>
+  <sub>How to Web · 96 de participanți</sub>
+- `19:00` [Sport în aer liber: Yoga cu Elena Dumitru](https://greenrevolution.ro/eveniment/sport-in-aer-liber-yoga-cu-elena-dumitru/)  
+  <sub>Roaba de Cultură</sub>
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E37](https://lu.ma/75bq5hav)  
-  <sub>321sport · 5 participanți</sub>
+  <sub>321sport · 9 participanți</sub>
 
 ### Miercuri, 9 septembrie
 
 - `18:00` [Picnic & Play 🃏🏐](https://lu.ma/kxv62p0b)  
-  <sub>Oportune · 10 participanți</sub>
+  <sub>Oportune · 14 participanți</sub>
 - `18:30` [Rooftop Social Chess @ Deschis Gastrobar](https://lu.ma/jm7y8s6u)  
   <sub>THE SQUARE Chess Club</sub>
+
+### Joi, 10 septembrie
+
+- `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E38](https://lu.ma/871e833l)  
+  <sub>321sport · 16 participanți</sub>
+- `20:00` [Film în aer liber: The pursuit of happyness](https://greenrevolution.ro/eveniment/film-in-aer-liber-the-pursuit-of-happyness/)  
+  <sub>Roaba de Cultură</sub>
 
 ### Vineri, 11 septembrie
 
@@ -39,6 +48,12 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Sâmbătă, 12 septembrie
 
+- `08:00` [Sport în aer liber: Yoga cu Mariuca Patrichi](https://greenrevolution.ro/eveniment/sport-in-aer-liber-yoga-cu-mariuca-patrichi-3/)  
+  <sub>Roaba de Cultură</sub>
+- `09:00` [Sport în aer liber: Pilates cu Spinu Ionela](https://greenrevolution.ro/eveniment/sport-in-aer-liber-pilates-cu-spinu-ionela/)  
+  <sub>Roaba de Cultură</sub>
+- `09:30` [Wooming around](https://greenrevolution.ro/eveniment/wooming-around-2/)  
+  <sub>Roaba de Cultură</sub>
 - `16:00` [Tura de duminică la Masa care Unește](https://lu.ma/vo67yyyv)  
   <sub>Endi Ungureanu</sub>
 
@@ -51,6 +66,8 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Duminică, 13 septembrie
 
+- `09:00` [Holo X Crossfit Nord](https://lu.ma/2gkbbcm9)  
+  <sub>Holo Community · 4 participanți</sub>
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/czbpoxmp)  
   <sub>Emily Merdus · 5 participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/9eu43gfy)  
@@ -59,6 +76,8 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
   <sub>Alexandru Agatinei</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/klrc4713)  
   <sub>Nicoleta Ifrim</sub>
+- `10:00` [Teatru pentru copii](https://greenrevolution.ro/eveniment/teatru-pentru-copii/)  
+  <sub>Roaba de Cultură</sub>
 
 ---
 
@@ -77,14 +96,19 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Marți, 15 septembrie
 
 - `19:00` [Documentary Screening \| Can We Do It Ourselves?](https://lu.ma/sylh4kr2)  
-  <sub>Ariel Pontes · 5 participanți</sub>
+  <sub>Ariel Pontes · 6 participanți</sub>
 - `19:00` [Product Drinks × Productlab Conference: satellite edition](https://lu.ma/7osceu5i)  
-  <sub>Dragos · 14 participanți</sub>
+  <sub>Dragos · 27 de participanți</sub>
+
+### Miercuri, 16 septembrie
+
+- `19:00` [Alergare Alergado & ParkLake - PREZENT! PENTRU VIITOR](https://lu.ma/55a5zbsb)  
+  <sub>321sport · 3 participanți</sub>
 
 ### Joi, 17 septembrie
 
 - `18:00` [Lansare carte Adrian Matache si Alexandru Ungureanu](https://lu.ma/jz86se3y)  
-  <sub>Adrian Matache · 8 participanți</sub>
+  <sub>Adrian Matache · 7 participanți</sub>
 
 ### Vineri, 18 septembrie
 
@@ -112,7 +136,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/47eavvzt)  
   <sub>Emily Merdus</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/s8idrq69)  
-  <sub>Irina Tenovici</sub>
+  <sub>Irina Tenovici · 1 participant</sub>
 - `09:00` [Tura de duminică Lacul Morii](https://lu.ma/0qe7c55c)  
   <sub>Alexandru Agatinei · 1 participant</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/2wjuqsp0)  
