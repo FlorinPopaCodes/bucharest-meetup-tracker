@@ -4,23 +4,10 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Marți, 8 septembrie
-
-- `18:00` [WIN #9 - Cum îți prezinți business-ul viitorilor clienți: public speaking & Social Media -Mihaela Călin](https://lu.ma/o9bea21n)  
-  <sub>Vlad RBC · 39 de participanți</sub>
-- `18:30` [CISO Meetup Romania](https://lu.ma/8g3yhx3w)  
-  <sub>Radware Cybersecurity</sub>
-- `18:30` [DEMO NIGHTS by How to Web #7 \[Bucharest Edition\]](https://lu.ma/Demo-Nights-7)  
-  <sub>How to Web · 97 de participanți</sub>
-- `19:00` [Sport în aer liber: Yoga cu Elena Dumitru](https://greenrevolution.ro/eveniment/sport-in-aer-liber-yoga-cu-elena-dumitru/)  
-  <sub>Roaba de Cultură</sub>
-- `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E37](https://lu.ma/75bq5hav)  
-  <sub>321sport · 10 participanți</sub>
-
 ### Miercuri, 9 septembrie
 
 - `18:00` [Picnic & Play 🃏🏐](https://lu.ma/kxv62p0b)  
-  <sub>Oportune · 16 participanți</sub>
+  <sub>Oportune · 18 participanți</sub>
 - `18:30` [Rooftop Social Chess @ Deschis Gastrobar](https://lu.ma/jm7y8s6u)  
   <sub>THE SQUARE Chess Club</sub>
 
@@ -29,7 +16,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E38](https://lu.ma/871e833l)  
   <sub>321sport · 27 de participanți</sub>
 - `19:30` [Thursday Trivia](https://lu.ma/f1jimjgy)  
-  <sub>T5 Social · 11 participanți</sub>
+  <sub>T5 Social · 15 participanți</sub>
 - `20:00` [Film în aer liber: The pursuit of happyness](https://greenrevolution.ro/eveniment/film-in-aer-liber-the-pursuit-of-happyness/)  
   <sub>Roaba de Cultură</sub>
 
@@ -56,7 +43,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `16:00` [Tura de duminică la Masa care Unește](https://lu.ma/vo67yyyv)  
   <sub>Endi Ungureanu</sub>
 - `17:00` [reading corner, chapter #56 x Sound District Floreasca](https://lu.ma/jsf6xopw)  
-  <sub>reading corner · 93 de participanți</sub>
+  <sub>reading corner · 108 de participanți</sub>
 
 ---
 
@@ -68,9 +55,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 13 septembrie
 
 - `09:00` [Holo X Crossfit Nord](https://lu.ma/2gkbbcm9)  
-  <sub>Holo Community · 10 participanți</sub>
+  <sub>Holo Community · 14 participanți</sub>
 - `09:00` [Tura de duminică Cotroceni](https://lu.ma/jexn8lxy)  
-  <sub>Aleodor Tabarcea</sub>
+  <sub>Aleodor Tabarcea · 2 participanți</sub>
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/czbpoxmp)  
   <sub>Emily Merdus · 7 participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/9eu43gfy)  
@@ -101,12 +88,12 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `19:00` [Documentary Screening \| Can We Do It Ourselves?](https://lu.ma/sylh4kr2)  
   <sub>Ariel Pontes · 6 participanți</sub>
 - `19:00` [Product Drinks × Productlab Conference: satellite edition](https://lu.ma/7osceu5i)  
-  <sub>Dragos · 30 de participanți</sub>
+  <sub>Dragos · 32 de participanți</sub>
 
 ### Miercuri, 16 septembrie
 
 - `19:00` [Alergare Alergado & ParkLake - PREZENT! PENTRU VIITOR](https://lu.ma/55a5zbsb)  
-  <sub>321sport · 6 participanți</sub>
+  <sub>321sport · 9 participanți</sub>
 
 ### Joi, 17 septembrie
 
@@ -125,9 +112,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `11:00` [Charlie și Fabrica de Ciocolată - 19 septembrie ora 11.00](https://lu.ma/4typlmgm)  
   <sub>Opera Comică pentru Copii · 3 participanți</sub>
 - `14:00` [Cafeaua De Sâmbăta #28 \| Bucuresti](https://lu.ma/yfvxiucj)  
-  <sub>Ionut Alexandru Stanciu · 5 participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 6 participanți</sub>
 - `16:00` [She Owns The Run.She Owns The Fight Too](https://lu.ma/kwavr9cz)  
-  <sub>FOMO Urban Running Club · 40 de participanți</sub>
+  <sub>FOMO Urban Running Club · 39 de participanți</sub>
 
 ---
 
@@ -157,15 +144,22 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:30` [CTO Craft Mixers: Bucharest](https://lu.ma/8ttughxt)  
   <sub>CTO Craft · 24 de participanți</sub>
 
+### Miercuri, 23 septembrie
+
+- `17:30` [Hello World! Kobudei Debut & Kotlin Anniversary](https://lu.ma/iud6vztv)  
+  <sub>Viorel Alexandrescu · 12 participanți</sub>
+- `18:00` [Nookyard presents: Efectele reale ale EU AI Act asupra businessului tău \[cu Matei Stefan, SenecAI\]](https://lu.ma/9l0mlf6w)  
+  <sub>Ionut Alexandru Stanciu · 17 participanți</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-08)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-09)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-08)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-09)
 
 ## Despre
 
@@ -179,4 +173,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 8 septembrie 2026*
+*Actualizat: 9 septembrie 2026*
