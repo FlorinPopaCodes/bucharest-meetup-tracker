@@ -9,14 +9,14 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E38](https://lu.ma/871e833l)  
   <sub>321sport · 49 de participanți</sub>
 - `19:30` [Thursday Trivia](https://lu.ma/f1jimjgy)  
-  <sub>T5 Social · 24 de participanți</sub>
+  <sub>T5 Social · 23 de participanți</sub>
 - `20:00` [Film în aer liber: The pursuit of happyness](https://greenrevolution.ro/eveniment/film-in-aer-liber-the-pursuit-of-happyness/)  
   <sub>Roaba de Cultură</sub>
 
 ### Vineri, 11 septembrie
 
 - `18:00` [Let’s Face It](https://lu.ma/s74vvy6q)  
-  <sub>Caroline Fischer · 24 de participanți</sub>
+  <sub>Caroline Fischer · 26 de participanți</sub>
 - `18:30` [Metalurgiei Meetup @ Colibri: vin, pictură și oameni faini 🎨🍷](https://lu.ma/wjgv90ky)  
   <sub>Loredana Pipie</sub>
 
@@ -34,11 +34,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `09:30` [Wooming around](https://greenrevolution.ro/eveniment/wooming-around-2/)  
   <sub>Roaba de Cultură</sub>
 - `16:00` [📚 Book Swap in the Park #3 — Ediție specială - Last but not least🤍#18](https://lu.ma/03qeynqz)  
-  <sub>Lucian Savu · 9 participanți</sub>
+  <sub>Lucian Savu · 12 participanți</sub>
 - `16:00` [Tura de duminică la Masa care Unește](https://lu.ma/vo67yyyv)  
   <sub>Endi Ungureanu</sub>
 - `17:00` [reading corner, chapter #56 x Sound District Floreasca](https://lu.ma/jsf6xopw)  
-  <sub>reading corner · 117 de participanți</sub>
+  <sub>reading corner · 115 de participanți</sub>
 
 ---
 
@@ -50,17 +50,17 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 13 septembrie
 
 - `09:00` [Holo X Crossfit Nord](https://lu.ma/2gkbbcm9)  
-  <sub>Holo Community · 17 participanți</sub>
+  <sub>Holo Community · 21 de participanți</sub>
 - `09:00` [Tura de duminică Cotroceni](https://lu.ma/jexn8lxy)  
-  <sub>Aleodor Tabarcea · 2 participanți</sub>
+  <sub>Aleodor Tabarcea · 3 participanți</sub>
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/czbpoxmp)  
-  <sub>Emily Merdus · 10 participanți</sub>
+  <sub>Emily Merdus · 11 participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/9eu43gfy)  
   <sub>Irina Tenovici</sub>
 - `09:00` [Tura de duminică Lacul Morii](https://lu.ma/s4awrp4p)  
-  <sub>Alexandru Agatinei · 1 participant</sub>
+  <sub>Alexandru Agatinei · 3 participanți</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/klrc4713)  
-  <sub>Nicoleta Ifrim</sub>
+  <sub>Nicoleta Ifrim · 2 participanți</sub>
 - `10:00` [Teatru pentru copii](https://greenrevolution.ro/eveniment/teatru-pentru-copii/)  
   <sub>Roaba de Cultură</sub>
 
@@ -83,7 +83,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:00` [WIN #10 - Longevitate, wellbeing și prevenție - Diana Baicu - Co-Fondator Top Line și Silhouette](https://lu.ma/2a6xstoi)  
   <sub>Vlad RBC · 3 participanți</sub>
 - `19:00` [Documentary Screening \| Can We Do It Ourselves?](https://lu.ma/sylh4kr2)  
-  <sub>Ariel Pontes · 7 participanți</sub>
+  <sub>Ariel Pontes · 9 participanți</sub>
 - `19:00` [Product Drinks × Productlab Conference: satellite edition](https://lu.ma/7osceu5i)  
   <sub>Dragos · 35 de participanți</sub>
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E39](https://lu.ma/1d3m1nbc)  
@@ -92,7 +92,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Miercuri, 16 septembrie
 
 - `19:00` [Alergare Alergado & ParkLake - PREZENT! PENTRU VIITOR](https://lu.ma/55a5zbsb)  
-  <sub>321sport · 12 participanți</sub>
+  <sub>321sport · 20 de participanți</sub>
 
 ### Joi, 17 septembrie
 
@@ -113,7 +113,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `11:00` [Charlie și Fabrica de Ciocolată - 19 septembrie ora 11.00](https://lu.ma/4typlmgm)  
   <sub>Opera Comică pentru Copii · 3 participanți</sub>
 - `14:00` [Cafeaua De Sâmbăta #28 \| Bucuresti](https://lu.ma/yfvxiucj)  
-  <sub>Ionut Alexandru Stanciu · 6 participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 9 participanți</sub>
 - `16:00` [She Owns The Run.She Owns The Fight Too](https://lu.ma/kwavr9cz)  
   <sub>FOMO Urban Running Club · 40 de participanți</sub>
 
@@ -143,7 +143,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Marți, 22 septembrie
 
 - `18:30` [CTO Craft Mixers: Bucharest](https://lu.ma/8ttughxt)  
-  <sub>CTO Craft · 24 de participanți</sub>
+  <sub>CTO Craft · 28 de participanți</sub>
 
 ### Miercuri, 23 septembrie
 
