@@ -4,19 +4,12 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Miercuri, 9 septembrie
-
-- `18:00` [Picnic & Play 🃏🏐](https://lu.ma/kxv62p0b)  
-  <sub>Oportune · 18 participanți</sub>
-- `18:30` [Rooftop Social Chess @ Deschis Gastrobar](https://lu.ma/jm7y8s6u)  
-  <sub>THE SQUARE Chess Club</sub>
-
 ### Joi, 10 septembrie
 
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E38](https://lu.ma/871e833l)  
-  <sub>321sport · 43 de participanți</sub>
+  <sub>321sport · 49 de participanți</sub>
 - `19:30` [Thursday Trivia](https://lu.ma/f1jimjgy)  
-  <sub>T5 Social · 21 de participanți</sub>
+  <sub>T5 Social · 24 de participanți</sub>
 - `20:00` [Film în aer liber: The pursuit of happyness](https://greenrevolution.ro/eveniment/film-in-aer-liber-the-pursuit-of-happyness/)  
   <sub>Roaba de Cultură</sub>
 
@@ -41,11 +34,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `09:30` [Wooming around](https://greenrevolution.ro/eveniment/wooming-around-2/)  
   <sub>Roaba de Cultură</sub>
 - `16:00` [📚 Book Swap in the Park #3 — Ediție specială - Last but not least🤍#18](https://lu.ma/03qeynqz)  
-  <sub>Lucian Savu · 6 participanți</sub>
+  <sub>Lucian Savu · 9 participanți</sub>
 - `16:00` [Tura de duminică la Masa care Unește](https://lu.ma/vo67yyyv)  
   <sub>Endi Ungureanu</sub>
 - `17:00` [reading corner, chapter #56 x Sound District Floreasca](https://lu.ma/jsf6xopw)  
-  <sub>reading corner · 115 de participanți</sub>
+  <sub>reading corner · 117 de participanți</sub>
 
 ---
 
@@ -57,15 +50,15 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 13 septembrie
 
 - `09:00` [Holo X Crossfit Nord](https://lu.ma/2gkbbcm9)  
-  <sub>Holo Community · 16 participanți</sub>
+  <sub>Holo Community · 17 participanți</sub>
 - `09:00` [Tura de duminică Cotroceni](https://lu.ma/jexn8lxy)  
   <sub>Aleodor Tabarcea · 2 participanți</sub>
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/czbpoxmp)  
-  <sub>Emily Merdus · 9 participanți</sub>
+  <sub>Emily Merdus · 10 participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/9eu43gfy)  
   <sub>Irina Tenovici</sub>
 - `09:00` [Tura de duminică Lacul Morii](https://lu.ma/s4awrp4p)  
-  <sub>Alexandru Agatinei</sub>
+  <sub>Alexandru Agatinei · 1 participant</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/klrc4713)  
   <sub>Nicoleta Ifrim</sub>
 - `10:00` [Teatru pentru copii](https://greenrevolution.ro/eveniment/teatru-pentru-copii/)  
@@ -87,20 +80,26 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Marți, 15 septembrie
 
+- `18:00` [WIN #10 - Longevitate, wellbeing și prevenție - Diana Baicu - Co-Fondator Top Line și Silhouette](https://lu.ma/2a6xstoi)  
+  <sub>Vlad RBC · 3 participanți</sub>
 - `19:00` [Documentary Screening \| Can We Do It Ourselves?](https://lu.ma/sylh4kr2)  
-  <sub>Ariel Pontes · 6 participanți</sub>
+  <sub>Ariel Pontes · 7 participanți</sub>
 - `19:00` [Product Drinks × Productlab Conference: satellite edition](https://lu.ma/7osceu5i)  
-  <sub>Dragos · 34 de participanți</sub>
+  <sub>Dragos · 35 de participanți</sub>
+- `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E39](https://lu.ma/1d3m1nbc)  
+  <sub>321sport · 3 participanți</sub>
 
 ### Miercuri, 16 septembrie
 
 - `19:00` [Alergare Alergado & ParkLake - PREZENT! PENTRU VIITOR](https://lu.ma/55a5zbsb)  
-  <sub>321sport · 10 participanți</sub>
+  <sub>321sport · 12 participanți</sub>
 
 ### Joi, 17 septembrie
 
 - `18:00` [Lansare carte Adrian Matache si Alexandru Ungureanu](https://lu.ma/jz86se3y)  
   <sub>Adrian Matache · 8 participanți</sub>
+- `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E40](https://lu.ma/pbqqoqu7)  
+  <sub>321sport · 4 participanți</sub>
 
 ### Vineri, 18 septembrie
 
@@ -153,15 +152,20 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:00` [Nookyard presents: Efectele reale ale EU AI Act asupra businessului tău \[cu Matei Stefan, SenecAI\]](https://lu.ma/9l0mlf6w)  
   <sub>Ionut Alexandru Stanciu · 17 participanți</sub>
 
+### Joi, 24 septembrie
+
+- `19:00` [DevNight#9 - Agentic Skills Engineering](https://lu.ma/x50ycn36)  
+  <sub>Oprea Matei</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-09)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-10)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-09)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-10)
 
 ## Despre
 
@@ -175,4 +179,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 9 septembrie 2026*
+*Actualizat: 10 septembrie 2026*
