@@ -7,7 +7,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Vineri, 11 septembrie
 
 - `18:00` [Let’s Face It](https://lu.ma/s74vvy6q)  
-  <sub>Caroline Fischer · 26 de participanți</sub>
+  <sub>Caroline Fischer · 29 de participanți</sub>
 - `18:30` [Metalurgiei Meetup @ Colibri: vin, pictură și oameni faini 🎨🍷](https://lu.ma/wjgv90ky)  
   <sub>Loredana Pipie</sub>
 
@@ -25,11 +25,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `09:30` [Wooming around](https://greenrevolution.ro/eveniment/wooming-around-2/)  
   <sub>Roaba de Cultură</sub>
 - `16:00` [📚 Book Swap in the Park #3 — Ediție specială - Last but not least🤍#18](https://lu.ma/03qeynqz)  
-  <sub>Lucian Savu · 15 participanți</sub>
+  <sub>Lucian Savu · 18 participanți</sub>
 - `16:00` [Tura de duminică la Masa care Unește](https://lu.ma/vo67yyyv)  
   <sub>Endi Ungureanu</sub>
 - `17:00` [reading corner, chapter #56 x Sound District Floreasca](https://lu.ma/jsf6xopw)  
-  <sub>reading corner · 114 de participanți</sub>
+  <sub>reading corner · 107 de participanți</sub>
 
 ---
 
@@ -41,7 +41,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 13 septembrie
 
 - `09:00` [Holo X Crossfit Nord](https://lu.ma/2gkbbcm9)  
-  <sub>Holo Community · 21 de participanți</sub>
+  <sub>Holo Community · 22 de participanți</sub>
 - `09:00` [Tura de duminică Cotroceni](https://lu.ma/jexn8lxy)  
   <sub>Aleodor Tabarcea · 3 participanți</sub>
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/czbpoxmp)  
@@ -72,7 +72,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Marți, 15 septembrie
 
 - `18:00` [WIN #10 - Longevitate, wellbeing și prevenție - Diana Baicu - Co-Fondator Top Line și Silhouette](https://lu.ma/2a6xstoi)  
-  <sub>Vlad RBC · 9 participanți</sub>
+  <sub>Vlad RBC · 12 participanți</sub>
 - `19:00` [Documentary Screening \| Can We Do It Ourselves?](https://lu.ma/sylh4kr2)  
   <sub>Ariel Pontes · 10 participanți</sub>
 - `19:00` [Product Drinks × Productlab Conference: satellite edition](https://lu.ma/7osceu5i)  
@@ -83,16 +83,16 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Miercuri, 16 septembrie
 
 - `19:00` [Alergare Alergado & ParkLake - PREZENT! PENTRU VIITOR](https://lu.ma/55a5zbsb)  
-  <sub>321sport · 21 de participanți</sub>
+  <sub>321sport · 22 de participanți</sub>
 
 ### Joi, 17 septembrie
 
 - `18:00` [After Work – Paint, Sip & Unwind @ DBH with Mooz Artelier & Loredana](https://lu.ma/3i24gm4c)  
   <sub>Loredana Pipie · 3 participanți</sub>
 - `18:00` [Lansare carte Adrian Matache si Alexandru Ungureanu](https://lu.ma/jz86se3y)  
-  <sub>Adrian Matache · 8 participanți</sub>
+  <sub>Adrian Matache · 9 participanți</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E40](https://lu.ma/pbqqoqu7)  
-  <sub>321sport · 4 participanți</sub>
+  <sub>321sport · 8 participanți</sub>
 
 ### Vineri, 18 septembrie
 
@@ -136,17 +136,21 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Marți, 22 septembrie
 
 - `18:30` [CTO Craft Mixers: Bucharest](https://lu.ma/8ttughxt)  
-  <sub>CTO Craft · 28 de participanți</sub>
+  <sub>CTO Craft · 29 de participanți</sub>
 
 ### Miercuri, 23 septembrie
 
 - `17:30` [Hello World! Kobudei Debut & Kotlin Anniversary](https://lu.ma/iud6vztv)  
   <sub>Viorel Alexandrescu · 13 participanți</sub>
 - `18:00` [Nookyard presents: Efectele reale ale EU AI Act asupra businessului tău \[cu Matei Stefan, SenecAI\]](https://lu.ma/9l0mlf6w)  
-  <sub>Ionut Alexandru Stanciu · 17 participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 18 participanți</sub>
+- `18:30` [Exhibition: Între noi · Tra noi – Italy and Romania told through data](https://lu.ma/zewwekyu)  
+  <sub>nutgraf studio · 8 participanți</sub>
 
 ### Joi, 24 septembrie
 
+- `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E42](https://lu.ma/i5ydx45z)  
+  <sub>321sport · 5 participanți</sub>
 - `19:00` [DevNight#9 - Agentic Skills Engineering](https://lu.ma/x50ycn36)  
   <sub>Oprea Matei</sub>
 

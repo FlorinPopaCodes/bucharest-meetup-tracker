@@ -101,143 +101,12 @@
           "username": null
         }
       ],
-      "guest_count": 26,
-      "ticket_count": 26,
+      "guest_count": 29,
+      "ticket_count": 29,
       "ticket_info": {
         "price": null,
         "is_free": true,
         "max_price": null,
-        "is_sold_out": false,
-        "require_approval": false
-      },
-      "registration_availability": "open",
-      "waitlist_active": false,
-      "featured_city": null
-    },
-    {
-      "api_id": "evt-WHsxX3ay3VPpOsn",
-      "event": {
-        "api_id": "evt-WHsxX3ay3VPpOsn",
-        "calendar_api_id": "cal-uHNCDBUYH2YfV01",
-        "end_at": "2026-09-11T18:00:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "Metalurgiei Meetup @ Colibri: vin, pictură și oameni faini 🎨🍷",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": false,
-        "social_image_url": "https://images.lumacdn.com/event-social/81/5e54f921-e04a-4bf4-a937-908ba5ca984c.png",
-        "start_at": "2026-09-11T15:30:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "wjgv90ky",
-        "user_api_id": "usr-ioKk9CIGojYryDJ",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "București",
-          "type": "google",
-          "region": "București",
-          "address": "Colibri - The Welcome Hub",
-          "country": "Romania",
-          "place_id": "ChIJDzSpdGP_sUAR7tK4kRaFY7A",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": "București",
-              "address": "Colibri - The Welcome Hub",
-              "country": "România",
-              "city_state": "București, România",
-              "sublocality": "Bucureşti Sectorul 4",
-              "full_address": "Colibri - The Welcome Hub, Bulevardul Metalurgiei 61, bloc 2, 041832 București, România",
-              "region_short": "București",
-              "short_address": "Serele Berceni, Bulevardul Metalurgiei 61, bloc 2, București"
-            },
-            "en-GB": {
-              "city": "București",
-              "region": "București",
-              "address": "Colibri - The Welcome Hub",
-              "country": "Romania",
-              "city_state": "București, Romania",
-              "sublocality": "Bucureşti Sectorul 4",
-              "full_address": "Colibri - The Welcome Hub, Bulevardul Metalurgiei 61, bloc 2, 041832 București, Romania",
-              "region_short": "București",
-              "short_address": "Serele Berceni, Bulevardul Metalurgiei 61, bloc 2, București"
-            }
-          },
-          "city_state": "București, Romania",
-          "description": "",
-          "sublocality": "Bucureşti Sectorul 4",
-          "country_code": "RO",
-          "full_address": "Colibri - The Welcome Hub, Bulevardul Metalurgiei 61, bloc 2, 041832 București, Romania",
-          "region_short": "București",
-          "short_address": "Serele Berceni, Bulevardul Metalurgiei 61, bloc 2, București",
-          "place_coordinate": null,
-          "apple_maps_place_id": "IE6F707321A14959C",
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 26.1239028,
-          "latitude": 44.3705728
-        },
-        "waitlist_enabled": false,
-        "waitlist_status": "disabled"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-uHNCDBUYH2YfV01",
-        "coordinate": {
-          "longitude": 26.1025384,
-          "latitude": 44.426767399999996
-        },
-        "description_short": "",
-        "location": {
-          "city": "Bucharest",
-          "region": null,
-          "country": "Romania",
-          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
-          "timezone": "Europe/Bucharest",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": null,
-              "country": "România"
-            }
-          },
-          "country_code": "RO"
-        },
-        "name": "Mooz ARTelier Events",
-        "personal_user_api_id": null,
-        "slug": null,
-        "website": null,
-        "is_personal": false,
-        "personal_user": null,
-        "timezone": "Europe/Bucharest"
-      },
-      "start_at": "2026-09-11T15:30:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-ioKk9CIGojYryDJ",
-          "name": "Loredana Pipie",
-          "username": null
-        }
-      ],
-      "guest_count": 0,
-      "ticket_count": 0,
-      "ticket_info": {
-        "price": {
-          "cents": 19000,
-          "currency": "ron",
-          "is_flexible": false
-        },
-        "is_free": false,
-        "max_price": {
-          "cents": 35000,
-          "currency": "ron"
-        },
         "is_sold_out": false,
         "require_approval": false
       },
@@ -359,8 +228,8 @@
           "username": "iesimdincasa"
         }
       ],
-      "guest_count": 15,
-      "ticket_count": 15,
+      "guest_count": 18,
+      "ticket_count": 18,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -462,8 +331,8 @@
           "username": "readingcorner"
         }
       ],
-      "guest_count": 114,
-      "ticket_count": 114,
+      "guest_count": 107,
+      "ticket_count": 107,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -576,8 +445,8 @@
           "username": "Holo_community3"
         }
       ],
-      "guest_count": 21,
-      "ticket_count": 21,
+      "guest_count": 22,
+      "ticket_count": 22,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1044,8 +913,8 @@
           "username": null
         }
       ],
-      "guest_count": 9,
-      "ticket_count": 9,
+      "guest_count": 12,
+      "ticket_count": 12,
       "ticket_info": {
         "price": {
           "cents": 7800,
@@ -1486,8 +1355,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 21,
-      "ticket_count": 21,
+      "guest_count": 22,
+      "ticket_count": 22,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1725,8 +1594,8 @@
           "username": null
         }
       ],
-      "guest_count": 8,
-      "ticket_count": 8,
+      "guest_count": 9,
+      "ticket_count": 9,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1849,8 +1718,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 4,
-      "ticket_count": 4,
+      "guest_count": 8,
+      "ticket_count": 8,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2277,8 +2146,8 @@
           "username": null
         }
       ],
-      "guest_count": 28,
-      "ticket_count": 28,
+      "guest_count": 29,
+      "ticket_count": 29,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2506,8 +2375,246 @@
           "username": "MateiSeneca"
         }
       ],
-      "guest_count": 17,
-      "ticket_count": 17,
+      "guest_count": 18,
+      "ticket_count": 18,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": true
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-wwJa2khufBq8sGX",
+      "event": {
+        "api_id": "evt-wwJa2khufBq8sGX",
+        "calendar_api_id": "cal-hV71XegDSj5w66d",
+        "end_at": "2026-09-23T19:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Exhibition: Între noi · Tra noi – Italy and Romania told through data",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/cf/503d0069-3bcb-4c53-9bb8-1f1d7e61f854.png",
+        "start_at": "2026-09-23T15:30:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "zewwekyu",
+        "user_api_id": "usr-R7aJP51NJG8Xeu9",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "\"Ion Mincu\" University of Architecture and Urbanism",
+          "country": "Romania",
+          "place_id": "ChIJySbl5Eb_sUARmYhqA1pmJIA",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Universitatea de Arhitectură și Urbanism Ion Mincu",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Bucureşti Sectorul 1",
+              "full_address": "Universitatea de Arhitectură și Urbanism Ion Mincu, Strada Academiei 18-20, 010014 București, România",
+              "region_short": "București",
+              "short_address": "Strada Academiei 18-20, București"
+            },
+            "en-GB": {
+              "city": "București",
+              "region": "București",
+              "address": "\"Ion Mincu\" University of Architecture and Urbanism",
+              "country": "Romania",
+              "city_state": "București, Romania",
+              "sublocality": "Bucureşti Sectorul 1",
+              "full_address": "\"Ion Mincu\" University of Architecture and Urbanism, Strada Academiei 18-20, 010014 București, Romania",
+              "region_short": "București",
+              "short_address": "Strada Academiei 18-20, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Bucureşti Sectorul 1",
+          "country_code": "RO",
+          "full_address": "\"Ion Mincu\" University of Architecture and Urbanism, Strada Academiei 18-20, 010014 București, Romania",
+          "region_short": "București",
+          "short_address": "Strada Academiei 18-20, București",
+          "place_coordinate": {
+            "latitude": 44.4359456,
+            "longitude": 26.0997387
+          },
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.0997387,
+          "latitude": 44.4359456
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-hV71XegDSj5w66d",
+        "coordinate": null,
+        "description_short": null,
+        "location": null,
+        "name": "Personal",
+        "personal_user_api_id": "usr-R7aJP51NJG8Xeu9",
+        "slug": null,
+        "website": null,
+        "is_personal": true,
+        "personal_user": {
+          "api_id": "usr-R7aJP51NJG8Xeu9",
+          "name": "nutgraf studio",
+          "username": "nutgraf"
+        },
+        "timezone": null
+      },
+      "start_at": "2026-09-23T15:30:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-R7aJP51NJG8Xeu9",
+          "name": "nutgraf studio",
+          "username": "nutgraf"
+        }
+      ],
+      "guest_count": 8,
+      "ticket_count": 8,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-x74ElQjQZzuaIMB",
+      "event": {
+        "api_id": "evt-x74ElQjQZzuaIMB",
+        "calendar_api_id": "cal-2IEiwmiOVdw7mWt",
+        "end_at": "2026-09-24T17:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E42",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/1p/e90b626e-ecac-4738-a4ef-521440266744.png",
+        "start_at": "2026-09-24T16:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "i5ydx45z",
+        "user_api_id": "usr-tO8x9AVXxlXajv7",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Pista de Atletism „Lia Manoliu”",
+          "country": "Romania",
+          "place_id": "ChIJpzd8NxH_sUARAPBpBpvx9b8",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Pista de Atletism „Lia Manoliu”",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Sectorul 2",
+              "full_address": "Pista de Atletism „Lia Manoliu”, Bulevardul Basarabia 37-39, 022103 București, România",
+              "region_short": "București",
+              "short_address": "Bulevardul Basarabia 37-39, București"
+            },
+            "en-GB": {
+              "city": "București",
+              "region": "București",
+              "address": "Pista de Atletism „Lia Manoliu”",
+              "country": "Romania",
+              "city_state": "București, Romania",
+              "sublocality": "Sectorul 2",
+              "full_address": "Pista de Atletism „Lia Manoliu”, Bulevardul Basarabia 37-39, 022103 București, Romania",
+              "region_short": "București",
+              "short_address": "Bulevardul Basarabia 37-39, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Sectorul 2",
+          "country_code": "RO",
+          "full_address": "Pista de Atletism „Lia Manoliu”, Bulevardul Basarabia 37-39, 022103 București, Romania",
+          "region_short": "București",
+          "short_address": "Bulevardul Basarabia 37-39, București",
+          "place_coordinate": null,
+          "apple_maps_place_id": "IFDEA7B1DF5233807",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.1521454,
+          "latitude": 44.434506000000006
+        },
+        "waitlist_enabled": true,
+        "waitlist_status": "active"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-2IEiwmiOVdw7mWt",
+        "coordinate": {
+          "longitude": 26.1025384,
+          "latitude": 44.426767399999996
+        },
+        "description_short": "321sport este o comunitate de alergare fondată în 2015, care aduce împreună oameni din toate categoriile sociale prin evenimente organizate offline sau online.",
+        "location": {
+          "city": "Bucharest",
+          "region": null,
+          "country": "Romania",
+          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
+          "timezone": "Europe/Bucharest",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": null,
+              "country": "România"
+            }
+          },
+          "country_code": "RO"
+        },
+        "name": "Calendar 321sport",
+        "personal_user_api_id": null,
+        "slug": "321sport",
+        "website": "https://www.321sport.ro",
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": "Europe/Bucharest"
+      },
+      "start_at": "2026-09-24T16:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-tO8x9AVXxlXajv7",
+          "name": "321sport",
+          "username": "321sport"
+        }
+      ],
+      "guest_count": 5,
+      "ticket_count": 5,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2850,8 +2957,8 @@
           "username": null
         }
       ],
-      "guest_count": 10,
-      "ticket_count": 10,
+      "guest_count": 32,
+      "ticket_count": 32,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3083,8 +3190,8 @@
           "username": null
         }
       ],
-      "guest_count": 35,
-      "ticket_count": 35,
+      "guest_count": 42,
+      "ticket_count": 42,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3351,115 +3458,6 @@
       "featured_city": null
     },
     {
-      "api_id": "evt-oabRfUBcw6oCQuF",
-      "event": {
-        "api_id": "evt-oabRfUBcw6oCQuF",
-        "calendar_api_id": "cal-keM0A5f1PelORKW",
-        "end_at": "2026-10-07T11:30:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "Bridging CEE: An Investor Networking Lunch vol.2 (a How to Web in-conference event)",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": false,
-        "social_image_url": "https://images.lumacdn.com/event-social/zh/d6707228-014b-4441-a4a9-723bdfc077ab.png",
-        "start_at": "2026-10-07T10:00:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "op2m6rzl",
-        "user_api_id": "usr-kdvHH8BIG2KtvDf",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "București",
-          "type": "google",
-          "region": "București",
-          "address": "Face Convention Center",
-          "country": "Romania",
-          "place_id": "ChIJtZJb1jkDskARewKW45KLuug",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": "București",
-              "address": "Face Convention Center",
-              "country": "România",
-              "city_state": "București, România",
-              "sublocality": "Bucureşti Sectorul 1",
-              "full_address": "Face Convention Center, Piața Presei Libere 3-5, 013701 București, România",
-              "region_short": "București",
-              "short_address": "Piața Presei Libere 3-5, București"
-            }
-          },
-          "city_state": "București, Romania",
-          "description": "",
-          "sublocality": "Bucureşti Sectorul 1",
-          "country_code": "RO",
-          "full_address": "Face Convention Center, Piața Presei Libere 3-5, 013701 București, Romania",
-          "region_short": "București",
-          "short_address": "Piața Presei Libere 3-5, București",
-          "place_coordinate": {
-            "latitude": 44.4782508,
-            "longitude": 26.069484
-          },
-          "apple_maps_place_id": "I34CCE751C0A696AD",
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 26.069484,
-          "latitude": 44.4782508
-        },
-        "waitlist_enabled": false,
-        "waitlist_status": "disabled"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-keM0A5f1PelORKW",
-        "coordinate": null,
-        "description_short": "We create cross-border relationships for high-growth tech ecosystems by bringing together founders, investors, enterprises, and media in curated formats across CEE, Western Europe, and the GCC.",
-        "location": null,
-        "name": "The Recursive Events",
-        "personal_user_api_id": null,
-        "slug": "therecursiveevents",
-        "website": "https://therecursive.qwilr.com/The-Recursive-26-Event-Calendar-uCGcuYkRBNMf",
-        "is_personal": false,
-        "personal_user": null,
-        "timezone": null
-      },
-      "start_at": "2026-10-07T10:00:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-kdvHH8BIG2KtvDf",
-          "name": "The Recursive",
-          "username": "therecursive"
-        },
-        {
-          "api_id": "usr-JyqbY0JXS8hCR7N",
-          "name": "Teodor Antonio Georgiev",
-          "username": "teodorantonio"
-        },
-        {
-          "api_id": "usr-n9SGfqcGUOZ1KEG",
-          "name": "Eleven Ventures",
-          "username": "elevenvc"
-        }
-      ],
-      "guest_count": 0,
-      "ticket_count": 0,
-      "ticket_info": {
-        "price": null,
-        "is_free": true,
-        "max_price": null,
-        "is_sold_out": false,
-        "require_approval": true
-      },
-      "registration_availability": "open",
-      "waitlist_active": false,
-      "featured_city": null
-    },
-    {
       "api_id": "evt-nYpvDdj3qnA5QGS",
       "event": {
         "api_id": "evt-nYpvDdj3qnA5QGS",
@@ -3558,6 +3556,120 @@
         },
         "is_sold_out": false,
         "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-Pu6fBnyhbKBEHsX",
+      "event": {
+        "api_id": "evt-Pu6fBnyhbKBEHsX",
+        "calendar_api_id": "cal-rtsUI6UsGuoRZfP",
+        "end_at": "2026-10-16T17:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Doubles Tennis Tournament, Salestrust & PuntoUp",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/e5/745db3d6-ff61-41a1-9ba9-261803b844fb.png",
+        "start_at": "2026-10-16T13:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "7mtd3mv6",
+        "user_api_id": "usr-qjoHm8ksCx8hWF2",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Nastase&Marica Sports Club",
+          "country": "Romania",
+          "place_id": "ChIJQ3RI0gEDskARe_RIYqYQYio",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Nastase&Marica Sports Club",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Aviației",
+              "full_address": "Nastase&Marica Sports Club, Șoseaua Pipera 38, 077190 București, România",
+              "region_short": "București",
+              "short_address": "Academia de Tenis Ilie Năstase, Șoseaua Pipera 38, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Aviației",
+          "country_code": "RO",
+          "full_address": "Nastase&Marica Sports Club, Șoseaua Pipera 38, 077190 București, Romania",
+          "region_short": "București",
+          "short_address": "Ilie Năstase Tennis Academy, Șoseaua Pipera 38, București",
+          "place_coordinate": {
+            "latitude": 44.4770597,
+            "longitude": 26.1006108
+          },
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.1006108,
+          "latitude": 44.4770597
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-rtsUI6UsGuoRZfP",
+        "coordinate": null,
+        "description_short": "",
+        "location": null,
+        "name": "Salestrust Events",
+        "personal_user_api_id": null,
+        "slug": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-10-16T13:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-qjoHm8ksCx8hWF2",
+          "name": "Madalina Vechiu",
+          "username": "Salestrust"
+        },
+        {
+          "api_id": "usr-ViMnMAXSinLFKnN",
+          "name": "Mihaela Tomescu",
+          "username": "mihaelatomescu"
+        },
+        {
+          "api_id": "usr-awLkdQw8RoYJzsG",
+          "name": "Sorana Zica",
+          "username": "PuntoUP"
+        },
+        {
+          "api_id": "usr-nrafq43CBwGbZXG",
+          "name": "Alina Vlad",
+          "username": null
+        }
+      ],
+      "guest_count": 21,
+      "ticket_count": 21,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": true
       },
       "registration_availability": "open",
       "waitlist_active": false,
@@ -3787,8 +3899,8 @@
           "username": "brandient"
         }
       ],
-      "guest_count": 4,
-      "ticket_count": 4,
+      "guest_count": 16,
+      "ticket_count": 16,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3813,7 +3925,7 @@
         "one_to_one": true,
         "recurrence_id": null,
         "show_guest_list": true,
-        "social_image_url": "https://images.lumacdn.com/event-social/g6/9e57b238-be8f-49e6-904f-946569d7af9c.png",
+        "social_image_url": "https://images.lumacdn.com/event-social/41/6c69a0fb-a459-4bc4-a504-b6b1619090c7.png",
         "start_at": "2026-11-16T07:30:00.000Z",
         "timezone": "Europe/Bucharest",
         "url": "c6fjqktn",
@@ -3913,8 +4025,8 @@
           "username": "cristinalupu"
         }
       ],
-      "guest_count": 36,
-      "ticket_count": 36,
+      "guest_count": 37,
+      "ticket_count": 37,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -4970,8 +5082,8 @@
           "username": null
         }
       ],
-      "guest_count": 0,
-      "ticket_count": 0,
+      "guest_count": 4,
+      "ticket_count": 4,
       "ticket_info": {
         "price": null,
         "is_free": true,
