@@ -29,17 +29,17 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 13 septembrie
 
 - `09:00` [Holo X Crossfit Nord](https://lu.ma/2gkbbcm9)  
-  <sub>Holo Community · 23 de participanți</sub>
+  <sub>Holo Community · 27 de participanți</sub>
 - `09:00` [Tura de duminică Cotroceni](https://lu.ma/jexn8lxy)  
-  <sub>Aleodor Tabarcea · 4 participanți</sub>
+  <sub>Aleodor Tabarcea · 6 participanți</sub>
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/czbpoxmp)  
-  <sub>Emily Merdus · 11 participanți</sub>
+  <sub>Emily Merdus · 14 participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/9eu43gfy)  
-  <sub>Irina Tenovici · 2 participanți</sub>
+  <sub>Irina Tenovici · 8 participanți</sub>
 - `09:00` [Tura de duminică Lacul Morii](https://lu.ma/s4awrp4p)  
   <sub>Alexandru Agatinei · 3 participanți</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/klrc4713)  
-  <sub>Nicoleta Ifrim · 2 participanți</sub>
+  <sub>Nicoleta Ifrim · 8 participanți</sub>
 - `10:00` [Teatru pentru copii](https://greenrevolution.ro/eveniment/teatru-pentru-copii/)  
   <sub>Roaba de Cultură</sub>
 
@@ -60,7 +60,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Marți, 15 septembrie
 
 - `18:00` [WIN #10 - Longevitate, wellbeing și prevenție - Diana Baicu - Co-Fondator Top Line și Silhouette](https://lu.ma/2a6xstoi)  
-  <sub>Vlad RBC · 12 participanți</sub>
+  <sub>Vlad RBC · 13 participanți</sub>
 - `19:00` [Documentary Screening \| Can We Do It Ourselves?](https://lu.ma/sylh4kr2)  
   <sub>Ariel Pontes · 10 participanți</sub>
 - `19:00` [Product Drinks × Productlab Conference: satellite edition](https://lu.ma/7osceu5i)  
@@ -94,7 +94,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `11:00` [Charlie și Fabrica de Ciocolată - 19 septembrie ora 11.00](https://lu.ma/4typlmgm)  
   <sub>Opera Comică pentru Copii · 3 participanți</sub>
 - `14:00` [Cafeaua De Sâmbăta #28 \| Bucuresti](https://lu.ma/yfvxiucj)  
-  <sub>Ionut Alexandru Stanciu · 9 participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 10 participanți</sub>
 - `16:00` [She Owns The Run.She Owns The Fight Too](https://lu.ma/kwavr9cz)  
   <sub>FOMO Urban Running Club · 40 de participanți</sub>
 
