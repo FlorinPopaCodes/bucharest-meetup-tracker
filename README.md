@@ -4,18 +4,6 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Vineri, 11 septembrie
-
-- `18:00` [Let’s Face It](https://lu.ma/s74vvy6q)  
-  <sub>Caroline Fischer · 29 de participanți</sub>
-- `18:30` [Metalurgiei Meetup @ Colibri: vin, pictură și oameni faini 🎨🍷](https://lu.ma/wjgv90ky)  
-  <sub>Loredana Pipie</sub>
-
----
-
-- [Bădăranii 20.26](https://www.iabilet.ro/bilete-badaranii-20-26-129995/)  
-  <sub>Teatrul Improteca</sub>
-
 ### Sâmbătă, 12 septembrie
 
 - `08:00` [Sport în aer liber: Yoga cu Mariuca Patrichi](https://greenrevolution.ro/eveniment/sport-in-aer-liber-yoga-cu-mariuca-patrichi-3/)  
@@ -29,7 +17,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `16:00` [Tura de duminică la Masa care Unește](https://lu.ma/vo67yyyv)  
   <sub>Endi Ungureanu</sub>
 - `17:00` [reading corner, chapter #56 x Sound District Floreasca](https://lu.ma/jsf6xopw)  
-  <sub>reading corner · 107 de participanți</sub>
+  <sub>reading corner · 109 de participanți</sub>
 
 ---
 
@@ -41,9 +29,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 13 septembrie
 
 - `09:00` [Holo X Crossfit Nord](https://lu.ma/2gkbbcm9)  
-  <sub>Holo Community · 22 de participanți</sub>
+  <sub>Holo Community · 23 de participanți</sub>
 - `09:00` [Tura de duminică Cotroceni](https://lu.ma/jexn8lxy)  
-  <sub>Aleodor Tabarcea · 3 participanți</sub>
+  <sub>Aleodor Tabarcea · 4 participanți</sub>
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/czbpoxmp)  
   <sub>Emily Merdus · 11 participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/9eu43gfy)  
@@ -76,14 +64,14 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `19:00` [Documentary Screening \| Can We Do It Ourselves?](https://lu.ma/sylh4kr2)  
   <sub>Ariel Pontes · 10 participanți</sub>
 - `19:00` [Product Drinks × Productlab Conference: satellite edition](https://lu.ma/7osceu5i)  
-  <sub>Dragos · 35 de participanți</sub>
+  <sub>Dragos · 37 de participanți</sub>
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E39](https://lu.ma/1d3m1nbc)  
   <sub>321sport · 4 participanți</sub>
 
 ### Miercuri, 16 septembrie
 
 - `19:00` [Alergare Alergado & ParkLake - PREZENT! PENTRU VIITOR](https://lu.ma/55a5zbsb)  
-  <sub>321sport · 22 de participanți</sub>
+  <sub>321sport · 24 de participanți</sub>
 
 ### Joi, 17 septembrie
 
@@ -159,15 +147,20 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `11:00` [Human led AI Enabled](https://lu.ma/wd9pnd7y)  
   <sub>Mohammed Benzakour · 11 participanți</sub>
 
+### Sâmbătă, 26 septembrie
+
+- [Fii cuminte, Cristofor!](https://www.iabilet.ro/bilete-fii-cuminte-cristofor-130125/)  
+  <sub>Teatrul Improteca</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-11)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-12)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-11)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-12)
 
 ## Despre
 
@@ -181,4 +174,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 11 septembrie 2026*
+*Actualizat: 12 septembrie 2026*
