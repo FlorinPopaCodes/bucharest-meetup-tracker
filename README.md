@@ -4,28 +4,6 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Sâmbătă, 12 septembrie
-
-- `08:00` [Sport în aer liber: Yoga cu Mariuca Patrichi](https://greenrevolution.ro/eveniment/sport-in-aer-liber-yoga-cu-mariuca-patrichi-3/)  
-  <sub>Roaba de Cultură</sub>
-- `09:00` [Sport în aer liber: Pilates cu Spinu Ionela](https://greenrevolution.ro/eveniment/sport-in-aer-liber-pilates-cu-spinu-ionela/)  
-  <sub>Roaba de Cultură</sub>
-- `09:30` [Wooming around](https://greenrevolution.ro/eveniment/wooming-around-2/)  
-  <sub>Roaba de Cultură</sub>
-- `16:00` [📚 Book Swap in the Park #3 — Ediție specială - Last but not least🤍#18](https://lu.ma/03qeynqz)  
-  <sub>Lucian Savu · 18 participanți</sub>
-- `16:00` [Tura de duminică la Masa care Unește](https://lu.ma/vo67yyyv)  
-  <sub>Endi Ungureanu</sub>
-- `17:00` [reading corner, chapter #56 x Sound District Floreasca](https://lu.ma/jsf6xopw)  
-  <sub>reading corner · 109 de participanți</sub>
-
----
-
-- [La joacă cu bunicii](https://www.iabilet.ro/bilete-la-joaca-cu-bunicii-130038/)  
-  <sub>Teatrul Improteca</sub>
-- [Ursul şi Ursoaica](https://www.iabilet.ro/bilete-ursul-si-ursoaica-129996/)  
-  <sub>Teatrul Improteca</sub>
-
 ### Duminică, 13 septembrie
 
 - `09:00` [Holo X Crossfit Nord](https://lu.ma/2gkbbcm9)  
@@ -71,7 +49,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Miercuri, 16 septembrie
 
 - `19:00` [Alergare Alergado & ParkLake - PREZENT! PENTRU VIITOR](https://lu.ma/55a5zbsb)  
-  <sub>321sport · 24 de participanți</sub>
+  <sub>321sport · 26 de participanți</sub>
 
 ### Joi, 17 septembrie
 
@@ -152,15 +130,20 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - [Fii cuminte, Cristofor!](https://www.iabilet.ro/bilete-fii-cuminte-cristofor-130125/)  
   <sub>Teatrul Improteca</sub>
 
+### Duminică, 27 septembrie
+
+- [M-ai lovit la corporație - sketch comedy muzical Improteca](https://www.iabilet.ro/bilete-m-ai-lovit-la-corporatie-sketch-comedy-muzical-improteca-130101/)  
+  <sub>Teatrul Improteca</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-12)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-13)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-12)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-13)
 
 ## Despre
 
@@ -174,4 +157,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 12 septembrie 2026*
+*Actualizat: 13 septembrie 2026*
