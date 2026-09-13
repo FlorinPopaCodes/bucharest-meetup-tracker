@@ -34,17 +34,19 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
   <sub>THE SQUARE Chess Club</sub>
 - `18:45` [3rd Space Bucharest AI Circle](https://lu.ma/3rdSpaceAICircle)  
   <sub>Eric Melchor</sub>
+- `19:30` [Monday Quizmania](https://lu.ma/bqkq8jjf)  
+  <sub>T5 Social · 9 participanți</sub>
 
 ### Marți, 15 septembrie
 
 - `18:00` [WIN #10 - Longevitate, wellbeing și prevenție - Diana Baicu - Co-Fondator Top Line și Silhouette](https://lu.ma/2a6xstoi)  
-  <sub>Vlad RBC · 13 participanți</sub>
+  <sub>Vlad RBC · 18 participanți</sub>
 - `19:00` [Documentary Screening \| Can We Do It Ourselves?](https://lu.ma/sylh4kr2)  
   <sub>Ariel Pontes · 10 participanți</sub>
 - `19:00` [Product Drinks × Productlab Conference: satellite edition](https://lu.ma/7osceu5i)  
-  <sub>Dragos · 37 de participanți</sub>
+  <sub>Dragos · 42 de participanți</sub>
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E39](https://lu.ma/1d3m1nbc)  
-  <sub>321sport · 4 participanți</sub>
+  <sub>321sport · 6 participanți</sub>
 
 ### Miercuri, 16 septembrie
 
@@ -58,7 +60,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:00` [Lansare carte Adrian Matache si Alexandru Ungureanu](https://lu.ma/jz86se3y)  
   <sub>Adrian Matache · 9 participanți</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E40](https://lu.ma/pbqqoqu7)  
-  <sub>321sport · 8 participanți</sub>
+  <sub>321sport · 10 participanți</sub>
 
 ### Vineri, 18 septembrie
 
@@ -83,6 +85,8 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Duminică, 20 septembrie
 
+- `08:30` [BODY AND MIND](https://lu.ma/weakhsjm)  
+  <sub>Holo Community · 3 participanți</sub>
 - `09:00` [Tura de duminică Cotroceni](https://lu.ma/cgxj7trs)  
   <sub>Aleodor Tabarcea</sub>
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/47eavvzt)  
@@ -90,7 +94,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/s8idrq69)  
   <sub>Irina Tenovici · 1 participant</sub>
 - `09:00` [Tura de duminică Lacul Morii](https://lu.ma/0qe7c55c)  
-  <sub>Alexandru Agatinei · 1 participant</sub>
+  <sub>Alexandru Agatinei · 2 participanți</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/2wjuqsp0)  
   <sub>Nicoleta Ifrim · 1 participant</sub>
 
@@ -107,11 +111,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Miercuri, 23 septembrie
 
 - `17:30` [Hello World! Kobudei Debut & Kotlin Anniversary](https://lu.ma/iud6vztv)  
-  <sub>Viorel Alexandrescu · 13 participanți</sub>
+  <sub>Viorel Alexandrescu · 14 participanți</sub>
 - `18:00` [Nookyard presents: Efectele reale ale EU AI Act asupra businessului tău \[cu Matei Stefan, SenecAI\]](https://lu.ma/9l0mlf6w)  
   <sub>Ionut Alexandru Stanciu · 18 participanți</sub>
 - `18:30` [Exhibition: Între noi · Tra noi – Italy and Romania told through data](https://lu.ma/zewwekyu)  
-  <sub>nutgraf studio · 8 participanți</sub>
+  <sub>nutgraf studio · 9 participanți</sub>
 
 ### Joi, 24 septembrie
 
