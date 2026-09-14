@@ -18,13 +18,13 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Marți, 15 septembrie
 
 - `18:00` [WIN #10 - Longevitate, wellbeing și prevenție - Diana Baicu - Co-Fondator Top Line și Silhouette](https://lu.ma/2a6xstoi)  
-  <sub>Amalia WIN · 30 de participanți</sub>
+  <sub>Amalia WIN</sub>
 - `19:00` [Documentary Screening \| Can We Do It Ourselves?](https://lu.ma/sylh4kr2)  
   <sub>Ariel Pontes · 10 participanți</sub>
 - `19:00` [Product Drinks × Productlab Conference: satellite edition](https://lu.ma/7osceu5i)  
-  <sub>Dragos · 42 de participanți</sub>
+  <sub>Dragos · 40 de participanți</sub>
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E39](https://lu.ma/1d3m1nbc)  
-  <sub>321sport · 6 participanți</sub>
+  <sub>321sport · 11 participanți</sub>
 
 ### Miercuri, 16 septembrie
 
@@ -36,9 +36,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:00` [After Work – Paint, Sip & Unwind @ DBH with Mooz Artelier & Loredana](https://lu.ma/3i24gm4c)  
   <sub>Loredana Pipie</sub>
 - `18:00` [Lansare carte Adrian Matache si Alexandru Ungureanu](https://lu.ma/jz86se3y)  
-  <sub>Adrian Matache · 9 participanți</sub>
+  <sub>Adrian Matache</sub>
+- `18:00` [Picnic & Play 🃏🏐](https://lu.ma/rmofjjdo)  
+  <sub>Oportune · 5 participanți</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E40](https://lu.ma/pbqqoqu7)  
-  <sub>321sport · 10 participanți</sub>
+  <sub>321sport · 24 de participanți</sub>
 
 ### Vineri, 18 septembrie
 
@@ -48,7 +50,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Sâmbătă, 19 septembrie
 
 - `09:30` [FFF x come out and play](https://lu.ma/t0q8u2f3)  
-  <sub>MuvOutside · 15 participanți</sub>
+  <sub>MuvOutside · 16 participanți</sub>
 - `11:00` [Charlie și Fabrica de Ciocolată - 19 septembrie ora 11.00](https://lu.ma/4typlmgm)  
   <sub>Opera Comică pentru Copii · 3 participanți</sub>
 - `14:00` [Cafeaua De Sâmbăta #28 \| Bucuresti](https://lu.ma/yfvxiucj)  
@@ -75,6 +77,10 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
   <sub>Alexandru Agatinei · 2 participanți</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/2wjuqsp0)  
   <sub>Nicoleta Ifrim · 1 participant</sub>
+- `10:30` [Ride in Park 🚴‍♂️](https://lu.ma/9qhv2rdj)  
+  <sub>Oportune · 3 participanți</sub>
+- `14:30` [reading & movie corner, chapter #57 x Feminist Film Festival](https://lu.ma/7uen7sy3)  
+  <sub>reading corner · 96 de participanți</sub>
 
 ---
 
@@ -91,9 +97,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `17:30` [Hello World! Kobudei Debut & Kotlin Anniversary](https://lu.ma/iud6vztv)  
   <sub>Viorel Alexandrescu · 14 participanți</sub>
 - `18:00` [Nookyard presents: Efectele reale ale EU AI Act asupra businessului tău \[cu Matei Stefan, SenecAI\]](https://lu.ma/9l0mlf6w)  
-  <sub>Ionut Alexandru Stanciu · 19 participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 20 de participanți</sub>
 - `18:30` [Exhibition: Între noi · Tra noi – Italy and Romania told through data](https://lu.ma/zewwekyu)  
-  <sub>nutgraf studio · 17 participanți</sub>
+  <sub>nutgraf studio · 18 participanți</sub>
 
 ### Joi, 24 septembrie
 
