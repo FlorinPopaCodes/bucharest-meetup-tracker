@@ -4,32 +4,17 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Joi, 17 septembrie
-
-- `11:00` [Bucharest - International Generalist Day!](https://lu.ma/cqtel19f)  
-  <sub>generalist.world · 12 participanți</sub>
-- `18:00` [AFTER HOURS IAF Ro - Sept 2026](https://lu.ma/p9t1z2wg)  
-  <sub>Cristina Irod · 4 participanți</sub>
-- `18:00` [After Work – Paint, Sip & Unwind @ DBH with Mooz Artelier & Loredana](https://lu.ma/3i24gm4c)  
-  <sub>Loredana Pipie</sub>
-- `18:00` [Lansare carte Adrian Matache si Alexandru Ungureanu](https://lu.ma/jz86se3y)  
-  <sub>Adrian Matache</sub>
-- `18:00` [Picnic & Play 🃏🏐](https://lu.ma/rmofjjdo)  
-  <sub>Oportune · 11 participanți</sub>
-- `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E40](https://lu.ma/pbqqoqu7)  
-  <sub>321sport · 45 de participanți</sub>
-- `19:30` [Thursday Trivia](https://lu.ma/2rp3jb8n)  
-  <sub>T5 Social · 29 de participanți</sub>
-
 ### Vineri, 18 septembrie
 
 - `08:30` [RoFintech Breakfast hosted by Unicredit Bank](https://lu.ma/iuw0brbc)  
   <sub>Adrian Drinceanu</sub>
+- `19:30` [Music Bingo](https://lu.ma/m17zfg52)  
+  <sub>T5 Social · 4 participanți</sub>
 
 ### Sâmbătă, 19 septembrie
 
 - `09:30` [FFF x come out and play](https://lu.ma/t0q8u2f3)  
-  <sub>MuvOutside · 42 de participanți</sub>
+  <sub>MuvOutside · 44 de participanți</sub>
 - `11:00` [Charlie și Fabrica de Ciocolată - 19 septembrie ora 11.00](https://lu.ma/4typlmgm)  
   <sub>Opera Comică pentru Copii · 3 participanți</sub>
 - `11:00` [THE SQUARE Chess & Brunch @Sloane Coffee](https://lu.ma/tsxx3l3s)  
@@ -37,7 +22,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `13:00` [The Marketing Table \| The Clique X The Sunday Club](https://lu.ma/ko7jyx3z)  
   <sub>The Clique · 11 participanți</sub>
 - `14:00` [Cafeaua De Sâmbăta #28 \| Bucuresti](https://lu.ma/yfvxiucj)  
-  <sub>Ionut Alexandru Stanciu · 23 de participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 25 de participanți</sub>
 - `16:00` [She Owns The Run.She Owns The Fight Too](https://lu.ma/kwavr9cz)  
   <sub>FOMO Urban Running Club · 40 de participanți</sub>
 - `17:00` [Coffee, beer & LinkedIn](https://lu.ma/ydmfw8g1)  
@@ -65,7 +50,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `10:30` [Ride in Park 🚴‍♂️](https://lu.ma/9qhv2rdj)  
   <sub>Oportune · 6 participanți</sub>
 - `14:30` [reading & movie corner, chapter #57 x Feminist Film Festival](https://lu.ma/7uen7sy3)  
-  <sub>reading corner · 120 de participanți</sub>
+  <sub>reading corner · 123 de participanți</sub>
 
 ---
 
@@ -75,7 +60,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Luni, 21 septembrie
 
 - `09:00` [Work from Hub! Urban Hub](https://lu.ma/67jdsb6l)  
-  <sub>Urban Hub · 3 participanți</sub>
+  <sub>Urban Hub · 4 participanți</sub>
 
 ### Marți, 22 septembrie
 
@@ -95,9 +80,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:00` [RBC #413 \| ANTREPRENORUL CARE ARATĂ A SUCCES VINDE MAI MULT \| Alin Copîndeanu \| Fondator Tudor Tailor](https://lu.ma/24a55dyn)  
   <sub>Teodora Nicolaiciuc</sub>
 - `18:30` [Exhibition: Între noi · Tra noi – Italy and Romania told through data](https://lu.ma/zewwekyu)  
-  <sub>nutgraf studio · 59 de participanți</sub>
+  <sub>nutgraf studio · 61 de participanți</sub>
 - `19:00` [Pre-party \| How to Web Conference 2026](https://lu.ma/pre-party-how-to-web-conference)  
-  <sub>How to Web · 111 de participanți</sub>
+  <sub>How to Web · 116 de participanți</sub>
 
 ### Joi, 24 septembrie
 
@@ -113,9 +98,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Vineri, 25 septembrie
 
 - `11:00` [Human led AI Enabled](https://lu.ma/wd9pnd7y)  
-  <sub>Mohammed Benzakour · 15 participanți</sub>
+  <sub>Mohammed Benzakour · 16 participanți</sub>
 - `20:30` [Birthday Dinner & Party](https://lu.ma/sl52ufo8)  
-  <sub>The Clique · 33 de participanți</sub>
+  <sub>The Clique · 34 de participanți</sub>
 
 ### Sâmbătă, 26 septembrie
 
@@ -124,10 +109,10 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Duminică, 27 septembrie
 
-- `10:00` [Tura de duminică Herăstrău x COFFeEAST, ediție specială](https://lu.ma/n7fmzs2j)  
+- `10:00` [Tura de duminică Herăstrău x Slow Coffee Festival, ediție specială](https://lu.ma/n7fmzs2j)  
   <sub>Endi Ungureanu</sub>
 - `17:30` [Ediție specială \| Pauza de cafea… între fete la cinema 🎬☕️](https://lu.ma/6v9h5tvx)  
-  <sub>Mihailescu Floriana Elena · 11 participanți</sub>
+  <sub>Mihailescu Floriana Elena · 12 participanți</sub>
 
 ---
 
@@ -137,16 +122,16 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Marți, 29 septembrie
 
 - `18:00` [Human Wisdom vs. Synthesized Code: Engineering Leadership in an AI-First World](https://lu.ma/43w00f1t)  
-  <sub>Lucian Popovici · 72 de participanți</sub>
+  <sub>Lucian Popovici · 74 de participanți</sub>
 - `18:30` [Meetup IAF Romania: Facilitarea Dezacordului](https://lu.ma/znbwfrhm)  
-  <sub>Bogdan Grigore · 12 participanți</sub>
+  <sub>Bogdan Grigore · 22 de participanți</sub>
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E43](https://lu.ma/9135t8lw)  
   <sub>321sport · 3 participanți</sub>
 
 ### Miercuri, 30 septembrie
 
 - `17:00` [CEOs Get Together](https://lu.ma/jdk3bqt2)  
-  <sub>Madalina Vechiu · 62 de participanți</sub>
+  <sub>Madalina Vechiu · 66 de participanți</sub>
 - `18:00` [AI Mindset : Readiness & Adoption](https://lu.ma/fmsv78fj)  
   <sub>Upskilling the Romanian IT Industry · 57 de participanți</sub>
 
@@ -163,11 +148,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-17)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-18)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-17)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-18)
 
 ## Despre
 
@@ -181,4 +166,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 17 septembrie 2026*
+*Actualizat: 18 septembrie 2026*
