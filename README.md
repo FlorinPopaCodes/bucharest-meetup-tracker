@@ -29,19 +29,19 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 20 septembrie
 
 - `08:30` [BODY AND MIND](https://lu.ma/weakhsjm)  
-  <sub>Holo Community · 27 de participanți</sub>
+  <sub>Holo Community · 31 de participanți</sub>
 - `09:00` [Tura de duminică Cotroceni](https://lu.ma/cgxj7trs)  
-  <sub>Aleodor Tabarcea · 1 participant</sub>
+  <sub>Aleodor Tabarcea · 3 participanți</sub>
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/47eavvzt)  
-  <sub>Emily Merdus · 2 participanți</sub>
+  <sub>Emily Merdus · 7 participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/s8idrq69)  
-  <sub>Irina Tenovici · 2 participanți</sub>
+  <sub>Irina Tenovici · 5 participanți</sub>
 - `09:00` [Tura de duminică Lacul Morii](https://lu.ma/0qe7c55c)  
-  <sub>Alexandru Agatinei · 2 participanți</sub>
+  <sub>Alexandru Agatinei · 1 participant</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/2wjuqsp0)  
-  <sub>Nicoleta Ifrim · 3 participanți</sub>
+  <sub>Nicoleta Ifrim · 9 participanți</sub>
 - `14:30` [reading & movie corner, chapter #57 x Feminist Film Festival](https://lu.ma/7uen7sy3)  
-  <sub>reading corner · 124 de participanți</sub>
+  <sub>reading corner · 120 de participanți</sub>
 - `17:30` [Ride in Park 🚴‍♂️](https://lu.ma/9qhv2rdj)  
   <sub>Oportune · 7 participanți</sub>
 
@@ -75,13 +75,15 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:30` [Exhibition: Între noi · Tra noi – Italy and Romania told through data](https://lu.ma/zewwekyu)  
   <sub>nutgraf studio · 69 de participanți</sub>
 - `19:00` [Pre-party \| How to Web Conference 2026](https://lu.ma/pre-party-how-to-web-conference)  
-  <sub>How to Web · 123 de participanți</sub>
+  <sub>How to Web · 125 de participanți</sub>
 
 ### Joi, 24 septembrie
 
+- `18:00` [Private Business Dinner WIN #13 Veuve Clicquot x Oyster & Caviar](https://lu.ma/4ptnanec)  
+  <sub>Vlad RBC</sub>
 - `18:00` [The Leadership Level Trap](https://lu.ma/lyh6xd1s)  
   <sub>Sfera Business</sub>
-- `18:30` [AI and the Future of Work in EU (w/ The AI Collective)](https://lu.ma/aic-buc-fow)  
+- `18:30` [AI and the Future of Work in the EU (w/ The AI Collective)](https://lu.ma/aic-buc-fow)  
   <sub>The AI Collective</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E42](https://lu.ma/i5ydx45z)  
   <sub>321sport · 9 participanți</sub>
@@ -91,11 +93,16 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Vineri, 25 septembrie
 
 - `11:00` [Human led AI Enabled](https://lu.ma/wd9pnd7y)  
-  <sub>Mohammed Benzakour · 16 participanți</sub>
+  <sub>Mohammed Benzakour · 22 de participanți</sub>
 - `20:30` [Birthday Dinner & Party](https://lu.ma/sl52ufo8)  
   <sub>The Clique · 34 de participanți</sub>
 
 ### Sâmbătă, 26 septembrie
+
+- `13:00` [reading & boardgames corner, chapter #58](https://lu.ma/fmro915b)  
+  <sub>reading corner · 15 participanți</sub>
+
+---
 
 - [Fii cuminte, Cristofor!](https://www.iabilet.ro/bilete-fii-cuminte-cristofor-130125/)  
   <sub>Teatrul Improteca</sub>
@@ -105,7 +112,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `10:00` [Tura de duminică Herăstrău x Slow Coffee Festival, ediție specială](https://lu.ma/n7fmzs2j)  
   <sub>Endi Ungureanu</sub>
 - `17:30` [Ediție specială \| Pauza de cafea… între fete la cinema 🎬☕️](https://lu.ma/6v9h5tvx)  
-  <sub>Mihailescu Floriana Elena · 12 participanți</sub>
+  <sub>Mihailescu Floriana Elena · 13 participanți</sub>
 
 ---
 
@@ -115,18 +122,18 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Marți, 29 septembrie
 
 - `18:00` [Human Wisdom vs. Synthesized Code: Engineering Leadership in an AI-First World](https://lu.ma/43w00f1t)  
-  <sub>Lucian Popovici · 84 de participanți</sub>
+  <sub>Lucian Popovici · 85 de participanți</sub>
 - `18:30` [Meetup IAF Romania: Facilitarea Dezacordului](https://lu.ma/znbwfrhm)  
-  <sub>Bogdan Grigore · 30 de participanți</sub>
+  <sub>Bogdan Grigore · 34 de participanți</sub>
 - `19:00` [Work, Life & Everything Else](https://lu.ma/vozcrfah)  
-  <sub>neomixer by ▲promocrat · 36 de participanți</sub>
+  <sub>neomixer by ▲promocrat · 37 de participanți</sub>
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E43](https://lu.ma/9135t8lw)  
   <sub>321sport · 3 participanți</sub>
 
 ### Miercuri, 30 septembrie
 
 - `17:00` [CEOs Get Together](https://lu.ma/jdk3bqt2)  
-  <sub>Madalina Vechiu · 68 de participanți</sub>
+  <sub>Madalina Vechiu · 69 de participanți</sub>
 - `18:00` [AI Mindset : Readiness & Adoption](https://lu.ma/fmsv78fj)  
   <sub>Upskilling the Romanian IT Industry · 57 de participanți</sub>
 
