@@ -1,225 +1,6 @@
 {
   "geo": [
     {
-      "api_id": "evt-t8A1DchBS7cnV6t",
-      "event": {
-        "api_id": "evt-t8A1DchBS7cnV6t",
-        "calendar_api_id": "cal-sep1iBzNbClaD18",
-        "end_at": "2026-09-20T15:45:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "reading & movie corner, chapter #57 x Feminist Film Festival",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": true,
-        "social_image_url": "https://images.lumacdn.com/event-social/ok/75e9d417-8bc8-43dd-8f5c-f7c87ffd78f3.png",
-        "start_at": "2026-09-20T11:30:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "7uen7sy3",
-        "user_api_id": "usr-V22zkkmgU35tOAr",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "București",
-          "type": "google",
-          "region": "București",
-          "address": "Cinema Muzeul Țăranului",
-          "country": "Romania",
-          "place_id": "ChIJZ9gYOwADskAR8dsNJXPuo-A",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": "București",
-              "address": "Cinema Muzeul Țăranului",
-              "country": "România",
-              "city_state": "București, România",
-              "sublocality": "Bucureşti Sectorul 1",
-              "full_address": "Cinema Muzeul Țăranului, Strada Monetăriei 3, București, România",
-              "region_short": "București",
-              "short_address": "Strada Monetăriei 3, București"
-            }
-          },
-          "city_state": "București, Romania",
-          "description": "",
-          "sublocality": "Bucureşti Sectorul 1",
-          "country_code": "RO",
-          "full_address": "Cinema Muzeul Țăranului, Strada Monetăriei 3, București, Romania",
-          "region_short": "București",
-          "short_address": "Strada Monetăriei 3, București",
-          "place_coordinate": {
-            "latitude": 44.4542219,
-            "longitude": 26.0836941
-          },
-          "apple_maps_place_id": null,
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 26.0836941,
-          "latitude": 44.4542219
-        },
-        "waitlist_enabled": true,
-        "waitlist_status": "active"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-sep1iBzNbClaD18",
-        "coordinate": null,
-        "description_short": null,
-        "end_date": null,
-        "is_verified": false,
-        "location": null,
-        "name": "Personal",
-        "personal_user_api_id": "usr-V22zkkmgU35tOAr",
-        "slug": null,
-        "start_date": null,
-        "website": null,
-        "is_personal": true,
-        "personal_user": {
-          "api_id": "usr-V22zkkmgU35tOAr",
-          "name": "reading corner",
-          "username": "readingcorner"
-        },
-        "timezone": null
-      },
-      "start_at": "2026-09-20T11:30:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-V22zkkmgU35tOAr",
-          "name": "reading corner",
-          "username": "readingcorner"
-        }
-      ],
-      "guest_count": 117,
-      "ticket_count": 117,
-      "ticket_info": {
-        "price": null,
-        "is_free": true,
-        "max_price": null,
-        "is_sold_out": false,
-        "require_approval": false
-      },
-      "registration_availability": "open",
-      "waitlist_active": false,
-      "featured_city": null
-    },
-    {
-      "api_id": "evt-TfgeUbtp71rXlbN",
-      "event": {
-        "api_id": "evt-TfgeUbtp71rXlbN",
-        "calendar_api_id": "cal-ot5ZcmBTBR6zoCX",
-        "end_at": "2026-09-20T16:30:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "Ride in Park 🚴‍♂️",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": true,
-        "social_image_url": "https://images.lumacdn.com/event-social/xv/7cd98b5b-10c5-4ce1-a536-3b1eba36ce40.png",
-        "start_at": "2026-09-20T14:30:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "9qhv2rdj",
-        "user_api_id": "usr-pPsXiLjPVvFaH2f",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "București",
-          "type": "google",
-          "region": "București",
-          "address": "I’Velo - Tineretului Park",
-          "country": "Romania",
-          "place_id": "ChIJwwG3TgH_sUARi5QSo6l_5b8",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": "București",
-              "address": "I’Velo - Parcul Tineretului",
-              "country": "România",
-              "city_state": "București, România",
-              "sublocality": "Bucureşti Sectorul 4",
-              "full_address": "I’Velo - Parcul Tineretului, Bulevardul Tineretului 3, 042045 București, România",
-              "region_short": "București",
-              "short_address": "Bulevardul Tineretului 3, București"
-            },
-            "en-GB": {
-              "city": "București",
-              "region": "București",
-              "address": "I’Velo - Tineretului Park",
-              "country": "Romania",
-              "city_state": "București, Romania",
-              "sublocality": "Bucureşti Sectorul 4",
-              "full_address": "I’Velo - Tineretului Park, Bulevardul Tineretului 3, 042045 București, Romania",
-              "region_short": "București",
-              "short_address": "Bulevardul Tineretului 3, București"
-            }
-          },
-          "city_state": "București, Romania",
-          "description": "",
-          "sublocality": "Bucureşti Sectorul 4",
-          "country_code": "RO",
-          "full_address": "I’Velo - Tineretului Park, Bulevardul Tineretului 3, 042045 București, Romania",
-          "region_short": "București",
-          "short_address": "Bulevardul Tineretului 3, București",
-          "place_coordinate": {
-            "latitude": 44.4131228,
-            "longitude": 26.104789999999998
-          },
-          "apple_maps_place_id": null,
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 26.104789999999998,
-          "latitude": 44.4131228
-        },
-        "waitlist_enabled": false,
-        "waitlist_status": "disabled"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-ot5ZcmBTBR6zoCX",
-        "coordinate": null,
-        "description_short": "✨ Dezvoltare personală și profesională\n🩵 3500 de tineri în comunitate, peste 1450 oportunități\n🌐 Mobilități Erasmus, voluntariate, proiecte, joburi\n🗓️ Calendarul cu evenimentele săptămânale",
-        "end_date": null,
-        "is_verified": false,
-        "location": null,
-        "name": "Oportune",
-        "personal_user_api_id": null,
-        "slug": "oportune.ro",
-        "start_date": null,
-        "website": "https://oportune.ro/anunturi",
-        "is_personal": false,
-        "personal_user": null,
-        "timezone": null
-      },
-      "start_at": "2026-09-20T14:30:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-pPsXiLjPVvFaH2f",
-          "name": "Oportune",
-          "username": null
-        }
-      ],
-      "guest_count": 8,
-      "ticket_count": 8,
-      "ticket_info": {
-        "price": null,
-        "is_free": true,
-        "max_price": null,
-        "is_sold_out": false,
-        "require_approval": false
-      },
-      "registration_availability": "open",
-      "waitlist_active": false,
-      "featured_city": null
-    },
-    {
       "api_id": "evt-VKKhwRvfuB3lwxb",
       "event": {
         "api_id": "evt-VKKhwRvfuB3lwxb",
@@ -307,6 +88,120 @@
       ],
       "guest_count": 6,
       "ticket_count": 6,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-2iQ748S3lD5iqCH",
+      "event": {
+        "api_id": "evt-2iQ748S3lD5iqCH",
+        "calendar_api_id": "cal-vy7fTgxG01iG02Y",
+        "end_at": "2026-09-21T19:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Monday Quizmania",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/rx/fb5e14d9-8606-456f-a6f2-ce9648ea4680.png",
+        "start_at": "2026-09-21T16:30:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "s640mgbg",
+        "user_api_id": "usr-dPTotCLGrq0bXdF",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "T5 Social",
+          "country": "Romania",
+          "place_id": "ChIJC5zHlhH_sUARihzCaU-u-bI",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "T5 Social",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Bucureşti Sectorul 4",
+              "full_address": "T5 Social, Strada Olimpului 13b, 040198 București, România",
+              "region_short": "București",
+              "short_address": "Strada Olimpului 13b, București"
+            },
+            "en-GB": {
+              "city": "București",
+              "region": "București",
+              "address": "T5 Social",
+              "country": "Romania",
+              "city_state": "București, Romania",
+              "sublocality": "Bucureşti Sectorul 4",
+              "full_address": "T5 Social, Strada Olimpului 13b, 040198 București, Romania",
+              "region_short": "București",
+              "short_address": "Strada Olimpului 13b, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Bucureşti Sectorul 4",
+          "country_code": "RO",
+          "full_address": "T5 Social, Strada Olimpului 13b, 040198 București, Romania",
+          "region_short": "București",
+          "short_address": "Strada Olimpului 13b, București",
+          "place_coordinate": null,
+          "apple_maps_place_id": "IC36D6A9AE0B09760",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.0988267,
+          "latitude": 44.421987099999996
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-vy7fTgxG01iG02Y",
+        "coordinate": null,
+        "description_short": null,
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Personal",
+        "personal_user_api_id": "usr-dPTotCLGrq0bXdF",
+        "slug": null,
+        "start_date": null,
+        "website": null,
+        "is_personal": true,
+        "personal_user": {
+          "api_id": "usr-dPTotCLGrq0bXdF",
+          "name": "T5 Social",
+          "username": "t5social"
+        },
+        "timezone": null
+      },
+      "start_at": "2026-09-21T16:30:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-dPTotCLGrq0bXdF",
+          "name": "T5 Social",
+          "username": "t5social"
+        }
+      ],
+      "guest_count": 9,
+      "ticket_count": 52,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -721,8 +616,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 4,
-      "ticket_count": 4,
+      "guest_count": 6,
+      "ticket_count": 6,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -845,8 +740,8 @@
           "username": null
         }
       ],
-      "guest_count": 22,
-      "ticket_count": 22,
+      "guest_count": 24,
+      "ticket_count": 24,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1214,8 +1109,8 @@
           "username": "nutgraf"
         }
       ],
-      "guest_count": 73,
-      "ticket_count": 73,
+      "guest_count": 78,
+      "ticket_count": 78,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1346,8 +1241,8 @@
           "username": null
         }
       ],
-      "guest_count": 126,
-      "ticket_count": 126,
+      "guest_count": 128,
+      "ticket_count": 128,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1368,11 +1263,11 @@
         "event_type": "independent",
         "hide_rsvp": false,
         "location_type": "offline",
-        "name": "Private Business Dinner WIN #13 Veuve Clicquot x Oyster & Caviar",
+        "name": "Private Business Dinner WIN #14 Veuve Clicquot x Oyster & Caviar",
         "one_to_one": true,
         "recurrence_id": null,
         "show_guest_list": false,
-        "social_image_url": "https://images.lumacdn.com/event-social/0b/d7517fd3-a6df-4099-896c-36d0f0a65b4b.png",
+        "social_image_url": "https://images.lumacdn.com/event-social/94/01490404-5bbe-4c00-bc62-a95dce2eb77c.png",
         "start_at": "2026-09-24T15:00:00.000Z",
         "timezone": "Europe/Bucharest",
         "url": "4ptnanec",
@@ -2299,8 +2194,8 @@
           "username": null
         }
       ],
-      "guest_count": 34,
-      "ticket_count": 34,
+      "guest_count": 33,
+      "ticket_count": 33,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2405,8 +2300,8 @@
           "username": "readingcorner"
         }
       ],
-      "guest_count": 15,
-      "ticket_count": 15,
+      "guest_count": 17,
+      "ticket_count": 17,
       "ticket_info": {
         "price": {
           "cents": 6000,
@@ -2416,7 +2311,7 @@
         "is_free": false,
         "max_price": null,
         "is_sold_out": false,
-        "require_approval": true
+        "require_approval": false
       },
       "registration_availability": "open",
       "waitlist_active": false,
@@ -2617,14 +2512,133 @@
           "username": null
         }
       ],
-      "guest_count": 86,
-      "ticket_count": 86,
+      "guest_count": 87,
+      "ticket_count": 87,
       "ticket_info": {
         "price": null,
         "is_free": true,
         "max_price": null,
         "is_sold_out": false,
         "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-jGLTtZydEETFZHE",
+      "event": {
+        "api_id": "evt-jGLTtZydEETFZHE",
+        "calendar_api_id": "cal-7bXIsT7PRi1t4un",
+        "end_at": "2026-09-29T19:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "WIN #15 – Medicină, estetică & antreprenoriat: Cum transformi expertiza într-un brand în care oamenii au încredere – Dr. Dana Bratu",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": false,
+        "social_image_url": "https://images.lumacdn.com/event-social/wj/be595940-c54e-4a58-b883-6774788af416.png",
+        "start_at": "2026-09-29T15:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "0gantf0s",
+        "user_api_id": "usr-rA1ejFsLe5mSkP4",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "InterContinental AthéNéE Palace Bucharest by IHG",
+          "country": "Romania",
+          "place_id": "ChIJS43vIcD_sUARiNxREOIuitA",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "InterContinental AthéNéE Palace Bucharest by IHG",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Piața Romană",
+              "full_address": "InterContinental AthéNéE Palace Bucharest by IHG, Strada Episcopiei 1-3, 010292 București, România",
+              "region_short": "București",
+              "short_address": "Strada Episcopiei 1-3, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Piata Romana",
+          "country_code": "RO",
+          "full_address": "InterContinental AthéNéE Palace Bucharest by IHG, Strada Episcopiei 1-3, 010292 București, Romania",
+          "region_short": "București",
+          "short_address": "Strada Episcopiei 1-3, București",
+          "place_coordinate": {
+            "latitude": 44.4411024,
+            "longitude": 26.0958982
+          },
+          "apple_maps_place_id": "I1B6D57A3B946F104",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.0958982,
+          "latitude": 44.4411024
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-7bXIsT7PRi1t4un",
+        "coordinate": null,
+        "description_short": "Women in Charge the first premium networking club only for Women. 1st edition 28th July 2027 - IHG Intercontinental Palace Athene.",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "WIN community",
+        "personal_user_api_id": null,
+        "slug": null,
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-09-29T15:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-rA1ejFsLe5mSkP4",
+          "name": "Vlad RBC",
+          "username": null
+        },
+        {
+          "api_id": "usr-olanw6mBUmJpLS2",
+          "name": "Amalia Mihalachioiu",
+          "username": null
+        },
+        {
+          "api_id": "usr-YoHNXg63tgIruJm",
+          "name": "Amalia Mihalachioiu",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": {
+          "cents": 7800,
+          "currency": "ron",
+          "is_flexible": false
+        },
+        "is_free": false,
+        "max_price": {
+          "cents": 24800,
+          "currency": "ron"
+        },
+        "is_sold_out": false,
+        "require_approval": true
       },
       "registration_availability": "open",
       "waitlist_active": false,
@@ -2837,8 +2851,8 @@
           "username": "animafelix"
         }
       ],
-      "guest_count": 39,
-      "ticket_count": 39,
+      "guest_count": 42,
+      "ticket_count": 42,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3217,123 +3231,6 @@
       "featured_city": null
     },
     {
-      "api_id": "evt-yhdVGxumH7GAapN",
-      "event": {
-        "api_id": "evt-yhdVGxumH7GAapN",
-        "calendar_api_id": "cal-seVCbLGuHZnj0vF",
-        "end_at": "2026-10-01T17:30:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "Bucharest Screening: The Women in Security Documentary",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": true,
-        "social_image_url": "https://images.lumacdn.com/event-social/p2/85cbae17-0580-4cb5-bb68-ed5b186b0a8c.png",
-        "start_at": "2026-10-01T15:30:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "1784ksge",
-        "user_api_id": "usr-Ls6GqCQACAmXT8k",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "București",
-          "type": "google",
-          "region": "București",
-          "address": "Sala Dalles",
-          "country": "Romania",
-          "place_id": "ChIJAykBSkb_sUARFjhvpueZwuc",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": "București",
-              "address": "Sala Dalles",
-              "country": "România",
-              "city_state": "București, România",
-              "sublocality": "Bucureşti Sectorul 1",
-              "full_address": "Sala Dalles, Bulevardul Nicolae Bălcescu 18, 010052 București, România",
-              "region_short": "București",
-              "short_address": "Bulevardul Nicolae Bălcescu 18, București"
-            }
-          },
-          "city_state": "București, Romania",
-          "description": "",
-          "sublocality": "Bucureşti Sectorul 1",
-          "country_code": "RO",
-          "full_address": "Sala Dalles, Bulevardul Nicolae Bălcescu 18, 010052 București, Romania",
-          "region_short": "București",
-          "short_address": "Bulevardul Nicolae Bălcescu 18, București",
-          "place_coordinate": {
-            "latitude": 44.4382283,
-            "longitude": 26.1016569
-          },
-          "apple_maps_place_id": "IA680B6B00D4A9011",
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 26.1016569,
-          "latitude": 44.4382283
-        },
-        "waitlist_enabled": true,
-        "waitlist_status": "enabled"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-seVCbLGuHZnj0vF",
-        "coordinate": {
-          "longitude": -104.99025100000001,
-          "latitude": 39.739235799999996
-        },
-        "description_short": "",
-        "end_date": null,
-        "is_verified": false,
-        "location": {
-          "city": "Denver",
-          "region": "Colorado",
-          "country": "United States",
-          "place_id": "ChIJzxcfI6qAa4cR1jaKJ_j0jhE",
-          "timezone": "America/Denver",
-          "country_code": "US"
-        },
-        "name": "Cyber Qubits",
-        "personal_user_api_id": null,
-        "slug": "cyber_qubits",
-        "start_date": null,
-        "website": null,
-        "is_personal": false,
-        "personal_user": null,
-        "timezone": "America/Denver"
-      },
-      "start_at": "2026-10-01T15:30:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-Ls6GqCQACAmXT8k",
-          "name": "Cyber Qubits",
-          "username": "cyber_qubits"
-        },
-        {
-          "api_id": "usr-uD2sQB5ziRi5SAj",
-          "name": "D. Elena Borza",
-          "username": null
-        }
-      ],
-      "guest_count": 4,
-      "ticket_count": 4,
-      "ticket_info": {
-        "price": null,
-        "is_free": true,
-        "max_price": null,
-        "is_sold_out": false,
-        "require_approval": true
-      },
-      "registration_availability": "open",
-      "waitlist_active": false,
-      "featured_city": null
-    },
-    {
       "api_id": "evt-LfGJxLNY8gDZAVE",
       "event": {
         "api_id": "evt-LfGJxLNY8gDZAVE",
@@ -3428,13 +3325,13 @@
           "username": "ro_ai_labs"
         },
         {
-          "api_id": "usr-aXxNx3r9BLA3t6Z",
-          "name": "Roxana Chiriacescu",
+          "api_id": "usr-DEYJeMKBPa5ftde",
+          "name": "Matei",
           "username": null
         },
         {
-          "api_id": "usr-DEYJeMKBPa5ftde",
-          "name": "Matei",
+          "api_id": "usr-aXxNx3r9BLA3t6Z",
+          "name": "Roxana Chiriacescu",
           "username": null
         },
         {
@@ -3580,6 +3477,123 @@
         "max_price": null,
         "is_sold_out": false,
         "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-yhdVGxumH7GAapN",
+      "event": {
+        "api_id": "evt-yhdVGxumH7GAapN",
+        "calendar_api_id": "cal-seVCbLGuHZnj0vF",
+        "end_at": "2026-10-01T17:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "The Women in Security Documentary — An Evening of Film, Opera & Fashion",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/4c/13e7ed39-691e-493e-aa92-d4b02659883a.png",
+        "start_at": "2026-10-01T15:30:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "1784ksge",
+        "user_api_id": "usr-Ls6GqCQACAmXT8k",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Sala Dalles",
+          "country": "Romania",
+          "place_id": "ChIJAykBSkb_sUARFjhvpueZwuc",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Sala Dalles",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Bucureşti Sectorul 1",
+              "full_address": "Sala Dalles, Bulevardul Nicolae Bălcescu 18, 010052 București, România",
+              "region_short": "București",
+              "short_address": "Bulevardul Nicolae Bălcescu 18, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Bucureşti Sectorul 1",
+          "country_code": "RO",
+          "full_address": "Sala Dalles, Bulevardul Nicolae Bălcescu 18, 010052 București, Romania",
+          "region_short": "București",
+          "short_address": "Bulevardul Nicolae Bălcescu 18, București",
+          "place_coordinate": {
+            "latitude": 44.4382283,
+            "longitude": 26.1016569
+          },
+          "apple_maps_place_id": "IA680B6B00D4A9011",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.1016569,
+          "latitude": 44.4382283
+        },
+        "waitlist_enabled": true,
+        "waitlist_status": "enabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-seVCbLGuHZnj0vF",
+        "coordinate": {
+          "longitude": -104.99025100000001,
+          "latitude": 39.739235799999996
+        },
+        "description_short": "",
+        "end_date": null,
+        "is_verified": false,
+        "location": {
+          "city": "Denver",
+          "region": "Colorado",
+          "country": "United States",
+          "place_id": "ChIJzxcfI6qAa4cR1jaKJ_j0jhE",
+          "timezone": "America/Denver",
+          "country_code": "US"
+        },
+        "name": "Cyber Qubits",
+        "personal_user_api_id": null,
+        "slug": "cyber_qubits",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": "America/Denver"
+      },
+      "start_at": "2026-10-01T15:30:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-Ls6GqCQACAmXT8k",
+          "name": "Cyber Qubits",
+          "username": "cyber_qubits"
+        },
+        {
+          "api_id": "usr-uD2sQB5ziRi5SAj",
+          "name": "D. Elena Borza",
+          "username": null
+        }
+      ],
+      "guest_count": 4,
+      "ticket_count": 4,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": true
       },
       "registration_availability": "open",
       "waitlist_active": false,
