@@ -4,36 +4,29 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Luni, 21 septembrie
-
-- `09:00` [Work from Hub! Urban Hub](https://lu.ma/67jdsb6l)  
-  <sub>Urban Hub · 6 participanți</sub>
-- `19:30` [Monday Quizmania](https://lu.ma/s640mgbg)  
-  <sub>T5 Social · 13 participanți</sub>
-
 ### Marți, 22 septembrie
 
 - `10:30` [Pulsar Money // Coffee Meetup in Bucharest with xMoney](https://lu.ma/4gthr0n3)  
   <sub>Pulsar Money</sub>
 - `18:30` [CTO Craft Mixers: Bucharest](https://lu.ma/8ttughxt)  
-  <sub>CTO Craft · 33 de participanți</sub>
+  <sub>CTO Craft · 32 de participanți</sub>
 - `18:45` [Portraits & Prosecco: Get a Headshot, Meet Some People](https://lu.ma/portraitsandprosecco)  
   <sub>Eric Melchor · 27 de participanți</sub>
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E41](https://lu.ma/at4szcx8)  
-  <sub>321sport · 9 participanți</sub>
+  <sub>321sport · 11 participanți</sub>
 
 ### Miercuri, 23 septembrie
 
 - `17:30` [Hello World! Kobudei Debut & Kotlin Anniversary](https://lu.ma/iud6vztv)  
-  <sub>Viorel Alexandrescu · 27 de participanți</sub>
+  <sub>Viorel Alexandrescu · 26 de participanți</sub>
 - `18:00` [Nookyard presents: Efectele reale ale EU AI Act asupra businessului tău \[cu Matei Stefan, SenecAI\]](https://lu.ma/9l0mlf6w)  
-  <sub>Ionut Alexandru Stanciu · 22 de participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 23 de participanți</sub>
 - `18:00` [RBC #413 \| ANTREPRENORUL CARE ARATĂ A SUCCES VINDE MAI MULT \| Alin Copîndeanu \| Fondator Tudor Tailor](https://lu.ma/24a55dyn)  
   <sub>Teodora Nicolaiciuc</sub>
 - `18:30` [Exhibition: Între noi · Tra noi – Italy and Romania told through data](https://lu.ma/zewwekyu)  
-  <sub>nutgraf studio · 88 de participanți</sub>
+  <sub>nutgraf studio · 99 de participanți</sub>
 - `19:00` [Pre-party \| How to Web Conference 2026](https://lu.ma/pre-party-how-to-web-conference)  
-  <sub>How to Web · 137 de participanți</sub>
+  <sub>How to Web · 139 de participanți</sub>
 
 ### Joi, 24 septembrie
 
@@ -49,6 +42,8 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
   <sub>321sport · 13 participanți</sub>
 - `19:00` [DevNight#9 - Agentic Skills Engineering](https://lu.ma/x50ycn36)  
   <sub>Oprea Matei</sub>
+- `19:30` [Thursday Trivia](https://lu.ma/k302h711)  
+  <sub>T5 Social · 7 participanți</sub>
 
 ### Vineri, 25 septembrie
 
@@ -62,7 +57,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `09:00` [Marathon Preview Run](https://lu.ma/j2skwxr0)  
   <sub>FOMO Urban Running Club · 10 participanți</sub>
 - `13:00` [reading & boardgames corner, chapter #58](https://lu.ma/fmro915b)  
-  <sub>reading corner · 19 participanți</sub>
+  <sub>reading corner · 22 de participanți</sub>
 
 ---
 
@@ -74,7 +69,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `10:00` [Tura de duminică Herăstrău x Slow Coffee Festival, ediție specială](https://lu.ma/n7fmzs2j)  
   <sub>Endi Ungureanu · 25 de participanți</sub>
 - `17:30` [Ediție specială \| Pauza de cafea… între fete la cinema 🎬☕️](https://lu.ma/6v9h5tvx)  
-  <sub>Mihailescu Floriana Elena · 15 participanți</sub>
+  <sub>Mihailescu Floriana Elena · 16 participanți</sub>
 
 ---
 
@@ -88,9 +83,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:00` [WIN #15 – Medicină, estetică & antreprenoriat: Cum transformi expertiza într-un brand în care oamenii au încredere – Dr. Dana Bratu](https://lu.ma/0gantf0s)  
   <sub>Vlad RBC</sub>
 - `18:30` [Meetup IAF Romania: Facilitarea Dezacordului](https://lu.ma/znbwfrhm)  
-  <sub>Bogdan Grigore · 38 de participanți</sub>
+  <sub>Bogdan Grigore · 40 de participanți</sub>
 - `19:00` [Work, Life & Everything Else](https://lu.ma/vozcrfah)  
-  <sub>neomixer by ▲promocrat · 49 de participanți</sub>
+  <sub>neomixer by ▲promocrat · 53 de participanți</sub>
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E43](https://lu.ma/9135t8lw)  
   <sub>321sport · 4 participanți</sub>
 
@@ -108,7 +103,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:30` [LiT#15 - Security in the age of AI](https://lu.ma/lit15)  
   <sub>Bogdan Popescu</sub>
 - `18:30` [The Women in Security Documentary — An Evening of Film, Opera & Fashion](https://lu.ma/1784ksge)  
-  <sub>Cyber Qubits · 12 participanți</sub>
+  <sub>Cyber Qubits · 23 de participanți</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E44](https://lu.ma/zxkntrq3)  
   <sub>321sport · 6 participanți</sub>
 
@@ -117,15 +112,22 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `14:00` [Cafeaua De Sâmbăta #29 \| Bucuresti](https://lu.ma/g56no2md)  
   <sub>Ionut Alexandru Stanciu · 1 participant</sub>
 
+### Marți, 6 octombrie
+
+- `09:00` [Founders Breakfast hosted by Underline & 3VC & Inovo](https://lu.ma/z4agq5a2)  
+  <sub>3VC</sub>
+- `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E45](https://lu.ma/gbm01dy9)  
+  <sub>321sport · 3 participanți</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-21)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-22)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-21)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-22)
 
 ## Despre
 
@@ -139,4 +141,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 21 septembrie 2026*
+*Actualizat: 22 septembrie 2026*
