@@ -4,19 +4,6 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Miercuri, 23 septembrie
-
-- `17:30` [Hello World! Kobudei Debut & Kotlin Anniversary](https://lu.ma/iud6vztv)  
-  <sub>Viorel Alexandrescu · 33 de participanți</sub>
-- `18:00` [Nookyard presents: Efectele reale ale EU AI Act asupra businessului tău \[cu Matei Stefan, SenecAI\]](https://lu.ma/9l0mlf6w)  
-  <sub>Ionut Alexandru Stanciu · 24 de participanți</sub>
-- `18:00` [RBC #413 \| ANTREPRENORUL CARE ARATĂ A SUCCES VINDE MAI MULT \| Alin Copîndeanu \| Fondator Tudor Tailor](https://lu.ma/24a55dyn)  
-  <sub>Teodora Nicolaiciuc</sub>
-- `18:30` [Exhibition: Între noi · Tra noi – Italy and Romania told through data](https://lu.ma/zewwekyu)  
-  <sub>nutgraf studio · 116 de participanți</sub>
-- `19:00` [Pre-party \| How to Web Conference 2026](https://lu.ma/pre-party-how-to-web-conference)  
-  <sub>How to Web · 162 de participanți</sub>
-
 ### Joi, 24 septembrie
 
 - `18:00` [Private Business Dinner WIN #14 Veuve Clicquot x Oyster & Caviar](https://lu.ma/4ptnanec)  
@@ -24,11 +11,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:00` [The Leadership Level Trap](https://lu.ma/lyh6xd1s)  
   <sub>Sfera Business</sub>
 - `18:00` [Volei cu Oportune 🏐](https://lu.ma/gircy44o)  
-  <sub>Oportune · 8 participanți</sub>
+  <sub>Oportune · 10 participanți</sub>
 - `18:30` [AI and the Future of Work in the EU (w/ The AI Collective)](https://lu.ma/aic-buc-fow)  
   <sub>The AI Collective</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E42](https://lu.ma/i5ydx45z)  
-  <sub>321sport · 32 de participanți</sub>
+  <sub>321sport · 36 de participanți</sub>
 - `19:00` [DevNight#9 - Agentic Skills Engineering](https://lu.ma/x50ycn36)  
   <sub>Oprea Matei</sub>
 - `19:30` [Thursday Trivia](https://lu.ma/k302h711)  
@@ -39,7 +26,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `11:00` [Human led AI Enabled](https://lu.ma/wd9pnd7y)  
   <sub>Mohammed Benzakour · 29 de participanți</sub>
 - `19:30` [Music Bingo](https://lu.ma/czq84sef)  
-  <sub>T5 Social · 7 participanți</sub>
+  <sub>T5 Social · 8 participanți</sub>
 - `20:30` [Birthday Dinner & Party](https://lu.ma/sl52ufo8)  
   <sub>The Clique · 32 de participanți</sub>
 
@@ -60,9 +47,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 27 septembrie
 
 - `10:00` [Tura de duminică Herăstrău x Slow Coffee Festival, ediție specială](https://lu.ma/n7fmzs2j)  
-  <sub>Endi Ungureanu · 40 de participanți</sub>
+  <sub>Endi Ungureanu · 44 de participanți</sub>
 - `17:30` [Ediție specială \| Pauza de cafea… între fete la cinema 🎬☕️](https://lu.ma/6v9h5tvx)  
-  <sub>Mihailescu Floriana Elena · 19 participanți</sub>
+  <sub>Mihailescu Floriana Elena · 20 de participanți</sub>
 
 ---
 
@@ -78,16 +65,16 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:30` [Meetup IAF Romania: Facilitarea Dezacordului](https://lu.ma/znbwfrhm)  
   <sub>Bogdan Grigore · 41 de participanți</sub>
 - `19:00` [Work, Life & Everything Else](https://lu.ma/vozcrfah)  
-  <sub>neomixer by ▲promocrat · 61 de participanți</sub>
+  <sub>neomixer by ▲promocrat · 63 de participanți</sub>
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E43](https://lu.ma/9135t8lw)  
   <sub>321sport · 4 participanți</sub>
 
 ### Miercuri, 30 septembrie
 
 - `10:00` [CEO+HR Roundtable Bucharest, 30 September 2026](https://lu.ma/h27ni5ou)  
-  <sub>Revista CARIERE · 39 de participanți</sub>
+  <sub>Revista CARIERE · 42 de participanți</sub>
 - `17:00` [CEOs Get Together](https://lu.ma/jdk3bqt2)  
-  <sub>Madalina Vechiu · 85 de participanți</sub>
+  <sub>Madalina Vechiu · 89 de participanți</sub>
 - `18:00` [AI Mindset : Readiness & Adoption](https://lu.ma/fmsv78fj)  
   <sub>Upskilling the Romanian IT Industry · 65 de participanți</sub>
 
@@ -102,12 +89,19 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:30` [The Women in Security Documentary — An Evening of Film, Opera & Fashion](https://lu.ma/1784ksge)  
   <sub>Cyber Qubits · 25 de participanți</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E44](https://lu.ma/zxkntrq3)  
-  <sub>321sport · 6 participanți</sub>
+  <sub>321sport · 7 participanți</sub>
 
 ### Sâmbătă, 3 octombrie
 
 - `14:00` [Cafeaua De Sâmbăta #29 \| Bucuresti](https://lu.ma/g56no2md)  
-  <sub>Ionut Alexandru Stanciu · 5 participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 6 participanți</sub>
+
+### Duminică, 4 octombrie
+
+- `09:00` [Tura de duminică Herăstrău](https://lu.ma/h64pjtce)  
+  <sub>Emily Merdus</sub>
+- `09:00` [Tura de duminică I.O.R.](https://lu.ma/g18pwni6)  
+  <sub>Irina Tenovici</sub>
 
 ### Marți, 6 octombrie
 
@@ -125,15 +119,26 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `19:00` [Founder Backroom - A Founder's Exit (Private Dinner)](https://lu.ma/m17zn5yy)  
   <sub>Andrea Balletbo</sub>
 
+### Joi, 8 octombrie
+
+- `18:30` [Prompt 1: AI × Fintech: The Future of Money](https://lu.ma/09m9ifhf)  
+  <sub>Anna Mera</sub>
+- `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E46](https://lu.ma/8585e7xn)  
+  <sub>321sport · 6 participanți</sub>
+- `19:00` [AI and the Future of Filmmaking (w/ The AI Collective)](https://lu.ma/aic-buc-fofm)  
+  <sub>The AI Collective</sub>
+- `19:00` [Human2human Networking: #WorkInProgress Edition (Open to anyone)](https://lu.ma/tk4i2qfw)  
+  <sub>Andreea Chiuaru</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-23)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-24)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-23)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-24)
 
 ## Despre
 
@@ -147,4 +152,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 23 septembrie 2026*
+*Actualizat: 24 septembrie 2026*
