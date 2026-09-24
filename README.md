@@ -24,7 +24,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Vineri, 25 septembrie
 
 - `11:00` [Human led AI Enabled](https://lu.ma/wd9pnd7y)  
-  <sub>Mohammed Benzakour · 29 de participanți</sub>
+  <sub>Mohammed Benzakour · 31 de participanți</sub>
 - `19:30` [Music Bingo](https://lu.ma/czq84sef)  
   <sub>T5 Social · 8 participanți</sub>
 - `20:30` [Birthday Dinner & Party](https://lu.ma/sl52ufo8)  
@@ -33,7 +33,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Sâmbătă, 26 septembrie
 
 - `09:00` [Marathon Preview Run](https://lu.ma/j2skwxr0)  
-  <sub>FOMO Urban Running Club · 13 participanți</sub>
+  <sub>FOMO Urban Running Club · 14 participanți</sub>
 - `13:00` [reading & boardgames corner, chapter #58](https://lu.ma/fmro915b)  
   <sub>reading corner · 27 de participanți</sub>
 - `17:00` [Charlie și Fabrica de Ciocolată - 26 septembrie ora 17.00](https://lu.ma/j61mfm7l)  
@@ -47,7 +47,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 27 septembrie
 
 - `10:00` [Tura de duminică Herăstrău x Slow Coffee Festival, ediție specială](https://lu.ma/n7fmzs2j)  
-  <sub>Endi Ungureanu · 44 de participanți</sub>
+  <sub>Endi Ungureanu · 48 de participanți</sub>
 - `17:30` [Ediție specială \| Pauza de cafea… între fete la cinema 🎬☕️](https://lu.ma/6v9h5tvx)  
   <sub>Mihailescu Floriana Elena · 20 de participanți</sub>
 
@@ -59,20 +59,20 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Marți, 29 septembrie
 
 - `18:00` [Human Wisdom vs. Synthesized Code: Engineering Leadership in an AI-First World](https://lu.ma/43w00f1t)  
-  <sub>Lucian Popovici · 103 de participanți</sub>
+  <sub>Lucian Popovici · 105 de participanți</sub>
 - `18:00` [WIN #15 – Medicină, estetică & antreprenoriat: Cum transformi expertiza într-un brand în care oamenii au încredere – Dr. Dana Bratu](https://lu.ma/0gantf0s)  
   <sub>Vlad RBC</sub>
 - `18:30` [Meetup IAF Romania: Facilitarea Dezacordului](https://lu.ma/znbwfrhm)  
   <sub>Bogdan Grigore · 41 de participanți</sub>
 - `19:00` [Work, Life & Everything Else](https://lu.ma/vozcrfah)  
-  <sub>neomixer by ▲promocrat · 63 de participanți</sub>
+  <sub>neomixer by ▲promocrat · 64 de participanți</sub>
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E43](https://lu.ma/9135t8lw)  
   <sub>321sport · 4 participanți</sub>
 
 ### Miercuri, 30 septembrie
 
 - `10:00` [CEO+HR Roundtable Bucharest, 30 September 2026](https://lu.ma/h27ni5ou)  
-  <sub>Revista CARIERE · 42 de participanți</sub>
+  <sub>Revista CARIERE · 51 de participanți</sub>
 - `17:00` [CEOs Get Together](https://lu.ma/jdk3bqt2)  
   <sub>Madalina Vechiu · 89 de participanți</sub>
 - `18:00` [AI Mindset : Readiness & Adoption](https://lu.ma/fmsv78fj)  
@@ -87,14 +87,14 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:30` [Social Chess In Autumn Colours THE SQUARE @Beans And Dots Mantuleasa](https://lu.ma/91cwzw46)  
   <sub>THE SQUARE Chess Club</sub>
 - `18:30` [The Women in Security Documentary — An Evening of Film, Opera & Fashion](https://lu.ma/1784ksge)  
-  <sub>Cyber Qubits · 25 de participanți</sub>
+  <sub>Cyber Qubits · 27 de participanți</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E44](https://lu.ma/zxkntrq3)  
   <sub>321sport · 7 participanți</sub>
 
 ### Sâmbătă, 3 octombrie
 
 - `14:00` [Cafeaua De Sâmbăta #29 \| Bucuresti](https://lu.ma/g56no2md)  
-  <sub>Ionut Alexandru Stanciu · 6 participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 8 participanți</sub>
 
 ### Duminică, 4 octombrie
 
@@ -114,8 +114,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 - `13:00` [Bridging CEE: An Investor Networking Lunch vol.2 (a How to Web in-conference event)](https://lu.ma/op2m6rzl)  
   <sub>The Recursive</sub>
+- `17:00` [Stop Shipping What Nobody Asked For](https://lu.ma/how-vd7g)
 - `18:00` [Romanian Capital Circle](https://lu.ma/m100y5q5)  
-  <sub>Vest Ventures · 8 participanți</sub>
+  <sub>Vest Ventures · 10 participanți</sub>
 - `19:00` [Founder Backroom - A Founder's Exit (Private Dinner)](https://lu.ma/m17zn5yy)  
   <sub>Andrea Balletbo</sub>
 
