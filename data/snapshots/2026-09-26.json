@@ -1,215 +1,6 @@
 {
   "geo": [
     {
-      "api_id": "evt-WMXPQAyqBFpYt6Z",
-      "event": {
-        "api_id": "evt-WMXPQAyqBFpYt6Z",
-        "calendar_api_id": "cal-sep1iBzNbClaD18",
-        "end_at": "2026-09-26T15:00:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": true,
-        "location_type": "offline",
-        "name": "reading & boardgames corner, chapter #58",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": true,
-        "social_image_url": "https://images.lumacdn.com/event-social/0n/953b2407-b67d-426c-9a9d-d179b564c3b4.png",
-        "start_at": "2026-09-26T10:00:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "fmro915b",
-        "user_api_id": "usr-V22zkkmgU35tOAr",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "București",
-          "type": "google",
-          "region": "București",
-          "address": "Wine Diplomacy",
-          "country": "Romania",
-          "place_id": "ChIJN388LAADskARHnKXYvWzs6o",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": "București",
-              "address": "Wine Diplomacy",
-              "country": "România",
-              "city_state": "București, România",
-              "sublocality": "Sectorul 2",
-              "full_address": "Wine Diplomacy, Șoseaua Pipera, Oregon Park, 46D-46E-48, 020112 București, România",
-              "region_short": "București",
-              "short_address": "Șoseaua Pipera, Oregon Park, 46D-46E-48, București"
-            }
-          },
-          "city_state": "București, Romania",
-          "description": "",
-          "sublocality": "Sectorul 2",
-          "country_code": "RO",
-          "full_address": "Wine Diplomacy, Șoseaua Pipera, Oregon Park, 46D-46E-48, 020112 București, Romania",
-          "region_short": "București",
-          "short_address": "Șoseaua Pipera, Oregon Park, 46D-46E-48, București",
-          "place_coordinate": {
-            "latitude": 44.4809726,
-            "longitude": 26.1078521
-          },
-          "apple_maps_place_id": "I9DC463E69804C3CF",
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 26.1078521,
-          "latitude": 44.4809726
-        },
-        "waitlist_enabled": true,
-        "waitlist_status": "active"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-sep1iBzNbClaD18",
-        "coordinate": null,
-        "description_short": null,
-        "end_date": null,
-        "is_verified": false,
-        "location": null,
-        "name": "Personal",
-        "personal_user_api_id": "usr-V22zkkmgU35tOAr",
-        "slug": null,
-        "start_date": null,
-        "website": null,
-        "is_personal": true,
-        "personal_user": {
-          "api_id": "usr-V22zkkmgU35tOAr",
-          "name": "reading corner",
-          "username": "readingcorner"
-        },
-        "timezone": null
-      },
-      "start_at": "2026-09-26T10:00:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-V22zkkmgU35tOAr",
-          "name": "reading corner",
-          "username": "readingcorner"
-        }
-      ],
-      "guest_count": 26,
-      "ticket_count": 26,
-      "ticket_info": {
-        "price": {
-          "cents": 6000,
-          "currency": "ron",
-          "is_flexible": false
-        },
-        "is_free": false,
-        "max_price": null,
-        "is_sold_out": false,
-        "require_approval": false
-      },
-      "registration_availability": "sold-out",
-      "waitlist_active": false,
-      "featured_city": null
-    },
-    {
-      "api_id": "evt-LdRuVYYui7v52c2",
-      "event": {
-        "api_id": "evt-LdRuVYYui7v52c2",
-        "calendar_api_id": "cal-WhPiDRKP6uwQgvU",
-        "end_at": "2026-09-26T16:30:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "Charlie și Fabrica de Ciocolată - 26 septembrie ora 17.00",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": false,
-        "social_image_url": "https://images.lumacdn.com/event-social/nu/e4fde8f9-6f67-44ed-a4bb-3b29e48d6a7b.png",
-        "start_at": "2026-09-26T14:00:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "j61mfm7l",
-        "user_api_id": "usr-6mFGmbRoPxjEg2M",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "București",
-          "type": "google",
-          "region": "București",
-          "address": "Calea Giulești 16",
-          "country": "Romania",
-          "place_id": "ChIJW52jn4wBskARdni2Q9T6BZQ",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": "București",
-              "address": "Calea Giulești 16",
-              "country": "România",
-              "city_state": "București, România",
-              "sublocality": "Bucureşti Sectorul 6",
-              "full_address": "Calea Giulești 16, 060276 București, România",
-              "region_short": "București",
-              "short_address": "Calea Giulești 16, București"
-            }
-          },
-          "city_state": "București, Romania",
-          "description": "",
-          "sublocality": "Bucureşti Sectorul 6",
-          "country_code": "RO",
-          "full_address": "Calea Giulești 16, 060276 București, Romania",
-          "region_short": "București",
-          "short_address": "Calea Giulești 16, București",
-          "place_coordinate": null,
-          "apple_maps_place_id": null,
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 26.057503,
-          "latitude": 44.4549965
-        },
-        "waitlist_enabled": false,
-        "waitlist_status": "disabled"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-WhPiDRKP6uwQgvU",
-        "coordinate": null,
-        "description_short": "Ai primit o invitație la „Charlie și Fabrica de Ciocolată”. Alege mai jos reprezentația la care dorești să participi și rezervă-ți locurile. Te așteptăm la Opera Comică pentru Copii!",
-        "end_date": null,
-        "is_verified": false,
-        "location": null,
-        "name": "Charlie și Fabrica de Ciocolată | Invitații OCC",
-        "personal_user_api_id": null,
-        "slug": "invitatii-charlie-occ",
-        "start_date": null,
-        "website": "https://operacomica.ro/",
-        "is_personal": false,
-        "personal_user": null,
-        "timezone": null
-      },
-      "start_at": "2026-09-26T14:00:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-HzqmGD8SKFaK1Gv",
-          "name": "Opera Comică pentru Copii",
-          "username": null
-        }
-      ],
-      "guest_count": 0,
-      "ticket_count": 0,
-      "ticket_info": {
-        "price": null,
-        "is_free": true,
-        "max_price": null,
-        "is_sold_out": false,
-        "require_approval": false
-      },
-      "registration_availability": "open",
-      "waitlist_active": false,
-      "featured_city": null
-    },
-    {
       "api_id": "evt-7EafpNrACDqUvLY",
       "event": {
         "api_id": "evt-7EafpNrACDqUvLY",
@@ -303,8 +94,8 @@
           "username": "endi"
         }
       ],
-      "guest_count": 77,
-      "ticket_count": 77,
+      "guest_count": 91,
+      "ticket_count": 91,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -320,7 +111,7 @@
       "api_id": "evt-fKMhHmZXfUgfyhE",
       "event": {
         "api_id": "evt-fKMhHmZXfUgfyhE",
-        "calendar_api_id": "cal-9MgFAehWlnbnHF0",
+        "calendar_api_id": "cal-GTAaZGitEZ430lT",
         "end_at": "2026-09-27T17:30:00.000Z",
         "event_type": "independent",
         "hide_rsvp": false,
@@ -382,24 +173,37 @@
       },
       "calendar": {
         "access_level": "public",
-        "api_id": "cal-9MgFAehWlnbnHF0",
-        "coordinate": null,
-        "description_short": null,
+        "api_id": "cal-GTAaZGitEZ430lT",
+        "coordinate": {
+          "longitude": 26.1025384,
+          "latitude": 44.426767399999996
+        },
+        "description_short": "Eveniment de socializare între fete",
         "end_date": null,
         "is_verified": false,
-        "location": null,
-        "name": "Personal",
-        "personal_user_api_id": "usr-cxKTbDoLiArV2S7",
-        "slug": null,
+        "location": {
+          "city": "Bucharest",
+          "region": null,
+          "country": "Romania",
+          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
+          "timezone": "Europe/Bucharest",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": null,
+              "country": "România"
+            }
+          },
+          "country_code": "RO"
+        },
+        "name": "Pauza de cafea… între fete",
+        "personal_user_api_id": null,
+        "slug": "pauzadecafea",
         "start_date": null,
         "website": null,
-        "is_personal": true,
-        "personal_user": {
-          "api_id": "usr-cxKTbDoLiArV2S7",
-          "name": "Mihailescu Floriana Elena",
-          "username": null
-        },
-        "timezone": null
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": "Europe/Bucharest"
       },
       "start_at": "2026-09-27T14:30:00.000Z",
       "hosts": [
@@ -949,8 +753,8 @@
           "username": "animafelix"
         }
       ],
-      "guest_count": 70,
-      "ticket_count": 70,
+      "guest_count": 71,
+      "ticket_count": 71,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1658,13 +1462,13 @@
           "username": "ro_ai_labs"
         },
         {
-          "api_id": "usr-aXxNx3r9BLA3t6Z",
-          "name": "Roxana Chiriacescu",
+          "api_id": "usr-DEYJeMKBPa5ftde",
+          "name": "Matei",
           "username": null
         },
         {
-          "api_id": "usr-DEYJeMKBPa5ftde",
-          "name": "Matei",
+          "api_id": "usr-aXxNx3r9BLA3t6Z",
+          "name": "Roxana Chiriacescu",
           "username": null
         },
         {
@@ -2014,10 +1818,15 @@
           "api_id": "usr-uD2sQB5ziRi5SAj",
           "name": "D. Elena Borza",
           "username": null
+        },
+        {
+          "api_id": "usr-BjlIRs167Leb3KL",
+          "name": "Borza Pattricia-Daria",
+          "username": null
         }
       ],
-      "guest_count": 38,
-      "ticket_count": 38,
+      "guest_count": 51,
+      "ticket_count": 51,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3345,6 +3154,16 @@
           "username": null
         },
         {
+          "api_id": "usr-WrprF6ro4bnBEGB",
+          "name": "Virgil Ilian",
+          "username": "virgil"
+        },
+        {
+          "api_id": "usr-gqX3jR27DYowL2R",
+          "name": "Ioana Ioanas",
+          "username": null
+        },
+        {
           "api_id": "usr-aXxNx3r9BLA3t6Z",
           "name": "Roxana Chiriacescu",
           "username": null
@@ -3353,16 +3172,6 @@
           "api_id": "usr-eQYiUHKUHVfpTvB",
           "name": "Irina Raicu",
           "username": "irinaraicu"
-        },
-        {
-          "api_id": "usr-gqX3jR27DYowL2R",
-          "name": "Ioana Ioanas",
-          "username": null
-        },
-        {
-          "api_id": "usr-WrprF6ro4bnBEGB",
-          "name": "Virgil Ilian",
-          "username": "virgil"
         }
       ],
       "guest_count": 0,
@@ -3797,6 +3606,92 @@
       ],
       "guest_count": 22,
       "ticket_count": 22,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-dYtDODZjUHamjae",
+      "event": {
+        "api_id": "evt-dYtDODZjUHamjae",
+        "calendar_api_id": "cal-zhkKhdQoZRNyfgN",
+        "end_at": "2026-10-14T11:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Conferința Anuală a Asociației Trezorierilor din România",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": false,
+        "social_image_url": "https://images.lumacdn.com/event-social/7t/630999ea-2e32-46a5-84dd-f854808c2c47.png",
+        "start_at": "2026-10-14T05:45:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "3vuardlt",
+        "user_api_id": "usr-6zJgfnvvVikqaGb",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "National Bank of Romania",
+          "country": "Romania",
+          "place_id": "ChIJS61oh0D_sUARTrn-BKMz1pY",
+          "city_state": "București, București",
+          "description": "",
+          "full_address": "National Bank of Romania, Strada Lipscani 25, București 030167, Romania",
+          "place_coordinate": null,
+          "apple_maps_place_id": "I1D53F6BCFBA2386",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.099874,
+          "latitude": 44.433223
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-zhkKhdQoZRNyfgN",
+        "coordinate": null,
+        "description_short": null,
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Personal",
+        "personal_user_api_id": "usr-6zJgfnvvVikqaGb",
+        "slug": null,
+        "start_date": null,
+        "website": null,
+        "is_personal": true,
+        "personal_user": {
+          "api_id": "usr-6zJgfnvvVikqaGb",
+          "name": "Asociația Trezorierilor din România",
+          "username": "atr"
+        },
+        "timezone": null
+      },
+      "start_at": "2026-10-14T05:45:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-6zJgfnvvVikqaGb",
+          "name": "Asociația Trezorierilor din România",
+          "username": "atr"
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -4270,6 +4165,116 @@
       "featured_city": null
     },
     {
+      "api_id": "evt-5TDn5yaYzG3KRaK",
+      "event": {
+        "api_id": "evt-5TDn5yaYzG3KRaK",
+        "calendar_api_id": "cal-nWeFNarGwgwAiQ3",
+        "end_at": "2026-10-28T14:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "B Corp Conference Romania 2026",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/kk/2996e9e2-d67f-4534-9105-59c4cdc6d3f7.png",
+        "start_at": "2026-10-28T07:30:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "20fk2i0h",
+        "user_api_id": "usr-LqrhHJEeSRLFLib",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "The Marmorosch Bucharest, Autograph Collection",
+          "country": "Romania",
+          "place_id": "ChIJ7RB76kD_sUARuCvPzKDzfi4",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "The Marmorosch Bucharest, Autograph Collection",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Centrul Vechi",
+              "full_address": "The Marmorosch Bucharest, Autograph Collection, Strada Doamnei 2, 030053 București, România",
+              "region_short": "București",
+              "short_address": "Palatul Marmorosch Blank, Strada Doamnei 2, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Old Town",
+          "country_code": "RO",
+          "full_address": "The Marmorosch Bucharest, Autograph Collection, Strada Doamnei 2, 030053 București, Romania",
+          "region_short": "București",
+          "short_address": "Palatul Marmorosch Blank, Strada Doamnei 2, București",
+          "place_coordinate": {
+            "latitude": 44.4338677,
+            "longitude": 26.0988686
+          },
+          "apple_maps_place_id": "IFEA175C289571654",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.0988686,
+          "latitude": 44.4338677
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-nWeFNarGwgwAiQ3",
+        "coordinate": null,
+        "description_short": null,
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Personal",
+        "personal_user_api_id": "usr-LqrhHJEeSRLFLib",
+        "slug": null,
+        "start_date": null,
+        "website": null,
+        "is_personal": true,
+        "personal_user": {
+          "api_id": "usr-LqrhHJEeSRLFLib",
+          "name": "Corina Radu",
+          "username": null
+        },
+        "timezone": null
+      },
+      "start_at": "2026-10-28T07:30:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-LqrhHJEeSRLFLib",
+          "name": "Corina Radu",
+          "username": null
+        }
+      ],
+      "guest_count": 3,
+      "ticket_count": 3,
+      "ticket_info": {
+        "price": {
+          "cents": 42100,
+          "currency": "ron",
+          "is_flexible": false
+        },
+        "is_free": false,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
       "api_id": "evt-ocpwDIAeSZlcbay",
       "event": {
         "api_id": "evt-ocpwDIAeSZlcbay",
@@ -4621,112 +4626,6 @@
   ],
   "calendar:turadeduminica": [
     {
-      "api_id": "calev-GjVQiflOvac8ig8",
-      "event": {
-        "api_id": "evt-4CDWuR9YwBPVuyB",
-        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
-        "end_at": "2026-09-27T07:30:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "Tura de duminică Craiova",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": true,
-        "social_image_url": "https://images.lumacdn.com/event-social/mu/f80772f2-fe8a-4c27-a379-323ebedc2477.png",
-        "start_at": "2026-09-27T06:00:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "ipb91ubn",
-        "user_api_id": "usr-k3FGko4fTI60c3z",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "Craiova",
-          "type": "google",
-          "region": "Județul Dolj",
-          "address": "Bust of Nicolae P. Romanescu",
-          "country": "Romania",
-          "place_id": "ChIJfRBeiLfXUkcRmm82ABkw1pQ",
-          "localized": {
-            "ro": {
-              "city": "Craiova",
-              "region": "Județul Dolj",
-              "address": "Bustul lui Nicolae P. Romanescu",
-              "country": "România",
-              "city_state": "Craiova, Județul Dolj",
-              "sublocality": null,
-              "full_address": "Bustul lui Nicolae P. Romanescu, Calea Unirii, Craiova, România",
-              "short_address": "Calea Unirii, Craiova"
-            }
-          },
-          "city_state": "Craiova, Județul Dolj",
-          "description": "",
-          "sublocality": null,
-          "country_code": "RO",
-          "full_address": "Bust of Nicolae P. Romanescu, Calea Unirii, Craiova, Romania",
-          "short_address": "Calea Unirii, Craiova",
-          "apple_maps_place_id": null,
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 23.7997166,
-          "latitude": 44.301701699999995
-        },
-        "waitlist_enabled": false,
-        "waitlist_status": "disabled"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-Su3WAWlpDDLutSO",
-        "coordinate": null,
-        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
-        "end_date": null,
-        "is_verified": false,
-        "location": null,
-        "name": "Tura de duminică",
-        "personal_user_api_id": null,
-        "slug": "turadeduminica",
-        "start_date": null,
-        "website": null,
-        "is_personal": false,
-        "personal_user": null,
-        "timezone": null
-      },
-      "start_at": "2026-09-27T06:00:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-k3FGko4fTI60c3z",
-          "name": "Alex Ștefănescu",
-          "username": null
-        },
-        {
-          "api_id": "usr-yomhnvpt5g17mhz",
-          "name": "Emily Merdus",
-          "username": null
-        }
-      ],
-      "guest_count": 0,
-      "ticket_count": 0,
-      "ticket_info": {
-        "price": null,
-        "is_free": true,
-        "max_price": null,
-        "is_sold_out": false,
-        "require_approval": false
-      },
-      "registration_availability": "open",
-      "waitlist_active": false,
-      "featured_city": null,
-      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
-      "is_manager": true,
-      "platform": "luma",
-      "status": "approved",
-      "tags": []
-    },
-    {
       "api_id": "calev-mCQ8qDHJzyn2jvs",
       "event": {
         "api_id": "evt-ZDIvcSXQXmPs1jK",
@@ -4951,6 +4850,113 @@
       "tags": []
     },
     {
+      "api_id": "calev-GjVQiflOvac8ig8",
+      "event": {
+        "api_id": "evt-4CDWuR9YwBPVuyB",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-09-27T08:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică Craiova",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/mu/f80772f2-fe8a-4c27-a379-323ebedc2477.png",
+        "start_at": "2026-09-27T07:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "ipb91ubn",
+        "user_api_id": "usr-k3FGko4fTI60c3z",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Craiova",
+          "type": "google",
+          "region": "Județul Dolj",
+          "address": "Bust of Nicolae P. Romanescu",
+          "country": "Romania",
+          "place_id": "ChIJfRBeiLfXUkcRmm82ABkw1pQ",
+          "localized": {
+            "ro": {
+              "city": "Craiova",
+              "region": "Județul Dolj",
+              "address": "Bustul lui Nicolae P. Romanescu",
+              "country": "România",
+              "city_state": "Craiova, Județul Dolj",
+              "sublocality": null,
+              "full_address": "Bustul lui Nicolae P. Romanescu, Calea Unirii, Craiova, România",
+              "short_address": "Calea Unirii, Craiova"
+            }
+          },
+          "city_state": "Craiova, Județul Dolj",
+          "description": "",
+          "sublocality": null,
+          "country_code": "RO",
+          "full_address": "Bust of Nicolae P. Romanescu, Calea Unirii, Craiova, Romania",
+          "short_address": "Calea Unirii, Craiova",
+          "place_coordinate": null,
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 23.7997166,
+          "latitude": 44.301701699999995
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "slug": "turadeduminica",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-09-27T07:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-k3FGko4fTI60c3z",
+          "name": "Alex Ștefănescu",
+          "username": null
+        },
+        {
+          "api_id": "usr-yomhnvpt5g17mhz",
+          "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
+    {
       "api_id": "calev-ippeljw1pUGlvRf",
       "event": {
         "api_id": "evt-bpNnxiYfimC7ABb",
@@ -5058,8 +5064,8 @@
           "username": null
         }
       ],
-      "guest_count": 1,
-      "ticket_count": 1,
+      "guest_count": 2,
+      "ticket_count": 2,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -5170,8 +5176,8 @@
           "username": "endi"
         }
       ],
-      "guest_count": 77,
-      "ticket_count": 77,
+      "guest_count": 91,
+      "ticket_count": 91,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -5289,8 +5295,8 @@
           "username": null
         }
       ],
-      "guest_count": 3,
-      "ticket_count": 3,
+      "guest_count": 5,
+      "ticket_count": 5,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -5337,6 +5343,129 @@
           "color": "green"
         }
       ]
+    },
+    {
+      "api_id": "calev-ULBwlb08uIgfcGl",
+      "event": {
+        "api_id": "evt-v3CGlP12Zf9lq2G",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-09-27T08:15:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică Satu Mare",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/mi/5c43f09c-f888-4a9c-ac9a-a7081841c2e7.png",
+        "start_at": "2026-09-27T07:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "qu5vr10u",
+        "user_api_id": "usr-yWiCV7g24eBaA18",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Satu Mare",
+          "type": "google",
+          "region": "Județul Satu Mare",
+          "address": "Galop coffee roasters",
+          "country": "Romania",
+          "place_id": "ChIJFfTbgAAFOEcRkZOYNwMikoM",
+          "localized": {
+            "ro": {
+              "city": "Satu Mare",
+              "region": "Județul Satu Mare",
+              "address": "Galop coffee roasters",
+              "country": "România",
+              "city_state": "Satu Mare, România",
+              "sublocality": null,
+              "full_address": "Galop coffee roasters, Strada Mihai Viteazul 4-6, Satu Mare, România",
+              "region_short": "SM",
+              "short_address": "Strada Mihai Viteazul 4-6, Satu Mare"
+            },
+            "en-GB": {
+              "city": "Satu Mare",
+              "region": "Județul Satu Mare",
+              "address": "Galop coffee roasters",
+              "country": "Romania",
+              "city_state": "Satu Mare, Romania",
+              "sublocality": null,
+              "full_address": "Galop coffee roasters, Strada Mihai Viteazul 4-6, Satu Mare, Romania",
+              "region_short": "SM",
+              "short_address": "Strada Mihai Viteazul 4-6, Satu Mare"
+            }
+          },
+          "city_state": "Satu Mare, Romania",
+          "description": "",
+          "sublocality": null,
+          "country_code": "RO",
+          "full_address": "Galop coffee roasters, Strada Mihai Viteazul 4-6, Satu Mare, Romania",
+          "region_short": "SM",
+          "short_address": "Strada Mihai Viteazul 4-6, Satu Mare",
+          "place_coordinate": {
+            "latitude": 47.795121400000006,
+            "longitude": 22.8769204
+          },
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 22.8769204,
+          "latitude": 47.795121400000006
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "slug": "turadeduminica",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-09-27T07:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-yWiCV7g24eBaA18",
+          "name": "Sebastian Banescu",
+          "username": null
+        },
+        {
+          "api_id": "usr-yomhnvpt5g17mhz",
+          "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 1,
+      "ticket_count": 1,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
     },
     {
       "api_id": "calev-0IJ2du6HrEiE0Rq",
@@ -8339,8 +8468,8 @@
           "username": "alexstanciu"
         }
       ],
-      "guest_count": 15,
-      "ticket_count": 15,
+      "guest_count": 18,
+      "ticket_count": 18,
       "ticket_info": {
         "price": null,
         "is_free": true,
