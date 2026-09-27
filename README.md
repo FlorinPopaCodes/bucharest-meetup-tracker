@@ -4,26 +4,12 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Sâmbătă, 26 septembrie
-
-- `09:00` [Marathon Preview Run](https://lu.ma/j2skwxr0)  
-  <sub>FOMO Urban Running Club · 12 participanți</sub>
-- `13:00` [reading & boardgames corner, chapter #58](https://lu.ma/fmro915b)  
-  <sub>reading corner · 26 de participanți</sub>
-- `17:00` [Charlie și Fabrica de Ciocolată - 26 septembrie ora 17.00](https://lu.ma/j61mfm7l)  
-  <sub>Opera Comică pentru Copii</sub>
-
----
-
-- [Fii cuminte, Cristofor!](https://www.iabilet.ro/bilete-fii-cuminte-cristofor-130125/)  
-  <sub>Teatrul Improteca</sub>
-
 ### Duminică, 27 septembrie
 
 - `10:00` [Tura de duminică Herăstrău x Slow Coffee Festival, ediție specială](https://lu.ma/n7fmzs2j)  
-  <sub>Endi Ungureanu · 91 de participanți</sub>
+  <sub>Endi Ungureanu · 100 de participanți</sub>
 - `17:30` [Ediție specială \| Pauza de cafea… între fete la cinema 🎬☕️](https://lu.ma/6v9h5tvx)  
-  <sub>Mihailescu Floriana Elena · 20 de participanți</sub>
+  <sub>Mihailescu Floriana Elena · 22 de participanți</sub>
 
 ---
 
@@ -44,14 +30,14 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:30` [Meetup IAF Romania: Facilitarea Dezacordului](https://lu.ma/znbwfrhm)  
   <sub>Bogdan Grigore · 45 de participanți</sub>
 - `19:00` [Work, Life & Everything Else](https://lu.ma/vozcrfah)  
-  <sub>neomixer by ▲promocrat · 71 de participanți</sub>
+  <sub>neomixer by ▲promocrat · 74 de participanți</sub>
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E43](https://lu.ma/9135t8lw)  
-  <sub>321sport · 4 participanți</sub>
+  <sub>321sport · 5 participanți</sub>
 
 ### Miercuri, 30 septembrie
 
 - `10:00` [CEO+HR Roundtable Bucharest, 30 September 2026](https://lu.ma/h27ni5ou)  
-  <sub>Revista CARIERE · 79 de participanți</sub>
+  <sub>Revista CARIERE · 81 de participanți</sub>
 - `17:00` [CEOs Get Together](https://lu.ma/jdk3bqt2)  
   <sub>Madalina Vechiu · 92 de participanți</sub>
 - `18:00` [AI Mindset : Readiness & Adoption](https://lu.ma/fmsv78fj)  
@@ -66,14 +52,14 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:30` [Social Chess In Autumn Colours THE SQUARE @Beans And Dots Mantuleasa](https://lu.ma/91cwzw46)  
   <sub>THE SQUARE Chess Club</sub>
 - `18:30` [The Women in Security Documentary — An Evening of Film, Opera & Fashion](https://lu.ma/1784ksge)  
-  <sub>Cyber Qubits · 51 de participanți</sub>
+  <sub>Cyber Qubits · 52 de participanți</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E44](https://lu.ma/zxkntrq3)  
   <sub>321sport · 7 participanți</sub>
 
 ### Sâmbătă, 3 octombrie
 
 - `14:00` [Cafeaua De Sâmbăta #29 \| Bucuresti](https://lu.ma/g56no2md)  
-  <sub>Ionut Alexandru Stanciu · 18 participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 19 participanți</sub>
 
 ### Duminică, 4 octombrie
 
@@ -117,15 +103,26 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `19:00` [Human2human Networking: #WorkInProgress Edition (Open to anyone)](https://lu.ma/tk4i2qfw)  
   <sub>Andreea Chiuaru</sub>
 
+### Duminică, 11 octombrie
+
+- `09:00` [Tura de duminică Herăstrău](https://lu.ma/nggr5h3a)  
+  <sub>Emily Merdus</sub>
+- `09:00` [Tura de duminică I.O.R.](https://lu.ma/iqtc5xx4)  
+  <sub>Irina Tenovici</sub>
+- `10:00` [BLAF Home Barista Competition](https://lu.ma/wqmk6ivv)  
+  <sub>BOILER LATTE ART FESTIVAL</sub>
+- `10:00` [BLAF Professional Latte Art Competition](https://lu.ma/ajv2gbgv)  
+  <sub>BOILER LATTE ART FESTIVAL</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-26)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-27)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-26)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-27)
 
 ## Despre
 
@@ -139,4 +136,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 26 septembrie 2026*
+*Actualizat: 27 septembrie 2026*
