@@ -4,29 +4,17 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Duminică, 27 septembrie
-
-- `10:00` [Tura de duminică Herăstrău x Slow Coffee Festival, ediție specială](https://lu.ma/n7fmzs2j)  
-  <sub>Endi Ungureanu · 100 de participanți</sub>
-- `17:30` [Ediție specială \| Pauza de cafea… între fete la cinema 🎬☕️](https://lu.ma/6v9h5tvx)  
-  <sub>Mihailescu Floriana Elena · 22 de participanți</sub>
-
----
-
-- [M-ai lovit la corporație - sketch comedy muzical Improteca](https://www.iabilet.ro/bilete-m-ai-lovit-la-corporatie-sketch-comedy-muzical-improteca-130101/)  
-  <sub>Teatrul Improteca</sub>
-
 ### Luni, 28 septembrie
 
 - `09:30` [Work from Hub! Urban Hub](https://lu.ma/wt1rzm1y)  
   <sub>Urban Hub · 11 participanți</sub>
 - `19:30` [Monday Quizmania](https://lu.ma/yfujytlr)  
-  <sub>T5 Social · 6 participanți</sub>
+  <sub>T5 Social · 13 participanți</sub>
 
 ### Marți, 29 septembrie
 
 - `18:00` [Human Wisdom vs. Synthesized Code: Engineering Leadership in an AI-First World](https://lu.ma/43w00f1t)  
-  <sub>Lucian Popovici · 107 de participanți</sub>
+  <sub>Lucian Popovici · 106 de participanți</sub>
 - `18:00` [WIN #15 – Medicină, estetică & antreprenoriat: Cum transformi expertiza într-un brand în care oamenii au încredere – Dr. Dana Bratu](https://lu.ma/0gantf0s)  
   <sub>Vlad RBC</sub>
 - `18:30` [Meetup IAF Romania: Facilitarea Dezacordului](https://lu.ma/znbwfrhm)  
@@ -34,19 +22,21 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `19:00` [Work, Life & Everything Else](https://lu.ma/vozcrfah)  
   <sub>neomixer by ▲promocrat · 74 de participanți</sub>
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E43](https://lu.ma/9135t8lw)  
-  <sub>321sport · 7 participanți</sub>
+  <sub>321sport · 8 participanți</sub>
 
 ### Miercuri, 30 septembrie
 
 - `10:00` [CEO+HR Roundtable Bucharest, 30 September 2026](https://lu.ma/h27ni5ou)  
-  <sub>Revista CARIERE · 82 de participanți</sub>
+  <sub>Revista CARIERE · 87 de participanți</sub>
 - `17:00` [CEOs Get Together](https://lu.ma/jdk3bqt2)  
-  <sub>Madalina Vechiu · 92 de participanți</sub>
+  <sub>Madalina Vechiu · 96 de participanți</sub>
 - `18:00` [AI Mindset : Readiness & Adoption](https://lu.ma/fmsv78fj)  
   <sub>Upskilling the Romanian IT Industry · 68 de participanți</sub>
 
 ### Joi, 1 octombrie
 
+- `18:00` [Saddo x Lunet - Kaleidoscope](https://lu.ma/x05xdjty)  
+  <sub>Stefan Popa · 3 participanți</sub>
 - `18:30` [Let's Talk AI! #5 (w/ The AI Collective)](https://lu.ma/lets-talk-ai-5)  
   <sub>The AI Collective</sub>
 - `18:30` [LiT#15 - Security in the age of AI](https://lu.ma/lit15)  
@@ -54,23 +44,25 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:30` [Social Chess In Autumn Colours THE SQUARE @Beans And Dots Mantuleasa](https://lu.ma/91cwzw46)  
   <sub>THE SQUARE Chess Club</sub>
 - `18:30` [The Women in Security Documentary — An Evening of Film, Opera & Fashion](https://lu.ma/1784ksge)  
-  <sub>Cyber Qubits · 55 de participanți</sub>
+  <sub>Cyber Qubits · 66 de participanți</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E44](https://lu.ma/zxkntrq3)  
-  <sub>321sport · 11 participanți</sub>
+  <sub>321sport · 13 participanți</sub>
 
 ### Sâmbătă, 3 octombrie
 
 - `14:00` [Cafeaua De Sâmbăta #29 \| Bucuresti](https://lu.ma/g56no2md)  
-  <sub>Ionut Alexandru Stanciu · 23 de participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 24 de participanți</sub>
 
 ### Duminică, 4 octombrie
 
 - `09:00` [Tura de duminică Cotroceni](https://lu.ma/hp5x82hl)  
-  <sub>Aleodor Tabarcea</sub>
+  <sub>Aleodor Tabarcea · 4 participanți</sub>
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/h64pjtce)  
   <sub>Emily Merdus · 1 participant</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/g18pwni6)  
   <sub>Irina Tenovici</sub>
+- `09:00` [Tura de duminică Tineretului](https://lu.ma/x9pgcwz3)  
+  <sub>Nicoleta Ifrim</sub>
 
 ### Luni, 5 octombrie
 
@@ -90,7 +82,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
   <sub>The Recursive</sub>
 - `17:00` [Stop Shipping What Nobody Asked For](https://lu.ma/how-vd7g)
 - `18:00` [AI Agents in Production / The AI Collective Bucharest Chapter](https://lu.ma/9delenbi)  
-  <sub>Ioana Mihăilescu · 3 participanți</sub>
+  <sub>Ioana Mihăilescu · 12 participanți</sub>
 - `18:00` [Romanian Capital Circle](https://lu.ma/m100y5q5)  
   <sub>Vest Ventures · 14 participanți</sub>
 - `19:00` [Founder Backroom - A Founder's Exit (Private Dinner)](https://lu.ma/m17zn5yy)  
@@ -110,11 +102,13 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 11 octombrie
 
 - `09:00` [Tura de duminică Cotroceni](https://lu.ma/gct0v9lz)  
-  <sub>Aleodor Tabarcea</sub>
+  <sub>Aleodor Tabarcea · 1 participant</sub>
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/nggr5h3a)  
   <sub>Emily Merdus</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/iqtc5xx4)  
   <sub>Irina Tenovici</sub>
+- `09:00` [Tura de duminică Tineretului](https://lu.ma/60ohns2i)  
+  <sub>Nicoleta Ifrim</sub>
 - `10:00` [BLAF Home Barista Competition](https://lu.ma/wqmk6ivv)  
   <sub>BOILER LATTE ART FESTIVAL</sub>
 - `10:00` [BLAF Professional Latte Art Competition](https://lu.ma/ajv2gbgv)  
@@ -124,11 +118,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-27)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-28)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-27)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-28)
 
 ## Despre
 
@@ -142,4 +136,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 27 septembrie 2026*
+*Actualizat: 28 septembrie 2026*
