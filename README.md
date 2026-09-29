@@ -7,29 +7,29 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Marți, 29 septembrie
 
 - `18:00` [Human Wisdom vs. Synthesized Code: Engineering Leadership in an AI-First World](https://lu.ma/43w00f1t)  
-  <sub>Lucian Popovici · 110 de participanți</sub>
+  <sub>Lucian Popovici · 108 de participanți</sub>
 - `18:00` [WIN #15 – Medicină, estetică & antreprenoriat: Cum transformi expertiza într-un brand în care oamenii au încredere – Dr. Dana Bratu](https://lu.ma/0gantf0s)  
   <sub>Vlad RBC</sub>
 - `18:30` [Meetup IAF Romania: Facilitarea Dezacordului](https://lu.ma/znbwfrhm)  
   <sub>Bogdan Grigore · 46 de participanți</sub>
 - `19:00` [Work, Life & Everything Else](https://lu.ma/vozcrfah)  
-  <sub>neomixer by ▲promocrat · 77 de participanți</sub>
+  <sub>neomixer by ▲promocrat · 74 de participanți</sub>
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E43](https://lu.ma/9135t8lw)  
-  <sub>321sport · 8 participanți</sub>
+  <sub>321sport · 9 participanți</sub>
 
 ### Miercuri, 30 septembrie
 
 - `10:00` [CEO+HR Roundtable Bucharest, 30 September 2026](https://lu.ma/h27ni5ou)  
-  <sub>Revista CARIERE · 87 de participanți</sub>
+  <sub>Revista CARIERE · 92 de participanți</sub>
 - `17:00` [CEOs Get Together](https://lu.ma/jdk3bqt2)  
-  <sub>Madalina Vechiu · 97 de participanți</sub>
+  <sub>Madalina Vechiu · 96 de participanți</sub>
 - `18:00` [AI Mindset : Readiness & Adoption](https://lu.ma/fmsv78fj)  
-  <sub>Upskilling the Romanian IT Industry · 69 de participanți</sub>
+  <sub>Upskilling the Romanian IT Industry · 67 de participanți</sub>
 
 ### Joi, 1 octombrie
 
 - `18:00` [Saddo x Lunet - Kaleidoscope](https://lu.ma/x05xdjty)  
-  <sub>Stefan Popa · 12 participanți</sub>
+  <sub>Stefan Popa · 23 de participanți</sub>
 - `18:30` [Let's Talk AI! #5 (w/ The AI Collective)](https://lu.ma/lets-talk-ai-5)  
   <sub>The AI Collective</sub>
 - `18:30` [LiT#15 - Security in the age of AI](https://lu.ma/lit15)  
@@ -37,9 +37,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:30` [Social Chess In Autumn Colours THE SQUARE @Beans And Dots Mantuleasa](https://lu.ma/91cwzw46)  
   <sub>THE SQUARE Chess Club</sub>
 - `18:30` [The Women in Security Documentary — An Evening of Film, Opera & Fashion](https://lu.ma/1784ksge)  
-  <sub>Cyber Qubits · 75 de participanți</sub>
+  <sub>Cyber Qubits · 79 de participanți</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E44](https://lu.ma/zxkntrq3)  
-  <sub>321sport · 13 participanți</sub>
+  <sub>321sport · 21 de participanți</sub>
+- `19:30` [Thursday Trivia](https://lu.ma/61elj73h)  
+  <sub>T5 Social · 4 participanți</sub>
 
 ### Sâmbătă, 3 octombrie
 
@@ -83,16 +85,17 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:00` [Romanian Capital Circle](https://lu.ma/m100y5q5)  
   <sub>Vest Ventures · 17 participanți</sub>
 - `19:00` [Creators Sessions with Cristina Oțel \| Navigating the In-Between (members only)](https://lu.ma/j3n8piqa)  
-  <sub>Andreea Chiuaru · 4 participanți</sub>
+  <sub>Andreea Chiuaru · 6 participanți</sub>
 - `19:00` [Founder Backroom - A Founder's Exit (Private Dinner)](https://lu.ma/m17zn5yy)  
   <sub>Andrea Balletbo</sub>
 
 ### Joi, 8 octombrie
 
+- `11:30` [Capital Continuum: From Angels to VC to Private Equity](https://lu.ma/zej2t61v)
 - `18:30` [Prompt 1: AI × Fintech: The Future of Money](https://lu.ma/09m9ifhf)  
   <sub>Anna Mera</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E46](https://lu.ma/8585e7xn)  
-  <sub>321sport · 7 participanți</sub>
+  <sub>321sport · 8 participanți</sub>
 - `19:00` [AI and the Future of Filmmaking (w/ The AI Collective)](https://lu.ma/aic-buc-fofm)  
   <sub>The AI Collective</sub>
 - `19:00` [Human2human Networking: #WorkInProgress Edition (Open to anyone)](https://lu.ma/tk4i2qfw)  
@@ -127,11 +130,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-28)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-29)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-28)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-29)
 
 ## Despre
 
