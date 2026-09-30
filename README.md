@@ -16,7 +16,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Joi, 1 octombrie
 
 - `18:00` [Saddo x Lunet - Kaleidoscope](https://lu.ma/x05xdjty)  
-  <sub>Stefan Popa · 30 de participanți</sub>
+  <sub>Stefan Popa · 37 de participanți</sub>
 - `18:30` [Let's Talk AI! #5 (w/ The AI Collective)](https://lu.ma/lets-talk-ai-5)  
   <sub>The AI Collective</sub>
 - `18:30` [LiT#15 - Security in the age of AI](https://lu.ma/lit15)  
@@ -24,34 +24,34 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:30` [Social Chess In Autumn Colours THE SQUARE @Beans And Dots Mantuleasa](https://lu.ma/91cwzw46)  
   <sub>THE SQUARE Chess Club</sub>
 - `18:30` [The Women in Security Documentary — An Evening of Film, Opera & Fashion](https://lu.ma/1784ksge)  
-  <sub>Cyber Qubits · 120 de participanți</sub>
+  <sub>Cyber Qubits · 144 de participanți</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E44](https://lu.ma/zxkntrq3)  
   <sub>321sport · 36 de participanți</sub>
 - `19:30` [Thursday Trivia](https://lu.ma/61elj73h)  
-  <sub>T5 Social · 25 de participanți</sub>
+  <sub>T5 Social · 32 de participanți</sub>
 
 ### Sâmbătă, 3 octombrie
 
 - `14:00` [Cafeaua De Sâmbăta #29 \| Bucuresti](https://lu.ma/g56no2md)  
-  <sub>Ionut Alexandru Stanciu · 30 de participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 31 de participanți</sub>
 
 ### Duminică, 4 octombrie
 
 - `09:00` [Tura de duminică Cotroceni](https://lu.ma/hp5x82hl)  
   <sub>Aleodor Tabarcea · 9 participanți</sub>
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/h64pjtce)  
-  <sub>Emily Merdus · 2 participanți</sub>
+  <sub>Emily Merdus · 4 participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/g18pwni6)  
   <sub>Irina Tenovici · 3 participanți</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/x9pgcwz3)  
   <sub>Nicoleta Ifrim</sub>
 - `10:00` [ALERGARE 321SPORT & PURINA - ÎMPREUNĂ DE ZIUA MONDIALĂ A ANIMALELOR](https://lu.ma/9pnftble)  
-  <sub>321sport · 7 participanți</sub>
+  <sub>321sport · 11 participanți</sub>
 
 ### Luni, 5 octombrie
 
 - `19:00` [The Builder's Dinner \| Le Bab Downtown](https://lu.ma/ahdvto7o)  
-  <sub>Ciprian Borodescu · 13 participanți</sub>
+  <sub>Ciprian Borodescu · 17 participanți</sub>
 
 ### Marți, 6 octombrie
 
@@ -83,6 +83,8 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `11:30` [Capital Continuum: From Angels to VC to Private Equity](https://lu.ma/zej2t61v)
 - `18:00` [OWASP Bucharest Meetup](https://lu.ma/82pd3v6c)  
   <sub>OWASP Bucharest · 6 participanți</sub>
+- `18:30` [Alchemy Open Doors \| Building Teams with People & AI](https://lu.ma/lxx3k9yu)  
+  <sub>How to Web</sub>
 - `18:30` [Prompt 1: AI × Fintech: The Future of Money](https://lu.ma/09m9ifhf)  
   <sub>Anna Mera</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E46](https://lu.ma/8585e7xn)  
@@ -94,6 +96,8 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Sâmbătă, 10 octombrie
 
+- `09:00` [BLAF Talks](https://lu.ma/95bvvzm1)  
+  <sub>BOILER LATTE ART FESTIVAL</sub>
 - `11:00` [BLAF Workshops](https://lu.ma/caugclit)  
   <sub>BOILER LATTE ART FESTIVAL</sub>
 
