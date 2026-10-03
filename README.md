@@ -12,15 +12,15 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 4 octombrie
 
 - `09:00` [Tura de duminică Cotroceni](https://lu.ma/hp5x82hl)  
-  <sub>Aleodor Tabarcea · 25 de participanți</sub>
+  <sub>Aleodor Tabarcea · 29 de participanți</sub>
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/h64pjtce)  
-  <sub>Emily Merdus · 12 participanți</sub>
+  <sub>Emily Merdus · 14 participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/g18pwni6)  
-  <sub>Irina Tenovici · 12 participanți</sub>
+  <sub>Irina Tenovici · 13 participanți</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/x9pgcwz3)  
-  <sub>Nicoleta Ifrim · 8 participanți</sub>
+  <sub>Nicoleta Ifrim · 11 participanți</sub>
 - `10:00` [ALERGARE 321SPORT & PURINA - ÎMPREUNĂ DE ZIUA MONDIALĂ A ANIMALELOR](https://lu.ma/9pnftble)  
-  <sub>321sport · 113 de participanți</sub>
+  <sub>321sport · 116 de participanți</sub>
 - `12:00` [Atelier de pictură pentru părinți și copii în Grădina ALTFEL](https://lu.ma/ce8jkkph)  
   <sub>Loredana Pipie</sub>
 
@@ -43,18 +43,18 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `08:30` [RoFintech Breakfast hosted by Fagura](https://lu.ma/nsn8mt00)  
   <sub>Adrian Drinceanu</sub>
 - `09:30` [Dealsuite x Lexters Bucharest M&A Networking Breakfast](https://lu.ma/3n1df0wm)  
-  <sub>Lexters · 18 participanți</sub>
+  <sub>Lexters · 19 participanți</sub>
 - `13:00` [Bridging CEE: An Investor Networking Lunch vol.2 (a How to Web in-conference event)](https://lu.ma/op2m6rzl)  
   <sub>The Recursive</sub>
 - `15:50` [Regenerate, don’t maintain](https://lu.ma/qgfwp46r)  
   <sub>Jovana Zoric · 7 participanți</sub>
 - `17:00` [Stop Shipping What Nobody Asked For](https://lu.ma/how-vd7g)
 - `18:00` [AI Agents in Production / The AI Collective Bucharest Chapter](https://lu.ma/9delenbi)  
-  <sub>Ioana Mihăilescu · 28 de participanți</sub>
+  <sub>Ioana Mihăilescu · 39 de participanți</sub>
 - `18:00` [RBC #415: Arta + Antreprenoriatul = 2M € │Cum construiești un brand de lux Made in Romania - Oana și Dragoș Vlădilă](https://lu.ma/43wnrien)  
   <sub>Teodora Nicolaiciuc</sub>
 - `18:00` [Romanian Capital Circle](https://lu.ma/m100y5q5)  
-  <sub>Vest Ventures · 40 de participanți</sub>
+  <sub>Vest Ventures · 41 de participanți</sub>
 - `19:00` [Creators Sessions with Cristina Oțel \| Navigating the In-Between (members only)](https://lu.ma/j3n8piqa)  
   <sub>Andreea Chiuaru · 15 participanți</sub>
 - `19:00` [Founder Backroom - A Founder's Exit (Private Dinner)](https://lu.ma/m17zn5yy)  
@@ -122,9 +122,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Vineri, 16 octombrie
 
 - `10:00` [\[Community-Led Event AmpliFY ONG\] Implicare fără epuizare - Cum construim organizații care protejează oamenii fără să-și piardă misiunea](https://lu.ma/CLE-wellbeing-lab)  
-  <sub>AmpliFY ONG · 17 participanți</sub>
+  <sub>AmpliFY ONG · 16 participanți</sub>
 - `10:00` [OmniOpenCon 2026](https://lu.ma/hi08i10q)  
-  <sub>Giorgiana Vlăsceanu · 148 de participanți</sub>
+  <sub>Giorgiana Vlăsceanu · 150 de participanți</sub>
 - `16:00` [Doubles Tennis Tournament, Salestrust & PuntoUp](https://lu.ma/7mtd3mv6)  
   <sub>Madalina Vechiu · 49 de participanți</sub>
 - `18:30` [Lost in translation: Make complex technology easier to understand... and buy.](https://lu.ma/c2iry7pe)  
