@@ -23,6 +23,8 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 - `19:00` [The Builder's Dinner \| Le Bab Downtown](https://lu.ma/ahdvto7o)  
   <sub>Ciprian Borodescu · 33 de participanți</sub>
+- `19:30` [Monday Quizmania](https://lu.ma/54iyn0bc)  
+  <sub>T5 Social · 7 participanți</sub>
 
 ### Marți, 6 octombrie
 
@@ -38,7 +40,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `08:30` [RoFintech Breakfast hosted by Fagura](https://lu.ma/nsn8mt00)  
   <sub>Adrian Drinceanu</sub>
 - `09:30` [Dealsuite x Lexters Bucharest M&A Networking Breakfast](https://lu.ma/3n1df0wm)  
-  <sub>Lexters · 21 de participanți</sub>
+  <sub>Lexters · 24 de participanți</sub>
 - `13:00` [Bridging CEE: An Investor Networking Lunch vol.2 (a How to Web in-conference event)](https://lu.ma/op2m6rzl)  
   <sub>The Recursive</sub>
 - `15:50` [Regenerate, don’t maintain](https://lu.ma/qgfwp46r)  
@@ -49,7 +51,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:00` [RBC #415: Arta + Antreprenoriatul = 2M € │Cum construiești un brand de lux Made in Romania - Oana și Dragoș Vlădilă](https://lu.ma/43wnrien)  
   <sub>Teodora Nicolaiciuc</sub>
 - `18:00` [Romanian Capital Circle](https://lu.ma/m100y5q5)  
-  <sub>Vest Ventures · 44 de participanți</sub>
+  <sub>Vest Ventures · 45 de participanți</sub>
 - `19:00` [Creators Sessions with Cristina Oțel \| Navigating the In-Between (members only)](https://lu.ma/j3n8piqa)  
   <sub>Andreea Chiuaru · 15 participanți</sub>
 - `19:00` [Founder Backroom - A Founder's Exit (Private Dinner)](https://lu.ma/m17zn5yy)  
@@ -69,9 +71,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:30` [Prompt 1: AI × Fintech: The Future of Money](https://lu.ma/09m9ifhf)  
   <sub>Softbinator Technologies</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E46](https://lu.ma/8585e7xn)  
-  <sub>321sport · 11 participanți</sub>
+  <sub>321sport · 15 participanți</sub>
 - `19:00` [AI and the Future of Filmmaking (w/ The AI Collective)](https://lu.ma/aic-buc-fofm)  
   <sub>The AI Collective</sub>
+- `19:00` [Beta Nights: Bucharest Chapter 🍺 #1](https://lu.ma/ambasada-57nw)  
+  <sub>Paul Burca · 9 participanți</sub>
 - `19:00` [Human2human Networking: #WorkInProgress Edition (Open to anyone)](https://lu.ma/tk4i2qfw)  
   <sub>Andreea Chiuaru</sub>
 
