@@ -4,15 +4,6 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Marți, 6 octombrie
-
-- `09:00` [Founders Breakfast hosted by Underline & 3VC & Inovo](https://lu.ma/z4agq5a2)  
-  <sub>3VC</sub>
-- `17:30` [Happy hour ✦ Un eveniment despre evenimente](https://lu.ma/p3mt8ar1)  
-  <sub>Anca Serban · 17 participanți</sub>
-- `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S23E45](https://lu.ma/gbm01dy9)  
-  <sub>321sport · 19 participanți</sub>
-
 ### Miercuri, 7 octombrie
 
 - `08:30` [RoFintech Breakfast hosted by Fagura](https://lu.ma/nsn8mt00)  
@@ -22,14 +13,14 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `13:00` [Bridging CEE: An Investor Networking Lunch vol.2 (a How to Web in-conference event)](https://lu.ma/op2m6rzl)  
   <sub>The Recursive</sub>
 - `15:50` [Regenerate, don’t maintain](https://lu.ma/qgfwp46r)  
-  <sub>Jovana Zoric · 40 de participanți</sub>
+  <sub>Jovana Zoric · 49 de participanți</sub>
 - `17:00` [Stop Shipping What Nobody Asked For](https://lu.ma/how-vd7g)
 - `18:00` [AI Agents in Production / The AI Collective Bucharest Chapter](https://lu.ma/9delenbi)  
-  <sub>Ioana Mihăilescu · 66 de participanți</sub>
+  <sub>Ioana Mihăilescu · 80 de participanți</sub>
 - `18:00` [RBC #415: Arta + Antreprenoriatul = 2M € │Cum construiești un brand de lux Made in Romania - Oana și Dragoș Vlădilă](https://lu.ma/43wnrien)  
   <sub>Teodora Nicolaiciuc</sub>
 - `18:00` [Romanian Capital Circle](https://lu.ma/m100y5q5)  
-  <sub>Vest Ventures · 77 de participanți</sub>
+  <sub>Vest Ventures · 76 de participanți</sub>
 - `19:00` [Creators Sessions with Cristina Oțel \| Navigating the In-Between (members only)](https://lu.ma/j3n8piqa)  
   <sub>Andreea Chiuaru · 16 participanți</sub>
 - `19:00` [Founder Backroom - A Founder's Exit (Private Dinner)](https://lu.ma/m17zn5yy)  
@@ -41,7 +32,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 - `11:30` [Capital Continuum: From Angels to VC to Private Equity](https://lu.ma/zej2t61v)
 - `13:30` [Somebody has to get paid to fix this - happening at How to Web Conference 2026, on the Focus Stage, on day 3](https://lu.ma/ikrguasq)  
-  <sub>Marc Impact Programme · 39 de participanți</sub>
+  <sub>Marc Impact Programme · 44 de participanți</sub>
 - `18:00` [OWASP Bucharest Meetup](https://lu.ma/82pd3v6c)  
   <sub>OWASP Bucharest · 16 participanți</sub>
 - `18:30` [Alchemy Open Doors \| Building Teams with People & AI](https://lu.ma/lxx3k9yu)  
@@ -49,26 +40,30 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:30` [Prompt 1: AI × Fintech: The Future of Money](https://lu.ma/09m9ifhf)  
   <sub>Softbinator Technologies</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S23E46](https://lu.ma/8585e7xn)  
-  <sub>321sport · 24 de participanți</sub>
+  <sub>321sport · 34 de participanți</sub>
 - `19:00` [AI and the Future of Filmmaking (w/ The AI Collective)](https://lu.ma/aic-buc-fofm)  
   <sub>The AI Collective</sub>
 - `19:00` [Beta Nights: Bucharest Chapter 🍺 #1](https://lu.ma/ambasada-57nw)  
-  <sub>Paul Burca · 49 de participanți</sub>
+  <sub>Paul Burca · 50 de participanți</sub>
 - `19:00` [Human2human Networking: #WorkInProgress Edition (Open to anyone)](https://lu.ma/tk4i2qfw)  
   <sub>Andreea Chiuaru</sub>
 - `19:30` [Thursday Trivia](https://lu.ma/mudrs80y)  
-  <sub>T5 Social · 16 participanți</sub>
+  <sub>T5 Social · 28 de participanți</sub>
 
 ### Vineri, 9 octombrie
 
+- `17:30` [Shakeout Run 2026](https://lu.ma/cw03yq9p)  
+  <sub>321sport · 26 de participanți</sub>
 - `18:00` [Foresight for Startups that Lead](https://lu.ma/cuc62i5v)  
   <sub>raluca.peicea · 48 de participanți</sub>
 - `18:00` [Physical AI Bucharest#2 - Physical AI in Space](https://lu.ma/tl5g6poz)  
-  <sub>Georgia Bucea · 34 de participanți</sub>
+  <sub>Georgia Bucea · 35 de participanți</sub>
 - `18:30` [Metalurgiei Meetup @ Colibri: vin, pictură și oameni faini 🎨🍷](https://lu.ma/n3qhvdj9)  
   <sub>Loredana Pipie</sub>
 - `18:30` [THE SQUARE Social Chess @Melange Cafe](https://lu.ma/vykt6our)  
   <sub>THE SQUARE Chess Club</sub>
+- `19:00` [Shakeout Run](https://lu.ma/m8exjbl3)  
+  <sub>FOMO Urban Running Club · 7 participanți</sub>
 
 ### Sâmbătă, 10 octombrie
 
@@ -90,7 +85,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/iqtc5xx4)  
   <sub>Irina Tenovici</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/60ohns2i)  
-  <sub>Nicoleta Ifrim · 1 participant</sub>
+  <sub>Nicoleta Ifrim · 2 participanți</sub>
 - `10:00` [BLAF Home Barista Competition](https://lu.ma/wqmk6ivv)  
   <sub>BOILER LATTE ART FESTIVAL</sub>
 - `10:00` [BLAF Professional Latte Art Competition](https://lu.ma/ajv2gbgv)  
@@ -109,8 +104,10 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
   <sub>Asociația Trezorierilor din România</sub>
 - `09:00` [Best Employer Fest](https://lu.ma/nx3uzdsm)  
   <sub>Revista CARIERE</sub>
+- `18:00` [Benjamin Moore Color of the Year 2027](https://lu.ma/m9nm08yd)  
+  <sub>Murali Store · 28 de participanți</sub>
 - `19:00` [Get together - ATR Celebration @ The Vault, Marmorosch](https://lu.ma/u6erif66)  
-  <sub>Asociația Trezorierilor din România · 25 de participanți</sub>
+  <sub>Asociația Trezorierilor din România · 26 de participanți</sub>
 
 ### Joi, 15 octombrie
 
@@ -122,9 +119,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Vineri, 16 octombrie
 
 - `10:00` [\[Community-Led Event AmpliFY ONG\] Implicare fără epuizare - Cum construim organizații care protejează oamenii fără să-și piardă misiunea](https://lu.ma/CLE-wellbeing-lab)  
-  <sub>AmpliFY ONG · 16 participanți</sub>
+  <sub>AmpliFY ONG · 18 participanți</sub>
 - `10:00` [OmniOpenCon 2026](https://lu.ma/hi08i10q)  
-  <sub>Giorgiana Vlăsceanu · 151 de participanți</sub>
+  <sub>Giorgiana Vlăsceanu · 154 de participanți</sub>
 - `16:00` [Doubles Tennis Tournament, Salestrust & PuntoUp](https://lu.ma/7mtd3mv6)  
   <sub>Madalina Vechiu · 49 de participanți</sub>
 - `18:30` [Lost in translation: Make complex technology easier to understand... and buy.](https://lu.ma/c2iry7pe)  
@@ -137,7 +134,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `13:30` [Arhitecții Naturii \| Proiecție gratuită la OCC \| 17 octombrie](https://lu.ma/pb2yncjj)  
   <sub>Opera Comică pentru Copii</sub>
 - `14:00` [Cafeaua De Sâmbăta #30 \| Bucuresti](https://lu.ma/hs2pz7ch)  
-  <sub>Ionut Alexandru Stanciu · 2 participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 4 participanți</sub>
 
 ### Duminică, 18 octombrie
 
@@ -164,15 +161,20 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:30` [CTO Craft Mixers: Bucharest](https://lu.ma/wca56uv9)  
   <sub>CTO Craft · 10 participanți</sub>
 
+### Miercuri, 21 octombrie
+
+- `16:00` [CARIERE Club \| 21 octombrie 2026](https://lu.ma/8ca5gns5)  
+  <sub>Revista CARIERE · 5 participanți</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-06)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-07)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-06)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-07)
 
 ## Despre
 
@@ -186,4 +188,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 6 octombrie 2026*
+*Actualizat: 7 octombrie 2026*
