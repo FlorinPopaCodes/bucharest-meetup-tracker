@@ -22,15 +22,15 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 11 octombrie
 
 - `09:00` [CHEERING POINT 321SPORT](https://lu.ma/ig99swtq)  
-  <sub>321sport · 7 participanți</sub>
+  <sub>321sport · 8 participanți</sub>
 - `09:00` [Tura de duminică Cotroceni](https://lu.ma/gct0v9lz)  
-  <sub>Aleodor Tabarcea · 8 participanți</sub>
+  <sub>Aleodor Tabarcea · 11 participanți</sub>
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/nggr5h3a)  
-  <sub>Emily Merdus · 6 participanți</sub>
+  <sub>Emily Merdus · 11 participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/iqtc5xx4)  
-  <sub>Irina Tenovici · 3 participanți</sub>
+  <sub>Irina Tenovici · 7 participanți</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/60ohns2i)  
-  <sub>Nicoleta Ifrim · 11 participanți</sub>
+  <sub>Nicoleta Ifrim · 19 participanți</sub>
 - `10:00` [BLAF Home Barista Competition](https://lu.ma/wqmk6ivv)  
   <sub>BOILER LATTE ART FESTIVAL</sub>
 - `10:00` [BLAF Professional Latte Art Competition](https://lu.ma/ajv2gbgv)  
@@ -63,7 +63,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `08:30` [Executive Breakfast: Business Resilience in the Age of Permanent Disruption](https://lu.ma/7j78u8hk)  
   <sub>Climate Change Summit · 12 participanți</sub>
 - `16:30` [Ce protejăm, de fapt, când protejăm natura](https://lu.ma/jk19jpz1)  
-  <sub>Climate Change Summit · 71 de participanți</sub>
+  <sub>Climate Change Summit · 76 de participanți</sub>
 
 ### Vineri, 16 octombrie
 
@@ -72,13 +72,13 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `10:00` [From the Lab to Everyday Life: A Guided Tour of incdECOIND](https://lu.ma/z3xh37d8)  
   <sub>Climate Change Summit · 16 participanți</sub>
 - `10:00` [OmniOpenCon 2026](https://lu.ma/hi08i10q)  
-  <sub>Giorgiana Vlăsceanu · 165 de participanți</sub>
+  <sub>Giorgiana Vlăsceanu · 168 de participanți</sub>
 - `16:00` [Doubles Tennis Tournament, Salestrust & PuntoUp](https://lu.ma/7mtd3mv6)  
   <sub>Madalina Vechiu · 57 de participanți</sub>
 - `18:00` [DEGUSTĂ - Răgaz Pentru Bucurie](https://lu.ma/vwynsi05)  
-  <sub>Sabina Mihaila · 3 participanți</sub>
+  <sub>Sabina Mihaila · 4 participanți</sub>
 - `18:30` [Lost in translation: Make complex technology easier to understand... and buy.](https://lu.ma/c2iry7pe)  
-  <sub>Ionut Alexandru Stanciu · 12 participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 14 participanți</sub>
 
 ### Sâmbătă, 17 octombrie
 
@@ -87,7 +87,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `13:30` [Arhitecții Naturii \| Proiecție gratuită la OCC \| 17 octombrie](https://lu.ma/pb2yncjj)  
   <sub>Opera Comică pentru Copii</sub>
 - `14:00` [Cafeaua De Sâmbăta #30 \| Bucuresti](https://lu.ma/hs2pz7ch)  
-  <sub>Ionut Alexandru Stanciu · 16 participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 17 participanți</sub>
 
 ### Duminică, 18 octombrie
 
@@ -108,7 +108,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `16:00` [Concursul Dovlecilor din Grădina Icoanei](https://lu.ma/r5efhg5r)  
   <sub>Mamele Din Cartier · 12 participanți</sub>
 - `18:30` [Guided tour - Otherwise Residency 2026: Silent Pressures](https://lu.ma/h76917mk)  
-  <sub>Climate Change Summit · 17 participanți</sub>
+  <sub>Climate Change Summit · 21 de participanți</sub>
 
 ### Luni, 19 octombrie
 
@@ -125,7 +125,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `16:00` [CARIERE Club \| 21 octombrie 2026](https://lu.ma/8ca5gns5)  
   <sub>Revista CARIERE · 9 participanți</sub>
 - `18:00` [Built to Work: Real Engineering in the AI Era](https://lu.ma/exlqha3q)  
-  <sub>Andra Ghibutiu · 26 de participanți</sub>
+  <sub>Andra Ghibutiu · 28 de participanți</sub>
 - `19:00` [Bucharest Tech Mixer \| October Edition](https://lu.ma/59u4k4v4)  
   <sub>neomixer by ▲promocrat · 25 de participanți</sub>
 
@@ -139,7 +139,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Vineri, 23 octombrie
 
 - `18:00` [Aperitivo all'italiana — Nookyard @ Mélange Café by Fornaio.ro](https://lu.ma/7piojqrl)  
-  <sub>Ionut Alexandru Stanciu · 2 participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 3 participanți</sub>
 
 ## Activitate (ultimele 365 de zile)
 

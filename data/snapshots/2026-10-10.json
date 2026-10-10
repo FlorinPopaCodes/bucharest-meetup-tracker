@@ -1,429 +1,6 @@
 {
   "geo": [
     {
-      "api_id": "evt-bFIxKlX2ALnrVsD",
-      "event": {
-        "api_id": "evt-bFIxKlX2ALnrVsD",
-        "calendar_api_id": "cal-3xwlNKwTmapsBbn",
-        "end_at": "2026-10-10T12:00:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "BLAF Talks",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": false,
-        "social_image_url": "https://images.lumacdn.com/event-social/hn/eeead9bf-ab08-40a4-8a2e-ee45bc664a01.png",
-        "start_at": "2026-10-10T06:00:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "95bvvzm1",
-        "user_api_id": "usr-UPyIg2nTIpJHr6f",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "București",
-          "type": "google",
-          "region": "București",
-          "address": "BOILER @ BOC",
-          "country": "Romania",
-          "place_id": "ChIJzU-8R6P5sUARe7cgUGqZVnY",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": "București",
-              "address": "BOILER @ BOC",
-              "country": "România",
-              "city_state": "București, România",
-              "sublocality": "Sectorul 2",
-              "full_address": "BOILER @ BOC, Strada George Constantinescu 3, 077190 București, România",
-              "region_short": "București",
-              "short_address": "Clădirea BOC, Upground Business Center, Strada George Constantinescu 3, București"
-            }
-          },
-          "city_state": "București, Romania",
-          "description": "",
-          "sublocality": "Sectorul 2",
-          "country_code": "RO",
-          "full_address": "BOILER @ BOC, Strada George Constantinescu 3, 077190 București, Romania",
-          "region_short": "București",
-          "short_address": "BOC Tower, Upground Business Center, Strada George Constantinescu 3, București",
-          "place_coordinate": {
-            "latitude": 44.479072699999996,
-            "longitude": 26.115119699999997
-          },
-          "apple_maps_place_id": "IBC7A786B63D39131",
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 26.115119699999997,
-          "latitude": 44.479072699999996
-        },
-        "waitlist_enabled": true,
-        "waitlist_status": "enabled"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-3xwlNKwTmapsBbn",
-        "coordinate": null,
-        "description_short": "BLAF: Boiler Latte Art Festival aduce împreună barista, oameni din industrie și coffee people pentru competiții, workshops și conversații care duc specialty coffee mai departe.\nPick your event.",
-        "end_date": null,
-        "is_verified": false,
-        "location": null,
-        "name": "BLAF 2026",
-        "personal_user_api_id": null,
-        "slug": "BLAF",
-        "start_date": null,
-        "website": null,
-        "is_personal": false,
-        "personal_user": null,
-        "timezone": null
-      },
-      "start_at": "2026-10-10T06:00:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-UPyIg2nTIpJHr6f",
-          "name": "BOILER LATTE ART FESTIVAL",
-          "username": "boilerlatteart"
-        }
-      ],
-      "guest_count": 0,
-      "ticket_count": 0,
-      "ticket_info": {
-        "price": null,
-        "is_free": true,
-        "max_price": null,
-        "is_sold_out": false,
-        "require_approval": false
-      },
-      "registration_availability": "open",
-      "waitlist_active": false,
-      "featured_city": null
-    },
-    {
-      "api_id": "evt-OStFSQFvE0P4XM6",
-      "event": {
-        "api_id": "evt-OStFSQFvE0P4XM6",
-        "calendar_api_id": "cal-3xwlNKwTmapsBbn",
-        "end_at": "2026-10-10T11:30:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "BLAF Workshops",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": false,
-        "social_image_url": "https://images.lumacdn.com/event-social/c3/332d639d-fa30-48fe-a8d4-dff971b79606.png",
-        "start_at": "2026-10-10T08:00:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "caugclit",
-        "user_api_id": "usr-UPyIg2nTIpJHr6f",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "București",
-          "type": "google",
-          "region": "București",
-          "address": "BOILER @ BOC",
-          "country": "Romania",
-          "place_id": "ChIJzU-8R6P5sUARe7cgUGqZVnY",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": "București",
-              "address": "BOILER @ BOC",
-              "country": "România",
-              "city_state": "București, România",
-              "sublocality": "Sectorul 2",
-              "full_address": "BOILER @ BOC, Strada George Constantinescu 3, 077190 București, România",
-              "region_short": "București",
-              "short_address": "Clădirea BOC, Upground Business Center, Strada George Constantinescu 3, București"
-            }
-          },
-          "city_state": "București, Romania",
-          "description": "",
-          "sublocality": "Sectorul 2",
-          "country_code": "RO",
-          "full_address": "BOILER @ BOC, Strada George Constantinescu 3, 077190 București, Romania",
-          "region_short": "București",
-          "short_address": "BOC Tower, Upground Business Center, Strada George Constantinescu 3, București",
-          "place_coordinate": {
-            "latitude": 44.479072699999996,
-            "longitude": 26.115119699999997
-          },
-          "apple_maps_place_id": "IBC7A786B63D39131",
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 26.115119699999997,
-          "latitude": 44.479072699999996
-        },
-        "waitlist_enabled": false,
-        "waitlist_status": "disabled"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-3xwlNKwTmapsBbn",
-        "coordinate": null,
-        "description_short": "BLAF: Boiler Latte Art Festival aduce împreună barista, oameni din industrie și coffee people pentru competiții, workshops și conversații care duc specialty coffee mai departe.\nPick your event.",
-        "end_date": null,
-        "is_verified": false,
-        "location": null,
-        "name": "BLAF 2026",
-        "personal_user_api_id": null,
-        "slug": "BLAF",
-        "start_date": null,
-        "website": null,
-        "is_personal": false,
-        "personal_user": null,
-        "timezone": null
-      },
-      "start_at": "2026-10-10T08:00:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-UPyIg2nTIpJHr6f",
-          "name": "BOILER LATTE ART FESTIVAL",
-          "username": "boilerlatteart"
-        }
-      ],
-      "guest_count": 0,
-      "ticket_count": 0,
-      "ticket_info": {
-        "price": null,
-        "is_free": true,
-        "max_price": null,
-        "is_sold_out": false,
-        "require_approval": false
-      },
-      "registration_availability": "open",
-      "waitlist_active": false,
-      "featured_city": null
-    },
-    {
-      "api_id": "evt-HMjVCIcgCgRVaoA",
-      "event": {
-        "api_id": "evt-HMjVCIcgCgRVaoA",
-        "calendar_api_id": "cal-3xwlNKwTmapsBbn",
-        "end_at": "2026-10-10T14:00:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "BLAF Round Table",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": false,
-        "social_image_url": "https://images.lumacdn.com/event-social/c6/b4f9f1a5-9060-48ab-8706-2df56cae1f9a.png",
-        "start_at": "2026-10-10T12:00:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "9ddua95k",
-        "user_api_id": "usr-UPyIg2nTIpJHr6f",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "București",
-          "type": "google",
-          "region": "București",
-          "address": "BOILER @ BOC",
-          "country": "Romania",
-          "place_id": "ChIJzU-8R6P5sUARe7cgUGqZVnY",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": "București",
-              "address": "BOILER @ BOC",
-              "country": "România",
-              "city_state": "București, România",
-              "sublocality": "Sectorul 2",
-              "full_address": "BOILER @ BOC, Strada George Constantinescu 3, 077190 București, România",
-              "region_short": "București",
-              "short_address": "Clădirea BOC, Upground Business Center, Strada George Constantinescu 3, București"
-            }
-          },
-          "city_state": "București, Romania",
-          "description": "",
-          "sublocality": "Sectorul 2",
-          "country_code": "RO",
-          "full_address": "BOILER @ BOC, Strada George Constantinescu 3, 077190 București, Romania",
-          "region_short": "București",
-          "short_address": "BOC Tower, Upground Business Center, Strada George Constantinescu 3, București",
-          "place_coordinate": {
-            "latitude": 44.479072699999996,
-            "longitude": 26.115119699999997
-          },
-          "apple_maps_place_id": "IBC7A786B63D39131",
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 26.115119699999997,
-          "latitude": 44.479072699999996
-        },
-        "waitlist_enabled": true,
-        "waitlist_status": "enabled"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-3xwlNKwTmapsBbn",
-        "coordinate": null,
-        "description_short": "BLAF: Boiler Latte Art Festival aduce împreună barista, oameni din industrie și coffee people pentru competiții, workshops și conversații care duc specialty coffee mai departe.\nPick your event.",
-        "end_date": null,
-        "is_verified": false,
-        "location": null,
-        "name": "BLAF 2026",
-        "personal_user_api_id": null,
-        "slug": "BLAF",
-        "start_date": null,
-        "website": null,
-        "is_personal": false,
-        "personal_user": null,
-        "timezone": null
-      },
-      "start_at": "2026-10-10T12:00:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-UPyIg2nTIpJHr6f",
-          "name": "BOILER LATTE ART FESTIVAL",
-          "username": "boilerlatteart"
-        }
-      ],
-      "guest_count": 0,
-      "ticket_count": 0,
-      "ticket_info": {
-        "price": null,
-        "is_free": true,
-        "max_price": null,
-        "is_sold_out": false,
-        "require_approval": false
-      },
-      "registration_availability": "open",
-      "waitlist_active": false,
-      "featured_city": null
-    },
-    {
-      "api_id": "evt-REBGfHOhJgcKIiA",
-      "event": {
-        "api_id": "evt-REBGfHOhJgcKIiA",
-        "calendar_api_id": "cal-EIV153xIr26wSt1",
-        "end_at": "2026-10-10T18:30:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "Tururi ghidate - „Cine știe când o să avem nevoie”",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": true,
-        "social_image_url": "https://images.lumacdn.com/event-social/36/23f16bba-9503-4cb9-a274-3d8c399a5425.png",
-        "start_at": "2026-10-10T15:00:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "otr0ni6b",
-        "user_api_id": "usr-knebNBaGEp2CVGF",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "București",
-          "type": "google",
-          "region": "București",
-          "address": "/SAC",
-          "country": "Romania",
-          "place_id": "ChIJZf5i_Fr_sUARp7D6rkD3MSk",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": "București",
-              "address": "/SAC",
-              "country": "România",
-              "city_state": "București, România",
-              "sublocality": "Bucureşti Sectorul 1",
-              "full_address": "/SAC, Strada General H. M. Berthelot 5, 030167 București, România",
-              "region_short": "București",
-              "short_address": "Strada General H. M. Berthelot 5, București"
-            },
-            "en-GB": {
-              "city": "București",
-              "region": "București",
-              "address": "/SAC",
-              "country": "Romania",
-              "city_state": "București, Romania",
-              "sublocality": "Bucureşti Sectorul 1",
-              "full_address": "/SAC, Strada General H. M. Berthelot 5, 030167 București, Romania",
-              "region_short": "București",
-              "short_address": "Strada General H. M. Berthelot 5, București"
-            }
-          },
-          "city_state": "București, Romania",
-          "description": "",
-          "sublocality": "Bucureşti Sectorul 1",
-          "country_code": "RO",
-          "full_address": "/SAC, Strada General H. M. Berthelot 5, 030167 București, Romania",
-          "region_short": "București",
-          "short_address": "Strada General H. M. Berthelot 5, București",
-          "place_coordinate": {
-            "latitude": 44.4421354,
-            "longitude": 26.0931201
-          },
-          "apple_maps_place_id": null,
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 26.0931201,
-          "latitude": 44.4421354
-        },
-        "waitlist_enabled": false,
-        "waitlist_status": "disabled"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-EIV153xIr26wSt1",
-        "coordinate": null,
-        "description_short": null,
-        "end_date": null,
-        "is_verified": false,
-        "location": null,
-        "name": "Personal",
-        "personal_user_api_id": "usr-knebNBaGEp2CVGF",
-        "slug": null,
-        "start_date": null,
-        "website": null,
-        "is_personal": true,
-        "personal_user": {
-          "api_id": "usr-knebNBaGEp2CVGF",
-          "name": "Sebastian Antal",
-          "username": null
-        },
-        "timezone": null
-      },
-      "start_at": "2026-10-10T15:00:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-knebNBaGEp2CVGF",
-          "name": "Sebastian Antal",
-          "username": null
-        }
-      ],
-      "guest_count": 38,
-      "ticket_count": 38,
-      "ticket_info": {
-        "price": null,
-        "is_free": true,
-        "max_price": null,
-        "is_sold_out": false,
-        "require_approval": false
-      },
-      "registration_availability": "open",
-      "waitlist_active": false,
-      "featured_city": null
-    },
-    {
       "api_id": "evt-zu3pmuTwVKyhpuX",
       "event": {
         "api_id": "evt-zu3pmuTwVKyhpuX",
@@ -540,8 +117,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 7,
-      "ticket_count": 7,
+      "guest_count": 8,
+      "ticket_count": 8,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -642,8 +219,8 @@
           "username": null
         }
       ],
-      "guest_count": 8,
-      "ticket_count": 8,
+      "guest_count": 11,
+      "ticket_count": 11,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -725,8 +302,8 @@
           "username": null
         }
       ],
-      "guest_count": 6,
-      "ticket_count": 6,
+      "guest_count": 11,
+      "ticket_count": 11,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -827,8 +404,8 @@
           "username": null
         }
       ],
-      "guest_count": 3,
-      "ticket_count": 3,
+      "guest_count": 7,
+      "ticket_count": 7,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -939,8 +516,8 @@
           "username": null
         }
       ],
-      "guest_count": 11,
-      "ticket_count": 11,
+      "guest_count": 19,
+      "ticket_count": 19,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2207,8 +1784,8 @@
           "username": "changesummit"
         }
       ],
-      "guest_count": 71,
-      "ticket_count": 71,
+      "guest_count": 76,
+      "ticket_count": 76,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2529,8 +2106,8 @@
           "username": null
         }
       ],
-      "guest_count": 165,
-      "ticket_count": 165,
+      "guest_count": 168,
+      "ticket_count": 168,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2752,8 +2329,8 @@
           "username": null
         }
       ],
-      "guest_count": 3,
-      "ticket_count": 5,
+      "guest_count": 4,
+      "ticket_count": 6,
       "ticket_info": {
         "price": {
           "cents": 20000,
@@ -2867,8 +2444,8 @@
           "username": null
         }
       ],
-      "guest_count": 12,
-      "ticket_count": 12,
+      "guest_count": 14,
+      "ticket_count": 14,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3634,8 +3211,8 @@
           "username": "changesummit"
         }
       ],
-      "guest_count": 17,
-      "ticket_count": 17,
+      "guest_count": 21,
+      "ticket_count": 21,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -4093,8 +3670,8 @@
           "username": null
         }
       ],
-      "guest_count": 26,
-      "ticket_count": 26,
+      "guest_count": 28,
+      "ticket_count": 28,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -4430,6 +4007,125 @@
         "max_price": null,
         "is_sold_out": false,
         "require_approval": true
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-POFL5FCfxA5sxj7",
+      "event": {
+        "api_id": "evt-POFL5FCfxA5sxj7",
+        "calendar_api_id": "cal-EoV2Bj45CjQhWF3",
+        "end_at": "2026-10-23T18:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Aperitivo all'italiana — Nookyard @ Mélange Café by Fornaio.ro",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/xf/45a18c18-45f0-4907-925e-45479001a3a3.png",
+        "start_at": "2026-10-23T15:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "7piojqrl",
+        "user_api_id": "usr-qvDXAFqTEFvT4tG",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Nookyard | Daytime Private Member's Club",
+          "country": "Romania",
+          "place_id": "ChIJrSWbeRn_sUARuiMGwHGPYYg",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Nookyard | Daytime Private Member's Club",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Bucureşti Sectorul 3",
+              "full_address": "Nookyard | Daytime Private Member's Club, Strada Oltarului 3, 030167 București, România",
+              "region_short": "București",
+              "short_address": "Strada Oltarului 3, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Bucureşti Sectorul 3",
+          "country_code": "RO",
+          "full_address": "Nookyard | Daytime Private Member's Club, Strada Oltarului 3, 030167 București, Romania",
+          "region_short": "București",
+          "short_address": "Strada Oltarului 3, București",
+          "place_coordinate": {
+            "latitude": 44.4420794,
+            "longitude": 26.116931700000002
+          },
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.116931700000002,
+          "latitude": 44.4420794
+        },
+        "waitlist_enabled": true,
+        "waitlist_status": "enabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-EoV2Bj45CjQhWF3",
+        "coordinate": {
+          "longitude": 26.1025384,
+          "latitude": 44.426767399999996
+        },
+        "description_short": "​Nu vindem nimic. Nu facem networking forțat. Nu există presiunea de a impresiona pe nimeni.\n\n​Ne vedem pur și simplu la o cafea, ne relaxăm, râdem, glumim și ieșim puțin din rutina de zi cu zi.\n\n​Poț",
+        "end_date": null,
+        "is_verified": false,
+        "location": {
+          "city": "Bucharest",
+          "region": null,
+          "country": "Romania",
+          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
+          "timezone": "Europe/Bucharest",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": null,
+              "country": "România"
+            }
+          },
+          "country_code": "RO"
+        },
+        "name": "Cafeaua De Sâmbăta",
+        "personal_user_api_id": null,
+        "slug": "CafeauaDeSambata",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": "Europe/Bucharest"
+      },
+      "start_at": "2026-10-23T15:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-qvDXAFqTEFvT4tG",
+          "name": "Ionut Alexandru Stanciu",
+          "username": "alexstanciu"
+        }
+      ],
+      "guest_count": 3,
+      "ticket_count": 3,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
       },
       "registration_availability": "open",
       "waitlist_active": false,
@@ -6377,8 +6073,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 158,
-      "ticket_count": 158,
+      "guest_count": 159,
+      "ticket_count": 159,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -6481,8 +6177,8 @@
           "username": null
         }
       ],
-      "guest_count": 3,
-      "ticket_count": 3,
+      "guest_count": 7,
+      "ticket_count": 7,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -6569,8 +6265,8 @@
           "username": null
         }
       ],
-      "guest_count": 6,
-      "ticket_count": 6,
+      "guest_count": 11,
+      "ticket_count": 11,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -6692,8 +6388,8 @@
           "username": null
         }
       ],
-      "guest_count": 1,
-      "ticket_count": 1,
+      "guest_count": 2,
+      "ticket_count": 2,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -6799,8 +6495,8 @@
           "username": null
         }
       ],
-      "guest_count": 8,
-      "ticket_count": 8,
+      "guest_count": 11,
+      "ticket_count": 11,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -6916,8 +6612,8 @@
           "username": null
         }
       ],
-      "guest_count": 11,
-      "ticket_count": 11,
+      "guest_count": 19,
+      "ticket_count": 19,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -7116,8 +6812,8 @@
           "username": null
         }
       ],
-      "guest_count": 1,
-      "ticket_count": 1,
+      "guest_count": 2,
+      "ticket_count": 2,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -7396,8 +7092,8 @@
           "username": null
         }
       ],
-      "guest_count": 2,
-      "ticket_count": 2,
+      "guest_count": 4,
+      "ticket_count": 4,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -9280,8 +8976,8 @@
           "username": "alexstanciu"
         }
       ],
-      "guest_count": 16,
-      "ticket_count": 16,
+      "guest_count": 17,
+      "ticket_count": 17,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -9662,8 +9358,8 @@
           "username": "alexstanciu"
         }
       ],
-      "guest_count": 2,
-      "ticket_count": 2,
+      "guest_count": 3,
+      "ticket_count": 3,
       "ticket_info": {
         "price": null,
         "is_free": true,
