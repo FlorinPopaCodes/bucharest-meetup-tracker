@@ -4,21 +4,6 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Sâmbătă, 10 octombrie
-
-- `09:00` [BLAF Talks](https://lu.ma/95bvvzm1)  
-  <sub>BOILER LATTE ART FESTIVAL</sub>
-- `09:15` [PAS CU SENS x Velocità](https://lu.ma/i3bunnvs)  
-  <sub>Brezae Adela · 9 participanți</sub>
-- `11:00` [BLAF Workshops](https://lu.ma/caugclit)  
-  <sub>BOILER LATTE ART FESTIVAL</sub>
-- `13:30` [Volei cu Oportune 🏐](https://lu.ma/fdl5csp4)  
-  <sub>Oportune · 5 participanți</sub>
-- `15:00` [BLAF Round Table](https://lu.ma/9ddua95k)  
-  <sub>BOILER LATTE ART FESTIVAL</sub>
-- `18:00` [Tururi ghidate - „Cine știe când o să avem nevoie”](https://lu.ma/otr0ni6b)  
-  <sub>Sebastian Antal · 38 de participanți</sub>
-
 ### Duminică, 11 octombrie
 
 - `09:00` [CHEERING POINT 321SPORT](https://lu.ma/ig99swtq)  
@@ -36,6 +21,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `10:00` [BLAF Professional Latte Art Competition](https://lu.ma/ajv2gbgv)  
   <sub>BOILER LATTE ART FESTIVAL</sub>
 
+### Luni, 12 octombrie
+
+- `19:30` [Monday Quizmania](https://lu.ma/vgldvw09)  
+  <sub>T5 Social · 6 participanți</sub>
+
 ### Marți, 13 octombrie
 
 - `17:30` [Better Futures Romania #5: Viitorul rolurilor entry-level](https://lu.ma/eiu4l5fu)  
@@ -52,7 +42,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `09:00` [LiT Unfiltered - From Engineer to Country Manager](https://lu.ma/litunfiltered7)  
   <sub>Bogdan Popescu</sub>
 - `18:00` [Benjamin Moore Color of the Year 2027](https://lu.ma/m9nm08yd)  
-  <sub>Murali Store · 64 de participanți</sub>
+  <sub>Murali Store · 65 de participanți</sub>
 - `18:00` [RBC #416 \| ÎNAINTE SĂ FACI BUSINESS CU CINEVA, ÎNVAȚĂ SĂ-L „CITEȘTI” \| Bogdan Iulian Gavrilă \| Povestea de pe fața ta](https://lu.ma/ij4qf64h)  
   <sub>Teodora Nicolaiciuc</sub>
 - `19:00` [Get together - ATR Celebration @ The Vault, Marmorosch](https://lu.ma/u6erif66)  
@@ -72,11 +62,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `10:00` [From the Lab to Everyday Life: A Guided Tour of incdECOIND](https://lu.ma/z3xh37d8)  
   <sub>Climate Change Summit · 16 participanți</sub>
 - `10:00` [OmniOpenCon 2026](https://lu.ma/hi08i10q)  
-  <sub>Giorgiana Vlăsceanu · 168 de participanți</sub>
+  <sub>Giorgiana Vlăsceanu · 171 de participanți</sub>
 - `16:00` [Doubles Tennis Tournament, Salestrust & PuntoUp](https://lu.ma/7mtd3mv6)  
   <sub>Madalina Vechiu · 57 de participanți</sub>
 - `18:00` [DEGUSTĂ - Răgaz Pentru Bucurie](https://lu.ma/vwynsi05)  
-  <sub>Sabina Mihaila · 4 participanți</sub>
+  <sub>Sabina Mihaila · 5 participanți</sub>
 - `18:30` [Lost in translation: Make complex technology easier to understand... and buy.](https://lu.ma/c2iry7pe)  
   <sub>Ionut Alexandru Stanciu · 14 participanți</sub>
 
@@ -87,7 +77,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `13:30` [Arhitecții Naturii \| Proiecție gratuită la OCC \| 17 octombrie](https://lu.ma/pb2yncjj)  
   <sub>Opera Comică pentru Copii</sub>
 - `14:00` [Cafeaua De Sâmbăta #30 \| Bucuresti](https://lu.ma/hs2pz7ch)  
-  <sub>Ionut Alexandru Stanciu · 17 participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 19 participanți</sub>
 
 ### Duminică, 18 octombrie
 
@@ -106,7 +96,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `14:00` [📚 Book Club #4: 1984 — George Orwell #19](https://lu.ma/7fx0zh0i)  
   <sub>Anda 🪷 · 24 de participanți</sub>
 - `16:00` [Concursul Dovlecilor din Grădina Icoanei](https://lu.ma/r5efhg5r)  
-  <sub>Mamele Din Cartier · 12 participanți</sub>
+  <sub>Mamele Din Cartier · 13 participanți</sub>
 - `18:30` [Guided tour - Otherwise Residency 2026: Silent Pressures](https://lu.ma/h76917mk)  
   <sub>Climate Change Summit · 21 de participanți</sub>
 
@@ -125,7 +115,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `16:00` [CARIERE Club \| 21 octombrie 2026](https://lu.ma/8ca5gns5)  
   <sub>Revista CARIERE · 9 participanți</sub>
 - `18:00` [Built to Work: Real Engineering in the AI Era](https://lu.ma/exlqha3q)  
-  <sub>Andra Ghibutiu · 28 de participanți</sub>
+  <sub>Andra Ghibutiu · 31 de participanți</sub>
 - `19:00` [Bucharest Tech Mixer \| October Edition](https://lu.ma/59u4k4v4)  
   <sub>neomixer by ▲promocrat · 25 de participanți</sub>
 
@@ -145,11 +135,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-10)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-11)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-10)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-11)
 
 ## Despre
 
@@ -163,4 +153,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 10 octombrie 2026*
+*Actualizat: 11 octombrie 2026*
