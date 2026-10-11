@@ -24,7 +24,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Luni, 12 octombrie
 
 - `19:30` [Monday Quizmania](https://lu.ma/vgldvw09)  
-  <sub>T5 Social · 6 participanți</sub>
+  <sub>T5 Social · 14 participanți</sub>
 
 ### Marți, 13 octombrie
 
@@ -42,7 +42,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `09:00` [LiT Unfiltered - From Engineer to Country Manager](https://lu.ma/litunfiltered7)  
   <sub>Bogdan Popescu</sub>
 - `18:00` [Benjamin Moore Color of the Year 2027](https://lu.ma/m9nm08yd)  
-  <sub>Murali Store · 65 de participanți</sub>
+  <sub>Murali Store · 68 de participanți</sub>
 - `18:00` [RBC #416 \| ÎNAINTE SĂ FACI BUSINESS CU CINEVA, ÎNVAȚĂ SĂ-L „CITEȘTI” \| Bogdan Iulian Gavrilă \| Povestea de pe fața ta](https://lu.ma/ij4qf64h)  
   <sub>Teodora Nicolaiciuc</sub>
 - `19:00` [Get together - ATR Celebration @ The Vault, Marmorosch](https://lu.ma/u6erif66)  
@@ -53,20 +53,22 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `08:30` [Executive Breakfast: Business Resilience in the Age of Permanent Disruption](https://lu.ma/7j78u8hk)  
   <sub>Climate Change Summit · 12 participanți</sub>
 - `16:30` [Ce protejăm, de fapt, când protejăm natura](https://lu.ma/jk19jpz1)  
-  <sub>Climate Change Summit · 76 de participanți</sub>
+  <sub>Climate Change Summit · 77 de participanți</sub>
 
 ### Vineri, 16 octombrie
 
 - `10:00` [\[Community-Led Event AmpliFY ONG\] Implicare fără epuizare - Cum construim organizații care protejează oamenii fără să-și piardă misiunea](https://lu.ma/CLE-wellbeing-lab)  
   <sub>AmpliFY ONG · 19 participanți</sub>
 - `10:00` [From the Lab to Everyday Life: A Guided Tour of incdECOIND](https://lu.ma/z3xh37d8)  
-  <sub>Climate Change Summit · 16 participanți</sub>
+  <sub>Climate Change Summit · 19 participanți</sub>
 - `10:00` [OmniOpenCon 2026](https://lu.ma/hi08i10q)  
-  <sub>Giorgiana Vlăsceanu · 171 de participanți</sub>
+  <sub>Giorgiana Vlăsceanu · 175 de participanți</sub>
 - `16:00` [Doubles Tennis Tournament, Salestrust & PuntoUp](https://lu.ma/7mtd3mv6)  
   <sub>Madalina Vechiu · 57 de participanți</sub>
+- `18:00` [Debating the Infrastructures of the Future (THINK)](https://lu.ma/uz76w7pt)  
+  <sub>Climate Change Summit · 6 participanți</sub>
 - `18:00` [DEGUSTĂ - Răgaz Pentru Bucurie](https://lu.ma/vwynsi05)  
-  <sub>Sabina Mihaila · 5 participanți</sub>
+  <sub>Sabina Mihaila · 6 participanți</sub>
 - `18:30` [Lost in translation: Make complex technology easier to understand... and buy.](https://lu.ma/c2iry7pe)  
   <sub>Ionut Alexandru Stanciu · 14 participanți</sub>
 
@@ -74,6 +76,8 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 - `10:00` [Community Breakfast](https://lu.ma/5cero0yb)  
   <sub>Climate Change Summit · 10 participanți</sub>
+- `12:00` [Communities: The Infrastructures for Change (UNITE)](https://lu.ma/cek3gjzk)  
+  <sub>Climate Change Summit · 5 participanți</sub>
 - `13:30` [Arhitecții Naturii \| Proiecție gratuită la OCC \| 17 octombrie](https://lu.ma/pb2yncjj)  
   <sub>Opera Comică pentru Copii</sub>
 - `14:00` [Cafeaua De Sâmbăta #30 \| Bucuresti](https://lu.ma/hs2pz7ch)  
@@ -115,9 +119,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `16:00` [CARIERE Club \| 21 octombrie 2026](https://lu.ma/8ca5gns5)  
   <sub>Revista CARIERE · 9 participanți</sub>
 - `18:00` [Built to Work: Real Engineering in the AI Era](https://lu.ma/exlqha3q)  
-  <sub>Andra Ghibutiu · 31 de participanți</sub>
+  <sub>Andra Ghibutiu · 32 de participanți</sub>
 - `19:00` [Bucharest Tech Mixer \| October Edition](https://lu.ma/59u4k4v4)  
-  <sub>neomixer by ▲promocrat · 25 de participanți</sub>
+  <sub>neomixer by ▲promocrat · 27 de participanți</sub>
 
 ### Joi, 22 octombrie
 
