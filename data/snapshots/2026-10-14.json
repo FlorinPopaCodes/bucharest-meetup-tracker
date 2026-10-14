@@ -1,198 +1,6 @@
 {
   "geo": [
     {
-      "api_id": "evt-dYtDODZjUHamjae",
-      "event": {
-        "api_id": "evt-dYtDODZjUHamjae",
-        "calendar_api_id": "cal-zhkKhdQoZRNyfgN",
-        "end_at": "2026-10-14T11:00:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "Conferința Anuală a Asociației Trezorierilor din România",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": false,
-        "social_image_url": "https://images.lumacdn.com/event-social/7t/630999ea-2e32-46a5-84dd-f854808c2c47.png",
-        "start_at": "2026-10-14T05:45:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "3vuardlt",
-        "user_api_id": "usr-6zJgfnvvVikqaGb",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "București",
-          "type": "google",
-          "region": "București",
-          "address": "National Bank of Romania",
-          "country": "Romania",
-          "place_id": "ChIJS61oh0D_sUARTrn-BKMz1pY",
-          "city_state": "București, București",
-          "description": "",
-          "full_address": "National Bank of Romania, Strada Lipscani 25, București 030167, Romania",
-          "place_coordinate": null,
-          "apple_maps_place_id": "I1D53F6BCFBA2386",
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 26.099874,
-          "latitude": 44.433223
-        },
-        "waitlist_enabled": false,
-        "waitlist_status": "disabled"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-zhkKhdQoZRNyfgN",
-        "coordinate": null,
-        "description_short": null,
-        "end_date": null,
-        "is_verified": false,
-        "location": null,
-        "name": "Personal",
-        "personal_user_api_id": "usr-6zJgfnvvVikqaGb",
-        "slug": null,
-        "start_date": null,
-        "website": null,
-        "is_personal": true,
-        "personal_user": {
-          "api_id": "usr-6zJgfnvvVikqaGb",
-          "name": "Asociația Trezorierilor din România",
-          "username": "atr"
-        },
-        "timezone": null
-      },
-      "start_at": "2026-10-14T05:45:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-6zJgfnvvVikqaGb",
-          "name": "Asociația Trezorierilor din România",
-          "username": "atr"
-        }
-      ],
-      "guest_count": 0,
-      "ticket_count": 0,
-      "ticket_info": {
-        "price": null,
-        "is_free": true,
-        "max_price": null,
-        "is_sold_out": false,
-        "require_approval": false
-      },
-      "registration_availability": "open",
-      "waitlist_active": false,
-      "featured_city": null
-    },
-    {
-      "api_id": "evt-yDAnXd2cJGWTyxd",
-      "event": {
-        "api_id": "evt-yDAnXd2cJGWTyxd",
-        "calendar_api_id": "cal-lVsttDJs3Y5Dm7L",
-        "end_at": "2026-10-14T12:00:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "Best Employer Fest",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": false,
-        "social_image_url": "https://images.lumacdn.com/event-social/g8/fe2b333f-0dce-4560-9440-95d8d94c8e59.png",
-        "start_at": "2026-10-14T06:00:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "nx3uzdsm",
-        "user_api_id": "usr-GzdjOkOjqzlZEpJ",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "București",
-          "type": "google",
-          "region": "București",
-          "address": "Radisson Blu Hotel Bucharest",
-          "country": "Romania",
-          "place_id": "ChIJEXYoWEX_sUARwQnfVA7TqqQ",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": "București",
-              "address": "Radisson Blu Hotel, Bucharest",
-              "country": "România",
-              "city_state": "București, România",
-              "sublocality": "Piața Romană",
-              "full_address": "Radisson Blu Hotel, Bucharest, Calea Victoriei 63-81, 010065 București, România",
-              "region_short": "București",
-              "short_address": "Calea Victoriei 63-81, București"
-            }
-          },
-          "city_state": "București, Romania",
-          "description": "sala Atlas 1",
-          "sublocality": "Piata Romana",
-          "country_code": "RO",
-          "full_address": "Radisson Blu Hotel Bucharest, Calea Victoriei 63-81, 010065 București, Romania",
-          "region_short": "București",
-          "short_address": "Calea Victoriei 63-81, București",
-          "place_coordinate": {
-            "latitude": 44.441334,
-            "longitude": 26.0943887
-          },
-          "apple_maps_place_id": "I76D78CE782F3C082",
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 26.0943887,
-          "latitude": 44.441334
-        },
-        "waitlist_enabled": false,
-        "waitlist_status": "disabled"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-lVsttDJs3Y5Dm7L",
-        "coordinate": null,
-        "description_short": null,
-        "end_date": null,
-        "is_verified": false,
-        "location": null,
-        "name": "Personal",
-        "personal_user_api_id": "usr-GzdjOkOjqzlZEpJ",
-        "slug": null,
-        "start_date": null,
-        "website": null,
-        "is_personal": true,
-        "personal_user": {
-          "api_id": "usr-GzdjOkOjqzlZEpJ",
-          "name": "Revista CARIERE",
-          "username": null
-        },
-        "timezone": null
-      },
-      "start_at": "2026-10-14T06:00:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-GzdjOkOjqzlZEpJ",
-          "name": "Revista CARIERE",
-          "username": null
-        }
-      ],
-      "guest_count": 0,
-      "ticket_count": 0,
-      "ticket_info": {
-        "price": null,
-        "is_free": true,
-        "max_price": null,
-        "is_sold_out": false,
-        "require_approval": true
-      },
-      "registration_availability": "open",
-      "waitlist_active": false,
-      "featured_city": null
-    },
-    {
       "api_id": "evt-6AnscgnBx8cuYj8",
       "event": {
         "api_id": "evt-6AnscgnBx8cuYj8",
@@ -285,150 +93,14 @@
           "username": "muralistore"
         }
       ],
-      "guest_count": 108,
-      "ticket_count": 108,
+      "guest_count": 109,
+      "ticket_count": 109,
       "ticket_info": {
         "price": null,
         "is_free": true,
         "max_price": null,
         "is_sold_out": false,
         "require_approval": false
-      },
-      "registration_availability": "open",
-      "waitlist_active": false,
-      "featured_city": null
-    },
-    {
-      "api_id": "evt-cqDZsq2OIo2oaT4",
-      "event": {
-        "api_id": "evt-cqDZsq2OIo2oaT4",
-        "calendar_api_id": "cal-yJAKxM13qvVzNC1",
-        "end_at": "2026-10-14T19:00:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "RBC #416 | ÎNAINTE SĂ FACI BUSINESS CU CINEVA, ÎNVAȚĂ SĂ-L „CITEȘTI” | Bogdan Iulian Gavrilă | Povestea de pe fața ta",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": false,
-        "social_image_url": "https://images.lumacdn.com/event-social/14/fd5d2d81-9430-452a-b21c-883c900f14da.png",
-        "start_at": "2026-10-14T15:00:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "ij4qf64h",
-        "user_api_id": "usr-XVdudtbZ3CEA7PG",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "București",
-          "type": "google",
-          "region": "București",
-          "address": "the N space.",
-          "country": "Romania",
-          "place_id": "ChIJLRD1Ab8DskAR3mhCV43SCbY",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": "București",
-              "address": "the N space.",
-              "country": "România",
-              "city_state": "București, România",
-              "sublocality": "Aviatorilor",
-              "full_address": "the N space., Strada Alexandrina 38, 011441 București, România",
-              "region_short": "București",
-              "short_address": "Strada Alexandrina 38, București"
-            }
-          },
-          "city_state": "București, Romania",
-          "description": "",
-          "sublocality": "Aviatorilor",
-          "country_code": "RO",
-          "full_address": "the N space., Strada Alexandrina 38, 011441 București, Romania",
-          "region_short": "București",
-          "short_address": "Strada Alexandrina 38, București",
-          "place_coordinate": {
-            "latitude": 44.4661289,
-            "longitude": 26.0832993
-          },
-          "apple_maps_place_id": "IF8F0B50D250922A6",
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 26.0832993,
-          "latitude": 44.4661289
-        },
-        "waitlist_enabled": true,
-        "waitlist_status": "active"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-yJAKxM13qvVzNC1",
-        "coordinate": {
-          "longitude": 26.0832993,
-          "latitude": 44.4661289
-        },
-        "description_short": "Peste 400 de ediții. O comunitate în care fiecare întâlnire poate schimba direcția unui business.                        \n460+ membri\n400+ evenimente\n35.000+ participanți",
-        "end_date": null,
-        "is_verified": false,
-        "location": {
-          "city": "Bucharest",
-          "region": null,
-          "country": "Romania",
-          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
-          "timezone": "Europe/Bucharest",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": null,
-              "country": "România"
-            }
-          },
-          "country_code": "RO"
-        },
-        "name": "Evenimente Romanian Business Club",
-        "personal_user_api_id": null,
-        "slug": "calendarrbc",
-        "start_date": null,
-        "website": "https://www.buy.robc.ro",
-        "is_personal": false,
-        "personal_user": null,
-        "timezone": "Europe/Bucharest"
-      },
-      "start_at": "2026-10-14T15:00:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-XVdudtbZ3CEA7PG",
-          "name": "Teodora Nicolaiciuc",
-          "username": null
-        },
-        {
-          "api_id": "usr-rA1ejFsLe5mSkP4",
-          "name": "Vlad RBC",
-          "username": null
-        },
-        {
-          "api_id": "usr-FzjsDg2XGu9wAdX",
-          "name": "Razvan Sirmache",
-          "username": null
-        }
-      ],
-      "guest_count": 0,
-      "ticket_count": 0,
-      "ticket_info": {
-        "price": {
-          "cents": 14800,
-          "currency": "ron",
-          "is_flexible": false
-        },
-        "is_free": false,
-        "max_price": {
-          "cents": 31800,
-          "currency": "ron"
-        },
-        "is_sold_out": false,
-        "require_approval": true
       },
       "registration_availability": "open",
       "waitlist_active": false,
@@ -527,8 +199,8 @@
           "username": "atr"
         }
       ],
-      "guest_count": 36,
-      "ticket_count": 36,
+      "guest_count": 37,
+      "ticket_count": 37,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -724,7 +396,7 @@
         "calendar_api_id": "cal-1WggROBt2lyMLDa",
         "end_at": "2026-10-15T17:30:00.000Z",
         "event_type": "independent",
-        "hide_rsvp": false,
+        "hide_rsvp": true,
         "location_type": "offline",
         "name": "Ce protejăm, de fapt, când protejăm natura",
         "one_to_one": true,
@@ -815,8 +487,8 @@
           "username": null
         }
       ],
-      "guest_count": 103,
-      "ticket_count": 103,
+      "guest_count": 109,
+      "ticket_count": 109,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -824,7 +496,7 @@
         "is_sold_out": false,
         "require_approval": false
       },
-      "registration_availability": "open",
+      "registration_availability": "sold-out",
       "waitlist_active": false,
       "featured_city": null
     },
@@ -1020,8 +692,8 @@
           "username": null
         }
       ],
-      "guest_count": 13,
-      "ticket_count": 13,
+      "guest_count": 16,
+      "ticket_count": 16,
       "ticket_info": {
         "price": {
           "cents": 3300,
@@ -1151,8 +823,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 29,
-      "ticket_count": 29,
+      "guest_count": 38,
+      "ticket_count": 38,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1377,8 +1049,8 @@
           "username": "t5social"
         }
       ],
-      "guest_count": 16,
-      "ticket_count": 103,
+      "guest_count": 17,
+      "ticket_count": 108,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1609,6 +1281,130 @@
       "featured_city": null
     },
     {
+      "api_id": "evt-yS9fIf34zslm48l",
+      "event": {
+        "api_id": "evt-yS9fIf34zslm48l",
+        "calendar_api_id": "cal-c8iLA9ZwSDnAZJN",
+        "end_at": "2026-10-16T08:40:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "How to set-up your coding harness for AI native development",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/ka/3342fe45-c361-42d8-a2ab-97cf7c2247f1.png",
+        "start_at": "2026-10-16T07:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "8x8oli89",
+        "user_api_id": "usr-t4ZtISgxEgPsxL9",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "UNSTPB Central Library",
+          "country": "Romania",
+          "place_id": "ChIJeY-ZwsEBskARetsAiPBCyxo",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Biblioteca Centrală a Universității Naționale de Știință și Tehnologie Politehnica București",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Bucureşti Sectorul 6",
+              "full_address": "Biblioteca Centrală a Universității Naționale de Știință și Tehnologie Politehnica București, Splaiul Independeței, 313, 060042 București, România",
+              "region_short": "București",
+              "short_address": "Splaiul Independeței, 313, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "Room 3.1",
+          "sublocality": "Bucureşti Sectorul 6",
+          "country_code": "RO",
+          "full_address": "UNSTPB Central Library, Splaiul Independeței, 313, 060042 București, Romania",
+          "region_short": "București",
+          "short_address": "Splaiul Independeței, 313, București",
+          "place_coordinate": {
+            "latitude": 44.441064999999995,
+            "longitude": 26.0514352
+          },
+          "apple_maps_place_id": "I8D46DBEC13E13AFD",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.0514352,
+          "latitude": 44.441064999999995
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-c8iLA9ZwSDnAZJN",
+        "coordinate": {
+          "longitude": 26.1025384,
+          "latitude": 44.426767399999996
+        },
+        "description_short": "Events from the ROSEdu community",
+        "end_date": null,
+        "is_verified": false,
+        "location": {
+          "city": "Bucharest",
+          "region": null,
+          "country": "Romania",
+          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
+          "timezone": "Europe/Bucharest",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": null,
+              "country": "România"
+            }
+          },
+          "country_code": "RO"
+        },
+        "name": "ROSEdu",
+        "personal_user_api_id": null,
+        "slug": "rosedu",
+        "start_date": null,
+        "website": "https://www.rosedu.org/",
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": "Europe/Bucharest"
+      },
+      "start_at": "2026-10-16T07:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-t4ZtISgxEgPsxL9",
+          "name": "Mihaela-Elena Jipa",
+          "username": null
+        },
+        {
+          "api_id": "usr-CUTEd4pqyABEQ3p",
+          "name": "alexandru olariu",
+          "username": "arolariu_MSFT"
+        }
+      ],
+      "guest_count": 11,
+      "ticket_count": 11,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
       "api_id": "evt-nYpvDdj3qnA5QGS",
       "event": {
         "api_id": "evt-nYpvDdj3qnA5QGS",
@@ -1709,8 +1505,132 @@
           "username": null
         }
       ],
-      "guest_count": 229,
-      "ticket_count": 229,
+      "guest_count": 238,
+      "ticket_count": 238,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-HFSIyL97h0FW9fb",
+      "event": {
+        "api_id": "evt-HFSIyL97h0FW9fb",
+        "calendar_api_id": "cal-c8iLA9ZwSDnAZJN",
+        "end_at": "2026-10-16T10:40:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Build and publish a static website visually, with free software",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/ge/fcea79df-bbb8-4eb3-8b36-7238b351b48d.png",
+        "start_at": "2026-10-16T09:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "1zr1rp04",
+        "user_api_id": "usr-t4ZtISgxEgPsxL9",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "UNSTPB Central Library",
+          "country": "Romania",
+          "place_id": "ChIJeY-ZwsEBskARetsAiPBCyxo",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Biblioteca Centrală a Universității Naționale de Știință și Tehnologie Politehnica București",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Bucureşti Sectorul 6",
+              "full_address": "Biblioteca Centrală a Universității Naționale de Știință și Tehnologie Politehnica București, Splaiul Independeței, 313, 060042 București, România",
+              "region_short": "București",
+              "short_address": "Splaiul Independeței, 313, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "Room 4.1",
+          "sublocality": "Bucureşti Sectorul 6",
+          "country_code": "RO",
+          "full_address": "UNSTPB Central Library, Splaiul Independeței, 313, 060042 București, Romania",
+          "region_short": "București",
+          "short_address": "Splaiul Independeței, 313, București",
+          "place_coordinate": {
+            "latitude": 44.441064999999995,
+            "longitude": 26.0514352
+          },
+          "apple_maps_place_id": "I8D46DBEC13E13AFD",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.0514352,
+          "latitude": 44.441064999999995
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-c8iLA9ZwSDnAZJN",
+        "coordinate": {
+          "longitude": 26.1025384,
+          "latitude": 44.426767399999996
+        },
+        "description_short": "Events from the ROSEdu community",
+        "end_date": null,
+        "is_verified": false,
+        "location": {
+          "city": "Bucharest",
+          "region": null,
+          "country": "Romania",
+          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
+          "timezone": "Europe/Bucharest",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": null,
+              "country": "România"
+            }
+          },
+          "country_code": "RO"
+        },
+        "name": "ROSEdu",
+        "personal_user_api_id": null,
+        "slug": "rosedu",
+        "start_date": null,
+        "website": "https://www.rosedu.org/",
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": "Europe/Bucharest"
+      },
+      "start_at": "2026-10-16T09:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-t4ZtISgxEgPsxL9",
+          "name": "Mihaela-Elena Jipa",
+          "username": null
+        },
+        {
+          "api_id": "usr-6S4970cm7Zpt2CW",
+          "name": "Alex Hoyau",
+          "username": null
+        }
+      ],
+      "guest_count": 3,
+      "ticket_count": 3,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1833,8 +1753,132 @@
           "username": null
         }
       ],
-      "guest_count": 4,
-      "ticket_count": 4,
+      "guest_count": 12,
+      "ticket_count": 12,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-CTA0dxCQAnRcqiN",
+      "event": {
+        "api_id": "evt-CTA0dxCQAnRcqiN",
+        "calendar_api_id": "cal-c8iLA9ZwSDnAZJN",
+        "end_at": "2026-10-16T12:40:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Whodunnit - Threat Hunting with Dissect and Volatility",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/ay/fc139c3f-a0f4-47c7-96d8-9f0d874ebb15.png",
+        "start_at": "2026-10-16T11:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "95eiqqtf",
+        "user_api_id": "usr-t4ZtISgxEgPsxL9",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "UNSTPB Central Library",
+          "country": "Romania",
+          "place_id": "ChIJeY-ZwsEBskARetsAiPBCyxo",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Biblioteca Centrală a Universității Naționale de Știință și Tehnologie Politehnica București",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Bucureşti Sectorul 6",
+              "full_address": "Biblioteca Centrală a Universității Naționale de Știință și Tehnologie Politehnica București, Splaiul Independeței, 313, 060042 București, România",
+              "region_short": "București",
+              "short_address": "Splaiul Independeței, 313, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "Room 3.1",
+          "sublocality": "Bucureşti Sectorul 6",
+          "country_code": "RO",
+          "full_address": "UNSTPB Central Library, Splaiul Independeței, 313, 060042 București, Romania",
+          "region_short": "București",
+          "short_address": "Splaiul Independeței, 313, București",
+          "place_coordinate": {
+            "latitude": 44.441064999999995,
+            "longitude": 26.0514352
+          },
+          "apple_maps_place_id": "I8D46DBEC13E13AFD",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.0514352,
+          "latitude": 44.441064999999995
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-c8iLA9ZwSDnAZJN",
+        "coordinate": {
+          "longitude": 26.1025384,
+          "latitude": 44.426767399999996
+        },
+        "description_short": "Events from the ROSEdu community",
+        "end_date": null,
+        "is_verified": false,
+        "location": {
+          "city": "Bucharest",
+          "region": null,
+          "country": "Romania",
+          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
+          "timezone": "Europe/Bucharest",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": null,
+              "country": "România"
+            }
+          },
+          "country_code": "RO"
+        },
+        "name": "ROSEdu",
+        "personal_user_api_id": null,
+        "slug": "rosedu",
+        "start_date": null,
+        "website": "https://www.rosedu.org/",
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": "Europe/Bucharest"
+      },
+      "start_at": "2026-10-16T11:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-t4ZtISgxEgPsxL9",
+          "name": "Mihaela-Elena Jipa",
+          "username": null
+        },
+        {
+          "api_id": "usr-czFCG5qDDD74zip",
+          "name": "Andreia Ocanoaia",
+          "username": null
+        }
+      ],
+      "guest_count": 11,
+      "ticket_count": 11,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1950,14 +1994,267 @@
           "username": null
         }
       ],
-      "guest_count": 67,
-      "ticket_count": 67,
+      "guest_count": 71,
+      "ticket_count": 71,
       "ticket_info": {
         "price": null,
         "is_free": true,
         "max_price": null,
         "is_sold_out": false,
         "require_approval": true
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-PG8zdHEVcAATXSB",
+      "event": {
+        "api_id": "evt-PG8zdHEVcAATXSB",
+        "calendar_api_id": "cal-c8iLA9ZwSDnAZJN",
+        "end_at": "2026-10-16T14:40:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Hands-on dive into Nix, Nixpkgs, and NixOS",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/6w/b9b6b61e-aa1b-4800-ac25-5295bd56b328.png",
+        "start_at": "2026-10-16T13:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "5wtwfw06",
+        "user_api_id": "usr-t4ZtISgxEgPsxL9",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "UNSTPB Central Library",
+          "country": "Romania",
+          "place_id": "ChIJeY-ZwsEBskARetsAiPBCyxo",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Biblioteca Centrală a Universității Naționale de Știință și Tehnologie Politehnica București",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Bucureşti Sectorul 6",
+              "full_address": "Biblioteca Centrală a Universității Naționale de Știință și Tehnologie Politehnica București, Splaiul Independeței, 313, 060042 București, România",
+              "region_short": "București",
+              "short_address": "Splaiul Independeței, 313, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "Room 3.1",
+          "sublocality": "Bucureşti Sectorul 6",
+          "country_code": "RO",
+          "full_address": "UNSTPB Central Library, Splaiul Independeței, 313, 060042 București, Romania",
+          "region_short": "București",
+          "short_address": "Splaiul Independeței, 313, București",
+          "place_coordinate": {
+            "latitude": 44.441064999999995,
+            "longitude": 26.0514352
+          },
+          "apple_maps_place_id": "I8D46DBEC13E13AFD",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.0514352,
+          "latitude": 44.441064999999995
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-c8iLA9ZwSDnAZJN",
+        "coordinate": {
+          "longitude": 26.1025384,
+          "latitude": 44.426767399999996
+        },
+        "description_short": "Events from the ROSEdu community",
+        "end_date": null,
+        "is_verified": false,
+        "location": {
+          "city": "Bucharest",
+          "region": null,
+          "country": "Romania",
+          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
+          "timezone": "Europe/Bucharest",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": null,
+              "country": "România"
+            }
+          },
+          "country_code": "RO"
+        },
+        "name": "ROSEdu",
+        "personal_user_api_id": null,
+        "slug": "rosedu",
+        "start_date": null,
+        "website": "https://www.rosedu.org/",
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": "Europe/Bucharest"
+      },
+      "start_at": "2026-10-16T13:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-t4ZtISgxEgPsxL9",
+          "name": "Mihaela-Elena Jipa",
+          "username": null
+        },
+        {
+          "api_id": "usr-0c3cXAWnZVX38CI",
+          "name": "Sopy",
+          "username": null
+        }
+      ],
+      "guest_count": 13,
+      "ticket_count": 13,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-fFaeAocW94qO1cT",
+      "event": {
+        "api_id": "evt-fFaeAocW94qO1cT",
+        "calendar_api_id": "cal-c8iLA9ZwSDnAZJN",
+        "end_at": "2026-10-16T18:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Zephyr Meetup",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/dr/43bcff95-c08f-4733-867b-dedc1060b7c0.png",
+        "start_at": "2026-10-16T14:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "ii4gm9at",
+        "user_api_id": "usr-t4ZtISgxEgPsxL9",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "UNSTPB Central Library",
+          "country": "Romania",
+          "place_id": "ChIJeY-ZwsEBskARetsAiPBCyxo",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Biblioteca Centrală a Universității Naționale de Știință și Tehnologie Politehnica București",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Bucureşti Sectorul 6",
+              "full_address": "Biblioteca Centrală a Universității Naționale de Știință și Tehnologie Politehnica București, Splaiul Independeței, 313, 060042 București, România",
+              "region_short": "București",
+              "short_address": "Splaiul Independeței, 313, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "Room 4.1",
+          "sublocality": "Bucureşti Sectorul 6",
+          "country_code": "RO",
+          "full_address": "UNSTPB Central Library, Splaiul Independeței, 313, 060042 București, Romania",
+          "region_short": "București",
+          "short_address": "Splaiul Independeței, 313, București",
+          "place_coordinate": {
+            "latitude": 44.441064999999995,
+            "longitude": 26.0514352
+          },
+          "apple_maps_place_id": "I8D46DBEC13E13AFD",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.0514352,
+          "latitude": 44.441064999999995
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-c8iLA9ZwSDnAZJN",
+        "coordinate": {
+          "longitude": 26.1025384,
+          "latitude": 44.426767399999996
+        },
+        "description_short": "Events from the ROSEdu community",
+        "end_date": null,
+        "is_verified": false,
+        "location": {
+          "city": "Bucharest",
+          "region": null,
+          "country": "Romania",
+          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
+          "timezone": "Europe/Bucharest",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": null,
+              "country": "România"
+            }
+          },
+          "country_code": "RO"
+        },
+        "name": "ROSEdu",
+        "personal_user_api_id": null,
+        "slug": "rosedu",
+        "start_date": null,
+        "website": "https://www.rosedu.org/",
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": "Europe/Bucharest"
+      },
+      "start_at": "2026-10-16T14:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-t4ZtISgxEgPsxL9",
+          "name": "Mihaela-Elena Jipa",
+          "username": null
+        },
+        {
+          "api_id": "usr-lTzY0BMcxMQHH2U",
+          "name": "Daniel Baluta",
+          "username": "dbaluta"
+        },
+        {
+          "api_id": "usr-otWbgKB10lTX00Y",
+          "name": "Iuliana Prodan",
+          "username": null
+        }
+      ],
+      "guest_count": 7,
+      "ticket_count": 7,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
       },
       "registration_availability": "open",
       "waitlist_active": false,
@@ -2162,8 +2459,8 @@
           "username": null
         }
       ],
-      "guest_count": 6,
-      "ticket_count": 8,
+      "guest_count": 7,
+      "ticket_count": 10,
       "ticket_info": {
         "price": {
           "cents": 20000,
@@ -2171,6 +2468,135 @@
           "is_flexible": false
         },
         "is_free": false,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-JzSyVuYMIds1PEn",
+      "event": {
+        "api_id": "evt-JzSyVuYMIds1PEn",
+        "calendar_api_id": "cal-c8iLA9ZwSDnAZJN",
+        "end_at": "2026-10-16T16:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Digital Twins in Practice: Launching the DIGITWIN4CIUE White Paper",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/42/1c727d05-30b8-48a9-9edb-9cee6d24fe08.png",
+        "start_at": "2026-10-16T15:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "pouonhnz",
+        "user_api_id": "usr-t4ZtISgxEgPsxL9",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "UNSTPB Central Library",
+          "country": "Romania",
+          "place_id": "ChIJeY-ZwsEBskARetsAiPBCyxo",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Biblioteca Centrală a Universității Naționale de Știință și Tehnologie Politehnica București",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Bucureşti Sectorul 6",
+              "full_address": "Biblioteca Centrală a Universității Naționale de Știință și Tehnologie Politehnica București, Splaiul Independeței, 313, 060042 București, România",
+              "region_short": "București",
+              "short_address": "Splaiul Independeței, 313, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "Room 3.1",
+          "sublocality": "Bucureşti Sectorul 6",
+          "country_code": "RO",
+          "full_address": "UNSTPB Central Library, Splaiul Independeței, 313, 060042 București, Romania",
+          "region_short": "București",
+          "short_address": "Splaiul Independeței, 313, București",
+          "place_coordinate": {
+            "latitude": 44.441064999999995,
+            "longitude": 26.0514352
+          },
+          "apple_maps_place_id": "I8D46DBEC13E13AFD",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.0514352,
+          "latitude": 44.441064999999995
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-c8iLA9ZwSDnAZJN",
+        "coordinate": {
+          "longitude": 26.1025384,
+          "latitude": 44.426767399999996
+        },
+        "description_short": "Events from the ROSEdu community",
+        "end_date": null,
+        "is_verified": false,
+        "location": {
+          "city": "Bucharest",
+          "region": null,
+          "country": "Romania",
+          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
+          "timezone": "Europe/Bucharest",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": null,
+              "country": "România"
+            }
+          },
+          "country_code": "RO"
+        },
+        "name": "ROSEdu",
+        "personal_user_api_id": null,
+        "slug": "rosedu",
+        "start_date": null,
+        "website": "https://www.rosedu.org/",
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": "Europe/Bucharest"
+      },
+      "start_at": "2026-10-16T15:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-t4ZtISgxEgPsxL9",
+          "name": "Mihaela-Elena Jipa",
+          "username": null
+        },
+        {
+          "api_id": "usr-SZZIUEUjlTNk0pM",
+          "name": "Vaduva Jan Alexandru",
+          "username": null
+        },
+        {
+          "api_id": "usr-AmRuRbyPwgMyrtX",
+          "name": "Emil Slusanschi",
+          "username": null
+        }
+      ],
+      "guest_count": 3,
+      "ticket_count": 3,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
         "max_price": null,
         "is_sold_out": false,
         "require_approval": false
@@ -2277,8 +2703,8 @@
           "username": null
         }
       ],
-      "guest_count": 17,
-      "ticket_count": 17,
+      "guest_count": 18,
+      "ticket_count": 18,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2407,8 +2833,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 31,
-      "ticket_count": 31,
+      "guest_count": 38,
+      "ticket_count": 38,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2838,8 +3264,91 @@
           "username": null
         }
       ],
-      "guest_count": 9,
-      "ticket_count": 9,
+      "guest_count": 10,
+      "ticket_count": 10,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-OPREv49PKZjEZXD",
+      "event": {
+        "api_id": "evt-OPREv49PKZjEZXD",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-10-18T07:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică Herăstrău",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/rp/c36a80b6-56f5-48aa-9313-623f7665d693.png",
+        "start_at": "2026-10-18T06:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "fu6hska9",
+        "user_api_id": "usr-yomhnvpt5g17mhz",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Statue of Charles De Gaulle",
+          "country": "Romania",
+          "place_id": "ChIJ3QTW6BECskARp5Y5jlub2ok",
+          "city_state": "București, București",
+          "description": "",
+          "country_code": "RO",
+          "full_address": "Statue of Charles De Gaulle, Piața Charles de Gaulle 3, București, Romania",
+          "place_coordinate": null,
+          "apple_maps_place_id": "I5B5C74F2088B28AA",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.08572,
+          "latitude": 44.46699
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "slug": "turadeduminica",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-10-18T06:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-yomhnvpt5g17mhz",
+          "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 3,
+      "ticket_count": 3,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2950,8 +3459,8 @@
           "username": null
         }
       ],
-      "guest_count": 6,
-      "ticket_count": 6,
+      "guest_count": 7,
+      "ticket_count": 7,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3293,17 +3802,17 @@
           "username": null
         }
       ],
-      "guest_count": 23,
-      "ticket_count": 23,
+      "guest_count": 24,
+      "ticket_count": 24,
       "ticket_info": {
         "price": null,
         "is_free": true,
         "max_price": null,
-        "is_sold_out": false,
+        "is_sold_out": true,
         "require_approval": false
       },
-      "registration_availability": "open",
-      "waitlist_active": false,
+      "registration_availability": "waitlist",
+      "waitlist_active": true,
       "featured_city": null
     },
     {
@@ -3399,8 +3908,8 @@
           "username": null
         }
       ],
-      "guest_count": 22,
-      "ticket_count": 22,
+      "guest_count": 23,
+      "ticket_count": 23,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3508,8 +4017,8 @@
           "username": "changesummit"
         }
       ],
-      "guest_count": 26,
-      "ticket_count": 26,
+      "guest_count": 27,
+      "ticket_count": 27,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3660,7 +4169,7 @@
         "one_to_one": true,
         "recurrence_id": null,
         "show_guest_list": false,
-        "social_image_url": "https://images.lumacdn.com/event-social/ql/70333b76-e8e8-4185-8943-99a41152465e.png",
+        "social_image_url": "https://images.lumacdn.com/event-social/d0/15c8949d-e5fb-4d54-80b4-ce106a0ee46c.png",
         "start_at": "2026-10-20T15:30:00.000Z",
         "timezone": "Europe/Bucharest",
         "url": "ai-cyber-compliance",
@@ -3824,8 +4333,8 @@
           "username": "vladiiancu"
         }
       ],
-      "guest_count": 18,
-      "ticket_count": 18,
+      "guest_count": 19,
+      "ticket_count": 19,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -4057,8 +4566,8 @@
           "username": null
         }
       ],
-      "guest_count": 14,
-      "ticket_count": 14,
+      "guest_count": 16,
+      "ticket_count": 16,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -4197,8 +4706,8 @@
           "username": null
         }
       ],
-      "guest_count": 47,
-      "ticket_count": 47,
+      "guest_count": 49,
+      "ticket_count": 49,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -4421,8 +4930,8 @@
           "username": null
         }
       ],
-      "guest_count": 13,
-      "ticket_count": 13,
+      "guest_count": 15,
+      "ticket_count": 15,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -4930,11 +5439,11 @@
         "price": null,
         "is_free": true,
         "max_price": null,
-        "is_sold_out": true,
+        "is_sold_out": false,
         "require_approval": true
       },
-      "registration_availability": "waitlist",
-      "waitlist_active": true,
+      "registration_availability": "open",
+      "waitlist_active": false,
       "featured_city": null
     },
     {
@@ -6296,7 +6805,7 @@
       "event": {
         "api_id": "evt-TJY3WwIrM1aiAWX",
         "calendar_api_id": "cal-PrSMFCcWPJ75Xds",
-        "end_at": "2026-11-05T21:30:00.000Z",
+        "end_at": "2026-11-04T21:30:00.000Z",
         "event_type": "independent",
         "hide_rsvp": false,
         "location_type": "offline",
@@ -6304,8 +6813,8 @@
         "one_to_one": true,
         "recurrence_id": null,
         "show_guest_list": false,
-        "social_image_url": "https://images.lumacdn.com/event-social/m6/6e8c4c61-1cfd-45a2-bf4a-616b9ada4aef.png",
-        "start_at": "2026-11-05T16:30:00.000Z",
+        "social_image_url": "https://images.lumacdn.com/event-social/8o/322881c8-8337-407b-8b69-3ae188e5f16e.png",
+        "start_at": "2026-11-04T16:30:00.000Z",
         "timezone": "Europe/Bucharest",
         "url": "fy0eflpy",
         "user_api_id": "usr-c2ByakA1EJZEslT",
@@ -6389,7 +6898,7 @@
         "personal_user": null,
         "timezone": "Europe/Bucharest"
       },
-      "start_at": "2026-11-05T16:30:00.000Z",
+      "start_at": "2026-11-04T16:30:00.000Z",
       "hosts": [
         {
           "api_id": "usr-E87n99KF5ixofY7",
@@ -6832,7 +7341,7 @@
       "hosts": [
         {
           "api_id": "usr-ENMPg9Camts0rnP",
-          "name": null,
+          "name": "Andreea Ignat",
           "username": null
         },
         {
@@ -6841,8 +7350,8 @@
           "username": null
         }
       ],
-      "guest_count": 12,
-      "ticket_count": 12,
+      "guest_count": 17,
+      "ticket_count": 17,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -7303,8 +7812,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 165,
-      "ticket_count": 165,
+      "guest_count": 166,
+      "ticket_count": 166,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -7417,8 +7926,8 @@
           "username": null
         }
       ],
-      "guest_count": 6,
-      "ticket_count": 6,
+      "guest_count": 7,
+      "ticket_count": 7,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -7524,114 +8033,8 @@
           "username": null
         }
       ],
-      "guest_count": 3,
-      "ticket_count": 3,
-      "ticket_info": {
-        "price": null,
-        "is_free": true,
-        "max_price": null,
-        "is_sold_out": false,
-        "require_approval": false
-      },
-      "registration_availability": "open",
-      "waitlist_active": false,
-      "featured_city": null,
-      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
-      "is_manager": true,
-      "platform": "luma",
-      "status": "approved",
-      "tags": []
-    },
-    {
-      "api_id": "calev-o2pDdGWK8HtlozK",
-      "event": {
-        "api_id": "evt-2J9cTdyO0PCEfpw",
-        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
-        "end_at": "2026-10-18T07:30:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "Tura de duminică Craiova",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": true,
-        "social_image_url": "https://images.lumacdn.com/event-social/wm/7cc80632-bf5b-45d7-a719-b6db2cb0111e.png",
-        "start_at": "2026-10-18T06:00:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "hj5qhp3j",
-        "user_api_id": "usr-k3FGko4fTI60c3z",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "Craiova",
-          "type": "google",
-          "region": "Județul Dolj",
-          "address": "Bust of Nicolae P. Romanescu",
-          "country": "Romania",
-          "place_id": "ChIJfRBeiLfXUkcRmm82ABkw1pQ",
-          "localized": {
-            "ro": {
-              "city": "Craiova",
-              "region": "Județul Dolj",
-              "address": "Bustul lui Nicolae P. Romanescu",
-              "country": "România",
-              "city_state": "Craiova, Județul Dolj",
-              "sublocality": null,
-              "full_address": "Bustul lui Nicolae P. Romanescu, Calea Unirii, Craiova, România",
-              "short_address": "Calea Unirii, Craiova"
-            }
-          },
-          "city_state": "Craiova, Județul Dolj",
-          "description": "",
-          "sublocality": null,
-          "country_code": "RO",
-          "full_address": "Bust of Nicolae P. Romanescu, Calea Unirii, Craiova, Romania",
-          "short_address": "Calea Unirii, Craiova",
-          "apple_maps_place_id": null,
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 23.7997166,
-          "latitude": 44.301701699999995
-        },
-        "waitlist_enabled": false,
-        "waitlist_status": "disabled"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-Su3WAWlpDDLutSO",
-        "coordinate": null,
-        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
-        "end_date": null,
-        "is_verified": false,
-        "location": null,
-        "name": "Tura de duminică",
-        "personal_user_api_id": null,
-        "slug": "turadeduminica",
-        "start_date": null,
-        "website": null,
-        "is_personal": false,
-        "personal_user": null,
-        "timezone": null
-      },
-      "start_at": "2026-10-18T06:00:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-k3FGko4fTI60c3z",
-          "name": "Alex Ștefănescu",
-          "username": null
-        },
-        {
-          "api_id": "usr-yomhnvpt5g17mhz",
-          "name": "Emily Merdus",
-          "username": null
-        }
-      ],
-      "guest_count": 0,
-      "ticket_count": 0,
+      "guest_count": 6,
+      "ticket_count": 6,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -7718,8 +8121,8 @@
           "username": null
         }
       ],
-      "guest_count": 2,
-      "ticket_count": 2,
+      "guest_count": 3,
+      "ticket_count": 3,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -8064,6 +8467,113 @@
         {
           "api_id": "usr-yWiCV7g24eBaA18",
           "name": "Sebastian Banescu",
+          "username": null
+        },
+        {
+          "api_id": "usr-yomhnvpt5g17mhz",
+          "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
+    {
+      "api_id": "calev-o2pDdGWK8HtlozK",
+      "event": {
+        "api_id": "evt-2J9cTdyO0PCEfpw",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-10-18T08:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică Craiova",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/wm/7cc80632-bf5b-45d7-a719-b6db2cb0111e.png",
+        "start_at": "2026-10-18T07:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "hj5qhp3j",
+        "user_api_id": "usr-k3FGko4fTI60c3z",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Craiova",
+          "type": "google",
+          "region": "Județul Dolj",
+          "address": "Bust of Nicolae P. Romanescu",
+          "country": "Romania",
+          "place_id": "ChIJfRBeiLfXUkcRmm82ABkw1pQ",
+          "localized": {
+            "ro": {
+              "city": "Craiova",
+              "region": "Județul Dolj",
+              "address": "Bustul lui Nicolae P. Romanescu",
+              "country": "România",
+              "city_state": "Craiova, Județul Dolj",
+              "sublocality": null,
+              "full_address": "Bustul lui Nicolae P. Romanescu, Calea Unirii, Craiova, România",
+              "short_address": "Calea Unirii, Craiova"
+            }
+          },
+          "city_state": "Craiova, Județul Dolj",
+          "description": "",
+          "sublocality": null,
+          "country_code": "RO",
+          "full_address": "Bust of Nicolae P. Romanescu, Calea Unirii, Craiova, Romania",
+          "short_address": "Calea Unirii, Craiova",
+          "place_coordinate": null,
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 23.7997166,
+          "latitude": 44.301701699999995
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "slug": "turadeduminica",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-10-18T07:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-k3FGko4fTI60c3z",
+          "name": "Alex Ștefănescu",
           "username": null
         },
         {
@@ -9060,8 +9570,8 @@
           "username": "teodorapamfile"
         }
       ],
-      "guest_count": 3,
-      "ticket_count": 3,
+      "guest_count": 4,
+      "ticket_count": 4,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -9184,8 +9694,8 @@
           "username": "alexstanciu"
         }
       ],
-      "guest_count": 33,
-      "ticket_count": 33,
+      "guest_count": 35,
+      "ticket_count": 35,
       "ticket_info": {
         "price": null,
         "is_free": true,
