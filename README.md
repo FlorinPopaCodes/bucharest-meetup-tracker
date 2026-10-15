@@ -4,21 +4,6 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Miercuri, 14 octombrie
-
-- `08:45` [Conferința Anuală a Asociației Trezorierilor din România](https://lu.ma/3vuardlt)  
-  <sub>Asociația Trezorierilor din România</sub>
-- `09:00` [Best Employer Fest](https://lu.ma/nx3uzdsm)  
-  <sub>Revista CARIERE</sub>
-- `09:00` [LiT Unfiltered - From Engineer to Country Manager](https://lu.ma/litunfiltered7)  
-  <sub>Bogdan Popescu</sub>
-- `18:00` [Benjamin Moore Color of the Year 2027](https://lu.ma/m9nm08yd)  
-  <sub>Murali Store · 109 de participanți</sub>
-- `18:00` [RBC #416 \| ÎNAINTE SĂ FACI BUSINESS CU CINEVA, ÎNVAȚĂ SĂ-L „CITEȘTI” \| Bogdan Iulian Gavrilă \| Povestea de pe fața ta](https://lu.ma/ij4qf64h)  
-  <sub>Teodora Nicolaiciuc</sub>
-- `19:00` [Get together - ATR Celebration @ The Vault, Marmorosch](https://lu.ma/u6erif66)  
-  <sub>Asociația Trezorierilor din România · 37 de participanți</sub>
-
 ### Joi, 15 octombrie
 
 - `08:30` [Executive Breakfast: Business Resilience in the Age of Permanent Disruption](https://lu.ma/7j78u8hk)  
@@ -26,68 +11,70 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `09:00` [DORA in Practice for Fintechs cu FORT & ASF](https://lu.ma/9dr7fuq4)  
   <sub>Adrian Drinceanu</sub>
 - `16:30` [Ce protejăm, de fapt, când protejăm natura](https://lu.ma/jk19jpz1)  
-  <sub>Climate Change Summit · 109 de participanți</sub>
+  <sub>Climate Change Summit · 113 de participanți</sub>
 - `17:30` [HR OFF DUTY 🎨🥂 – Paint, Sip & Unwind @ DBH with Mooz Artelier & Loredana](https://lu.ma/2a5b5es2)  
   <sub>Loredana Pipie</sub>
 - `18:00` [Bucharest - Every day is International Generalist Day✨](https://lu.ma/97s0cmtg)  
-  <sub>Storyada. ro · 16 participanți</sub>
+  <sub>Storyada. ro · 23 de participanți</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S24E02](https://lu.ma/brvrfdyk)  
-  <sub>321sport · 38 de participanți</sub>
+  <sub>321sport · 44 de participanți</sub>
 - `19:00` [Creators Dinners \| Tema Ediției: In a complicated relationship with AI (members only)](https://lu.ma/wo8y6p6r)  
   <sub>Andreea Chiuaru</sub>
 - `19:30` [Thursday Trivia](https://lu.ma/jjwiyboz)  
-  <sub>T5 Social · 17 participanți</sub>
+  <sub>T5 Social · 21 de participanți</sub>
 
 ### Vineri, 16 octombrie
 
 - `10:00` [\[Community-Led Event AmpliFY ONG\] Implicare fără epuizare - Cum construim organizații care protejează oamenii fără să-și piardă misiunea](https://lu.ma/CLE-wellbeing-lab)  
   <sub>AmpliFY ONG · 19 participanți</sub>
+- `10:00` [Architecture in the Open: A Hands-On RFC and ADR Workshop](https://lu.ma/84qz779y)  
+  <sub>Mihaela-Elena Jipa · 6 participanți</sub>
 - `10:00` [From the Lab to Everyday Life: A Guided Tour of incdECOIND](https://lu.ma/z3xh37d8)  
-  <sub>Climate Change Summit · 21 de participanți</sub>
+  <sub>Climate Change Summit · 31 de participanți</sub>
 - `10:00` [How to set-up your coding harness for AI native development](https://lu.ma/8x8oli89)  
-  <sub>Mihaela-Elena Jipa · 11 participanți</sub>
+  <sub>Mihaela-Elena Jipa · 16 participanți</sub>
 - `10:00` [OmniOpenCon 2026](https://lu.ma/hi08i10q)  
-  <sub>Giorgiana Vlăsceanu · 238 de participanți</sub>
+  <sub>Giorgiana Vlăsceanu · 246 de participanți</sub>
 - `12:00` [Build and publish a static website visually, with free software](https://lu.ma/1zr1rp04)  
-  <sub>Mihaela-Elena Jipa · 3 participanți</sub>
+  <sub>Mihaela-Elena Jipa · 7 participanți</sub>
 - `12:00` [Iroh on esp32](https://lu.ma/b0q3zifq)  
-  <sub>Mihaela-Elena Jipa · 12 participanți</sub>
+  <sub>Mihaela-Elena Jipa · 14 participanți</sub>
 - `14:00` [Whodunnit - Threat Hunting with Dissect and Volatility](https://lu.ma/95eiqqtf)  
-  <sub>Mihaela-Elena Jipa · 11 participanți</sub>
+  <sub>Mihaela-Elena Jipa · 21 de participanți</sub>
 - `16:00` [Doubles Tennis Tournament, Salestrust & PuntoUp](https://lu.ma/7mtd3mv6)  
   <sub>Madalina Vechiu · 71 de participanți</sub>
 - `16:00` [Hands-on dive into Nix, Nixpkgs, and NixOS](https://lu.ma/5wtwfw06)  
-  <sub>Mihaela-Elena Jipa · 13 participanți</sub>
+  <sub>Mihaela-Elena Jipa · 18 participanți</sub>
 - `17:00` [Zephyr Meetup](https://lu.ma/ii4gm9at)  
-  <sub>Mihaela-Elena Jipa · 7 participanți</sub>
+  <sub>Mihaela-Elena Jipa · 12 participanți</sub>
 - `18:00` [Debating the Infrastructures of the Future (THINK)](https://lu.ma/uz76w7pt)  
-  <sub>Climate Change Summit · 19 participanți</sub>
+  <sub>Climate Change Summit · 40 de participanți</sub>
 - `18:00` [DEGUSTĂ - Răgaz Pentru Bucurie](https://lu.ma/vwynsi05)  
   <sub>Sabina Mihaila · 7 participanți</sub>
 - `18:00` [Digital Twins in Practice: Launching the DIGITWIN4CIUE White Paper](https://lu.ma/pouonhnz)  
-  <sub>Mihaela-Elena Jipa · 3 participanți</sub>
+  <sub>Mihaela-Elena Jipa · 4 participanți</sub>
 - `18:30` [Lost in translation: Make complex technology easier to understand... and buy.](https://lu.ma/c2iry7pe)  
   <sub>Ionut Alexandru Stanciu · 18 participanți</sub>
 
 ### Sâmbătă, 17 octombrie
 
 - `09:00` [RUN & REFUEL WITH ZUZU PROTEIN](https://lu.ma/1jxnosn6)  
-  <sub>321sport · 38 de participanți</sub>
+  <sub>321sport · 40 de participanți</sub>
 - `10:00` [Community Breakfast](https://lu.ma/5cero0yb)  
-  <sub>Climate Change Summit · 10 participanți</sub>
+  <sub>Climate Change Summit · 11 participanți</sub>
 - `12:00` [Communities: The Infrastructures for Change (UNITE)](https://lu.ma/cek3gjzk)  
   <sub>Climate Change Summit · 5 participanți</sub>
 - `13:30` [Arhitecții Naturii \| Proiecție gratuită la OCC \| 17 octombrie](https://lu.ma/pb2yncjj)  
   <sub>Opera Comică pentru Copii</sub>
 - `14:00` [Cafeaua De Sâmbăta #30 \| Bucuresti](https://lu.ma/hs2pz7ch)  
-  <sub>Ionut Alexandru Stanciu · 35 de participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 34 de participanți</sub>
 - `20:00` [Performance /Sac Berthelot](https://lu.ma/q95jt1fz)  
-  <sub>Sebastian Antal · 10 participanți</sub>
+  <sub>Sebastian Antal · 11 participanți</sub>
 
 ### Duminică, 18 octombrie
 
 - `09:00` [Tura de duminică Cotroceni](https://lu.ma/9r2dg1qe)  
-  <sub>Aleodor Tabarcea · 6 participanți</sub>
+  <sub>Aleodor Tabarcea · 8 participanți</sub>
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/fu6hska9)  
   <sub>Emily Merdus · 3 participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/o4dp3ju7)  
@@ -99,9 +86,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `13:30` [Arhitecții Naturii \| Proiecție gratuită la OCC \| 18 octombrie](https://lu.ma/x9cxgnnn)  
   <sub>Opera Comică pentru Copii</sub>
 - `14:00` [📚 Book Club #4: 1984 — George Orwell #19](https://lu.ma/7fx0zh0i)  
-  <sub>Anda 🪷 · 24 de participanți</sub>
+  <sub>Anda 🪷 · 23 de participanți</sub>
 - `16:00` [Concursul Dovlecilor din Grădina Icoanei](https://lu.ma/r5efhg5r)  
-  <sub>Mamele Din Cartier · 23 de participanți</sub>
+  <sub>Mamele Din Cartier · 25 de participanți</sub>
 - `18:30` [Guided tour - Otherwise Residency 2026: Silent Pressures](https://lu.ma/h76917mk)  
   <sub>Climate Change Summit · 27 de participanți</sub>
 
@@ -124,14 +111,16 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `16:00` [CARIERE Club \| 21 octombrie 2026](https://lu.ma/8ca5gns5)  
   <sub>Revista CARIERE · 16 participanți</sub>
 - `18:00` [Built to Work: Real Engineering in the AI Era](https://lu.ma/exlqha3q)  
-  <sub>Andra Ghibutiu · 49 de participanți</sub>
+  <sub>Andra Ghibutiu · 64 de participanți</sub>
 - `19:00` [Bucharest Tech Mixer \| October Edition](https://lu.ma/59u4k4v4)  
-  <sub>neomixer by ▲promocrat · 49 de participanți</sub>
+  <sub>neomixer by ▲promocrat · 53 de participanți</sub>
 
 ### Joi, 22 octombrie
 
 - `18:30` [Prompt 2: AI Orchestration](https://lu.ma/hfrntz2p)  
   <sub>Anna Mera · 15 participanți</sub>
+- `18:30` [You Can Paint&sip With Us Gilmore Girls](https://lu.ma/soli259w)  
+  <sub>Laura Rosia · 4 participanți</sub>
 - `19:00` [Agentic Engineering in Practice x Daniel Luca](https://lu.ma/yqjtet8x)  
   <sub>Oprea Matei · 3 participanți</sub>
 - `19:00` [LiT#16 - When Data Becomes Context for AI Agents and Business Decisions](https://lu.ma/lit16)  
@@ -142,29 +131,36 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:00` [Aperitivo all'italiana — Nookyard @ Mélange Café by Fornaio.ro](https://lu.ma/7piojqrl)  
   <sub>Ionut Alexandru Stanciu · 3 participanți</sub>
 - `18:00` [CEO Talk #44](https://lu.ma/9f8dt5wa)  
-  <sub>Andra Ghibutiu · 70 de participanți</sub>
+  <sub>Andra Ghibutiu · 74 de participanți</sub>
 
 ### Marți, 27 octombrie
 
 - `18:00` [Un nou început](https://lu.ma/qexwabuk)  
-  <sub>Teodora Ghenciu · 13 participanți</sub>
+  <sub>Teodora Ghenciu · 29 de participanți</sub>
 - `18:00` [WIN #23 – Cum îți construiești brandul personal în Social Media – Diana Coman](https://lu.ma/h6aw6ka8)  
   <sub>Vlad RBC</sub>
 
 ### Miercuri, 28 octombrie
 
 - `09:30` [B Corp Conference Romania 2026](https://lu.ma/20fk2i0h)  
-  <sub>Corina Radu · 11 participanți</sub>
+  <sub>Corina Radu · 13 participanți</sub>
+
+### Joi, 29 octombrie
+
+- `19:00` [Brandient 24](https://lu.ma/i8z0mzt6)  
+  <sub>Brandient · 30 de participanți</sub>
+- `19:00` [DevNight#10 - Building with AI, Startups and more](https://lu.ma/ctoaea3p)  
+  <sub>Oprea Matei</sub>
 
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-14)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-15)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-14)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-15)
 
 ## Despre
 
@@ -178,4 +174,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 14 octombrie 2026*
+*Actualizat: 15 octombrie 2026*
