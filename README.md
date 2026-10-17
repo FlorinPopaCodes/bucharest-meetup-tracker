@@ -26,21 +26,21 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 18 octombrie
 
 - `09:00` [Tura de duminică Cotroceni](https://lu.ma/9r2dg1qe)  
-  <sub>Aleodor Tabarcea · 12 participanți</sub>
+  <sub>Aleodor Tabarcea · 19 participanți</sub>
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/fu6hska9)  
-  <sub>Emily Merdus · 6 participanți</sub>
+  <sub>Emily Merdus · 8 participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/o4dp3ju7)  
-  <sub>Irina Tenovici</sub>
+  <sub>Irina Tenovici · 2 participanți</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/29qnja0u)  
-  <sub>Nicoleta Ifrim · 10 participanți</sub>
+  <sub>Nicoleta Ifrim · 13 participanți</sub>
 - `12:00` [Platon ne cheamă la discuții](https://lu.ma/80sffcgx)  
   <sub>R.O.S.T. Specialty Coffeshop · 11 participanți</sub>
 - `13:30` [Arhitecții Naturii \| Proiecție gratuită la OCC \| 18 octombrie](https://lu.ma/x9cxgnnn)  
   <sub>Opera Comică pentru Copii</sub>
 - `14:00` [📚 Book Club #4: 1984 — George Orwell #19](https://lu.ma/7fx0zh0i)  
-  <sub>Anda 🪷 · 23 de participanți</sub>
+  <sub>Anda 🪷 · 24 de participanți</sub>
 - `16:00` [Concursul Dovlecilor din Grădina Icoanei](https://lu.ma/r5efhg5r)  
-  <sub>Mamele Din Cartier · 41 de participanți</sub>
+  <sub>Mamele Din Cartier · 47 de participanți</sub>
 - `18:30` [Guided tour - Otherwise Residency 2026: Silent Pressures](https://lu.ma/h76917mk)  
   <sub>Climate Change Summit · 27 de participanți</sub>
 
@@ -54,9 +54,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:30` [AI, Cyber and Compliance (w/ The AI Collective)](https://lu.ma/ai-cyber-compliance)  
   <sub>The AI Collective</sub>
 - `18:30` [CTO Craft Mixers: Bucharest](https://lu.ma/wca56uv9)  
-  <sub>CTO Craft · 19 participanți</sub>
+  <sub>CTO Craft · 21 de participanți</sub>
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S24E03](https://lu.ma/i3oxny7p)  
-  <sub>321sport · 3 participanți</sub>
+  <sub>321sport · 5 participanți</sub>
 
 ### Miercuri, 21 octombrie
 
@@ -67,16 +67,16 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:00` [RBC #417 \| 5 LUCRURI ESENȚIALE ÎNAINTE SĂ TE ASOCIEZI SAU SĂ ATRAGI UN INVESTITOR \| Mircea Căpățînă & Oana Căpățînă](https://lu.ma/2tv2sbn0)  
   <sub>Teodora Nicolaiciuc</sub>
 - `19:00` [Bucharest Tech Mixer \| October Edition](https://lu.ma/59u4k4v4)  
-  <sub>neomixer by ▲promocrat · 60 de participanți</sub>
+  <sub>neomixer by ▲promocrat · 62 de participanți</sub>
 
 ### Joi, 22 octombrie
 
 - `18:30` [Prompt 2: AI Orchestration](https://lu.ma/hfrntz2p)  
-  <sub>Anna Mera · 20 de participanți</sub>
+  <sub>Anna Mera · 22 de participanți</sub>
 - `18:30` [You Can Paint&sip With Us Gilmore Girls](https://lu.ma/soli259w)  
   <sub>Laura Rosia · 7 participanți</sub>
 - `19:00` [Agentic Engineering in Practice x Daniel Luca](https://lu.ma/yqjtet8x)  
-  <sub>Oprea Matei · 24 de participanți</sub>
+  <sub>Oprea Matei · 28 de participanți</sub>
 - `19:00` [LiT#16 - When Data Becomes Context for AI Agents and Business Decisions](https://lu.ma/lit16)  
   <sub>Bogdan Popescu</sub>
 
@@ -85,7 +85,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:00` [Aperitivo all'italiana — Nookyard @ Mélange Café by Fornaio.ro](https://lu.ma/7piojqrl)  
   <sub>Ionut Alexandru Stanciu · 3 participanți</sub>
 - `18:00` [CEO Talk #44](https://lu.ma/9f8dt5wa)  
-  <sub>Andra Ghibutiu · 83 de participanți</sub>
+  <sub>Andra Ghibutiu · 85 de participanți</sub>
 
 ### Marți, 27 octombrie
 
@@ -120,7 +120,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Sâmbătă, 31 octombrie
 
 - `15:00` [Midnights Ride: A Taylor Swift-Themed Indoor Cycling Experience - #1](https://lu.ma/ws29czl9)  
-  <sub>The Spinning Era · 9 participanți</sub>
+  <sub>The Spinning Era · 12 participanți</sub>
 - `17:00` [Midnights Ride: A Taylor Swift-Themed Indoor Cycling Experience - #2](https://lu.ma/b2qbyos7)  
   <sub>The Spinning Era · 11 participanți</sub>
 
