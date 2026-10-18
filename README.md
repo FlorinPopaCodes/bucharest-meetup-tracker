@@ -29,26 +29,28 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 - `09:00` [RoFintech Delegation @ Commerce Innovation Summit 2026 by NETOPIA Payments.](https://lu.ma/zhtu7pbm)  
   <sub>Adrian Drinceanu</sub>
+- `19:30` [Monday Quizmania](https://lu.ma/ub6gutfc)  
+  <sub>T5 Social · 3 participanți</sub>
 
 ### Marți, 20 octombrie
 
 - `18:30` [AI, Cyber and Compliance (w/ The AI Collective)](https://lu.ma/ai-cyber-compliance)  
   <sub>The AI Collective</sub>
 - `18:30` [CTO Craft Mixers: Bucharest](https://lu.ma/wca56uv9)  
-  <sub>CTO Craft · 21 de participanți</sub>
+  <sub>CTO Craft · 22 de participanți</sub>
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S24E03](https://lu.ma/i3oxny7p)  
-  <sub>321sport · 5 participanți</sub>
+  <sub>321sport · 6 participanți</sub>
 
 ### Miercuri, 21 octombrie
 
 - `16:00` [CARIERE Club \| 21 octombrie 2026](https://lu.ma/8ca5gns5)  
-  <sub>Revista CARIERE · 26 de participanți</sub>
+  <sub>Revista CARIERE · 27 de participanți</sub>
 - `18:00` [Built to Work: Real Engineering in the AI Era](https://lu.ma/exlqha3q)  
   <sub>Andra Ghibutiu · 75 de participanți</sub>
 - `18:00` [RBC #417 \| 5 LUCRURI ESENȚIALE ÎNAINTE SĂ TE ASOCIEZI SAU SĂ ATRAGI UN INVESTITOR \| Mircea Căpățînă & Oana Căpățînă](https://lu.ma/2tv2sbn0)  
   <sub>Teodora Nicolaiciuc</sub>
 - `19:00` [Bucharest Tech Mixer \| October Edition](https://lu.ma/59u4k4v4)  
-  <sub>neomixer by ▲promocrat · 62 de participanți</sub>
+  <sub>neomixer by ▲promocrat · 64 de participanți</sub>
 
 ### Joi, 22 octombrie
 
@@ -57,7 +59,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:30` [You Can Paint&sip With Us Gilmore Girls](https://lu.ma/soli259w)  
   <sub>Laura Rosia · 8 participanți</sub>
 - `19:00` [Agentic Engineering in Practice x Daniel Luca](https://lu.ma/yqjtet8x)  
-  <sub>Oprea Matei · 28 de participanți</sub>
+  <sub>Oprea Matei · 29 de participanți</sub>
 - `19:00` [LiT#16 - When Data Becomes Context for AI Agents and Business Decisions](https://lu.ma/lit16)  
   <sub>Bogdan Popescu</sub>
 
@@ -67,6 +69,8 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
   <sub>Ionut Alexandru Stanciu · 3 participanți</sub>
 - `18:00` [CEO Talk #44](https://lu.ma/9f8dt5wa)  
   <sub>Andra Ghibutiu · 85 de participanți</sub>
+- `20:00` [Performance /Sac Berthelot](https://lu.ma/q95jt1fz)  
+  <sub>Sebastian Antal · 28 de participanți</sub>
 
 ### Marți, 27 octombrie
 
@@ -100,10 +104,12 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Sâmbătă, 31 octombrie
 
+- `14:00` [Cafeaua De Sâmbăta #31 \| Bucuresti](https://lu.ma/iym0cxwy)  
+  <sub>Ionut Alexandru Stanciu</sub>
 - `15:00` [Midnights Ride: A Taylor Swift-Themed Indoor Cycling Experience - #1](https://lu.ma/ws29czl9)  
   <sub>The Spinning Era · 12 participanți</sub>
 - `17:00` [Midnights Ride: A Taylor Swift-Themed Indoor Cycling Experience - #2](https://lu.ma/b2qbyos7)  
-  <sub>The Spinning Era · 11 participanți</sub>
+  <sub>The Spinning Era · 12 participanți</sub>
 
 ### Duminică, 1 noiembrie
 
