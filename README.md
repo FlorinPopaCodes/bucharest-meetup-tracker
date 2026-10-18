@@ -4,25 +4,6 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Sâmbătă, 17 octombrie
-
-- `09:00` [RUN & REFUEL WITH ZUZU PROTEIN](https://lu.ma/1jxnosn6)  
-  <sub>321sport · 50 de participanți</sub>
-- `10:00` [Community Breakfast](https://lu.ma/5cero0yb)  
-  <sub>Climate Change Summit · 86 de participanți</sub>
-- `12:00` [Communities: The Infrastructures for Change (UNITE)](https://lu.ma/cek3gjzk)  
-  <sub>Climate Change Summit · 5 participanți</sub>
-- `13:30` [Arhitecții Naturii \| Proiecție gratuită la OCC \| 17 octombrie](https://lu.ma/pb2yncjj)  
-  <sub>Opera Comică pentru Copii</sub>
-- `14:00` [Cafeaua De Sâmbăta #30 \| Bucuresti](https://lu.ma/hs2pz7ch)  
-  <sub>Ionut Alexandru Stanciu · 47 de participanți</sub>
-- `14:30` [Doubles Tennis Tournament, Salestrust & PuntoUp](https://lu.ma/7mtd3mv6)  
-  <sub>Madalina Vechiu · 71 de participanți</sub>
-- `19:00` [Kirtan: Song of the Soul](https://lu.ma/l3jmorxb)  
-  <sub>Dana Nedelcu · 9 participanți</sub>
-- `20:00` [Performance /Sac Berthelot](https://lu.ma/q95jt1fz)  
-  <sub>Sebastian Antal · 19 participanți</sub>
-
 ### Duminică, 18 octombrie
 
 - `09:00` [Tura de duminică Cotroceni](https://lu.ma/9r2dg1qe)  
@@ -34,13 +15,13 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/29qnja0u)  
   <sub>Nicoleta Ifrim · 13 participanți</sub>
 - `12:00` [Platon ne cheamă la discuții](https://lu.ma/80sffcgx)  
-  <sub>R.O.S.T. Specialty Coffeshop · 11 participanți</sub>
+  <sub>R.O.S.T. Specialty Coffeshop · 9 participanți</sub>
 - `13:30` [Arhitecții Naturii \| Proiecție gratuită la OCC \| 18 octombrie](https://lu.ma/x9cxgnnn)  
   <sub>Opera Comică pentru Copii</sub>
 - `14:00` [📚 Book Club #4: 1984 — George Orwell #19](https://lu.ma/7fx0zh0i)  
-  <sub>Anda 🪷 · 24 de participanți</sub>
+  <sub>Anda 🪷 · 22 de participanți</sub>
 - `16:00` [Concursul Dovlecilor din Grădina Icoanei](https://lu.ma/r5efhg5r)  
-  <sub>Mamele Din Cartier · 47 de participanți</sub>
+  <sub>Mamele Din Cartier · 50 de participanți</sub>
 - `18:30` [Guided tour - Otherwise Residency 2026: Silent Pressures](https://lu.ma/h76917mk)  
   <sub>Climate Change Summit · 27 de participanți</sub>
 
@@ -63,7 +44,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `16:00` [CARIERE Club \| 21 octombrie 2026](https://lu.ma/8ca5gns5)  
   <sub>Revista CARIERE · 26 de participanți</sub>
 - `18:00` [Built to Work: Real Engineering in the AI Era](https://lu.ma/exlqha3q)  
-  <sub>Andra Ghibutiu · 72 de participanți</sub>
+  <sub>Andra Ghibutiu · 75 de participanți</sub>
 - `18:00` [RBC #417 \| 5 LUCRURI ESENȚIALE ÎNAINTE SĂ TE ASOCIEZI SAU SĂ ATRAGI UN INVESTITOR \| Mircea Căpățînă & Oana Căpățînă](https://lu.ma/2tv2sbn0)  
   <sub>Teodora Nicolaiciuc</sub>
 - `19:00` [Bucharest Tech Mixer \| October Edition](https://lu.ma/59u4k4v4)  
@@ -74,7 +55,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:30` [Prompt 2: AI Orchestration](https://lu.ma/hfrntz2p)  
   <sub>Anna Mera · 22 de participanți</sub>
 - `18:30` [You Can Paint&sip With Us Gilmore Girls](https://lu.ma/soli259w)  
-  <sub>Laura Rosia · 7 participanți</sub>
+  <sub>Laura Rosia · 8 participanți</sub>
 - `19:00` [Agentic Engineering in Practice x Daniel Luca](https://lu.ma/yqjtet8x)  
   <sub>Oprea Matei · 28 de participanți</sub>
 - `19:00` [LiT#16 - When Data Becomes Context for AI Agents and Business Decisions](https://lu.ma/lit16)  
@@ -106,7 +87,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `10:00` [Cum a ajuns sănătatea angajaților noua monedă de retenție](https://lu.ma/nv8d0waw)  
   <sub>Revista CARIERE</sub>
 - `19:00` [Brandient 24](https://lu.ma/i8z0mzt6)  
-  <sub>Brandient · 31 de participanți</sub>
+  <sub>Brandient · 32 de participanți</sub>
 - `19:00` [DevNight#10 - Building with AI, Startups and more](https://lu.ma/ctoaea3p)  
   <sub>Oprea Matei</sub>
 
@@ -124,15 +105,22 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `17:00` [Midnights Ride: A Taylor Swift-Themed Indoor Cycling Experience - #2](https://lu.ma/b2qbyos7)  
   <sub>The Spinning Era · 11 participanți</sub>
 
+### Duminică, 1 noiembrie
+
+- `15:00` [Midnights Ride: A Taylor Swift-Themed Indoor Cycling Experience - #3](https://lu.ma/g8dp2u89)  
+  <sub>The Spinning Era · 5 participanți</sub>
+- `17:00` [Midnights Ride: A Taylor Swift-Themed Indoor Cycling Experience - #4](https://lu.ma/nj39mcsz)  
+  <sub>The Spinning Era · 6 participanți</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-17)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-18)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-17)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-18)
 
 ## Despre
 
@@ -146,4 +134,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 17 octombrie 2026*
+*Actualizat: 18 octombrie 2026*
