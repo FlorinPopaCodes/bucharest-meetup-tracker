@@ -1,326 +1,6 @@
 {
   "geo": [
     {
-      "api_id": "evt-ppioDDDa72bBH4I",
-      "event": {
-        "api_id": "evt-ppioDDDa72bBH4I",
-        "calendar_api_id": "cal-E74MDlDKBaeAwXK",
-        "end_at": "2026-10-20T18:00:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "AI, Cyber and Compliance (w/ The AI Collective)",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": false,
-        "social_image_url": "https://images.lumacdn.com/event-social/wj/1c030fd2-c8a2-4a76-be88-fe5d1222ba28.png",
-        "start_at": "2026-10-20T15:30:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "ai-cyber-compliance",
-        "user_api_id": "usr-W0QIRNpVwCr9HbJ",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "mode": "obfuscated",
-          "city": "București",
-          "city_state": "București, Romania",
-          "sublocality": "Sectorul 2",
-          "country": "Romania",
-          "country_code": "RO",
-          "region": "București",
-          "region_short": "București"
-        },
-        "geo_address_visibility": "guests-only",
-        "coordinate": {
-          "latitude": 44.43894584421648,
-          "longitude": 26.106498406425416
-        },
-        "waitlist_enabled": true,
-        "waitlist_status": "active"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-E74MDlDKBaeAwXK",
-        "coordinate": null,
-        "description_short": "The world’s largest AI community. Uniting 500k+ pioneers across 100+ global forums. Building the human layer for the AI era.",
-        "end_date": null,
-        "is_verified": false,
-        "location": null,
-        "name": "The AI Collective",
-        "personal_user_api_id": null,
-        "sends_unlocked_at": "2023-08-23T03:14:32.935Z",
-        "slug": "genai-collective",
-        "start_date": null,
-        "website": "https://www.aicollective.com",
-        "is_personal": false,
-        "personal_user": null,
-        "timezone": null
-      },
-      "start_at": "2026-10-20T15:30:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-W0QIRNpVwCr9HbJ",
-          "name": "The AI Collective",
-          "username": "aicollective"
-        },
-        {
-          "api_id": "usr-eQYiUHKUHVfpTvB",
-          "name": "Irina Raicu",
-          "username": "irinaraicu"
-        },
-        {
-          "api_id": "usr-tvZGB2QHOyDWmdf",
-          "name": "Angel Sirakov",
-          "username": null
-        },
-        {
-          "api_id": "usr-RRd48mt6py34sMk",
-          "name": "Jackline Rangelova",
-          "username": null
-        },
-        {
-          "api_id": "usr-b5kykoGmeCuLF6N",
-          "name": "Marius Petcu",
-          "username": null
-        },
-        {
-          "api_id": "usr-DEYJeMKBPa5ftde",
-          "name": "Matei",
-          "username": null
-        }
-      ],
-      "guest_count": 0,
-      "ticket_count": 0,
-      "ticket_info": {
-        "price": null,
-        "is_free": true,
-        "max_price": null,
-        "is_sold_out": false,
-        "require_approval": true
-      },
-      "registration_availability": "open",
-      "waitlist_active": false,
-      "featured_city": null
-    },
-    {
-      "api_id": "evt-qyolYiFRB0EDxMq",
-      "event": {
-        "api_id": "evt-qyolYiFRB0EDxMq",
-        "calendar_api_id": "cal-Q8snnVQnOtD44GJ",
-        "end_at": "2026-10-20T18:00:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "CTO Craft Mixers: Bucharest",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": true,
-        "social_image_url": "https://images.lumacdn.com/event-social/qo/f17d399a-59af-45c5-bf2c-053b084a3453.png",
-        "start_at": "2026-10-20T15:30:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "wca56uv9",
-        "user_api_id": "usr-J3rHHJEfvHwefYm",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "mode": "obfuscated",
-          "city": "București",
-          "city_state": "București, 6",
-          "sublocality": "Militari",
-          "country": "Romania",
-          "country_code": "RO",
-          "region": "6"
-        },
-        "geo_address_visibility": "guests-only",
-        "coordinate": {
-          "latitude": 44.42992960710562,
-          "longitude": 26.052039652742383
-        },
-        "waitlist_enabled": true,
-        "waitlist_status": "active"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-Q8snnVQnOtD44GJ",
-        "coordinate": null,
-        "description_short": "Join fellow CTOs and senior technology leaders who understand your world for relaxed evenings of conversation, collaboration, and learning",
-        "end_date": null,
-        "is_verified": false,
-        "location": null,
-        "name": "CTO Craft Mixers",
-        "personal_user_api_id": null,
-        "sends_unlocked_at": "2026-02-10T16:47:47.298Z",
-        "slug": "ctocraft-mixers",
-        "start_date": null,
-        "website": "https://ctocraft.com",
-        "is_personal": false,
-        "personal_user": null,
-        "timezone": null
-      },
-      "start_at": "2026-10-20T15:30:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-J3rHHJEfvHwefYm",
-          "name": "CTO Craft",
-          "username": "ctocraft"
-        },
-        {
-          "api_id": "usr-YkPs0kZ7X7OMfdG",
-          "name": "Alexandra Anghel",
-          "username": null
-        },
-        {
-          "api_id": "usr-b6sxDvly1AzkwkQ",
-          "name": "Vladi Iancu",
-          "username": "vladiiancu"
-        }
-      ],
-      "guest_count": 23,
-      "ticket_count": 23,
-      "ticket_info": {
-        "price": null,
-        "is_free": true,
-        "max_price": null,
-        "is_sold_out": false,
-        "require_approval": true
-      },
-      "registration_availability": "open",
-      "waitlist_active": false,
-      "featured_city": null
-    },
-    {
-      "api_id": "evt-SILQFiH1VFkbkLG",
-      "event": {
-        "api_id": "evt-SILQFiH1VFkbkLG",
-        "calendar_api_id": "cal-2IEiwmiOVdw7mWt",
-        "end_at": "2026-10-20T18:00:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "321sport - Alergare Herăstrău (începători) #dela1la21 S24E03",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": true,
-        "social_image_url": "https://images.lumacdn.com/event-social/sq/e4c8d358-d19c-48b2-8e4e-0fd5e635a845.png",
-        "start_at": "2026-10-20T16:30:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "i3oxny7p",
-        "user_api_id": "usr-tO8x9AVXxlXajv7",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "București",
-          "type": "google",
-          "region": "București",
-          "address": "Statue of Charles De Gaulle",
-          "country": "Romania",
-          "place_id": "ChIJ3QTW6BECskARp5Y5jlub2ok",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": "București",
-              "address": "Statuia lui Charles De Gaulle",
-              "country": "România",
-              "city_state": "București, România",
-              "sublocality": "Bucureşti Sectorul 1",
-              "full_address": "Statuia lui Charles De Gaulle, Piața Charles de Gaulle 3, București, România",
-              "region_short": "București",
-              "short_address": "Piața Charles de Gaulle 3, București"
-            },
-            "en-GB": {
-              "city": "București",
-              "region": "București",
-              "address": "Statue of Charles De Gaulle",
-              "country": "Romania",
-              "city_state": "București, Romania",
-              "sublocality": "Bucureşti Sectorul 1",
-              "full_address": "Statue of Charles De Gaulle, Piața Charles de Gaulle 3, București, Romania",
-              "region_short": "București",
-              "short_address": "Piața Charles de Gaulle 3, București"
-            }
-          },
-          "city_state": "București, Romania",
-          "description": "",
-          "sublocality": "Bucureşti Sectorul 1",
-          "country_code": "RO",
-          "full_address": "Statue of Charles De Gaulle, Piața Charles de Gaulle 3, București, Romania",
-          "region_short": "București",
-          "short_address": "Piața Charles de Gaulle 3, București",
-          "place_coordinate": null,
-          "apple_maps_place_id": "I5B5C74F2088B28AA",
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 26.085720199999997,
-          "latitude": 44.4669898
-        },
-        "waitlist_enabled": false,
-        "waitlist_status": "disabled"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-2IEiwmiOVdw7mWt",
-        "coordinate": {
-          "longitude": 26.1025384,
-          "latitude": 44.426767399999996
-        },
-        "description_short": "321sport este o comunitate de alergare fondată în 2015, care aduce împreună oameni din toate categoriile sociale prin evenimente organizate offline sau online.",
-        "end_date": null,
-        "is_verified": false,
-        "location": {
-          "city": "Bucharest",
-          "region": null,
-          "country": "Romania",
-          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
-          "timezone": "Europe/Bucharest",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": null,
-              "country": "România"
-            }
-          },
-          "country_code": "RO"
-        },
-        "name": "Calendar 321sport",
-        "personal_user_api_id": null,
-        "sends_unlocked_at": "2025-10-15T12:53:48.742Z",
-        "slug": "321sport",
-        "start_date": null,
-        "website": "https://www.321sport.ro",
-        "is_personal": false,
-        "personal_user": null,
-        "timezone": "Europe/Bucharest"
-      },
-      "start_at": "2026-10-20T16:30:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-tO8x9AVXxlXajv7",
-          "name": "321sport",
-          "username": "321sport"
-        }
-      ],
-      "guest_count": 8,
-      "ticket_count": 8,
-      "ticket_info": {
-        "price": null,
-        "is_free": true,
-        "max_price": null,
-        "is_sold_out": false,
-        "require_approval": false
-      },
-      "registration_availability": "open",
-      "waitlist_active": false,
-      "featured_city": null
-    },
-    {
       "api_id": "evt-2Ehqa8X0JOTVC0r",
       "event": {
         "api_id": "evt-2Ehqa8X0JOTVC0r",
@@ -915,8 +595,8 @@
           "username": "muvoutside"
         }
       ],
-      "guest_count": 14,
-      "ticket_count": 14,
+      "guest_count": 23,
+      "ticket_count": 23,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1029,8 +709,8 @@
           "username": "neomixers"
         }
       ],
-      "guest_count": 85,
-      "ticket_count": 85,
+      "guest_count": 95,
+      "ticket_count": 95,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1043,23 +723,23 @@
       "featured_city": null
     },
     {
-      "api_id": "evt-neSmRTe5tzlI8Dp",
+      "api_id": "evt-xSw0df7vh1jS97l",
       "event": {
-        "api_id": "evt-neSmRTe5tzlI8Dp",
-        "calendar_api_id": "cal-F9HIfDpegKpVtkI",
-        "end_at": "2026-10-21T18:30:00.000Z",
+        "api_id": "evt-xSw0df7vh1jS97l",
+        "calendar_api_id": "cal-4LXIDE3K7ilLwhT",
+        "end_at": "2026-10-21T20:00:00.000Z",
         "event_type": "independent",
         "hide_rsvp": false,
         "location_type": "offline",
-        "name": "Vorbe si Prosecco - episodul 3 - Cand ai realizat ca ai un business cu potential ?",
+        "name": "Groovy Whist @ Lee Coffee House",
         "one_to_one": true,
         "recurrence_id": null,
-        "show_guest_list": false,
-        "social_image_url": "https://images.lumacdn.com/event-social/8i/3e55e4ca-ccb6-4a8c-945b-70d7fbf897d0.png",
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/lc/0cb120de-773b-4817-b3fb-f5eebc4e1668.png",
         "start_at": "2026-10-21T16:00:00.000Z",
         "timezone": "Europe/Bucharest",
-        "url": "o3jox14u",
-        "user_api_id": "usr-i11eLEuvoNTpvUc",
+        "url": "7rdw47ye",
+        "user_api_id": "usr-r5NFak37gaXO4fW",
         "visibility": "public",
         "virtual_info": {
           "has_access": false
@@ -1068,62 +748,73 @@
           "city": "București",
           "type": "google",
           "region": "București",
-          "address": "VINO Wines and More",
+          "address": "Lee Coffee House",
           "country": "Romania",
-          "place_id": "ChIJW-1ws0z_sUARIHHvlHrDEMY",
+          "place_id": "ChIJq6spg4__sUARaTWqBhjQSsU",
           "localized": {
             "ro": {
               "city": "București",
               "region": "București",
-              "address": "VINO",
+              "address": "LEE COFFEE HOUSE",
               "country": "România",
               "city_state": "București, România",
               "sublocality": "Sectorul 2",
-              "full_address": "VINO, Strada Mihai Eminescu 71, 020072 București, România",
+              "full_address": "LEE COFFEE HOUSE, Strada Culmea Veche 2, 030167 București, România",
               "region_short": "București",
-              "short_address": "Strada Mihai Eminescu 71, București"
+              "short_address": "Strada Culmea Veche 2, București"
+            },
+            "en-GB": {
+              "city": "București",
+              "region": "București",
+              "address": "Lee Coffee House",
+              "country": "Romania",
+              "city_state": "București, Romania",
+              "sublocality": "Sectorul 2",
+              "full_address": "Lee Coffee House, Strada Culmea Veche 2, 030167 București, Romania",
+              "region_short": "București",
+              "short_address": "Strada Culmea Veche 2, București"
             }
           },
           "city_state": "București, Romania",
           "description": "",
           "sublocality": "Sectorul 2",
           "country_code": "RO",
-          "full_address": "VINO Wines and More, Strada Mihai Eminescu 71, 020072 București, Romania",
+          "full_address": "Lee Coffee House, Strada Culmea Veche 2, 030167 București, Romania",
           "region_short": "București",
-          "short_address": "Strada Mihai Eminescu 71, București",
+          "short_address": "Strada Culmea Veche 2, București",
           "place_coordinate": {
-            "latitude": 44.4480475,
-            "longitude": 26.1060154
+            "latitude": 44.4335798,
+            "longitude": 26.1101235
           },
-          "apple_maps_place_id": "I775AEE8295E556F0",
+          "apple_maps_place_id": "I16550665A9F44AA",
           "mode": "shown"
         },
         "geo_address_visibility": "public",
         "coordinate": {
-          "longitude": 26.1060154,
-          "latitude": 44.4480475
+          "longitude": 26.1101235,
+          "latitude": 44.4335798
         },
-        "waitlist_enabled": true,
-        "waitlist_status": "active"
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
       },
       "calendar": {
         "access_level": "public",
-        "api_id": "cal-F9HIfDpegKpVtkI",
+        "api_id": "cal-4LXIDE3K7ilLwhT",
         "coordinate": null,
         "description_short": null,
         "end_date": null,
         "is_verified": false,
         "location": null,
         "name": "Personal",
-        "personal_user_api_id": "usr-i11eLEuvoNTpvUc",
-        "sends_unlocked_at": "2026-09-21T13:14:23.215Z",
+        "personal_user_api_id": "usr-r5NFak37gaXO4fW",
+        "sends_unlocked_at": null,
         "slug": null,
         "start_date": null,
         "website": null,
         "is_personal": true,
         "personal_user": {
-          "api_id": "usr-i11eLEuvoNTpvUc",
-          "name": "Andrei Drincianu",
+          "api_id": "usr-r5NFak37gaXO4fW",
+          "name": "Emil Langa",
           "username": null
         },
         "timezone": null
@@ -1131,19 +822,19 @@
       "start_at": "2026-10-21T16:00:00.000Z",
       "hosts": [
         {
-          "api_id": "usr-i11eLEuvoNTpvUc",
-          "name": "Andrei Drincianu",
+          "api_id": "usr-r5NFak37gaXO4fW",
+          "name": "Emil Langa",
           "username": null
         }
       ],
-      "guest_count": 0,
-      "ticket_count": 0,
+      "guest_count": 3,
+      "ticket_count": 3,
       "ticket_info": {
         "price": null,
         "is_free": true,
         "max_price": null,
         "is_sold_out": false,
-        "require_approval": true
+        "require_approval": false
       },
       "registration_availability": "open",
       "waitlist_active": false,
@@ -1287,17 +978,17 @@
           "username": null
         }
       ],
-      "guest_count": 29,
-      "ticket_count": 29,
+      "guest_count": 30,
+      "ticket_count": 30,
       "ticket_info": {
         "price": null,
         "is_free": true,
         "max_price": null,
-        "is_sold_out": false,
+        "is_sold_out": true,
         "require_approval": true
       },
-      "registration_availability": "open",
-      "waitlist_active": false,
+      "registration_availability": "waitlist",
+      "waitlist_active": true,
       "featured_city": null
     },
     {
@@ -1399,8 +1090,8 @@
           "username": null
         }
       ],
-      "guest_count": 26,
-      "ticket_count": 26,
+      "guest_count": 27,
+      "ticket_count": 27,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1645,8 +1336,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 7,
-      "ticket_count": 7,
+      "guest_count": 21,
+      "ticket_count": 21,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2244,8 +1935,8 @@
           "username": "endi"
         }
       ],
-      "guest_count": 20,
-      "ticket_count": 20,
+      "guest_count": 39,
+      "ticket_count": 39,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2376,6 +2067,142 @@
       "featured_city": null
     },
     {
+      "api_id": "evt-0sHXwIpugDROaHn",
+      "event": {
+        "api_id": "evt-0sHXwIpugDROaHn",
+        "calendar_api_id": "cal-B872osgWqW83ENT",
+        "end_at": "2026-10-26T19:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "🎲 Bring Your Own Board Games #2 | Board Games Night | #20",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/90/9a68a9bb-bb4f-47ee-a5fa-d5464b9a3ef6.png",
+        "start_at": "2026-10-26T16:30:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "7qniset6",
+        "user_api_id": "usr-YBFN0wHZy8N0l6U",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "2",
+          "address": "HEAVY YARD",
+          "country": "Romania",
+          "place_id": "ChIJKftu-vj5sUARMhVY9mbce6k",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "2",
+              "address": "HEAVY YARD",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Sectorul 2",
+              "full_address": "HEAVY YARD, Strada Vasile Lascăr 38, 020502 București, România",
+              "region_short": "2",
+              "short_address": "Strada Vasile Lascăr 38, București"
+            },
+            "en-GB": {
+              "city": "București",
+              "region": "2",
+              "address": "HEAVY YARD",
+              "country": "Romania",
+              "city_state": "București, Romania",
+              "sublocality": "Sectorul 2",
+              "full_address": "HEAVY YARD, Strada Vasile Lascăr 38, 020502 București, Romania",
+              "region_short": "2",
+              "short_address": "Strada Vasile Lascăr 38, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Sectorul 2",
+          "country_code": "RO",
+          "full_address": "HEAVY YARD, Strada Vasile Lascăr 38, 020502 București, Romania",
+          "region_short": "2",
+          "short_address": "Strada Vasile Lascăr 38, București",
+          "place_coordinate": {
+            "latitude": 44.439496999999996,
+            "longitude": 26.1084192
+          },
+          "apple_maps_place_id": "IAA8ADA6F819F2EA8",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.1084192,
+          "latitude": 44.439496999999996
+        },
+        "waitlist_enabled": true,
+        "waitlist_status": "enabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-B872osgWqW83ENT",
+        "coordinate": {
+          "longitude": 26.1025384,
+          "latitude": 44.426767399999996
+        },
+        "description_short": "Spațiu safe pentru tinerii din București, offline. 🚪✨\nEvenimente gratuite.\n🌳 Calendarul mai jos. 🎟️",
+        "end_date": null,
+        "is_verified": false,
+        "location": {
+          "city": "Bucharest",
+          "region": null,
+          "country": "Romania",
+          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
+          "timezone": "Europe/Bucharest",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": null,
+              "country": "România"
+            }
+          },
+          "country_code": "RO"
+        },
+        "name": "Ieșim din Casă",
+        "personal_user_api_id": null,
+        "sends_unlocked_at": "2026-08-23T20:10:53.060Z",
+        "slug": "iesimdincasa",
+        "start_date": null,
+        "website": "https://iesimdincasa.ro",
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": "Europe/Bucharest"
+      },
+      "start_at": "2026-10-26T16:30:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-3ha7ZbafSQ1cohi",
+          "name": "Andra",
+          "username": null
+        },
+        {
+          "api_id": "usr-2YFqWEsSB6Xti3G",
+          "name": "Alexandru Oprea",
+          "username": "nickaxel"
+        }
+      ],
+      "guest_count": 22,
+      "ticket_count": 22,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
       "api_id": "evt-ZCnGxDdQKU3BLs5",
       "event": {
         "api_id": "evt-ZCnGxDdQKU3BLs5",
@@ -2465,8 +2292,8 @@
           "username": null
         }
       ],
-      "guest_count": 58,
-      "ticket_count": 58,
+      "guest_count": 59,
+      "ticket_count": 59,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2588,6 +2415,134 @@
         },
         "is_sold_out": false,
         "require_approval": true
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-WBTqfVWgHxm4IC7",
+      "event": {
+        "api_id": "evt-WBTqfVWgHxm4IC7",
+        "calendar_api_id": "cal-2IEiwmiOVdw7mWt",
+        "end_at": "2026-10-27T19:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "321sport - Alergare Herăstrău (începători) #dela1la21 S24E05",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/yq/65ca20e4-3a5e-423e-ba8f-3ff455a85e93.png",
+        "start_at": "2026-10-27T17:30:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "zi3don64",
+        "user_api_id": "usr-tO8x9AVXxlXajv7",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Statue of Charles De Gaulle",
+          "country": "Romania",
+          "place_id": "ChIJ3QTW6BECskARp5Y5jlub2ok",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Statuia lui Charles De Gaulle",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Bucureşti Sectorul 1",
+              "full_address": "Statuia lui Charles De Gaulle, Piața Charles de Gaulle 3, București, România",
+              "region_short": "București",
+              "short_address": "Piața Charles de Gaulle 3, București"
+            },
+            "en-GB": {
+              "city": "București",
+              "region": "București",
+              "address": "Statue of Charles De Gaulle",
+              "country": "Romania",
+              "city_state": "București, Romania",
+              "sublocality": "Bucureşti Sectorul 1",
+              "full_address": "Statue of Charles De Gaulle, Piața Charles de Gaulle 3, București, Romania",
+              "region_short": "București",
+              "short_address": "Piața Charles de Gaulle 3, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Bucureşti Sectorul 1",
+          "country_code": "RO",
+          "full_address": "Statue of Charles De Gaulle, Piața Charles de Gaulle 3, București, Romania",
+          "region_short": "București",
+          "short_address": "Piața Charles de Gaulle 3, București",
+          "place_coordinate": null,
+          "apple_maps_place_id": "I5B5C74F2088B28AA",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.085720199999997,
+          "latitude": 44.4669898
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-2IEiwmiOVdw7mWt",
+        "coordinate": {
+          "longitude": 26.1025384,
+          "latitude": 44.426767399999996
+        },
+        "description_short": "321sport este o comunitate de alergare fondată în 2015, care aduce împreună oameni din toate categoriile sociale prin evenimente organizate offline sau online.",
+        "end_date": null,
+        "is_verified": false,
+        "location": {
+          "city": "Bucharest",
+          "region": null,
+          "country": "Romania",
+          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
+          "timezone": "Europe/Bucharest",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": null,
+              "country": "România"
+            }
+          },
+          "country_code": "RO"
+        },
+        "name": "Calendar 321sport",
+        "personal_user_api_id": null,
+        "sends_unlocked_at": "2025-10-15T12:53:48.742Z",
+        "slug": "321sport",
+        "start_date": null,
+        "website": "https://www.321sport.ro",
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": "Europe/Bucharest"
+      },
+      "start_at": "2026-10-27T17:30:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-tO8x9AVXxlXajv7",
+          "name": "321sport",
+          "username": "321sport"
+        }
+      ],
+      "guest_count": 4,
+      "ticket_count": 4,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
       },
       "registration_availability": "open",
       "waitlist_active": false,
@@ -3057,14 +3012,120 @@
           "username": "brandient"
         }
       ],
-      "guest_count": 32,
-      "ticket_count": 32,
+      "guest_count": 33,
+      "ticket_count": 33,
       "ticket_info": {
         "price": null,
         "is_free": true,
         "max_price": null,
         "is_sold_out": false,
         "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-92WvluPWmC3n01B",
+      "event": {
+        "api_id": "evt-92WvluPWmC3n01B",
+        "calendar_api_id": "cal-cA4IguYv8GrdosX",
+        "end_at": "2026-10-30T20:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Grok Bot Bucharest Meetup",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/ve/cb8c5648-0e8a-4235-aee9-ea3344ec1b59.png",
+        "start_at": "2026-10-30T15:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "spacexai-226s",
+        "user_api_id": "usr-zsMMXZC7KvmSvd6",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "mode": "obfuscated",
+          "city": "București",
+          "city_state": "București, Romania",
+          "sublocality": "Militari",
+          "country": "Romania",
+          "country_code": "RO",
+          "region": "6",
+          "region_short": "6"
+        },
+        "geo_address_visibility": "guests-only",
+        "coordinate": {
+          "latitude": 44.43195155932264,
+          "longitude": 26.056069284231537
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-cA4IguYv8GrdosX",
+        "coordinate": {
+          "longitude": 26.1025384,
+          "latitude": 44.426767399999996
+        },
+        "description_short": "SpaceXAI events in Bucharest, Romania",
+        "end_date": null,
+        "is_verified": false,
+        "location": {
+          "city": "Bucharest",
+          "region": null,
+          "country": "Romania",
+          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
+          "timezone": "Europe/Bucharest",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": null,
+              "country": "România"
+            }
+          },
+          "country_code": "RO"
+        },
+        "name": "SpaceXAI for Bucharest, Romania",
+        "personal_user_api_id": null,
+        "sends_unlocked_at": "2026-06-10T19:42:30.263Z",
+        "slug": "spacexai-bucharest",
+        "start_date": null,
+        "website": "https://cursorromania.com",
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": "Europe/Bucharest"
+      },
+      "start_at": "2026-10-30T15:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-zsMMXZC7KvmSvd6",
+          "name": "Sergei Chyrkov",
+          "username": "chyrkov"
+        },
+        {
+          "api_id": "usr-8bzB2jk0acEwcxJ",
+          "name": "Alla",
+          "username": null
+        },
+        {
+          "api_id": "usr-5mJwVIYFGN9zj9D",
+          "name": "Jessica (Bot)",
+          "username": null
+        }
+      ],
+      "guest_count": 3,
+      "ticket_count": 3,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": true
       },
       "registration_availability": "open",
       "waitlist_active": false,
@@ -3691,8 +3752,8 @@
           "username": "TheSpinningEra"
         }
       ],
-      "guest_count": 5,
-      "ticket_count": 5,
+      "guest_count": 7,
+      "ticket_count": 8,
       "ticket_info": {
         "price": {
           "cents": 11700,
@@ -3954,6 +4015,131 @@
       ],
       "guest_count": 16,
       "ticket_count": 16,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": true
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-3Xs3qjt16lXn2yc",
+      "event": {
+        "api_id": "evt-3Xs3qjt16lXn2yc",
+        "calendar_api_id": "cal-HNsO9KsEeIGRyiT",
+        "end_at": "2026-11-04T20:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Agentic loops and graphs - Formidable Builders x Stripe",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/ms/683ba23b-6ca1-49f6-9d8e-3e8a996ef51b.png",
+        "start_at": "2026-11-04T16:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "k9buxy6i",
+        "user_api_id": "usr-CyJ22EBRtbhk58N",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Stripe Romania",
+          "country": "Romania",
+          "place_id": "ChIJO1p0TQABskARd8JDmLAjffE",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Stripe Romania",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Bucureşti Sectorul 5",
+              "full_address": "Stripe Romania, ONE Cotroceni Park Office 44, Nutu Ion street, unit A+B, 5th floor, district 5, Bucharest (Acess through. 1, Strada Progresului street, 050762 București, România",
+              "region_short": "București",
+              "short_address": "ONE Cotroceni Park Office 44, Nutu Ion street, unit A+B, 5th floor, district 5, Bucharest (Acess through. 1, Strada Progresului street, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Bucureşti Sectorul 5",
+          "country_code": "RO",
+          "full_address": "Stripe Romania, ONE Cotroceni Park Office 44, Nutu Ion street, unit A+B, 5th floor, district 5, Bucharest (Acess through. 1, Strada Progresului street, 050762 București, Romania",
+          "region_short": "București",
+          "short_address": "ONE Cotroceni Park Office 44, Nutu Ion street, unit A+B, 5th floor, district 5, Bucharest (Acess through. 1, Strada Progresului street, București",
+          "place_coordinate": {
+            "latitude": 44.4269451,
+            "longitude": 26.0619025
+          },
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.0619025,
+          "latitude": 44.4269451
+        },
+        "waitlist_enabled": true,
+        "waitlist_status": "enabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-HNsO9KsEeIGRyiT",
+        "coordinate": {
+          "longitude": 26.102538,
+          "latitude": 44.426767
+        },
+        "description_short": "Formidable Builders is a community built by and for people who aspire to do extraordinary things. Progress starts with work. Permission comes later.",
+        "end_date": null,
+        "is_verified": false,
+        "location": {
+          "city": "Bucharest",
+          "region": null,
+          "country": "Romania",
+          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
+          "timezone": "Europe/Bucharest",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": null,
+              "country": "România"
+            }
+          },
+          "country_code": "RO"
+        },
+        "name": "Formidable Builders",
+        "personal_user_api_id": null,
+        "sends_unlocked_at": "2024-08-23T13:35:12.593Z",
+        "slug": "formidablebuilders",
+        "start_date": null,
+        "website": "https://formidable.builders",
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": "Europe/Bucharest"
+      },
+      "start_at": "2026-11-04T16:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-CyJ22EBRtbhk58N",
+          "name": "Gabriel Moncha",
+          "username": "gabimoncha"
+        },
+        {
+          "api_id": "usr-rnMr8FJ5rbbbgwM",
+          "name": "Alex Constantin",
+          "username": "le_alecs"
+        }
+      ],
+      "guest_count": 10,
+      "ticket_count": 10,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -4748,14 +4934,150 @@
           "username": null
         }
       ],
-      "guest_count": 23,
-      "ticket_count": 23,
+      "guest_count": 24,
+      "ticket_count": 24,
       "ticket_info": {
         "price": null,
         "is_free": true,
         "max_price": null,
         "is_sold_out": false,
         "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-ip6HDFOyABsLpag",
+      "event": {
+        "api_id": "evt-ip6HDFOyABsLpag",
+        "calendar_api_id": "cal-hFZuEqq0OsK9LZy",
+        "end_at": "2026-11-11T18:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "How Sustainable Are Our Future Careers?",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/pw/7759fbf4-7d03-4bc4-b2db-28630f16cb2c.png",
+        "start_at": "2026-11-11T16:30:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "oyrmla8k",
+        "user_api_id": "usr-iZJIdc3Oa85tveK",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "EFdeN",
+          "country": "Romania",
+          "place_id": "ChIJwSXbKrz4sUARTTRix-B07w4",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "EFdeN Sustainable City",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Sectorul 2",
+              "full_address": "EFdeN Sustainable City, Bulevardul Pache Protopopescu 66, 030167 București, România",
+              "region_short": "București",
+              "short_address": "Bulevardul Pache Protopopescu 66, București"
+            },
+            "en-GB": {
+              "city": "București",
+              "region": "București",
+              "address": "EFdeN",
+              "country": "Romania",
+              "city_state": "București, Romania",
+              "sublocality": "Sectorul 2",
+              "full_address": "EFdeN, Bulevardul Pache Protopopescu 66, 030167 București, Romania",
+              "region_short": "București",
+              "short_address": "Bulevardul Pache Protopopescu 66, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Sectorul 2",
+          "country_code": "RO",
+          "full_address": "EFdeN, Bulevardul Pache Protopopescu 66, 030167 București, Romania",
+          "region_short": "București",
+          "short_address": "Bulevardul Pache Protopopescu 66, București",
+          "place_coordinate": {
+            "latitude": 44.439572,
+            "longitude": 26.1270527
+          },
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.1270527,
+          "latitude": 44.439572
+        },
+        "waitlist_enabled": true,
+        "waitlist_status": "enabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-hFZuEqq0OsK9LZy",
+        "coordinate": {
+          "longitude": 26.1025384,
+          "latitude": 44.426767399999996
+        },
+        "description_short": "The shared calendar for the EIS community: official EIS events, sessions and gatherings, plus anything our wolves are hosting or joining across the sustainability ecosystem. 🐾",
+        "end_date": null,
+        "is_verified": false,
+        "location": {
+          "city": "Bucharest",
+          "region": null,
+          "country": "Romania",
+          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
+          "timezone": "Europe/Bucharest",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": null,
+              "country": "România"
+            }
+          },
+          "country_code": "RO"
+        },
+        "name": "EIS by EFdeN - Pack Calendar",
+        "personal_user_api_id": null,
+        "sends_unlocked_at": "2026-07-10T13:07:58.631Z",
+        "slug": "EISbyEFdeNEvents",
+        "start_date": null,
+        "website": "https://eisbyefden.org/",
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": "Europe/Bucharest"
+      },
+      "start_at": "2026-11-11T16:30:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-iZJIdc3Oa85tveK",
+          "name": "Ioana Mihăilescu",
+          "username": null
+        },
+        {
+          "api_id": "usr-chBMaq2EHDQmPco",
+          "name": "Beatrice Horvath",
+          "username": null
+        }
+      ],
+      "guest_count": 6,
+      "ticket_count": 6,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": true
       },
       "registration_availability": "open",
       "waitlist_active": false,
@@ -5120,8 +5442,8 @@
           "username": null
         }
       ],
-      "guest_count": 6,
-      "ticket_count": 6,
+      "guest_count": 8,
+      "ticket_count": 8,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -5331,8 +5653,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 171,
-      "ticket_count": 171,
+      "guest_count": 173,
+      "ticket_count": 173,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -6029,8 +6351,8 @@
           "username": "endi"
         }
       ],
-      "guest_count": 20,
-      "ticket_count": 20,
+      "guest_count": 39,
+      "ticket_count": 39,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -7378,8 +7700,8 @@
           "username": "alexstanciu"
         }
       ],
-      "guest_count": 4,
-      "ticket_count": 4,
+      "guest_count": 6,
+      "ticket_count": 6,
       "ticket_info": {
         "price": null,
         "is_free": true,
