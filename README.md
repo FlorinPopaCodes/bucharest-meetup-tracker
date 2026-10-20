@@ -4,19 +4,12 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Luni, 19 octombrie
-
-- `09:00` [RoFintech Delegation @ Commerce Innovation Summit 2026 by NETOPIA Payments.](https://lu.ma/zhtu7pbm)  
-  <sub>Adrian Drinceanu</sub>
-- `19:30` [Monday Quizmania](https://lu.ma/ub6gutfc)  
-  <sub>T5 Social · 5 participanți</sub>
-
 ### Marți, 20 octombrie
 
 - `18:30` [AI, Cyber and Compliance (w/ The AI Collective)](https://lu.ma/ai-cyber-compliance)  
   <sub>The AI Collective</sub>
 - `18:30` [CTO Craft Mixers: Bucharest](https://lu.ma/wca56uv9)  
-  <sub>CTO Craft · 25 de participanți</sub>
+  <sub>CTO Craft · 23 de participanți</sub>
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S24E03](https://lu.ma/i3oxny7p)  
   <sub>321sport · 8 participanți</sub>
 
@@ -27,11 +20,13 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:00` [After Work – Paint, Sip & Unwind @ DBH with Mooz Artelier & Loredana](https://lu.ma/iyrsvom2)  
   <sub>Loredana Pipie</sub>
 - `18:00` [Built to Work: Real Engineering in the AI Era](https://lu.ma/exlqha3q)  
-  <sub>Andra Ghibutiu · 80 de participanți</sub>
+  <sub>Andra Ghibutiu · 81 de participanți</sub>
 - `18:00` [RBC #417 \| 5 LUCRURI ESENȚIALE ÎNAINTE SĂ TE ASOCIEZI SAU SĂ ATRAGI UN INVESTITOR \| Mircea Căpățînă & Oana Căpățînă](https://lu.ma/2tv2sbn0)  
   <sub>Teodora Nicolaiciuc</sub>
+- `18:45` [PULSE #60 - Jump & Muv, Muv & Jump](https://lu.ma/0dpcn59k)  
+  <sub>MuvOutside · 14 participanți</sub>
 - `19:00` [Bucharest Tech Mixer \| October Edition](https://lu.ma/59u4k4v4)  
-  <sub>neomixers by ▲promocrat · 83 de participanți</sub>
+  <sub>neomixers by ▲promocrat · 85 de participanți</sub>
 - `19:00` [Vorbe si Prosecco - episodul 3 - Cand ai realizat ca ai un business cu potential ?](https://lu.ma/o3jox14u)  
   <sub>Andrei Drincianu</sub>
 
@@ -40,7 +35,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:30` [Agentic Engineering in Practice x Daniel Luca](https://lu.ma/yqjtet8x)  
   <sub>Oprea Matei · 29 de participanți</sub>
 - `18:30` [Prompt 2: AI Orchestration](https://lu.ma/hfrntz2p)  
-  <sub>Anna Mera · 25 de participanți</sub>
+  <sub>Anna Mera · 26 de participanți</sub>
 - `18:30` [You Can Paint&sip With Us Gilmore Girls](https://lu.ma/soli259w)  
   <sub>Laura Rosia · 8 participanți</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S24E04](https://lu.ma/hii700ff)  
@@ -53,7 +48,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:00` [Aperitivo all'italiana — Nookyard @ Mélange Café by Fornaio.ro](https://lu.ma/7piojqrl)  
   <sub>Ionut Alexandru Stanciu · 3 participanți</sub>
 - `18:00` [CEO Talk #44](https://lu.ma/9f8dt5wa)  
-  <sub>Andra Ghibutiu · 92 de participanți</sub>
+  <sub>Andra Ghibutiu · 93 de participanți</sub>
 - `20:00` [Performance /Sac Berthelot](https://lu.ma/q95jt1fz)  
   <sub>Sebastian Antal · 28 de participanți</sub>
 
@@ -65,7 +60,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 25 octombrie
 
 - `10:00` [Tura de duminică București, ediție specială: Pădurea Băneasa](https://lu.ma/0tj4z7u8)  
-  <sub>Endi Ungureanu · 10 participanți</sub>
+  <sub>Endi Ungureanu · 20 de participanți</sub>
 - `10:30` [Pas cu sens x Velocità](https://lu.ma/a0ixtirr)  
   <sub>Brezae Adela · 5 participanți</sub>
 
@@ -74,7 +69,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `17:30` [\[Community-Led Event AmpliFY ONG\] Ce se ascunde în spatele unui conflict?](https://lu.ma/com_nonviolenta)  
   <sub>AmpliFY ONG · 7 participanți</sub>
 - `18:00` [Un nou început](https://lu.ma/qexwabuk)  
-  <sub>Teodora Ghenciu · 57 de participanți</sub>
+  <sub>Teodora Ghenciu · 58 de participanți</sub>
 - `18:00` [WIN #23 – Cum îți construiești brandul personal în Social Media – Diana Coman](https://lu.ma/h6aw6ka8)  
   <sub>Vlad RBC</sub>
 
@@ -87,13 +82,13 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 - `10:00` [Cum a ajuns sănătatea angajaților noua monedă de retenție](https://lu.ma/nv8d0waw)  
   <sub>Revista CARIERE</sub>
-- `19:00` [Brandient 24](https://lu.ma/i8z0mzt6)  
-  <sub>Brandient · 32 de participanți</sub>
 - `19:00` [DevNight#10 - Building with AI, Startups and more](https://lu.ma/ctoaea3p)  
   <sub>Oprea Matei</sub>
 
 ### Vineri, 30 octombrie
 
+- `11:00` [Brandient 24](https://lu.ma/i8z0mzt6)  
+  <sub>Brandient · 32 de participanți</sub>
 - `20:00` [reading & Halloween corner, chapter #60](https://lu.ma/fnuvspr3)  
   <sub>reading corner · 100 de participanți</sub>
 - `20:00` [THE SQUARE Queen’s Gambit Evening](https://lu.ma/gxejlb6k)  
@@ -102,7 +97,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Sâmbătă, 31 octombrie
 
 - `14:00` [Cafeaua De Sâmbăta #31 \| Bucuresti](https://lu.ma/iym0cxwy)  
-  <sub>Ionut Alexandru Stanciu · 3 participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 4 participanți</sub>
 - `15:00` [Midnights Ride: A Taylor Swift-Themed Indoor Cycling Experience - #1](https://lu.ma/ws29czl9)  
   <sub>The Spinning Era · 12 participanți</sub>
 - `17:00` [Midnights Ride: A Taylor Swift-Themed Indoor Cycling Experience - #2](https://lu.ma/b2qbyos7)  
@@ -126,11 +121,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-19)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-20)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-19)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-20)
 
 ## Despre
 
@@ -144,4 +139,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 19 octombrie 2026*
+*Actualizat: 20 octombrie 2026*
