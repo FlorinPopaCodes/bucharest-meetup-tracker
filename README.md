@@ -26,7 +26,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:00` [Aperitivo all'italiana — Nookyard @ Mélange Café by Fornaio.ro](https://lu.ma/7piojqrl)  
   <sub>Ionut Alexandru Stanciu · 3 participanți</sub>
 - `18:00` [CEO Talk #44](https://lu.ma/9f8dt5wa)  
-  <sub>Andra Ghibutiu · 98 de participanți</sub>
+  <sub>Andra Ghibutiu · 100 de participanți</sub>
 - `20:00` [Performance /Sac Berthelot](https://lu.ma/q95jt1fz)  
   <sub>Sebastian Antal · 31 de participanți</sub>
 
@@ -38,9 +38,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 25 octombrie
 
 - `09:00` [Alergare 321sport x Good Routine](https://lu.ma/lz70mhh2)  
-  <sub>321sport · 21 de participanți</sub>
+  <sub>321sport · 22 de participanți</sub>
 - `10:00` [Tura de duminică București, ediție specială: Pădurea Băneasa](https://lu.ma/0tj4z7u8)  
-  <sub>Endi Ungureanu · 58 de participanți</sub>
+  <sub>Endi Ungureanu · 64 de participanți</sub>
 - `10:30` [Pas cu sens x Velocità](https://lu.ma/a0ixtirr)  
   <sub>Brezae Adela · 6 participanți</sub>
 
@@ -63,14 +63,14 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Miercuri, 28 octombrie
 
 - `09:30` [B Corp Conference Romania 2026](https://lu.ma/20fk2i0h)  
-  <sub>Corina Radu · 17 participanți</sub>
+  <sub>Corina Radu · 19 participanți</sub>
 
 ### Joi, 29 octombrie
 
 - `10:00` [Cum a ajuns sănătatea angajaților noua monedă de retenție](https://lu.ma/nv8d0waw)  
   <sub>Revista CARIERE</sub>
 - `17:45` [Beyond AI: The Future of Careers in Tech](https://lu.ma/g15jg9s7)  
-  <sub>Women in Tech Romania · 11 participanți</sub>
+  <sub>Women in Tech Romania · 30 de participanți</sub>
 - `19:00` [DevNight#10: AI in UX Research](https://lu.ma/ctoaea3p)  
   <sub>Oprea Matei</sub>
 
@@ -79,16 +79,16 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `11:00` [Brandient 24](https://lu.ma/i8z0mzt6)  
   <sub>Brandient · 33 de participanți</sub>
 - `17:00` [Grok Bot Bucharest Meetup](https://lu.ma/spacexai-226s)  
-  <sub>Sergei Chyrkov · 34 de participanți</sub>
+  <sub>Sergei Chyrkov · 42 de participanți</sub>
 - `20:00` [reading & Halloween corner, chapter #60](https://lu.ma/fnuvspr3)  
-  <sub>reading corner · 111 de participanți</sub>
+  <sub>reading corner · 116 de participanți</sub>
 - `20:00` [THE SQUARE Queen’s Gambit Evening](https://lu.ma/gxejlb6k)  
   <sub>THE SQUARE Chess Club</sub>
 
 ### Sâmbătă, 31 octombrie
 
 - `14:00` [Cafeaua De Sâmbăta #31 \| Bucuresti](https://lu.ma/iym0cxwy)  
-  <sub>Ionut Alexandru Stanciu · 6 participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 7 participanți</sub>
 - `15:00` [Midnights Ride: A Taylor Swift-Themed Indoor Cycling Experience - #1](https://lu.ma/ws29czl9)  
   <sub>The Spinning Era · 12 participanți</sub>
 - `17:00` [Midnights Ride: A Taylor Swift-Themed Indoor Cycling Experience - #2](https://lu.ma/b2qbyos7)  
@@ -99,21 +99,21 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/iwg9dmr4)  
   <sub>Emily Merdus</sub>
 - `15:00` [Midnights Ride: A Taylor Swift-Themed Indoor Cycling Experience - #3](https://lu.ma/g8dp2u89)  
-  <sub>The Spinning Era · 9 participanți</sub>
+  <sub>The Spinning Era · 10 participanți</sub>
 - `16:00` [🎬 Pauza de cafea… între fete \| Ediție specială ☕️🍿🎃](https://lu.ma/7k9bflf6)  
-  <sub>Mihailescu Floriana Elena · 3 participanți</sub>
+  <sub>Mihailescu Floriana Elena · 7 participanți</sub>
 - `17:00` [Midnights Ride: A Taylor Swift-Themed Indoor Cycling Experience - #4](https://lu.ma/nj39mcsz)  
   <sub>The Spinning Era · 7 participanți</sub>
 
 ### Luni, 2 noiembrie
 
 - `07:30` [AI Expo Europe - Run & Talk by Pitch in Motion](https://lu.ma/zkumf59u)  
-  <sub>Etienne Bourdon · 16 participanți</sub>
+  <sub>Etienne Bourdon · 17 participanți</sub>
 
 ### Miercuri, 4 noiembrie
 
 - `18:00` [Agentic loops and graphs - Formidable Builders x Stripe](https://lu.ma/k9buxy6i)  
-  <sub>Gabriel Moncha · 36 de participanți</sub>
+  <sub>Gabriel Moncha · 43 de participanți</sub>
 - `18:30` [Let's Talk AI! #6](https://lu.ma/fy0eflpy)  
   <sub>Let's Talk AI</sub>
 
@@ -121,6 +121,8 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 - `18:30` [Bucharest Evo VC & Startups Social](https://lu.ma/sp9dlut1)  
   <sub>Gozel Akeyeva</sub>
+- `18:30` [Off the record #2 • Discuții sincere pentru oameni de marketing](https://lu.ma/jy2rf2po)  
+  <sub>Teodora Ionescu · 5 participanți</sub>
 - `18:30` [The AI SOCIAL: presented by AI Collective Bucharest & Beta Nights by ambasada](https://lu.ma/ai-social)  
   <sub>The AI Collective</sub>
 - `19:00` [Wine & Painting](https://lu.ma/hpdclt72)  
