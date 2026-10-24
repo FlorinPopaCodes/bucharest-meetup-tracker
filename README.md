@@ -4,19 +4,6 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Vineri, 23 octombrie
-
-- `10:15` [Coffee-working session](https://lu.ma/x08pq41d)  
-  <sub>Sebastian E. · 6 participanți</sub>
-- `12:00` [De la idee la propriul website \| USAMV & DOCTORES.AI \| Student Showcase \|](https://lu.ma/yh83rbkc)  
-  <sub>Ama Bajan · 3 participanți</sub>
-- `18:00` [Aperitivo all'italiana — Nookyard @ Mélange Café by Fornaio.ro](https://lu.ma/7piojqrl)  
-  <sub>Ionut Alexandru Stanciu · 3 participanți</sub>
-- `18:00` [CEO Talk #44](https://lu.ma/9f8dt5wa)  
-  <sub>Andra Ghibutiu · 97 de participanți</sub>
-- `20:00` [Performance /Sac Berthelot](https://lu.ma/q95jt1fz)  
-  <sub>Sebastian Antal · 31 de participanți</sub>
-
 ### Sâmbătă, 24 octombrie
 
 - `10:00` [\[Sesiune AmpliFY ONG x Ethical Media Alliance\] Hack for Facts: Civic Tech pentru comunități locale](https://lu.ma/civic-tech-comunitati-locale-1)  
@@ -27,9 +14,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 25 octombrie
 
 - `09:00` [Alergare 321sport x Good Routine](https://lu.ma/lz70mhh2)  
-  <sub>321sport · 37 de participanți</sub>
+  <sub>321sport · 41 de participanți</sub>
 - `10:00` [Tura de duminică București, ediție specială: Pădurea Băneasa](https://lu.ma/0tj4z7u8)  
-  <sub>Endi Ungureanu · 74 de participanți</sub>
+  <sub>Endi Ungureanu · 78 de participanți</sub>
 - `10:30` [Pas cu sens x Velocità](https://lu.ma/a0ixtirr)  
   <sub>Brezae Adela · 5 participanți</sub>
 
@@ -79,14 +66,14 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `17:00` [Grok Bot Bucharest Meetup](https://lu.ma/spacexai-226s)  
   <sub>Sergei Chyrkov · 52 de participanți</sub>
 - `20:00` [reading & Halloween corner, chapter #60](https://lu.ma/fnuvspr3)  
-  <sub>reading corner · 116 de participanți</sub>
+  <sub>reading corner · 114 de participanți</sub>
 - `20:00` [THE SQUARE Queen’s Gambit Evening](https://lu.ma/gxejlb6k)  
   <sub>THE SQUARE Chess Club</sub>
 
 ### Sâmbătă, 31 octombrie
 
 - `10:00` [Trick or gel?👻](https://lu.ma/wvmd4agv)  
-  <sub>FOMO Urban Running Club · 17 participanți</sub>
+  <sub>FOMO Urban Running Club · 21 de participanți</sub>
 - `14:00` [Cafeaua De Sâmbăta #31 \| Bucuresti](https://lu.ma/iym0cxwy)  
   <sub>Ionut Alexandru Stanciu · 9 participanți</sub>
 - `15:00` [Midnights Ride: A Taylor Swift-Themed Indoor Cycling Experience - #1](https://lu.ma/ws29czl9)  
@@ -99,7 +86,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/iwg9dmr4)  
   <sub>Emily Merdus</sub>
 - `15:00` [Midnights Ride: A Taylor Swift-Themed Indoor Cycling Experience - #3](https://lu.ma/g8dp2u89)  
-  <sub>The Spinning Era · 12 participanți</sub>
+  <sub>The Spinning Era · 13 participanți</sub>
 - `16:00` [🎬 Pauza de cafea… între fete \| Ediție specială ☕️🍿🎃](https://lu.ma/7k9bflf6)  
   <sub>Mihailescu Floriana Elena · 10 participanți</sub>
 - `17:00` [Midnights Ride: A Taylor Swift-Themed Indoor Cycling Experience - #4](https://lu.ma/nj39mcsz)  
@@ -139,11 +126,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-23)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-24)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-23)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-24)
 
 ## Despre
 
@@ -157,4 +144,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 23 octombrie 2026*
+*Actualizat: 24 octombrie 2026*
