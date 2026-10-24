@@ -114,128 +114,6 @@
       "featured_city": null
     },
     {
-      "api_id": "evt-0BzLApQKqyNfk4S",
-      "event": {
-        "api_id": "evt-0BzLApQKqyNfk4S",
-        "calendar_api_id": "cal-vtTRvYx8UKwi3cp",
-        "end_at": "2026-10-24T12:30:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "THE SQUARE Social Chess @Point",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": false,
-        "social_image_url": "https://images.lumacdn.com/event-social/ne/bcb6da0b-9ce1-45bc-8acc-ad865839ae07.png",
-        "start_at": "2026-10-24T08:00:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "efcvalvd",
-        "user_api_id": "usr-B0mYjwQfFHKwJRE",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "București",
-          "type": "google",
-          "region": "București",
-          "address": "POINT",
-          "country": "Romania",
-          "place_id": "ChIJLfCWGUz_sUARpjMTZcdoCP4",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": "București",
-              "address": "POINT",
-              "country": "România",
-              "city_state": "București, România",
-              "sublocality": "Piața Romană",
-              "full_address": "POINT, Strada General Eremia Grigorescu 10, 040177 București, România",
-              "region_short": "București",
-              "short_address": "Strada General Eremia Grigorescu 10, București"
-            },
-            "en-GB": {
-              "city": "București",
-              "region": "București",
-              "address": "POINT",
-              "country": "Romania",
-              "city_state": "București, Romania",
-              "sublocality": "Piata Romana",
-              "full_address": "POINT, Strada General Eremia Grigorescu 10, 040177 București, Romania",
-              "region_short": "București",
-              "short_address": "Strada General Eremia Grigorescu 10, București"
-            }
-          },
-          "city_state": "București, Romania",
-          "description": "",
-          "sublocality": "Piata Romana",
-          "country_code": "RO",
-          "full_address": "POINT, Strada General Eremia Grigorescu 10, 040177 București, Romania",
-          "region_short": "București",
-          "short_address": "Strada General Eremia Grigorescu 10, București",
-          "place_coordinate": {
-            "latitude": 44.4446771,
-            "longitude": 26.102525500000002
-          },
-          "apple_maps_place_id": null,
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 26.102525500000002,
-          "latitude": 44.4446771
-        },
-        "waitlist_enabled": false,
-        "waitlist_status": "disabled"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-vtTRvYx8UKwi3cp",
-        "coordinate": null,
-        "description_short": null,
-        "end_date": null,
-        "is_verified": false,
-        "location": null,
-        "name": "Personal",
-        "personal_user_api_id": "usr-B0mYjwQfFHKwJRE",
-        "sends_unlocked_at": "2026-08-23T16:11:27.930Z",
-        "slug": null,
-        "start_date": null,
-        "website": null,
-        "is_personal": true,
-        "personal_user": {
-          "api_id": "usr-B0mYjwQfFHKwJRE",
-          "name": "THE SQUARE Chess Club",
-          "username": null
-        },
-        "timezone": null
-      },
-      "start_at": "2026-10-24T08:00:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-B0mYjwQfFHKwJRE",
-          "name": "THE SQUARE Chess Club",
-          "username": null
-        }
-      ],
-      "guest_count": 0,
-      "ticket_count": 0,
-      "ticket_info": {
-        "price": {
-          "cents": 6500,
-          "currency": "ron",
-          "is_flexible": false
-        },
-        "is_free": false,
-        "max_price": null,
-        "is_sold_out": false,
-        "require_approval": false
-      },
-      "registration_availability": "open",
-      "waitlist_active": false,
-      "featured_city": null
-    },
-    {
       "api_id": "evt-XO3urCLJgJjhVtg",
       "event": {
         "api_id": "evt-XO3urCLJgJjhVtg",
@@ -353,8 +231,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 41,
-      "ticket_count": 41,
+      "guest_count": 46,
+      "ticket_count": 46,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -461,8 +339,8 @@
           "username": "endi"
         }
       ],
-      "guest_count": 78,
-      "ticket_count": 78,
+      "guest_count": 92,
+      "ticket_count": 92,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1061,8 +939,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 6,
-      "ticket_count": 6,
+      "guest_count": 7,
+      "ticket_count": 7,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1291,6 +1169,143 @@
       },
       "registration_availability": "waitlist",
       "waitlist_active": true,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-9yvSziY0RhB24bL",
+      "event": {
+        "api_id": "evt-9yvSziY0RhB24bL",
+        "calendar_api_id": "cal-yJAKxM13qvVzNC1",
+        "end_at": "2026-10-28T20:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "RBC #418 | SPEED NETWORKING | Ultima miercuri din fiecare lună | Speed Networking by Romanian Business Club",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": false,
+        "social_image_url": "https://images.lumacdn.com/event-social/1u/d6d671bb-6701-4b2a-a42a-a4cb5212e3fe.png",
+        "start_at": "2026-10-28T16:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "bl1v65yr",
+        "user_api_id": "usr-XVdudtbZ3CEA7PG",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "the N space.",
+          "country": "Romania",
+          "place_id": "ChIJLRD1Ab8DskAR3mhCV43SCbY",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "the N space.",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Aviatorilor",
+              "full_address": "the N space., Strada Alexandrina 38, 011441 București, România",
+              "region_short": "București",
+              "short_address": "Strada Alexandrina 38, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Aviatorilor",
+          "country_code": "RO",
+          "full_address": "the N space., Strada Alexandrina 38, 011441 București, Romania",
+          "region_short": "București",
+          "short_address": "Strada Alexandrina 38, București",
+          "place_coordinate": {
+            "latitude": 44.4661289,
+            "longitude": 26.0832993
+          },
+          "apple_maps_place_id": "IF8F0B50D250922A6",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.0832993,
+          "latitude": 44.4661289
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-yJAKxM13qvVzNC1",
+        "coordinate": {
+          "longitude": 26.0832993,
+          "latitude": 44.4661289
+        },
+        "description_short": "Peste 400 de ediții. O comunitate în care fiecare întâlnire poate schimba direcția unui business.                        \n460+ membri\n400+ evenimente\n35.000+ participanți",
+        "end_date": null,
+        "is_verified": false,
+        "location": {
+          "city": "Bucharest",
+          "region": null,
+          "country": "Romania",
+          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
+          "timezone": "Europe/Bucharest",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": null,
+              "country": "România"
+            }
+          },
+          "country_code": "RO"
+        },
+        "name": "Evenimente Romanian Business Club",
+        "personal_user_api_id": null,
+        "sends_unlocked_at": "2025-02-11T03:40:04.587Z",
+        "slug": "calendarrbc",
+        "start_date": null,
+        "website": "https://www.buy.robc.ro",
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": "Europe/Bucharest"
+      },
+      "start_at": "2026-10-28T16:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-XVdudtbZ3CEA7PG",
+          "name": "Teodora Nicolaiciuc",
+          "username": null
+        },
+        {
+          "api_id": "usr-FzjsDg2XGu9wAdX",
+          "name": "Razvan Sirmache",
+          "username": null
+        },
+        {
+          "api_id": "usr-rA1ejFsLe5mSkP4",
+          "name": "Vlad RBC",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": {
+          "cents": 7800,
+          "currency": "ron",
+          "is_flexible": false
+        },
+        "is_free": false,
+        "max_price": {
+          "cents": 24800,
+          "currency": "ron"
+        },
+        "is_sold_out": false,
+        "require_approval": true
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
       "featured_city": null
     },
     {
@@ -2264,8 +2279,8 @@
           "username": "brandient"
         }
       ],
-      "guest_count": 33,
-      "ticket_count": 33,
+      "guest_count": 66,
+      "ticket_count": 66,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3631,8 +3646,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 3,
-      "ticket_count": 3,
+      "guest_count": 4,
+      "ticket_count": 4,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3874,6 +3889,11 @@
           "api_id": "usr-rnMr8FJ5rbbbgwM",
           "name": "Alex Constantin",
           "username": "le_alecs"
+        },
+        {
+          "api_id": "usr-gRpCX0MYpcCbFKz",
+          "name": "Antonio Hus",
+          "username": "antoniohus"
         }
       ],
       "guest_count": 49,
@@ -4569,6 +4589,113 @@
       "featured_city": null
     },
     {
+      "api_id": "evt-VF93zkaeEi66hHQ",
+      "event": {
+        "api_id": "evt-VF93zkaeEi66hHQ",
+        "calendar_api_id": "cal-qw00b8kvTUd5LUY",
+        "end_at": "2026-11-07T12:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Lansare de carte - Pisica Pix în vizită la București",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/zv/be62aa31-2abf-477a-b775-87623f3530f7.png",
+        "start_at": "2026-11-07T11:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "onktlt4h",
+        "user_api_id": "usr-BV7Dz0XoRGwWgfR",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Librăria Humanitas de la Cişmigiu",
+          "country": "Romania",
+          "place_id": "ChIJF9WOXUH_sUARI5ze4FaUktM",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Librăria Humanitas de la Cişmigiu",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Bucureşti Sectorul 5",
+              "full_address": "Librăria Humanitas de la Cişmigiu, Bulevardul Regina Elisabeta 38, 050012 București, România",
+              "region_short": "București",
+              "short_address": "Bulevardul Regina Elisabeta 38, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Bucureşti Sectorul 5",
+          "country_code": "RO",
+          "full_address": "Librăria Humanitas de la Cişmigiu, Bulevardul Regina Elisabeta 38, 050012 București, Romania",
+          "region_short": "București",
+          "short_address": "Bulevardul Regina Elisabeta 38, București",
+          "place_coordinate": {
+            "latitude": 44.4348287,
+            "longitude": 26.095119699999998
+          },
+          "apple_maps_place_id": "I99C33B1540DD6544",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.095119699999998,
+          "latitude": 44.4348287
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-qw00b8kvTUd5LUY",
+        "coordinate": null,
+        "description_short": null,
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Personal",
+        "personal_user_api_id": "usr-BV7Dz0XoRGwWgfR",
+        "sends_unlocked_at": null,
+        "slug": null,
+        "start_date": null,
+        "website": null,
+        "is_personal": true,
+        "personal_user": {
+          "api_id": "usr-BV7Dz0XoRGwWgfR",
+          "name": "Ina German",
+          "username": "computrina"
+        },
+        "timezone": null
+      },
+      "start_at": "2026-11-07T11:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-BV7Dz0XoRGwWgfR",
+          "name": "Ina German",
+          "username": "computrina"
+        }
+      ],
+      "guest_count": 4,
+      "ticket_count": 4,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
       "api_id": "evt-ZI7ixKlFaikmqcF",
       "event": {
         "api_id": "evt-ZI7ixKlFaikmqcF",
@@ -4667,8 +4794,8 @@
           "username": null
         }
       ],
-      "guest_count": 16,
-      "ticket_count": 16,
+      "guest_count": 17,
+      "ticket_count": 17,
       "ticket_info": {
         "price": {
           "cents": 1900,
@@ -4897,8 +5024,8 @@
           "username": null
         }
       ],
-      "guest_count": 38,
-      "ticket_count": 38,
+      "guest_count": 40,
+      "ticket_count": 40,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -5122,8 +5249,8 @@
           "username": null
         }
       ],
-      "guest_count": 36,
-      "ticket_count": 36,
+      "guest_count": 37,
+      "ticket_count": 37,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -5237,6 +5364,113 @@
         "max_price": null,
         "is_sold_out": false,
         "require_approval": true
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-XJTBQiyEVmifBMy",
+      "event": {
+        "api_id": "evt-XJTBQiyEVmifBMy",
+        "calendar_api_id": "cal-1YvHM0D1Iy2hAPI",
+        "end_at": "2026-11-13T19:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Lansare carte Spețe Imobiliare | 13 Noiembrie 2026 | LENTE - str Arcului nr. 8, București",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/ac/29c19a33-f5de-499c-8b70-87a5b3ea83d3.png",
+        "start_at": "2026-11-13T17:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "0tl04ex1",
+        "user_api_id": "usr-dPDyskjpoxDGAQ9",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Lente",
+          "country": "Romania",
+          "place_id": "ChIJxTLdejf_sUARi12RXj0VBYE",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Lente Arcului",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Cartierul Armenesc",
+              "full_address": "Lente Arcului, Strada Arcului 8, 030167 București, România",
+              "region_short": "București",
+              "short_address": "Strada Arcului 8, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Cartierul Armenesc",
+          "country_code": "RO",
+          "full_address": "Lente, Strada Arcului 8, 030167 București, Romania",
+          "region_short": "București",
+          "short_address": "Strada Arcului 8, București",
+          "place_coordinate": {
+            "latitude": 44.437924599999995,
+            "longitude": 26.1106788
+          },
+          "apple_maps_place_id": "I4371EA9E011B96BA",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.1106788,
+          "latitude": 44.437924599999995
+        },
+        "waitlist_enabled": true,
+        "waitlist_status": "enabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-1YvHM0D1Iy2hAPI",
+        "coordinate": null,
+        "description_short": null,
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Personal",
+        "personal_user_api_id": "usr-dPDyskjpoxDGAQ9",
+        "sends_unlocked_at": null,
+        "slug": null,
+        "start_date": null,
+        "website": null,
+        "is_personal": true,
+        "personal_user": {
+          "api_id": "usr-dPDyskjpoxDGAQ9",
+          "name": "Adrian",
+          "username": null
+        },
+        "timezone": null
+      },
+      "start_at": "2026-11-13T17:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-dPDyskjpoxDGAQ9",
+          "name": "Adrian",
+          "username": null
+        }
+      ],
+      "guest_count": 3,
+      "ticket_count": 3,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
       },
       "registration_availability": "open",
       "waitlist_active": false,
@@ -5897,6 +6131,119 @@
       "featured_city": null
     },
     {
+      "api_id": "evt-fk4JxediLuEdPHL",
+      "event": {
+        "api_id": "evt-fk4JxediLuEdPHL",
+        "calendar_api_id": "cal-sfJuR2ls7QgaNTc",
+        "end_at": "2026-11-22T13:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Women's Financial Education Summit (3rd edition)",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/zo/7fa3e868-d1c4-4f0f-843d-45d67e17a6b4.png",
+        "start_at": "2026-11-22T08:30:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "fb9qlotj",
+        "user_api_id": "usr-ctS9w7BXil1nWeB",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "6",
+          "address": "Builders House",
+          "country": "Romania",
+          "place_id": "ChIJxamUxjABskAR9A2hA-LHfLs",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "6",
+              "address": "Builders House",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Militari",
+              "full_address": "Builders House, Afi Park 1, Bulevardul General Paul Teodorescu 4, et. 1, 061344 București, România",
+              "region_short": "6",
+              "short_address": "Afi Park 1, AFI Park 1, Bulevardul General Paul Teodorescu 4, et. 1, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Militari",
+          "country_code": "RO",
+          "full_address": "Builders House, Afi Park 1, Bulevardul General Paul Teodorescu 4, et. 1, 061344 București, Romania",
+          "region_short": "6",
+          "short_address": "Afi Park 1, AFI Park 1, Bulevardul General Paul Teodorescu 4, et. 1, București",
+          "place_coordinate": {
+            "latitude": 44.4307121,
+            "longitude": 26.0540725
+          },
+          "apple_maps_place_id": "IAA1298D7D033A083",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.0540725,
+          "latitude": 44.4307121
+        },
+        "waitlist_enabled": true,
+        "waitlist_status": "enabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-sfJuR2ls7QgaNTc",
+        "coordinate": null,
+        "description_short": "",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Asociatia FeminEast",
+        "personal_user_api_id": null,
+        "sends_unlocked_at": null,
+        "slug": "femin_east",
+        "start_date": null,
+        "website": "https://www.femineast.eu/",
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-11-22T08:30:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-QNoVdHZPhY41akc",
+          "name": "Echipa FeminEast",
+          "username": null
+        },
+        {
+          "api_id": "usr-JuQDkk1YDyBOHQ6",
+          "name": "Cristina Pogorevici",
+          "username": null
+        },
+        {
+          "api_id": "usr-nhfUsskCdF5pkmA",
+          "name": "Ioana Samoila",
+          "username": null
+        }
+      ],
+      "guest_count": 4,
+      "ticket_count": 4,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
       "api_id": "evt-0FMkodFd1JmE9Fw",
       "event": {
         "api_id": "evt-0FMkodFd1JmE9Fw",
@@ -6328,8 +6675,8 @@
           "username": null
         }
       ],
-      "guest_count": 0,
-      "ticket_count": 0,
+      "guest_count": 1,
+      "ticket_count": 1,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -6441,8 +6788,8 @@
           "username": null
         }
       ],
-      "guest_count": 1,
-      "ticket_count": 1,
+      "guest_count": 2,
+      "ticket_count": 2,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -6918,8 +7265,8 @@
           "username": "endi"
         }
       ],
-      "guest_count": 78,
-      "ticket_count": 78,
+      "guest_count": 92,
+      "ticket_count": 92,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -8397,8 +8744,8 @@
           "username": "alexstanciu"
         }
       ],
-      "guest_count": 9,
-      "ticket_count": 9,
+      "guest_count": 10,
+      "ticket_count": 10,
       "ticket_info": {
         "price": null,
         "is_free": true,

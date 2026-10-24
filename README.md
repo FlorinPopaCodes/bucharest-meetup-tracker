@@ -14,9 +14,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 25 octombrie
 
 - `09:00` [Alergare 321sport x Good Routine](https://lu.ma/lz70mhh2)  
-  <sub>321sport · 41 de participanți</sub>
+  <sub>321sport · 46 de participanți</sub>
 - `10:00` [Tura de duminică București, ediție specială: Pădurea Băneasa](https://lu.ma/0tj4z7u8)  
-  <sub>Endi Ungureanu · 78 de participanți</sub>
+  <sub>Endi Ungureanu · 92 de participanți</sub>
 - `10:30` [Pas cu sens x Velocità](https://lu.ma/a0ixtirr)  
   <sub>Brezae Adela · 5 participanți</sub>
 
@@ -34,13 +34,15 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:00` [WIN #23 – Cum îți construiești brandul personal în Social Media – Diana Coman](https://lu.ma/h6aw6ka8)  
   <sub>Vlad RBC</sub>
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S24E05](https://lu.ma/zi3don64)  
-  <sub>321sport · 6 participanți</sub>
+  <sub>321sport · 7 participanți</sub>
 
 ### Miercuri, 28 octombrie
 
 - `09:30` [B Corp Conference Romania 2026](https://lu.ma/20fk2i0h)  
   <sub>Corina Radu · 23 de participanți</sub>
 - `18:00` [NOT-A-BOOK CLUB, CLUB](https://lu.ma/hu8gycp2)
+- `18:00` [RBC #418 \| SPEED NETWORKING \| Ultima miercuri din fiecare lună \| Speed Networking by Romanian Business Club](https://lu.ma/bl1v65yr)  
+  <sub>Teodora Nicolaiciuc</sub>
 
 ### Joi, 29 octombrie
 
@@ -62,7 +64,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Vineri, 30 octombrie
 
 - `11:00` [Brandient 24](https://lu.ma/i8z0mzt6)  
-  <sub>Brandient · 33 de participanți</sub>
+  <sub>Brandient · 66 de participanți</sub>
 - `17:00` [Grok Bot Bucharest Meetup](https://lu.ma/spacexai-226s)  
   <sub>Sergei Chyrkov · 52 de participanți</sub>
 - `20:00` [reading & Halloween corner, chapter #60](https://lu.ma/fnuvspr3)  
@@ -75,7 +77,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `10:00` [Trick or gel?👻](https://lu.ma/wvmd4agv)  
   <sub>FOMO Urban Running Club · 21 de participanți</sub>
 - `14:00` [Cafeaua De Sâmbăta #31 \| Bucuresti](https://lu.ma/iym0cxwy)  
-  <sub>Ionut Alexandru Stanciu · 9 participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 10 participanți</sub>
 - `15:00` [Midnights Ride: A Taylor Swift-Themed Indoor Cycling Experience - #1](https://lu.ma/ws29czl9)  
   <sub>The Spinning Era · 13 participanți</sub>
 - `17:00` [Midnights Ride: A Taylor Swift-Themed Indoor Cycling Experience - #2](https://lu.ma/b2qbyos7)  
@@ -100,7 +102,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Marți, 3 noiembrie
 
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S24E05](https://lu.ma/znw0tmlf)  
-  <sub>321sport · 3 participanți</sub>
+  <sub>321sport · 4 participanți</sub>
 
 ### Miercuri, 4 noiembrie
 
@@ -121,6 +123,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
   <sub>The AI Collective</sub>
 - `19:00` [Wine & Painting](https://lu.ma/hpdclt72)  
   <sub>Career Shift</sub>
+
+### Sâmbătă, 7 noiembrie
+
+- `13:00` [Lansare de carte - Pisica Pix în vizită la București](https://lu.ma/onktlt4h)  
+  <sub>Ina German · 4 participanți</sub>
 
 ## Activitate (ultimele 365 de zile)
 
