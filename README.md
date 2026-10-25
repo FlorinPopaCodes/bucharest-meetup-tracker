@@ -4,21 +4,14 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Sâmbătă, 24 octombrie
-
-- `10:00` [\[Sesiune AmpliFY ONG x Ethical Media Alliance\] Hack for Facts: Civic Tech pentru comunități locale](https://lu.ma/civic-tech-comunitati-locale-1)  
-  <sub>Flavia Gheorghe</sub>
-- `11:00` [THE SQUARE Social Chess @Point](https://lu.ma/efcvalvd)  
-  <sub>THE SQUARE Chess Club</sub>
-
 ### Duminică, 25 octombrie
 
 - `09:00` [Alergare 321sport x Good Routine](https://lu.ma/lz70mhh2)  
-  <sub>321sport · 46 de participanți</sub>
+  <sub>321sport · 51 de participanți</sub>
 - `10:00` [Tura de duminică București, ediție specială: Pădurea Băneasa](https://lu.ma/0tj4z7u8)  
-  <sub>Endi Ungureanu · 92 de participanți</sub>
+  <sub>Endi Ungureanu · 97 de participanți</sub>
 - `10:30` [Pas cu sens x Velocità](https://lu.ma/a0ixtirr)  
-  <sub>Brezae Adela · 5 participanți</sub>
+  <sub>Brezae Adela · 7 participanți</sub>
 
 ### Luni, 26 octombrie
 
@@ -34,7 +27,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:00` [WIN #23 – Cum îți construiești brandul personal în Social Media – Diana Coman](https://lu.ma/h6aw6ka8)  
   <sub>Vlad RBC</sub>
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S24E05](https://lu.ma/zi3don64)  
-  <sub>321sport · 7 participanți</sub>
+  <sub>321sport · 8 participanți</sub>
 
 ### Miercuri, 28 octombrie
 
@@ -64,11 +57,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Vineri, 30 octombrie
 
 - `11:00` [Brandient 24](https://lu.ma/i8z0mzt6)  
-  <sub>Brandient · 66 de participanți</sub>
+  <sub>Brandient · 90 de participanți</sub>
 - `17:00` [Grok Bot Bucharest Meetup](https://lu.ma/spacexai-226s)  
-  <sub>Sergei Chyrkov · 52 de participanți</sub>
+  <sub>Sergei Chyrkov · 53 de participanți</sub>
 - `20:00` [reading & Halloween corner, chapter #60](https://lu.ma/fnuvspr3)  
-  <sub>reading corner · 114 de participanți</sub>
+  <sub>reading corner · 112 de participanți</sub>
 - `20:00` [THE SQUARE Queen’s Gambit Evening](https://lu.ma/gxejlb6k)  
   <sub>THE SQUARE Chess Club</sub>
 
@@ -127,17 +120,22 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Sâmbătă, 7 noiembrie
 
 - `13:00` [Lansare de carte - Pisica Pix în vizită la București](https://lu.ma/onktlt4h)  
-  <sub>Ina German · 4 participanți</sub>
+  <sub>Ina German · 5 participanți</sub>
+
+### Duminică, 8 noiembrie
+
+- `09:00` [Tura de duminică Herăstrău](https://lu.ma/si999eim)  
+  <sub>Emily Merdus</sub>
 
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-24)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-25)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-24)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-25)
 
 ## Despre
 
@@ -151,4 +149,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 24 octombrie 2026*
+*Actualizat: 25 octombrie 2026*
