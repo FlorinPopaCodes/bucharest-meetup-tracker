@@ -16,7 +16,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Luni, 26 octombrie
 
 - `18:30` [🎲 Bring Your Own Board Games #2 \| Board Games Night \| #20](https://lu.ma/7qniset6)  
-  <sub>Andra · 24 de participanți</sub>
+  <sub>Andra · 25 de participanți</sub>
 
 ### Marți, 27 octombrie
 
@@ -27,12 +27,12 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:00` [WIN #23 – Cum îți construiești brandul personal în Social Media – Diana Coman](https://lu.ma/h6aw6ka8)  
   <sub>Vlad RBC</sub>
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S24E05](https://lu.ma/zi3don64)  
-  <sub>321sport · 8 participanți</sub>
+  <sub>321sport · 9 participanți</sub>
 
 ### Miercuri, 28 octombrie
 
 - `09:30` [B Corp Conference Romania 2026](https://lu.ma/20fk2i0h)  
-  <sub>Corina Radu · 23 de participanți</sub>
+  <sub>Corina Radu · 24 de participanți</sub>
 - `18:00` [NOT-A-BOOK CLUB, CLUB](https://lu.ma/hu8gycp2)
 - `18:00` [RBC #418 \| SPEED NETWORKING \| Ultima miercuri din fiecare lună \| Speed Networking by Romanian Business Club](https://lu.ma/bl1v65yr)  
   <sub>Teodora Nicolaiciuc</sub>
@@ -50,16 +50,16 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `14:00` [Keysight-ACS Workshops: Virtualization using the Command Line](https://lu.ma/2ihx7d3z)  
   <sub>Razvan Deaconescu · 25 de participanți</sub>
 - `17:45` [Beyond AI: The Future of Careers in Tech](https://lu.ma/g15jg9s7)  
-  <sub>Women in Tech Romania · 41 de participanți</sub>
+  <sub>Women in Tech Romania · 45 de participanți</sub>
 - `19:00` [DevNight#10: AI in UX Research](https://lu.ma/ctoaea3p)  
   <sub>Oprea Matei</sub>
 
 ### Vineri, 30 octombrie
 
 - `11:00` [Brandient 24](https://lu.ma/i8z0mzt6)  
-  <sub>Brandient · 90 de participanți</sub>
+  <sub>Brandient · 106 de participanți</sub>
 - `17:00` [Grok Bot Bucharest Meetup](https://lu.ma/spacexai-226s)  
-  <sub>Sergei Chyrkov · 53 de participanți</sub>
+  <sub>Sergei Chyrkov · 56 de participanți</sub>
 - `20:00` [reading & Halloween corner, chapter #60](https://lu.ma/fnuvspr3)  
   <sub>reading corner · 112 de participanți</sub>
 - `20:00` [THE SQUARE Queen’s Gambit Evening](https://lu.ma/gxejlb6k)  
@@ -68,9 +68,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Sâmbătă, 31 octombrie
 
 - `10:00` [Trick or gel?👻](https://lu.ma/wvmd4agv)  
-  <sub>FOMO Urban Running Club · 21 de participanți</sub>
+  <sub>FOMO Urban Running Club · 23 de participanți</sub>
 - `14:00` [Cafeaua De Sâmbăta #31 \| Bucuresti](https://lu.ma/iym0cxwy)  
-  <sub>Ionut Alexandru Stanciu · 10 participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 12 participanți</sub>
 - `15:00` [Midnights Ride: A Taylor Swift-Themed Indoor Cycling Experience - #1](https://lu.ma/ws29czl9)  
   <sub>The Spinning Era · 13 participanți</sub>
 - `17:00` [Midnights Ride: A Taylor Swift-Themed Indoor Cycling Experience - #2](https://lu.ma/b2qbyos7)  
@@ -79,7 +79,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 1 noiembrie
 
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/iwg9dmr4)  
-  <sub>Emily Merdus</sub>
+  <sub>Emily Merdus · 2 participanți</sub>
 - `15:00` [Midnights Ride: A Taylor Swift-Themed Indoor Cycling Experience - #3](https://lu.ma/g8dp2u89)  
   <sub>The Spinning Era · 13 participanți</sub>
 - `16:00` [🎬 Pauza de cafea… între fete \| Ediție specială ☕️🍿🎃](https://lu.ma/7k9bflf6)  
@@ -100,7 +100,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Miercuri, 4 noiembrie
 
 - `18:00` [Agentic loops and graphs - Formidable Builders x Stripe](https://lu.ma/k9buxy6i)  
-  <sub>Gabriel Moncha · 49 de participanți</sub>
+  <sub>Gabriel Moncha · 53 de participanți</sub>
 - `18:30` [Let's Talk AI! #6](https://lu.ma/fy0eflpy)  
   <sub>Let's Talk AI</sub>
 
@@ -120,12 +120,12 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Sâmbătă, 7 noiembrie
 
 - `13:00` [Lansare de carte - Pisica Pix în vizită la București](https://lu.ma/onktlt4h)  
-  <sub>Ina German · 5 participanți</sub>
+  <sub>Ina German · 6 participanți</sub>
 
 ### Duminică, 8 noiembrie
 
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/si999eim)  
-  <sub>Emily Merdus</sub>
+  <sub>Emily Merdus · 1 participant</sub>
 
 ## Activitate (ultimele 365 de zile)
 
