@@ -119,12 +119,127 @@
         },
         {
           "api_id": "usr-2YFqWEsSB6Xti3G",
-          "name": "Alexandru Oprea",
+          "name": "Alexandru N",
           "username": "nickaxel"
         }
       ],
-      "guest_count": 25,
-      "ticket_count": 25,
+      "guest_count": 23,
+      "ticket_count": 23,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-XyWSbY6qVzdDdc8",
+      "event": {
+        "api_id": "evt-XyWSbY6qVzdDdc8",
+        "calendar_api_id": "cal-vy7fTgxG01iG02Y",
+        "end_at": "2026-10-26T20:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Quizmania - Indoors @ T5",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/tu/768b52a2-589d-49e5-8d68-dffb304e9a31.png",
+        "start_at": "2026-10-26T17:30:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "myvqe31a",
+        "user_api_id": "usr-dPTotCLGrq0bXdF",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "T5 Social",
+          "country": "Romania",
+          "place_id": "ChIJC5zHlhH_sUARihzCaU-u-bI",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "T5 Social",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Bucureşti Sectorul 4",
+              "full_address": "T5 Social, Strada Olimpului 13b, 040198 București, România",
+              "region_short": "București",
+              "short_address": "Strada Olimpului 13b, București"
+            },
+            "en-GB": {
+              "city": "București",
+              "region": "București",
+              "address": "T5 Social",
+              "country": "Romania",
+              "city_state": "București, Romania",
+              "sublocality": "Bucureşti Sectorul 4",
+              "full_address": "T5 Social, Strada Olimpului 13b, 040198 București, Romania",
+              "region_short": "București",
+              "short_address": "Strada Olimpului 13b, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Bucureşti Sectorul 4",
+          "country_code": "RO",
+          "full_address": "T5 Social, Strada Olimpului 13b, 040198 București, Romania",
+          "region_short": "București",
+          "short_address": "Strada Olimpului 13b, București",
+          "place_coordinate": null,
+          "apple_maps_place_id": "IC36D6A9AE0B09760",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.0988267,
+          "latitude": 44.421987099999996
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-vy7fTgxG01iG02Y",
+        "coordinate": null,
+        "description_short": null,
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Personal",
+        "personal_user_api_id": "usr-dPTotCLGrq0bXdF",
+        "sends_unlocked_at": "2026-08-23T20:20:03.623Z",
+        "slug": null,
+        "start_date": null,
+        "website": null,
+        "is_personal": true,
+        "personal_user": {
+          "api_id": "usr-dPTotCLGrq0bXdF",
+          "name": "T5 Social",
+          "username": "t5social"
+        },
+        "timezone": null
+      },
+      "start_at": "2026-10-26T17:30:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-dPTotCLGrq0bXdF",
+          "name": "T5 Social",
+          "username": "t5social"
+        }
+      ],
+      "guest_count": 12,
+      "ticket_count": 50,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -248,11 +363,11 @@
         "event_type": "independent",
         "hide_rsvp": false,
         "location_type": "offline",
-        "name": "WIN #23 – Cum îți construiești brandul personal în Social Media – Diana Coman",
+        "name": "WIN #24 – Cum îți construiești brandul personal în Social Media – Diana Coman",
         "one_to_one": true,
         "recurrence_id": null,
         "show_guest_list": false,
-        "social_image_url": "https://images.lumacdn.com/event-social/cc/87383f26-1887-4c17-ae36-ef4192235d58.png",
+        "social_image_url": "https://images.lumacdn.com/event-social/2b/c9bfe82b-cdfe-4801-8940-18bdc0a13f95.png",
         "start_at": "2026-10-27T16:00:00.000Z",
         "timezone": "Europe/Bucharest",
         "url": "h6aw6ka8",
@@ -469,8 +584,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 9,
-      "ticket_count": 9,
+      "guest_count": 10,
+      "ticket_count": 10,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -714,7 +829,7 @@
         "one_to_one": true,
         "recurrence_id": null,
         "show_guest_list": false,
-        "social_image_url": "https://images.lumacdn.com/event-social/1u/d6d671bb-6701-4b2a-a42a-a4cb5212e3fe.png",
+        "social_image_url": "https://images.lumacdn.com/event-social/8s/ef1d2115-1dc7-4a9c-9d17-5356fc35ffc6.png",
         "start_at": "2026-10-28T16:00:00.000Z",
         "timezone": "Europe/Bucharest",
         "url": "bl1v65yr",
@@ -833,6 +948,109 @@
         },
         "is_sold_out": false,
         "require_approval": true
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-bDoMqqUF3CBye9W",
+      "event": {
+        "api_id": "evt-bDoMqqUF3CBye9W",
+        "calendar_api_id": "cal-FQMOhC4ogiE3Slw",
+        "end_at": "2026-10-28T20:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Arcana Inn Store Championship",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/rz/7193df81-21c6-40d8-9a4b-0385768191e0.png",
+        "start_at": "2026-10-28T17:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "zcg3ge7v",
+        "user_api_id": "usr-KpJXYLIEumxAGVU",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "EPICCARDS S.R.L.",
+          "country": "Romania",
+          "place_id": "ChIJ_VlKftIFskARxqB51hav2Tg",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "EPICCARDS S.R.L.",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Pantelimon",
+              "full_address": "EPICCARDS S.R.L., Bulevardul Ferdinand I 126A, 021396 București, România",
+              "region_short": "București",
+              "short_address": "Bulevardul Ferdinand I 126A, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Pantelimon, Bucharest",
+          "country_code": "RO",
+          "full_address": "EPICCARDS S.R.L., Bulevardul Ferdinand I 126A, 021396 București, Romania",
+          "region_short": "București",
+          "short_address": "Bulevardul Ferdinand I 126A, București",
+          "place_coordinate": {
+            "latitude": 44.4434227,
+            "longitude": 26.131315200000003
+          },
+          "apple_maps_place_id": "IEC5849A97E5AFC37",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.131315200000003,
+          "latitude": 44.4434227
+        },
+        "waitlist_enabled": true,
+        "waitlist_status": "enabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-FQMOhC4ogiE3Slw",
+        "coordinate": null,
+        "description_short": "",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Arcana Inn",
+        "personal_user_api_id": null,
+        "sends_unlocked_at": null,
+        "slug": "arcanainn",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-10-28T17:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-KpJXYLIEumxAGVU",
+          "name": "Arcana Inn",
+          "username": "arcanainn"
+        }
+      ],
+      "guest_count": 11,
+      "ticket_count": 11,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
       },
       "registration_availability": "open",
       "waitlist_active": false,
@@ -1182,17 +1400,17 @@
           "username": null
         }
       ],
-      "guest_count": 30,
-      "ticket_count": 30,
+      "guest_count": 29,
+      "ticket_count": 29,
       "ticket_info": {
         "price": null,
         "is_free": true,
         "max_price": null,
-        "is_sold_out": true,
+        "is_sold_out": false,
         "require_approval": false
       },
-      "registration_availability": "waitlist",
-      "waitlist_active": true,
+      "registration_availability": "open",
+      "waitlist_active": false,
       "featured_city": null
     },
     {
@@ -1432,17 +1650,17 @@
           "username": null
         }
       ],
-      "guest_count": 25,
-      "ticket_count": 25,
+      "guest_count": 24,
+      "ticket_count": 24,
       "ticket_info": {
         "price": null,
         "is_free": true,
         "max_price": null,
-        "is_sold_out": true,
+        "is_sold_out": false,
         "require_approval": false
       },
-      "registration_availability": "waitlist",
-      "waitlist_active": true,
+      "registration_availability": "open",
+      "waitlist_active": false,
       "featured_city": null
     },
     {
@@ -1458,7 +1676,7 @@
         "one_to_one": true,
         "recurrence_id": null,
         "show_guest_list": true,
-        "social_image_url": "https://images.lumacdn.com/event-social/38/03d00165-ba4b-4d9a-90c3-a7cbed343db2.png",
+        "social_image_url": "https://images.lumacdn.com/event-social/cw/355c20ed-bb15-43c5-9a30-6c7e39c9fd23.png",
         "start_at": "2026-10-29T15:45:00.000Z",
         "timezone": "Europe/Bucharest",
         "url": "g15jg9s7",
@@ -1550,8 +1768,8 @@
           "username": "WIT_Romania"
         }
       ],
-      "guest_count": 45,
-      "ticket_count": 45,
+      "guest_count": 49,
+      "ticket_count": 49,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1809,8 +2027,508 @@
           "username": "brandient"
         }
       ],
-      "guest_count": 109,
-      "ticket_count": 109,
+      "guest_count": 135,
+      "ticket_count": 135,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-e4TOFXV6qtFf92k",
+      "event": {
+        "api_id": "evt-e4TOFXV6qtFf92k",
+        "calendar_api_id": "cal-5rq9QA5YL95KAdx",
+        "end_at": "2026-10-30T12:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Keysight-ACS Workshops: Accelerating High-Performance Networking with GPUs",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/zm/ded75046-a12d-46a9-92d6-0483da911946.png",
+        "start_at": "2026-10-30T10:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "0uorm28d",
+        "user_api_id": "usr-ovDjaNkzqExjDvL",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "PRECIS - Facultatea de Automatică și Calculatoare",
+          "country": "Romania",
+          "place_id": "ChIJdR9tSicBskAR3pwYQAAGLHE",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "PRECIS - Facultatea de Automatică și Calculatoare",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Bucureşti Sectorul 6",
+              "full_address": "PRECIS - Facultatea de Automatică și Calculatoare, Bulevardul Iuliu Maniu 6d, 061344 București, România",
+              "region_short": "București",
+              "short_address": "Bulevardul Iuliu Maniu 6d, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Bucureşti Sectorul 6",
+          "country_code": "RO",
+          "full_address": "PRECIS - Facultatea de Automatică și Calculatoare, Bulevardul Iuliu Maniu 6d, 061344 București, Romania",
+          "region_short": "București",
+          "short_address": "Bulevardul Iuliu Maniu 6d, București",
+          "place_coordinate": {
+            "latitude": 44.4349503,
+            "longitude": 26.0477617
+          },
+          "apple_maps_place_id": "IF53E664BC79286FC",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.0477617,
+          "latitude": 44.4349503
+        },
+        "waitlist_enabled": true,
+        "waitlist_status": "active"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-5rq9QA5YL95KAdx",
+        "coordinate": {
+          "longitude": 26.1025384,
+          "latitude": 44.426767399999996
+        },
+        "description_short": "Computer Science and Engineering Departament, ACS, UPB",
+        "end_date": null,
+        "is_verified": false,
+        "location": {
+          "city": "Bucharest",
+          "region": null,
+          "country": "Romania",
+          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
+          "timezone": "Europe/Bucharest",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": null,
+              "country": "România"
+            }
+          },
+          "country_code": "RO"
+        },
+        "name": "cs.pub.ro",
+        "personal_user_api_id": null,
+        "sends_unlocked_at": null,
+        "slug": "cs-pub-ro",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": "Europe/Bucharest"
+      },
+      "start_at": "2026-10-30T10:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-ovDjaNkzqExjDvL",
+          "name": "Razvan Deaconescu",
+          "username": "razvandeaconesc"
+        },
+        {
+          "api_id": "usr-l4crnBmr8HXtw8k",
+          "name": "Cosmin Chenaru",
+          "username": null
+        }
+      ],
+      "guest_count": 21,
+      "ticket_count": 21,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-NZUZ49Jzhs3hr06",
+      "event": {
+        "api_id": "evt-NZUZ49Jzhs3hr06",
+        "calendar_api_id": "cal-5rq9QA5YL95KAdx",
+        "end_at": "2026-10-30T12:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Keysight-ACS Workshops: AI Writes the Code. Who Owns the Bugs? Software Development, Cybersecurity, and the EU CRA in the Age of AI",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/w6/ffefa36a-4bbc-4d2c-bf80-a2d138c3c5c4.png",
+        "start_at": "2026-10-30T10:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "7rrwf86g",
+        "user_api_id": "usr-ovDjaNkzqExjDvL",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "PRECIS - Facultatea de Automatică și Calculatoare",
+          "country": "Romania",
+          "place_id": "ChIJdR9tSicBskAR3pwYQAAGLHE",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "PRECIS - Facultatea de Automatică și Calculatoare",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Bucureşti Sectorul 6",
+              "full_address": "PRECIS - Facultatea de Automatică și Calculatoare, Bulevardul Iuliu Maniu 6d, 061344 București, România",
+              "region_short": "București",
+              "short_address": "Bulevardul Iuliu Maniu 6d, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Bucureşti Sectorul 6",
+          "country_code": "RO",
+          "full_address": "PRECIS - Facultatea de Automatică și Calculatoare, Bulevardul Iuliu Maniu 6d, 061344 București, Romania",
+          "region_short": "București",
+          "short_address": "Bulevardul Iuliu Maniu 6d, București",
+          "place_coordinate": {
+            "latitude": 44.4349503,
+            "longitude": 26.0477617
+          },
+          "apple_maps_place_id": "IF53E664BC79286FC",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.0477617,
+          "latitude": 44.4349503
+        },
+        "waitlist_enabled": true,
+        "waitlist_status": "active"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-5rq9QA5YL95KAdx",
+        "coordinate": {
+          "longitude": 26.1025384,
+          "latitude": 44.426767399999996
+        },
+        "description_short": "Computer Science and Engineering Departament, ACS, UPB",
+        "end_date": null,
+        "is_verified": false,
+        "location": {
+          "city": "Bucharest",
+          "region": null,
+          "country": "Romania",
+          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
+          "timezone": "Europe/Bucharest",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": null,
+              "country": "România"
+            }
+          },
+          "country_code": "RO"
+        },
+        "name": "cs.pub.ro",
+        "personal_user_api_id": null,
+        "sends_unlocked_at": null,
+        "slug": "cs-pub-ro",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": "Europe/Bucharest"
+      },
+      "start_at": "2026-10-30T10:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-ovDjaNkzqExjDvL",
+          "name": "Razvan Deaconescu",
+          "username": "razvandeaconesc"
+        },
+        {
+          "api_id": "usr-kW9PhejnPaUBfYZ",
+          "name": "Ioan Herișanu",
+          "username": null
+        }
+      ],
+      "guest_count": 23,
+      "ticket_count": 23,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-gEWYvUCZ6OapEEY",
+      "event": {
+        "api_id": "evt-gEWYvUCZ6OapEEY",
+        "calendar_api_id": "cal-5rq9QA5YL95KAdx",
+        "end_at": "2026-10-30T14:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Keysight-ACS Workshops: Introduction to Exploiting IP Camera Vulnerabilities",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/mc/8db731e9-acf4-4e8e-966d-769a1e5d93b3.png",
+        "start_at": "2026-10-30T12:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "53squh3c",
+        "user_api_id": "usr-ovDjaNkzqExjDvL",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "PRECIS - Facultatea de Automatică și Calculatoare",
+          "country": "Romania",
+          "place_id": "ChIJdR9tSicBskAR3pwYQAAGLHE",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "PRECIS - Facultatea de Automatică și Calculatoare",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Bucureşti Sectorul 6",
+              "full_address": "PRECIS - Facultatea de Automatică și Calculatoare, Bulevardul Iuliu Maniu 6d, 061344 București, România",
+              "region_short": "București",
+              "short_address": "Bulevardul Iuliu Maniu 6d, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Bucureşti Sectorul 6",
+          "country_code": "RO",
+          "full_address": "PRECIS - Facultatea de Automatică și Calculatoare, Bulevardul Iuliu Maniu 6d, 061344 București, Romania",
+          "region_short": "București",
+          "short_address": "Bulevardul Iuliu Maniu 6d, București",
+          "place_coordinate": {
+            "latitude": 44.4349503,
+            "longitude": 26.0477617
+          },
+          "apple_maps_place_id": "IF53E664BC79286FC",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.0477617,
+          "latitude": 44.4349503
+        },
+        "waitlist_enabled": true,
+        "waitlist_status": "active"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-5rq9QA5YL95KAdx",
+        "coordinate": {
+          "longitude": 26.1025384,
+          "latitude": 44.426767399999996
+        },
+        "description_short": "Computer Science and Engineering Departament, ACS, UPB",
+        "end_date": null,
+        "is_verified": false,
+        "location": {
+          "city": "Bucharest",
+          "region": null,
+          "country": "Romania",
+          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
+          "timezone": "Europe/Bucharest",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": null,
+              "country": "România"
+            }
+          },
+          "country_code": "RO"
+        },
+        "name": "cs.pub.ro",
+        "personal_user_api_id": null,
+        "sends_unlocked_at": null,
+        "slug": "cs-pub-ro",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": "Europe/Bucharest"
+      },
+      "start_at": "2026-10-30T12:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-ovDjaNkzqExjDvL",
+          "name": "Razvan Deaconescu",
+          "username": "razvandeaconesc"
+        },
+        {
+          "api_id": "usr-9jERwNBSvirDj1X",
+          "name": "Mihaela Grăjdan",
+          "username": null
+        }
+      ],
+      "guest_count": 27,
+      "ticket_count": 27,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-1wl4jEVbxExaSIq",
+      "event": {
+        "api_id": "evt-1wl4jEVbxExaSIq",
+        "calendar_api_id": "cal-5rq9QA5YL95KAdx",
+        "end_at": "2026-10-30T14:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Keysight-ACS Workshops: Virtualization using the Command Line",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/6c/30a7b758-73fe-45c4-85f6-45ce7b59f4c2.png",
+        "start_at": "2026-10-30T12:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "fdemi3ca",
+        "user_api_id": "usr-ovDjaNkzqExjDvL",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "PRECIS - Facultatea de Automatică și Calculatoare",
+          "country": "Romania",
+          "place_id": "ChIJdR9tSicBskAR3pwYQAAGLHE",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "PRECIS - Facultatea de Automatică și Calculatoare",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Bucureşti Sectorul 6",
+              "full_address": "PRECIS - Facultatea de Automatică și Calculatoare, Bulevardul Iuliu Maniu 6d, 061344 București, România",
+              "region_short": "București",
+              "short_address": "Bulevardul Iuliu Maniu 6d, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Bucureşti Sectorul 6",
+          "country_code": "RO",
+          "full_address": "PRECIS - Facultatea de Automatică și Calculatoare, Bulevardul Iuliu Maniu 6d, 061344 București, Romania",
+          "region_short": "București",
+          "short_address": "Bulevardul Iuliu Maniu 6d, București",
+          "place_coordinate": {
+            "latitude": 44.4349503,
+            "longitude": 26.0477617
+          },
+          "apple_maps_place_id": "IF53E664BC79286FC",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.0477617,
+          "latitude": 44.4349503
+        },
+        "waitlist_enabled": true,
+        "waitlist_status": "active"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-5rq9QA5YL95KAdx",
+        "coordinate": {
+          "longitude": 26.1025384,
+          "latitude": 44.426767399999996
+        },
+        "description_short": "Computer Science and Engineering Departament, ACS, UPB",
+        "end_date": null,
+        "is_verified": false,
+        "location": {
+          "city": "Bucharest",
+          "region": null,
+          "country": "Romania",
+          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
+          "timezone": "Europe/Bucharest",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": null,
+              "country": "România"
+            }
+          },
+          "country_code": "RO"
+        },
+        "name": "cs.pub.ro",
+        "personal_user_api_id": null,
+        "sends_unlocked_at": null,
+        "slug": "cs-pub-ro",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": "Europe/Bucharest"
+      },
+      "start_at": "2026-10-30T12:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-ovDjaNkzqExjDvL",
+          "name": "Razvan Deaconescu",
+          "username": "razvandeaconesc"
+        },
+        {
+          "api_id": "usr-w1AKkcu67K6kf2r",
+          "name": "Stefan Jumarea",
+          "username": null
+        }
+      ],
+      "guest_count": 19,
+      "ticket_count": 19,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1915,8 +2633,8 @@
           "username": null
         }
       ],
-      "guest_count": 56,
-      "ticket_count": 56,
+      "guest_count": 72,
+      "ticket_count": 72,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2033,8 +2751,8 @@
           "username": "readingcorner"
         }
       ],
-      "guest_count": 112,
-      "ticket_count": 112,
+      "guest_count": 111,
+      "ticket_count": 111,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2273,8 +2991,8 @@
           "username": null
         }
       ],
-      "guest_count": 23,
-      "ticket_count": 23,
+      "guest_count": 24,
+      "ticket_count": 24,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2623,8 +3341,8 @@
           "username": null
         }
       ],
-      "guest_count": 5,
-      "ticket_count": 5,
+      "guest_count": 7,
+      "ticket_count": 7,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2876,8 +3594,8 @@
           "username": null
         }
       ],
-      "guest_count": 11,
-      "ticket_count": 11,
+      "guest_count": 16,
+      "ticket_count": 16,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3154,11 +3872,11 @@
         "event_type": "independent",
         "hide_rsvp": false,
         "location_type": "offline",
-        "name": "321sport - Alergare Herăstrău (începători) #dela1la21 S24E05",
+        "name": "321sport - Alergare Herăstrău (începători) #dela1la21 S24E07",
         "one_to_one": true,
         "recurrence_id": null,
         "show_guest_list": true,
-        "social_image_url": "https://images.lumacdn.com/event-social/55/44710695-d25d-4b1d-bed8-e374b2d62a65.png",
+        "social_image_url": "https://images.lumacdn.com/event-social/ni/f59524f9-bea7-45f1-8380-dbb25e175266.png",
         "start_at": "2026-11-03T17:30:00.000Z",
         "timezone": "Europe/Bucharest",
         "url": "znw0tmlf",
@@ -3380,8 +4098,8 @@
           "username": "GeorgianaVlades"
         }
       ],
-      "guest_count": 15,
-      "ticket_count": 15,
+      "guest_count": 17,
+      "ticket_count": 17,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3510,8 +4228,8 @@
           "username": "antoniohus"
         }
       ],
-      "guest_count": 53,
-      "ticket_count": 53,
+      "guest_count": 56,
+      "ticket_count": 56,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3870,8 +4588,8 @@
           "username": null
         }
       ],
-      "guest_count": 5,
-      "ticket_count": 5,
+      "guest_count": 6,
+      "ticket_count": 6,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3982,8 +4700,8 @@
           "username": null
         }
       ],
-      "guest_count": 3,
-      "ticket_count": 3,
+      "guest_count": 5,
+      "ticket_count": 5,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -4296,8 +5014,8 @@
           "username": "computrina"
         }
       ],
-      "guest_count": 6,
-      "ticket_count": 6,
+      "guest_count": 9,
+      "ticket_count": 9,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -4538,6 +5256,133 @@
       "featured_city": null
     },
     {
+      "api_id": "evt-hwtAxukVYbqYAOe",
+      "event": {
+        "api_id": "evt-hwtAxukVYbqYAOe",
+        "calendar_api_id": "cal-a48DCZRIdDiaWjX",
+        "end_at": "2026-11-11T09:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "RoFintech Breakfast hosted by Token Payment Solutions",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": false,
+        "social_image_url": "https://images.lumacdn.com/event-social/7w/75652a7a-1385-4ca9-8ed7-e0f1a2afe3d9.png",
+        "start_at": "2026-11-11T06:30:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "i8lmct7p",
+        "user_api_id": "usr-lnqPEirSpstY5Zd",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Strada Gara Herăstrău 4",
+          "country": "Romania",
+          "place_id": "EjVTdHJhZGEgR2FyYSBIZXLEg3N0csSDdSA0LCAwNzcxOTAgQnVjdXJlyJl0aSwgUm9tYW5pYSIwEi4KFAoSCRP_PxF6ArJAEeUyAoZim1AiEAQqFAoSCZvPkAB6ArJAEfQqiWWhRwbE",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Strada Gara Herăstrău 4",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Sectorul 2",
+              "full_address": "Strada Gara Herăstrău 4, 077190 București, România",
+              "region_short": "București",
+              "short_address": "Strada Gara Herăstrău 4, București"
+            },
+            "en-GB": {
+              "city": "București",
+              "region": "București",
+              "address": "Strada Gara Herăstrău 4",
+              "country": "Romania",
+              "city_state": "București, Romania",
+              "sublocality": "Sectorul 2",
+              "full_address": "Strada Gara Herăstrău 4, 077190 București, Romania",
+              "region_short": "București",
+              "short_address": "Strada Gara Herăstrău 4, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Sectorul 2",
+          "country_code": "RO",
+          "full_address": "Strada Gara Herăstrău 4, 077190 București, Romania",
+          "region_short": "București",
+          "short_address": "Strada Gara Herăstrău 4, București",
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.104244899999998,
+          "latitude": 44.4794522
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-a48DCZRIdDiaWjX",
+        "coordinate": {
+          "longitude": 26.1025384,
+          "latitude": 44.426767399999996
+        },
+        "description_short": "",
+        "end_date": null,
+        "is_verified": false,
+        "location": {
+          "city": "Bucharest",
+          "region": null,
+          "country": "Romania",
+          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
+          "timezone": "Europe/Bucharest",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": null,
+              "country": "România"
+            }
+          },
+          "country_code": "RO"
+        },
+        "name": "RoFintech Events 2026",
+        "personal_user_api_id": null,
+        "sends_unlocked_at": "2026-08-23T20:47:15.742Z",
+        "slug": "rofintech-2026",
+        "start_date": null,
+        "website": "https://rofin.tech/",
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": "Europe/Bucharest"
+      },
+      "start_at": "2026-11-11T06:30:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-lnqPEirSpstY5Zd",
+          "name": "Adrian Drinceanu",
+          "username": "adrianrofintech"
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": true
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
       "api_id": "evt-rJH9WU9hFQQLQ9W",
       "event": {
         "api_id": "evt-rJH9WU9hFQQLQ9W",
@@ -4638,8 +5483,8 @@
           "username": null
         }
       ],
-      "guest_count": 41,
-      "ticket_count": 41,
+      "guest_count": 42,
+      "ticket_count": 42,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -4774,8 +5619,8 @@
           "username": null
         }
       ],
-      "guest_count": 17,
-      "ticket_count": 17,
+      "guest_count": 18,
+      "ticket_count": 18,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -4863,8 +5708,8 @@
           "username": null
         }
       ],
-      "guest_count": 37,
-      "ticket_count": 37,
+      "guest_count": 39,
+      "ticket_count": 39,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -5077,8 +5922,8 @@
           "username": null
         }
       ],
-      "guest_count": 3,
-      "ticket_count": 3,
+      "guest_count": 8,
+      "ticket_count": 8,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -5614,8 +6459,8 @@
           "username": null
         }
       ],
-      "guest_count": 11,
-      "ticket_count": 11,
+      "guest_count": 13,
+      "ticket_count": 13,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -5844,8 +6689,8 @@
           "username": null
         }
       ],
-      "guest_count": 7,
-      "ticket_count": 7,
+      "guest_count": 9,
+      "ticket_count": 9,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -6175,8 +7020,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 183,
-      "ticket_count": 183,
+      "guest_count": 184,
+      "ticket_count": 184,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -6308,6 +7153,114 @@
       "tags": []
     },
     {
+      "api_id": "calev-9DBNepIGYuNcjxa",
+      "event": {
+        "api_id": "evt-mraZZXHA9DDM80h",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-11-01T08:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică I.O.R.",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/h3/e94c5264-5fcc-481e-af8a-34b6e926409c.png",
+        "start_at": "2026-11-01T07:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "wldj0ifk",
+        "user_api_id": "usr-Ae5XksaorB3dWjB",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Alexandru Ioan Cuza Statuie",
+          "country": "Romania",
+          "place_id": "ChIJI6vF30j_sUARHE1eXV2_RKc",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Alexandru Ioan Cuza Statuie",
+              "country": "România",
+              "city_state": "București, București",
+              "sublocality": "Titan",
+              "full_address": "Alexandru Ioan Cuza Statuie, Unnamed Road, București, România",
+              "short_address": "Unnamed Road, București"
+            }
+          },
+          "city_state": "București, București",
+          "description": "",
+          "sublocality": "Titan",
+          "country_code": "RO",
+          "full_address": "Alexandru Ioan Cuza Statuie, Unnamed Road, București, Romania",
+          "short_address": "Unnamed Road, București",
+          "place_coordinate": null,
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.150153,
+          "latitude": 44.425902
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "sends_unlocked_at": "2025-01-05T15:31:10.033Z",
+        "slug": "turadeduminica",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-11-01T07:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-Ae5XksaorB3dWjB",
+          "name": "Irina Tenovici",
+          "username": "irinatenovici"
+        },
+        {
+          "api_id": "usr-yomhnvpt5g17mhz",
+          "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 1,
+      "ticket_count": 1,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
+    {
       "api_id": "calev-cQGPhbpdE6BEhH4",
       "event": {
         "api_id": "evt-xdW1WM92AXIVO5E",
@@ -6378,8 +7331,126 @@
           "username": null
         }
       ],
-      "guest_count": 5,
-      "ticket_count": 5,
+      "guest_count": 7,
+      "ticket_count": 7,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
+    {
+      "api_id": "calev-qTcAo2P3AMssT5D",
+      "event": {
+        "api_id": "evt-gB5NHZeXfJDkIRw",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-11-01T08:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică Tineretului",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/41/1de1273c-2947-4ab0-955f-091613223e74.png",
+        "start_at": "2026-11-01T07:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "4c75dbwa",
+        "user_api_id": "usr-04pRO5uWe6ODtE4",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Bucharest",
+          "type": "google",
+          "region": "Bucharest",
+          "address": "Tineretului Park clock",
+          "country": "Romania",
+          "place_id": "ChIJKTQEbT3_sUAR86e5V_Rdafw",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "ceasul din Parcul Tineretului",
+              "country": "România",
+              "city_state": "București, București",
+              "sublocality": "Bucureşti Sectorul 4",
+              "full_address": "ceasul din Parcul Tineretului, Bucureşti Sectorul 4, București, România",
+              "short_address": "București"
+            },
+            "en-GB": {
+              "city": "Bucharest",
+              "region": "Bucharest",
+              "address": "Tineretului Park clock",
+              "country": "Romania",
+              "city_state": "Bucharest, Bucharest",
+              "sublocality": "Sector 4",
+              "full_address": "Tineretului Park clock, Sector 4, Bucharest, Romania",
+              "short_address": "Bucharest"
+            }
+          },
+          "city_state": "Bucharest, Bucharest",
+          "description": "",
+          "sublocality": "Sector 4",
+          "country_code": "RO",
+          "full_address": "Tineretului Park clock, Sector 4, Bucharest, Romania",
+          "short_address": "Bucharest",
+          "place_coordinate": null,
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.1043384,
+          "latitude": 44.4136227
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "sends_unlocked_at": "2025-01-05T15:31:10.033Z",
+        "slug": "turadeduminica",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-11-01T07:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-04pRO5uWe6ODtE4",
+          "name": "Nicoleta Ifrim",
+          "username": null
+        },
+        {
+          "api_id": "usr-yomhnvpt5g17mhz",
+          "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -6869,6 +7940,124 @@
       "tags": []
     },
     {
+      "api_id": "calev-6Vgl5ALTjA0qADI",
+      "event": {
+        "api_id": "evt-FISzZSujXCL00Vp",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-11-08T08:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică Tineretului",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/uc/97bec820-9721-45ea-a74f-e23f5a390069.png",
+        "start_at": "2026-11-08T07:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "pb96q8r1",
+        "user_api_id": "usr-04pRO5uWe6ODtE4",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Bucharest",
+          "type": "google",
+          "region": "Bucharest",
+          "address": "Tineretului Park clock",
+          "country": "Romania",
+          "place_id": "ChIJKTQEbT3_sUAR86e5V_Rdafw",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "ceasul din Parcul Tineretului",
+              "country": "România",
+              "city_state": "București, București",
+              "sublocality": "Bucureşti Sectorul 4",
+              "full_address": "ceasul din Parcul Tineretului, Bucureşti Sectorul 4, București, România",
+              "short_address": "București"
+            },
+            "en-GB": {
+              "city": "Bucharest",
+              "region": "Bucharest",
+              "address": "Tineretului Park clock",
+              "country": "Romania",
+              "city_state": "Bucharest, Bucharest",
+              "sublocality": "Sector 4",
+              "full_address": "Tineretului Park clock, Sector 4, Bucharest, Romania",
+              "short_address": "Bucharest"
+            }
+          },
+          "city_state": "Bucharest, Bucharest",
+          "description": "",
+          "sublocality": "Sector 4",
+          "country_code": "RO",
+          "full_address": "Tineretului Park clock, Sector 4, Bucharest, Romania",
+          "short_address": "Bucharest",
+          "place_coordinate": null,
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.1043384,
+          "latitude": 44.4136227
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "sends_unlocked_at": "2025-01-05T15:31:10.033Z",
+        "slug": "turadeduminica",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-11-08T07:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-04pRO5uWe6ODtE4",
+          "name": "Nicoleta Ifrim",
+          "username": null
+        },
+        {
+          "api_id": "usr-yomhnvpt5g17mhz",
+          "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
+    {
       "api_id": "calev-kM2UfGal0AJLPW7",
       "event": {
         "api_id": "evt-UeFWx58IFDuryyH",
@@ -6941,6 +8130,114 @@
       ],
       "guest_count": 1,
       "ticket_count": 1,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
+    {
+      "api_id": "calev-lcVzyOYo82NHmSP",
+      "event": {
+        "api_id": "evt-KWta3T6EqAup0xu",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-11-08T08:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică I.O.R.",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/ac/2734df6e-003d-423b-b1d1-8e7e97e7b44b.png",
+        "start_at": "2026-11-08T07:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "ll9a9ja5",
+        "user_api_id": "usr-Ae5XksaorB3dWjB",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Alexandru Ioan Cuza Statuie",
+          "country": "Romania",
+          "place_id": "ChIJI6vF30j_sUARHE1eXV2_RKc",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Alexandru Ioan Cuza Statuie",
+              "country": "România",
+              "city_state": "București, București",
+              "sublocality": "Titan",
+              "full_address": "Alexandru Ioan Cuza Statuie, Unnamed Road, București, România",
+              "short_address": "Unnamed Road, București"
+            }
+          },
+          "city_state": "București, București",
+          "description": "",
+          "sublocality": "Titan",
+          "country_code": "RO",
+          "full_address": "Alexandru Ioan Cuza Statuie, Unnamed Road, București, Romania",
+          "short_address": "Unnamed Road, București",
+          "place_coordinate": null,
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.150153,
+          "latitude": 44.425902
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "sends_unlocked_at": "2025-01-05T15:31:10.033Z",
+        "slug": "turadeduminica",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-11-08T07:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-Ae5XksaorB3dWjB",
+          "name": "Irina Tenovici",
+          "username": "irinatenovici"
+        },
+        {
+          "api_id": "usr-yomhnvpt5g17mhz",
+          "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -7317,6 +8614,114 @@
       "tags": []
     },
     {
+      "api_id": "calev-mQy42fFh30RWAiL",
+      "event": {
+        "api_id": "evt-ycSj4NZ0ToeWfl8",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-11-15T08:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică I.O.R.",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/fl/dbdb5597-b107-459a-ac05-1ff773216358.png",
+        "start_at": "2026-11-15T07:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "hxuz0o4n",
+        "user_api_id": "usr-Ae5XksaorB3dWjB",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Alexandru Ioan Cuza Statuie",
+          "country": "Romania",
+          "place_id": "ChIJI6vF30j_sUARHE1eXV2_RKc",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Alexandru Ioan Cuza Statuie",
+              "country": "România",
+              "city_state": "București, București",
+              "sublocality": "Titan",
+              "full_address": "Alexandru Ioan Cuza Statuie, Unnamed Road, București, România",
+              "short_address": "Unnamed Road, București"
+            }
+          },
+          "city_state": "București, București",
+          "description": "",
+          "sublocality": "Titan",
+          "country_code": "RO",
+          "full_address": "Alexandru Ioan Cuza Statuie, Unnamed Road, București, Romania",
+          "short_address": "Unnamed Road, București",
+          "place_coordinate": null,
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.150153,
+          "latitude": 44.425902
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "sends_unlocked_at": "2025-01-05T15:31:10.033Z",
+        "slug": "turadeduminica",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-11-15T07:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-Ae5XksaorB3dWjB",
+          "name": "Irina Tenovici",
+          "username": "irinatenovici"
+        },
+        {
+          "api_id": "usr-yomhnvpt5g17mhz",
+          "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
+    {
       "api_id": "calev-VlwOWrfk2b9I19x",
       "event": {
         "api_id": "evt-Pr3vNZACbPrjiCj",
@@ -7381,6 +8786,124 @@
       },
       "start_at": "2026-11-15T07:00:00.000Z",
       "hosts": [
+        {
+          "api_id": "usr-yomhnvpt5g17mhz",
+          "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
+    {
+      "api_id": "calev-XC2YNZWlUb3RgSq",
+      "event": {
+        "api_id": "evt-VqIOu0VtrDeqAcB",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-11-15T08:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică Tineretului",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/ts/29651883-dd0c-4a3d-adfb-db124633a342.png",
+        "start_at": "2026-11-15T07:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "su8el0l4",
+        "user_api_id": "usr-04pRO5uWe6ODtE4",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Bucharest",
+          "type": "google",
+          "region": "Bucharest",
+          "address": "Tineretului Park clock",
+          "country": "Romania",
+          "place_id": "ChIJKTQEbT3_sUAR86e5V_Rdafw",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "ceasul din Parcul Tineretului",
+              "country": "România",
+              "city_state": "București, București",
+              "sublocality": "Bucureşti Sectorul 4",
+              "full_address": "ceasul din Parcul Tineretului, Bucureşti Sectorul 4, București, România",
+              "short_address": "București"
+            },
+            "en-GB": {
+              "city": "Bucharest",
+              "region": "Bucharest",
+              "address": "Tineretului Park clock",
+              "country": "Romania",
+              "city_state": "Bucharest, Bucharest",
+              "sublocality": "Sector 4",
+              "full_address": "Tineretului Park clock, Sector 4, Bucharest, Romania",
+              "short_address": "Bucharest"
+            }
+          },
+          "city_state": "Bucharest, Bucharest",
+          "description": "",
+          "sublocality": "Sector 4",
+          "country_code": "RO",
+          "full_address": "Tineretului Park clock, Sector 4, Bucharest, Romania",
+          "short_address": "Bucharest",
+          "place_coordinate": null,
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.1043384,
+          "latitude": 44.4136227
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "sends_unlocked_at": "2025-01-05T15:31:10.033Z",
+        "slug": "turadeduminica",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-11-15T07:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-04pRO5uWe6ODtE4",
+          "name": "Nicoleta Ifrim",
+          "username": null
+        },
         {
           "api_id": "usr-yomhnvpt5g17mhz",
           "name": "Emily Merdus",
@@ -7739,6 +9262,232 @@
           "api_id": "usr-tHTib8qSA0I5UKX",
           "name": "Lili Luchian",
           "username": null
+        },
+        {
+          "api_id": "usr-yomhnvpt5g17mhz",
+          "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
+    {
+      "api_id": "calev-51gkIOqygX91q2T",
+      "event": {
+        "api_id": "evt-MGgxzfguC5OR4ET",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-11-22T08:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică Tineretului",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/n6/9dc54308-2436-42a0-bd08-2a27fa3508f6.png",
+        "start_at": "2026-11-22T07:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "1rvgbnid",
+        "user_api_id": "usr-04pRO5uWe6ODtE4",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Bucharest",
+          "type": "google",
+          "region": "Bucharest",
+          "address": "Tineretului Park clock",
+          "country": "Romania",
+          "place_id": "ChIJKTQEbT3_sUAR86e5V_Rdafw",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "ceasul din Parcul Tineretului",
+              "country": "România",
+              "city_state": "București, București",
+              "sublocality": "Bucureşti Sectorul 4",
+              "full_address": "ceasul din Parcul Tineretului, Bucureşti Sectorul 4, București, România",
+              "short_address": "București"
+            },
+            "en-GB": {
+              "city": "Bucharest",
+              "region": "Bucharest",
+              "address": "Tineretului Park clock",
+              "country": "Romania",
+              "city_state": "Bucharest, Bucharest",
+              "sublocality": "Sector 4",
+              "full_address": "Tineretului Park clock, Sector 4, Bucharest, Romania",
+              "short_address": "Bucharest"
+            }
+          },
+          "city_state": "Bucharest, Bucharest",
+          "description": "",
+          "sublocality": "Sector 4",
+          "country_code": "RO",
+          "full_address": "Tineretului Park clock, Sector 4, Bucharest, Romania",
+          "short_address": "Bucharest",
+          "place_coordinate": null,
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.1043384,
+          "latitude": 44.4136227
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "sends_unlocked_at": "2025-01-05T15:31:10.033Z",
+        "slug": "turadeduminica",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-11-22T07:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-04pRO5uWe6ODtE4",
+          "name": "Nicoleta Ifrim",
+          "username": null
+        },
+        {
+          "api_id": "usr-yomhnvpt5g17mhz",
+          "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
+    {
+      "api_id": "calev-RDGjOQy9E4iZnTm",
+      "event": {
+        "api_id": "evt-ln3bYAbWkCmilLp",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-11-22T08:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică I.O.R.",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/6m/06879c59-1132-4415-bbc4-71f682d44825.png",
+        "start_at": "2026-11-22T07:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "mssdu0cl",
+        "user_api_id": "usr-Ae5XksaorB3dWjB",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Alexandru Ioan Cuza Statuie",
+          "country": "Romania",
+          "place_id": "ChIJI6vF30j_sUARHE1eXV2_RKc",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Alexandru Ioan Cuza Statuie",
+              "country": "România",
+              "city_state": "București, București",
+              "sublocality": "Titan",
+              "full_address": "Alexandru Ioan Cuza Statuie, Unnamed Road, București, România",
+              "short_address": "Unnamed Road, București"
+            }
+          },
+          "city_state": "București, București",
+          "description": "",
+          "sublocality": "Titan",
+          "country_code": "RO",
+          "full_address": "Alexandru Ioan Cuza Statuie, Unnamed Road, București, Romania",
+          "short_address": "Unnamed Road, București",
+          "place_coordinate": null,
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.150153,
+          "latitude": 44.425902
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "sends_unlocked_at": "2025-01-05T15:31:10.033Z",
+        "slug": "turadeduminica",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-11-22T07:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-Ae5XksaorB3dWjB",
+          "name": "Irina Tenovici",
+          "username": "irinatenovici"
         },
         {
           "api_id": "usr-yomhnvpt5g17mhz",
@@ -8686,8 +10435,8 @@
           "username": "alexstanciu"
         }
       ],
-      "guest_count": 13,
-      "ticket_count": 13,
+      "guest_count": 14,
+      "ticket_count": 14,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -8946,8 +10695,8 @@
           "username": "atunei"
         }
       ],
-      "guest_count": 4,
-      "ticket_count": 4,
+      "guest_count": 6,
+      "ticket_count": 6,
       "ticket_info": {
         "price": null,
         "is_free": true,
