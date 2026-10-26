@@ -4,15 +4,6 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Duminică, 25 octombrie
-
-- `09:00` [Alergare 321sport x Good Routine](https://lu.ma/lz70mhh2)  
-  <sub>321sport · 51 de participanți</sub>
-- `10:00` [Tura de duminică București, ediție specială: Pădurea Băneasa](https://lu.ma/0tj4z7u8)  
-  <sub>Endi Ungureanu · 97 de participanți</sub>
-- `10:30` [Pas cu sens x Velocità](https://lu.ma/a0ixtirr)  
-  <sub>Brezae Adela · 7 participanți</sub>
-
 ### Luni, 26 octombrie
 
 - `18:30` [🎲 Bring Your Own Board Games #2 \| Board Games Night \| #20](https://lu.ma/7qniset6)  
@@ -57,7 +48,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Vineri, 30 octombrie
 
 - `11:00` [Brandient 24](https://lu.ma/i8z0mzt6)  
-  <sub>Brandient · 106 de participanți</sub>
+  <sub>Brandient · 109 de participanți</sub>
 - `17:00` [Grok Bot Bucharest Meetup](https://lu.ma/spacexai-226s)  
   <sub>Sergei Chyrkov · 56 de participanți</sub>
 - `20:00` [reading & Halloween corner, chapter #60](https://lu.ma/fnuvspr3)  
@@ -70,7 +61,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `10:00` [Trick or gel?👻](https://lu.ma/wvmd4agv)  
   <sub>FOMO Urban Running Club · 23 de participanți</sub>
 - `14:00` [Cafeaua De Sâmbăta #31 \| Bucuresti](https://lu.ma/iym0cxwy)  
-  <sub>Ionut Alexandru Stanciu · 12 participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 13 participanți</sub>
 - `15:00` [Midnights Ride: A Taylor Swift-Themed Indoor Cycling Experience - #1](https://lu.ma/ws29czl9)  
   <sub>The Spinning Era · 13 participanți</sub>
 - `17:00` [Midnights Ride: A Taylor Swift-Themed Indoor Cycling Experience - #2](https://lu.ma/b2qbyos7)  
@@ -79,11 +70,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 1 noiembrie
 
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/iwg9dmr4)  
-  <sub>Emily Merdus · 2 participanți</sub>
+  <sub>Emily Merdus · 5 participanți</sub>
 - `15:00` [Midnights Ride: A Taylor Swift-Themed Indoor Cycling Experience - #3](https://lu.ma/g8dp2u89)  
   <sub>The Spinning Era · 13 participanți</sub>
 - `16:00` [🎬 Pauza de cafea… între fete \| Ediție specială ☕️🍿🎃](https://lu.ma/7k9bflf6)  
-  <sub>Mihailescu Floriana Elena · 10 participanți</sub>
+  <sub>Mihailescu Floriana Elena · 11 participanți</sub>
 - `17:00` [Midnights Ride: A Taylor Swift-Themed Indoor Cycling Experience - #4](https://lu.ma/nj39mcsz)  
   <sub>The Spinning Era · 7 participanți</sub>
 
@@ -131,11 +122,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-25)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-26)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-25)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-26)
 
 ## Despre
 
@@ -149,4 +140,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 25 octombrie 2026*
+*Actualizat: 26 octombrie 2026*
