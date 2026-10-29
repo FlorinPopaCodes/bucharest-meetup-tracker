@@ -1,613 +1,6 @@
 {
   "geo": [
     {
-      "api_id": "evt-cJHAFukBZGJKtrS",
-      "event": {
-        "api_id": "evt-cJHAFukBZGJKtrS",
-        "calendar_api_id": "cal-lVsttDJs3Y5Dm7L",
-        "end_at": "2026-10-29T12:00:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "Cum a ajuns sănătatea angajaților noua monedă de retenție",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": false,
-        "social_image_url": "https://images.lumacdn.com/event-social/vq/9a9cc46e-bdea-460f-8752-25ebd9fc1dc2.png",
-        "start_at": "2026-10-29T08:00:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "nv8d0waw",
-        "user_api_id": "usr-GzdjOkOjqzlZEpJ",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "București",
-          "type": "google",
-          "region": "București",
-          "address": "Enayati Medical City",
-          "country": "Romania",
-          "place_id": "ChIJ98hEjUMDskARGs0lZq0xGIM",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": "București",
-              "address": "Enayati Medical City",
-              "country": "România",
-              "city_state": "București, România",
-              "sublocality": "Bucureşti Sectorul 1",
-              "full_address": "Enayati Medical City, Șoseaua Gheorghe Ionescu Sisești 8A, 013812 București, România",
-              "region_short": "București",
-              "short_address": "Șoseaua Gheorghe Ionescu Sisești 8A, București"
-            }
-          },
-          "city_state": "București, Romania",
-          "description": "",
-          "sublocality": "Bucureşti Sectorul 1",
-          "country_code": "RO",
-          "full_address": "Enayati Medical City, Șoseaua Gheorghe Ionescu Sisești 8A, 013812 București, Romania",
-          "region_short": "București",
-          "short_address": "Șoseaua Gheorghe Ionescu Sisești 8A, București",
-          "place_coordinate": {
-            "latitude": 44.50098,
-            "longitude": 26.068047399999998
-          },
-          "apple_maps_place_id": "IDEEE98F486B74C5A",
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 26.068047399999998,
-          "latitude": 44.50098
-        },
-        "waitlist_enabled": false,
-        "waitlist_status": "disabled"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-lVsttDJs3Y5Dm7L",
-        "coordinate": null,
-        "description_short": null,
-        "end_date": null,
-        "is_verified": false,
-        "location": null,
-        "name": "Personal",
-        "personal_user_api_id": "usr-GzdjOkOjqzlZEpJ",
-        "sends_unlocked_at": "2026-08-23T16:13:59.261Z",
-        "slug": null,
-        "start_date": null,
-        "website": null,
-        "is_personal": true,
-        "personal_user": {
-          "api_id": "usr-GzdjOkOjqzlZEpJ",
-          "name": "Revista CARIERE",
-          "username": null
-        },
-        "timezone": null
-      },
-      "start_at": "2026-10-29T08:00:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-GzdjOkOjqzlZEpJ",
-          "name": "Revista CARIERE",
-          "username": null
-        }
-      ],
-      "guest_count": 0,
-      "ticket_count": 0,
-      "ticket_info": {
-        "price": null,
-        "is_free": true,
-        "max_price": null,
-        "is_sold_out": false,
-        "require_approval": true
-      },
-      "registration_availability": "open",
-      "waitlist_active": false,
-      "featured_city": null
-    },
-    {
-      "api_id": "evt-vbEt58lJlEE2G47",
-      "event": {
-        "api_id": "evt-vbEt58lJlEE2G47",
-        "calendar_api_id": "cal-5rq9QA5YL95KAdx",
-        "end_at": "2026-10-29T12:00:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "Keysight-ACS Workshops: Accelerating High-Performance Networking with GPUs",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": true,
-        "social_image_url": "https://images.lumacdn.com/event-social/k8/e5b2f953-6d80-43f8-bb3d-b2321f452853.png",
-        "start_at": "2026-10-29T10:00:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "38vdno07",
-        "user_api_id": "usr-ovDjaNkzqExjDvL",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "București",
-          "type": "google",
-          "region": "București",
-          "address": "PRECIS - Facultatea de Automatică și Calculatoare",
-          "country": "Romania",
-          "place_id": "ChIJdR9tSicBskAR3pwYQAAGLHE",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": "București",
-              "address": "PRECIS - Facultatea de Automatică și Calculatoare",
-              "country": "România",
-              "city_state": "București, România",
-              "sublocality": "Bucureşti Sectorul 6",
-              "full_address": "PRECIS - Facultatea de Automatică și Calculatoare, Bulevardul Iuliu Maniu 6d, 061344 București, România",
-              "region_short": "București",
-              "short_address": "Bulevardul Iuliu Maniu 6d, București"
-            }
-          },
-          "city_state": "București, Romania",
-          "description": "",
-          "sublocality": "Bucureşti Sectorul 6",
-          "country_code": "RO",
-          "full_address": "PRECIS - Facultatea de Automatică și Calculatoare, Bulevardul Iuliu Maniu 6d, 061344 București, Romania",
-          "region_short": "București",
-          "short_address": "Bulevardul Iuliu Maniu 6d, București",
-          "place_coordinate": {
-            "latitude": 44.4349503,
-            "longitude": 26.0477617
-          },
-          "apple_maps_place_id": "IF53E664BC79286FC",
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 26.0477617,
-          "latitude": 44.4349503
-        },
-        "waitlist_enabled": true,
-        "waitlist_status": "active"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-5rq9QA5YL95KAdx",
-        "coordinate": {
-          "longitude": 26.1025384,
-          "latitude": 44.426767399999996
-        },
-        "description_short": "Computer Science and Engineering Departament, ACS, UPB",
-        "end_date": null,
-        "is_verified": false,
-        "location": {
-          "city": "Bucharest",
-          "region": null,
-          "country": "Romania",
-          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
-          "timezone": "Europe/Bucharest",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": null,
-              "country": "România"
-            }
-          },
-          "country_code": "RO"
-        },
-        "name": "cs.pub.ro",
-        "personal_user_api_id": null,
-        "sends_unlocked_at": null,
-        "slug": "cs-pub-ro",
-        "start_date": null,
-        "website": null,
-        "is_personal": false,
-        "personal_user": null,
-        "timezone": "Europe/Bucharest"
-      },
-      "start_at": "2026-10-29T10:00:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-ovDjaNkzqExjDvL",
-          "name": "Razvan Deaconescu",
-          "username": "razvandeaconesc"
-        },
-        {
-          "api_id": "usr-l4crnBmr8HXtw8k",
-          "name": "Cosmin Chenaru",
-          "username": null
-        }
-      ],
-      "guest_count": 25,
-      "ticket_count": 25,
-      "ticket_info": {
-        "price": null,
-        "is_free": true,
-        "max_price": null,
-        "is_sold_out": true,
-        "require_approval": false
-      },
-      "registration_availability": "waitlist",
-      "waitlist_active": true,
-      "featured_city": null
-    },
-    {
-      "api_id": "evt-6ZIVyvMBDoxUPAE",
-      "event": {
-        "api_id": "evt-6ZIVyvMBDoxUPAE",
-        "calendar_api_id": "cal-5rq9QA5YL95KAdx",
-        "end_at": "2026-10-29T12:00:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "Keysight-ACS Workshops: AI Writes the Code. Who Owns the Bugs? Software Development, Cybersecurity, and the EU CRA in the Age of AI",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": true,
-        "social_image_url": "https://images.lumacdn.com/event-social/p0/b03b0c21-f126-4a4a-844f-d4e4931fe7fc.png",
-        "start_at": "2026-10-29T10:00:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "hplwgx46",
-        "user_api_id": "usr-ovDjaNkzqExjDvL",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "București",
-          "type": "google",
-          "region": "București",
-          "address": "PRECIS - Facultatea de Automatică și Calculatoare",
-          "country": "Romania",
-          "place_id": "ChIJdR9tSicBskAR3pwYQAAGLHE",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": "București",
-              "address": "PRECIS - Facultatea de Automatică și Calculatoare",
-              "country": "România",
-              "city_state": "București, România",
-              "sublocality": "Bucureşti Sectorul 6",
-              "full_address": "PRECIS - Facultatea de Automatică și Calculatoare, Bulevardul Iuliu Maniu 6d, 061344 București, România",
-              "region_short": "București",
-              "short_address": "Bulevardul Iuliu Maniu 6d, București"
-            }
-          },
-          "city_state": "București, Romania",
-          "description": "",
-          "sublocality": "Bucureşti Sectorul 6",
-          "country_code": "RO",
-          "full_address": "PRECIS - Facultatea de Automatică și Calculatoare, Bulevardul Iuliu Maniu 6d, 061344 București, Romania",
-          "region_short": "București",
-          "short_address": "Bulevardul Iuliu Maniu 6d, București",
-          "place_coordinate": {
-            "latitude": 44.4349503,
-            "longitude": 26.0477617
-          },
-          "apple_maps_place_id": "IF53E664BC79286FC",
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 26.0477617,
-          "latitude": 44.4349503
-        },
-        "waitlist_enabled": true,
-        "waitlist_status": "active"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-5rq9QA5YL95KAdx",
-        "coordinate": {
-          "longitude": 26.1025384,
-          "latitude": 44.426767399999996
-        },
-        "description_short": "Computer Science and Engineering Departament, ACS, UPB",
-        "end_date": null,
-        "is_verified": false,
-        "location": {
-          "city": "Bucharest",
-          "region": null,
-          "country": "Romania",
-          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
-          "timezone": "Europe/Bucharest",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": null,
-              "country": "România"
-            }
-          },
-          "country_code": "RO"
-        },
-        "name": "cs.pub.ro",
-        "personal_user_api_id": null,
-        "sends_unlocked_at": null,
-        "slug": "cs-pub-ro",
-        "start_date": null,
-        "website": null,
-        "is_personal": false,
-        "personal_user": null,
-        "timezone": "Europe/Bucharest"
-      },
-      "start_at": "2026-10-29T10:00:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-ovDjaNkzqExjDvL",
-          "name": "Razvan Deaconescu",
-          "username": "razvandeaconesc"
-        },
-        {
-          "api_id": "usr-kW9PhejnPaUBfYZ",
-          "name": "Ioan Herișanu",
-          "username": null
-        }
-      ],
-      "guest_count": 30,
-      "ticket_count": 30,
-      "ticket_info": {
-        "price": null,
-        "is_free": true,
-        "max_price": null,
-        "is_sold_out": true,
-        "require_approval": false
-      },
-      "registration_availability": "waitlist",
-      "waitlist_active": true,
-      "featured_city": null
-    },
-    {
-      "api_id": "evt-vr2ifIRuR5CVFRA",
-      "event": {
-        "api_id": "evt-vr2ifIRuR5CVFRA",
-        "calendar_api_id": "cal-5rq9QA5YL95KAdx",
-        "end_at": "2026-10-29T14:00:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "Keysight-ACS Workshops: Introduction to Exploiting IP Camera Vulnerabilities",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": true,
-        "social_image_url": "https://images.lumacdn.com/event-social/t6/b89c8cd2-1b5b-484a-a441-249a6d8cefbe.png",
-        "start_at": "2026-10-29T12:00:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "n4rtvumt",
-        "user_api_id": "usr-ovDjaNkzqExjDvL",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "București",
-          "type": "google",
-          "region": "București",
-          "address": "PRECIS - Facultatea de Automatică și Calculatoare",
-          "country": "Romania",
-          "place_id": "ChIJdR9tSicBskAR3pwYQAAGLHE",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": "București",
-              "address": "PRECIS - Facultatea de Automatică și Calculatoare",
-              "country": "România",
-              "city_state": "București, România",
-              "sublocality": "Bucureşti Sectorul 6",
-              "full_address": "PRECIS - Facultatea de Automatică și Calculatoare, Bulevardul Iuliu Maniu 6d, 061344 București, România",
-              "region_short": "București",
-              "short_address": "Bulevardul Iuliu Maniu 6d, București"
-            }
-          },
-          "city_state": "București, Romania",
-          "description": "",
-          "sublocality": "Bucureşti Sectorul 6",
-          "country_code": "RO",
-          "full_address": "PRECIS - Facultatea de Automatică și Calculatoare, Bulevardul Iuliu Maniu 6d, 061344 București, Romania",
-          "region_short": "București",
-          "short_address": "Bulevardul Iuliu Maniu 6d, București",
-          "place_coordinate": {
-            "latitude": 44.4349503,
-            "longitude": 26.0477617
-          },
-          "apple_maps_place_id": "IF53E664BC79286FC",
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 26.0477617,
-          "latitude": 44.4349503
-        },
-        "waitlist_enabled": true,
-        "waitlist_status": "active"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-5rq9QA5YL95KAdx",
-        "coordinate": {
-          "longitude": 26.1025384,
-          "latitude": 44.426767399999996
-        },
-        "description_short": "Computer Science and Engineering Departament, ACS, UPB",
-        "end_date": null,
-        "is_verified": false,
-        "location": {
-          "city": "Bucharest",
-          "region": null,
-          "country": "Romania",
-          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
-          "timezone": "Europe/Bucharest",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": null,
-              "country": "România"
-            }
-          },
-          "country_code": "RO"
-        },
-        "name": "cs.pub.ro",
-        "personal_user_api_id": null,
-        "sends_unlocked_at": null,
-        "slug": "cs-pub-ro",
-        "start_date": null,
-        "website": null,
-        "is_personal": false,
-        "personal_user": null,
-        "timezone": "Europe/Bucharest"
-      },
-      "start_at": "2026-10-29T12:00:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-ovDjaNkzqExjDvL",
-          "name": "Razvan Deaconescu",
-          "username": "razvandeaconesc"
-        },
-        {
-          "api_id": "usr-9jERwNBSvirDj1X",
-          "name": "Mihaela Grăjdan",
-          "username": null
-        }
-      ],
-      "guest_count": 30,
-      "ticket_count": 30,
-      "ticket_info": {
-        "price": null,
-        "is_free": true,
-        "max_price": null,
-        "is_sold_out": true,
-        "require_approval": false
-      },
-      "registration_availability": "waitlist",
-      "waitlist_active": true,
-      "featured_city": null
-    },
-    {
-      "api_id": "evt-bpBSBiIxdeARTMU",
-      "event": {
-        "api_id": "evt-bpBSBiIxdeARTMU",
-        "calendar_api_id": "cal-5rq9QA5YL95KAdx",
-        "end_at": "2026-10-29T14:00:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "Keysight-ACS Workshops: Virtualization using the Command Line",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": true,
-        "social_image_url": "https://images.lumacdn.com/event-social/sz/066d389f-ece2-4a8a-a368-bfda986dbbb5.png",
-        "start_at": "2026-10-29T12:00:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "2ihx7d3z",
-        "user_api_id": "usr-ovDjaNkzqExjDvL",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "București",
-          "type": "google",
-          "region": "București",
-          "address": "PRECIS - Facultatea de Automatică și Calculatoare",
-          "country": "Romania",
-          "place_id": "ChIJdR9tSicBskAR3pwYQAAGLHE",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": "București",
-              "address": "PRECIS - Facultatea de Automatică și Calculatoare",
-              "country": "România",
-              "city_state": "București, România",
-              "sublocality": "Bucureşti Sectorul 6",
-              "full_address": "PRECIS - Facultatea de Automatică și Calculatoare, Bulevardul Iuliu Maniu 6d, 061344 București, România",
-              "region_short": "București",
-              "short_address": "Bulevardul Iuliu Maniu 6d, București"
-            }
-          },
-          "city_state": "București, Romania",
-          "description": "",
-          "sublocality": "Bucureşti Sectorul 6",
-          "country_code": "RO",
-          "full_address": "PRECIS - Facultatea de Automatică și Calculatoare, Bulevardul Iuliu Maniu 6d, 061344 București, Romania",
-          "region_short": "București",
-          "short_address": "Bulevardul Iuliu Maniu 6d, București",
-          "place_coordinate": {
-            "latitude": 44.4349503,
-            "longitude": 26.0477617
-          },
-          "apple_maps_place_id": "IF53E664BC79286FC",
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 26.0477617,
-          "latitude": 44.4349503
-        },
-        "waitlist_enabled": true,
-        "waitlist_status": "active"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-5rq9QA5YL95KAdx",
-        "coordinate": {
-          "longitude": 26.1025384,
-          "latitude": 44.426767399999996
-        },
-        "description_short": "Computer Science and Engineering Departament, ACS, UPB",
-        "end_date": null,
-        "is_verified": false,
-        "location": {
-          "city": "Bucharest",
-          "region": null,
-          "country": "Romania",
-          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
-          "timezone": "Europe/Bucharest",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": null,
-              "country": "România"
-            }
-          },
-          "country_code": "RO"
-        },
-        "name": "cs.pub.ro",
-        "personal_user_api_id": null,
-        "sends_unlocked_at": null,
-        "slug": "cs-pub-ro",
-        "start_date": null,
-        "website": null,
-        "is_personal": false,
-        "personal_user": null,
-        "timezone": "Europe/Bucharest"
-      },
-      "start_at": "2026-10-29T12:00:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-ovDjaNkzqExjDvL",
-          "name": "Razvan Deaconescu",
-          "username": "razvandeaconesc"
-        },
-        {
-          "api_id": "usr-w1AKkcu67K6kf2r",
-          "name": "Stefan Jumarea",
-          "username": null
-        }
-      ],
-      "guest_count": 25,
-      "ticket_count": 25,
-      "ticket_info": {
-        "price": null,
-        "is_free": true,
-        "max_price": null,
-        "is_sold_out": true,
-        "require_approval": false
-      },
-      "registration_availability": "waitlist",
-      "waitlist_active": true,
-      "featured_city": null
-    },
-    {
       "api_id": "evt-B3NLw12hSWGFijc",
       "event": {
         "api_id": "evt-B3NLw12hSWGFijc",
@@ -712,8 +105,8 @@
           "username": "WIT_Romania"
         }
       ],
-      "guest_count": 71,
-      "ticket_count": 71,
+      "guest_count": 68,
+      "ticket_count": 68,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -840,8 +233,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 24,
-      "ticket_count": 24,
+      "guest_count": 38,
+      "ticket_count": 38,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1099,8 +492,8 @@
           "username": "brandient"
         }
       ],
-      "guest_count": 193,
-      "ticket_count": 193,
+      "guest_count": 228,
+      "ticket_count": 228,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1599,8 +992,8 @@
           "username": null
         }
       ],
-      "guest_count": 23,
-      "ticket_count": 23,
+      "guest_count": 24,
+      "ticket_count": 24,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1705,8 +1098,8 @@
           "username": null
         }
       ],
-      "guest_count": 104,
-      "ticket_count": 104,
+      "guest_count": 106,
+      "ticket_count": 106,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1823,8 +1216,8 @@
           "username": "readingcorner"
         }
       ],
-      "guest_count": 105,
-      "ticket_count": 105,
+      "guest_count": 102,
+      "ticket_count": 102,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2063,8 +1456,8 @@
           "username": null
         }
       ],
-      "guest_count": 30,
-      "ticket_count": 30,
+      "guest_count": 31,
+      "ticket_count": 31,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2445,8 +1838,8 @@
           "username": "Holo_community3"
         }
       ],
-      "guest_count": 11,
-      "ticket_count": 11,
+      "guest_count": 12,
+      "ticket_count": 12,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3161,8 +2554,8 @@
           "username": "TheSpinningEra"
         }
       ],
-      "guest_count": 7,
-      "ticket_count": 7,
+      "guest_count": 9,
+      "ticket_count": 9,
       "ticket_info": {
         "price": {
           "cents": 11700,
@@ -3535,8 +2928,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 7,
-      "ticket_count": 7,
+      "guest_count": 8,
+      "ticket_count": 8,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3610,7 +3003,7 @@
           "latitude": 44.436213699999996
         },
         "waitlist_enabled": true,
-        "waitlist_status": "enabled"
+        "waitlist_status": "active"
       },
       "calendar": {
         "access_level": "public",
@@ -3655,8 +3048,8 @@
           "username": "GeorgianaVlades"
         }
       ],
-      "guest_count": 18,
-      "ticket_count": 18,
+      "guest_count": 24,
+      "ticket_count": 24,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3785,8 +3178,8 @@
           "username": "antoniohus"
         }
       ],
-      "guest_count": 61,
-      "ticket_count": 61,
+      "guest_count": 68,
+      "ticket_count": 68,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3915,14 +3308,128 @@
           "username": null
         }
       ],
-      "guest_count": 44,
-      "ticket_count": 44,
+      "guest_count": 63,
+      "ticket_count": 63,
       "ticket_info": {
         "price": null,
         "is_free": true,
         "max_price": null,
         "is_sold_out": false,
         "require_approval": true
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-k7mjiAVZSJjgkAe",
+      "event": {
+        "api_id": "evt-k7mjiAVZSJjgkAe",
+        "calendar_api_id": "cal-akICwbG2qAnvNc7",
+        "end_at": "2026-11-05T16:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Marketing fără buget în 2027",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/8u/7ee4bc07-bdf5-4151-9d9d-06db79837dd3.png",
+        "start_at": "2026-11-05T14:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "g4t75pgr",
+        "user_api_id": "usr-ja4te9d1Fyls13S",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Saint Roastery Botanica",
+          "country": "Romania",
+          "place_id": "ChIJE3VDOQABskAR1R2-rp7z6Rc",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Saint Roastery Botanica",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Bucureşti Sectorul 6",
+              "full_address": "Saint Roastery Botanica, Calea Plevnei 159, 060014 București, România",
+              "region_short": "București",
+              "short_address": "Calea Plevnei 159, București"
+            },
+            "en-GB": {
+              "city": "București",
+              "region": "București",
+              "address": "Saint Roastery Botanica",
+              "country": "Romania",
+              "city_state": "București, Romania",
+              "sublocality": "Bucureşti Sectorul 6",
+              "full_address": "Saint Roastery Botanica, Calea Plevnei 159, 060014 București, Romania",
+              "region_short": "București",
+              "short_address": "Calea Plevnei 159, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Bucureşti Sectorul 6",
+          "country_code": "RO",
+          "full_address": "Saint Roastery Botanica, Calea Plevnei 159, 060014 București, Romania",
+          "region_short": "București",
+          "short_address": "Calea Plevnei 159, București",
+          "place_coordinate": {
+            "latitude": 44.4458451,
+            "longitude": 26.064879899999998
+          },
+          "apple_maps_place_id": "ICDC33FC2373850E4",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.064879899999998,
+          "latitude": 44.4458451
+        },
+        "waitlist_enabled": true,
+        "waitlist_status": "enabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-akICwbG2qAnvNc7",
+        "coordinate": null,
+        "description_short": "",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "STOICA.CO",
+        "personal_user_api_id": null,
+        "sends_unlocked_at": "2025-11-12T10:57:06.664Z",
+        "slug": "stoica.co",
+        "start_date": null,
+        "website": "https://stoica.co/",
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-11-05T14:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-ja4te9d1Fyls13S",
+          "name": "Andrei Stoica",
+          "username": "stoica"
+        }
+      ],
+      "guest_count": 4,
+      "ticket_count": 4,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
       },
       "registration_availability": "open",
       "waitlist_active": false,
@@ -4257,8 +3764,8 @@
           "username": null
         }
       ],
-      "guest_count": 7,
-      "ticket_count": 7,
+      "guest_count": 8,
+      "ticket_count": 8,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -4489,8 +3996,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 6,
-      "ticket_count": 6,
+      "guest_count": 8,
+      "ticket_count": 8,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -5316,8 +4823,8 @@
           "username": null
         }
       ],
-      "guest_count": 54,
-      "ticket_count": 54,
+      "guest_count": 55,
+      "ticket_count": 55,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -5888,6 +5395,118 @@
         "max_price": null,
         "is_sold_out": false,
         "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-tAKvVw6QKyn6Y86",
+      "event": {
+        "api_id": "evt-tAKvVw6QKyn6Y86",
+        "calendar_api_id": "cal-eEPUtVThmrZVBDe",
+        "end_at": "2026-11-14T19:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Healing Drum Circle",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/7u/c33f8661-c800-4f92-b22a-d63c045aa1e6.png",
+        "start_at": "2026-11-14T17:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "x0tl3qtu",
+        "user_api_id": "usr-P2ITLpdxG8vpPM6",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Matka Studio",
+          "country": "Romania",
+          "place_id": "ChIJb7ytYYn_sUARkPgwkfrEF2M",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Matka Studio",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Sectorul 2",
+              "full_address": "Matka Studio, Intrarea General Grigore Ipătescu 6, 030167 București, România",
+              "region_short": "București",
+              "short_address": "Intrarea General Grigore Ipătescu 6, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Sectorul 2",
+          "country_code": "RO",
+          "full_address": "Matka Studio, Intrarea General Grigore Ipătescu 6, 030167 București, Romania",
+          "region_short": "București",
+          "short_address": "Intrarea General Grigore Ipătescu 6, București",
+          "place_coordinate": {
+            "latitude": 44.440130599999996,
+            "longitude": 26.1175699
+          },
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.1175699,
+          "latitude": 44.440130599999996
+        },
+        "waitlist_enabled": true,
+        "waitlist_status": "enabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-eEPUtVThmrZVBDe",
+        "coordinate": null,
+        "description_short": null,
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Personal",
+        "personal_user_api_id": "usr-P2ITLpdxG8vpPM6",
+        "sends_unlocked_at": null,
+        "slug": null,
+        "start_date": null,
+        "website": null,
+        "is_personal": true,
+        "personal_user": {
+          "api_id": "usr-P2ITLpdxG8vpPM6",
+          "name": "Sarah Samira Natour",
+          "username": null
+        },
+        "timezone": null
+      },
+      "start_at": "2026-11-14T17:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-P2ITLpdxG8vpPM6",
+          "name": "Sarah Samira Natour",
+          "username": null
+        },
+        {
+          "api_id": "usr-QeiUxeJuxcywBKr",
+          "name": "Resonatika",
+          "username": "resonatika"
+        }
+      ],
+      "guest_count": 5,
+      "ticket_count": 5,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": true
       },
       "registration_availability": "open",
       "waitlist_active": false,
@@ -6754,14 +6373,122 @@
           "username": null
         }
       ],
-      "guest_count": 10,
-      "ticket_count": 10,
+      "guest_count": 14,
+      "ticket_count": 14,
       "ticket_info": {
         "price": null,
         "is_free": true,
         "max_price": null,
         "is_sold_out": false,
         "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-5WBFGiNOXYOCatN",
+      "event": {
+        "api_id": "evt-5WBFGiNOXYOCatN",
+        "calendar_api_id": "cal-rtsUI6UsGuoRZfP",
+        "end_at": "2026-11-26T18:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "You & the CEO #9",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/nz/95524b82-1bf0-4313-9d5b-267f831f2bfc.png",
+        "start_at": "2026-11-26T14:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "x5ftqmnn",
+        "user_api_id": "usr-qjoHm8ksCx8hWF2",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Bulevardul Tudor Vladimirescu 22",
+          "country": "Romania",
+          "place_id": "EjVCdWxldmFyZHVsIFR1ZG9yIFZsYWRpbWlyZXNjdSAyMiwgQnVjdXJlyJl0aSwgUm9tYW5pYSIwEi4KFAoSCalbckB0_7FAEUWJ0vqW57IqEBYqFAoSCU-HVxJ6_7FAEaYkOcOBSIyx",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Bulevardul Tudor Vladimirescu 22",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Bucureşti Sectorul 5",
+              "full_address": "Bulevardul Tudor Vladimirescu 22, București, România",
+              "region_short": "București",
+              "short_address": "Bulevardul Tudor Vladimirescu 22, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Bucureşti Sectorul 5",
+          "country_code": "RO",
+          "full_address": "Bulevardul Tudor Vladimirescu 22, București, Romania",
+          "region_short": "București",
+          "short_address": "Bulevardul Tudor Vladimirescu 22, București",
+          "place_coordinate": {
+            "latitude": 44.419121499999996,
+            "longitude": 26.0799558
+          },
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.0799558,
+          "latitude": 44.419121499999996
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-rtsUI6UsGuoRZfP",
+        "coordinate": null,
+        "description_short": "",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Salestrust Events",
+        "personal_user_api_id": null,
+        "sends_unlocked_at": "2025-06-04T08:00:42.193Z",
+        "slug": null,
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-11-26T14:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-qjoHm8ksCx8hWF2",
+          "name": "Madalina Vechiu",
+          "username": "Salestrust"
+        },
+        {
+          "api_id": "usr-nrafq43CBwGbZXG",
+          "name": "Alina Vlad",
+          "username": null
+        }
+      ],
+      "guest_count": 13,
+      "ticket_count": 13,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": true
       },
       "registration_availability": "open",
       "waitlist_active": false,
@@ -6861,8 +6588,8 @@
           "username": null
         }
       ],
-      "guest_count": 10,
-      "ticket_count": 10,
+      "guest_count": 13,
+      "ticket_count": 13,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -7085,8 +6812,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 195,
-      "ticket_count": 195,
+      "guest_count": 196,
+      "ticket_count": 196,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -7514,8 +7241,8 @@
           "username": null
         }
       ],
-      "guest_count": 0,
-      "ticket_count": 0,
+      "guest_count": 1,
+      "ticket_count": 1,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -10245,8 +9972,8 @@
           "username": "teodorapamfile"
         }
       ],
-      "guest_count": 8,
-      "ticket_count": 8,
+      "guest_count": 10,
+      "ticket_count": 10,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -10375,8 +10102,8 @@
           "username": null
         }
       ],
-      "guest_count": 3,
-      "ticket_count": 3,
+      "guest_count": 4,
+      "ticket_count": 4,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -10500,8 +10227,8 @@
           "username": "alexstanciu"
         }
       ],
-      "guest_count": 22,
-      "ticket_count": 22,
+      "guest_count": 24,
+      "ticket_count": 24,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -10630,8 +10357,8 @@
           "username": null
         }
       ],
-      "guest_count": 4,
-      "ticket_count": 4,
+      "guest_count": 5,
+      "ticket_count": 5,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -10890,8 +10617,8 @@
           "username": null
         }
       ],
-      "guest_count": 1,
-      "ticket_count": 1,
+      "guest_count": 3,
+      "ticket_count": 3,
       "ticket_info": {
         "price": null,
         "is_free": true,

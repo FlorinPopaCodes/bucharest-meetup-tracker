@@ -17,16 +17,16 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `14:00` [Keysight-ACS Workshops: Virtualization using the Command Line](https://lu.ma/2ihx7d3z)  
   <sub>Razvan Deaconescu · 25 de participanți</sub>
 - `17:45` [Beyond AI: The Future of Careers in Tech](https://lu.ma/g15jg9s7)  
-  <sub>Women in Tech Romania · 71 de participanți</sub>
+  <sub>Women in Tech Romania · 68 de participanți</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S24E06](https://lu.ma/blo71xh0)  
-  <sub>321sport · 24 de participanți</sub>
+  <sub>321sport · 38 de participanți</sub>
 - `19:00` [DevNight#10: AI in UX Research](https://lu.ma/ctoaea3p)  
   <sub>Oprea Matei</sub>
 
 ### Vineri, 30 octombrie
 
 - `11:00` [Brandient 24](https://lu.ma/i8z0mzt6)  
-  <sub>Brandient · 193 de participanți</sub>
+  <sub>Brandient · 228 de participanți</sub>
 - `12:00` [Keysight-ACS Workshops: Accelerating High-Performance Networking with GPUs](https://lu.ma/0uorm28d)  
   <sub>Razvan Deaconescu · 25 de participanți</sub>
 - `12:00` [Keysight-ACS Workshops: AI Writes the Code. Who Owns the Bugs? Software Development, Cybersecurity, and the EU CRA in the Age of AI](https://lu.ma/7rrwf86g)  
@@ -34,26 +34,26 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `14:00` [Keysight-ACS Workshops: Introduction to Exploiting IP Camera Vulnerabilities](https://lu.ma/53squh3c)  
   <sub>Razvan Deaconescu · 30 de participanți</sub>
 - `14:00` [Keysight-ACS Workshops: Virtualization using the Command Line](https://lu.ma/fdemi3ca)  
-  <sub>Razvan Deaconescu · 23 de participanți</sub>
+  <sub>Razvan Deaconescu · 24 de participanți</sub>
 - `17:00` [Grok Bot Bucharest Meetup](https://lu.ma/spacexai-226s)  
-  <sub>Sergei Chyrkov · 104 de participanți</sub>
+  <sub>Sergei Chyrkov · 106 de participanți</sub>
 - `20:00` [reading & Halloween corner, chapter #60](https://lu.ma/fnuvspr3)  
-  <sub>reading corner · 105 de participanți</sub>
+  <sub>reading corner · 102 de participanți</sub>
 - `20:00` [THE SQUARE Queen’s Gambit Evening](https://lu.ma/gxejlb6k)  
   <sub>THE SQUARE Chess Club</sub>
 
 ### Sâmbătă, 31 octombrie
 
 - `10:00` [Trick or gel?👻](https://lu.ma/wvmd4agv)  
-  <sub>FOMO Urban Running Club · 30 de participanți</sub>
+  <sub>FOMO Urban Running Club · 31 de participanți</sub>
 - `13:00` [🎃 Movie Club #4: Coraline \| Halloween Edition \| #21](https://lu.ma/nht1ykoj)  
   <sub>izabelle · 12 participanți</sub>
 - `14:00` [Cafeaua De Sâmbăta #31 \| Bucuresti](https://lu.ma/iym0cxwy)  
-  <sub>Ionut Alexandru Stanciu · 22 de participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 24 de participanți</sub>
 - `15:00` [Midnights Ride: A Taylor Swift-Themed Indoor Cycling Experience - #1](https://lu.ma/ws29czl9)  
   <sub>The Spinning Era · 13 participanți</sub>
 - `16:00` [No Tricks Just Reps](https://lu.ma/it6fu6o3)  
-  <sub>Holo Community · 11 participanți</sub>
+  <sub>Holo Community · 12 participanți</sub>
 - `17:00` [Midnights Ride: A Taylor Swift-Themed Indoor Cycling Experience - #2](https://lu.ma/b2qbyos7)  
   <sub>The Spinning Era · 12 participanți</sub>
 
@@ -66,13 +66,13 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/wldj0ifk)  
   <sub>Irina Tenovici · 2 participanți</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/4c75dbwa)  
-  <sub>Nicoleta Ifrim</sub>
+  <sub>Nicoleta Ifrim · 1 participant</sub>
 - `15:00` [Midnights Ride: A Taylor Swift-Themed Indoor Cycling Experience - #3](https://lu.ma/g8dp2u89)  
   <sub>The Spinning Era · 13 participanți</sub>
 - `16:00` [🎬 Pauza de cafea… între fete \| Ediție specială ☕️🍿🎃](https://lu.ma/7k9bflf6)  
   <sub>Mihailescu Floriana Elena · 16 participanți</sub>
 - `17:00` [Midnights Ride: A Taylor Swift-Themed Indoor Cycling Experience - #4](https://lu.ma/nj39mcsz)  
-  <sub>The Spinning Era · 7 participanți</sub>
+  <sub>The Spinning Era · 9 participanți</sub>
 - `19:00` [You Can Paint&sip With Us Twilight Edition](https://lu.ma/6mmz3a8r)  
   <sub>Laura Rosia · 5 participanți</sub>
 
@@ -84,27 +84,29 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Marți, 3 noiembrie
 
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S24E07](https://lu.ma/znw0tmlf)  
-  <sub>321sport · 7 participanți</sub>
+  <sub>321sport · 8 participanți</sub>
 
 ### Miercuri, 4 noiembrie
 
 - `18:00` [Agentic loops and graphs - Formidable Builders x Stripe](https://lu.ma/k9buxy6i)  
-  <sub>Gabriel Moncha · 61 de participanți</sub>
+  <sub>Gabriel Moncha · 68 de participanți</sub>
 - `18:30` [Let's Talk AI! #6](https://lu.ma/fy0eflpy)  
-  <sub>Let's Talk AI · 44 de participanți</sub>
+  <sub>Let's Talk AI · 63 de participanți</sub>
 
 ### Joi, 5 noiembrie
 
+- `16:00` [Marketing fără buget în 2027](https://lu.ma/g4t75pgr)  
+  <sub>Andrei Stoica · 4 participanți</sub>
 - `18:30` [Bucharest Evo VC & Startups Social](https://lu.ma/sp9dlut1)  
   <sub>Gozel Akeyeva</sub>
 - `18:30` [Off the record #2 • Discuții sincere pentru oameni de marketing](https://lu.ma/jy2rf2po)  
   <sub>Teodora Ionescu · 18 participanți</sub>
 - `18:30` [Prompt 3: Build an AI product tonight](https://lu.ma/7xq77jo5)  
-  <sub>Anna Mera · 7 participanți</sub>
+  <sub>Anna Mera · 8 participanți</sub>
 - `18:30` [The AI SOCIAL: presented by AI Collective Bucharest & Beta Nights by ambasada](https://lu.ma/ai-social)  
   <sub>The AI Collective</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S24E08](https://lu.ma/75999he5)  
-  <sub>321sport · 6 participanți</sub>
+  <sub>321sport · 8 participanți</sub>
 - `19:00` [Wine & Painting](https://lu.ma/hpdclt72)  
   <sub>Career Shift</sub>
 
@@ -134,7 +136,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `08:30` [RoFintech Breakfast hosted by Token Payment Solutions](https://lu.ma/i8lmct7p)  
   <sub>Adrian Drinceanu</sub>
 - `18:00` [AI vs. AI: Fighting machine threats with intelligent defense.](https://lu.ma/axdu3mox)  
-  <sub>Lucian Popovici · 54 de participanți</sub>
+  <sub>Lucian Popovici · 55 de participanți</sub>
 - `18:30` [EIS Talks #2: How Sustainable Are Our Future Careers?](https://lu.ma/oyrmla8k)  
   <sub>Ioana Mihăilescu · 19 participanți</sub>
 
