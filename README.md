@@ -17,24 +17,24 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `16:00` [No Tricks Just Reps](https://lu.ma/it6fu6o3)  
   <sub>Holo Community · 17 participanți</sub>
 - `17:00` [Midnights Ride: A Taylor Swift-Themed Indoor Cycling Experience - #2](https://lu.ma/b2qbyos7)  
-  <sub>The Spinning Era · 10 participanți</sub>
+  <sub>The Spinning Era · 11 participanți</sub>
 
 ### Duminică, 1 noiembrie
 
 - `09:00` [PAS CU SENS X 10k Pași Parc Lumea Copiilor](https://lu.ma/tdis1sjm)  
-  <sub>Brezae Adela · 4 participanți</sub>
+  <sub>Brezae Adela · 5 participanți</sub>
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/iwg9dmr4)  
-  <sub>Emily Merdus · 18 participanți</sub>
+  <sub>Emily Merdus · 25 de participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/wldj0ifk)  
-  <sub>Irina Tenovici · 7 participanți</sub>
+  <sub>Irina Tenovici · 9 participanți</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/4c75dbwa)  
-  <sub>Nicoleta Ifrim · 3 participanți</sub>
+  <sub>Nicoleta Ifrim · 4 participanți</sub>
 - `15:00` [Midnights Ride: A Taylor Swift-Themed Indoor Cycling Experience - #3](https://lu.ma/g8dp2u89)  
-  <sub>The Spinning Era · 13 participanți</sub>
+  <sub>The Spinning Era · 14 participanți</sub>
 - `16:00` [🎬 Pauza de cafea… între fete \| Ediție specială ☕️🍿🎃](https://lu.ma/7k9bflf6)  
-  <sub>Mihailescu Floriana Elena · 22 de participanți</sub>
+  <sub>Mihailescu Floriana Elena · 26 de participanți</sub>
 - `17:00` [Midnights Ride: A Taylor Swift-Themed Indoor Cycling Experience - #4](https://lu.ma/nj39mcsz)  
-  <sub>The Spinning Era · 10 participanți</sub>
+  <sub>The Spinning Era · 13 participanți</sub>
 - `19:00` [You Can Paint&sip With Us Twilight Edition](https://lu.ma/6mmz3a8r)  
   <sub>Laura Rosia · 5 participanți</sub>
 
@@ -42,6 +42,8 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 - `07:30` [AI Expo Europe - Run & Talk by Pitch in Motion](https://lu.ma/zkumf59u)  
   <sub>Etienne Bourdon · 21 de participanți</sub>
+- `19:30` [MONDAY QUIZMANIA - INDOORS @ T5](https://lu.ma/ypznuwob)  
+  <sub>T5 Social · 3 participanți</sub>
 
 ### Marți, 3 noiembrie
 
@@ -51,18 +53,18 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Miercuri, 4 noiembrie
 
 - `18:00` [Agentic loops and graphs - Formidable Builders x Stripe](https://lu.ma/k9buxy6i)  
-  <sub>Gabriel Moncha · 78 de participanți</sub>
+  <sub>Gabriel Moncha · 79 de participanți</sub>
 - `18:00` [RBC #419 \| DE CE UNII CLIENȚI CER DOAR PREȚUL, IAR ALȚII VOR SĂ LUCREZE CU TINE? \| Alin Ioan Crețu](https://lu.ma/3u9w2esn)  
   <sub>Teodora Nicolaiciuc</sub>
 - `18:30` [Let's Talk AI! #6](https://lu.ma/fy0eflpy)  
-  <sub>Let's Talk AI · 74 de participanți</sub>
+  <sub>Let's Talk AI · 79 de participanți</sub>
 - `18:30` [THE SQUARE Social Chess @Cărturești Carusel](https://lu.ma/w67cmln0)  
   <sub>THE SQUARE Chess Club</sub>
 
 ### Joi, 5 noiembrie
 
 - `16:00` [Marketing fără buget în 2027](https://lu.ma/g4t75pgr)  
-  <sub>Andrei Stoica · 13 participanți</sub>
+  <sub>Andrei Stoica · 15 participanți</sub>
 - `18:30` [Bucharest Evo VC & Startups Social](https://lu.ma/sp9dlut1)  
   <sub>Gozel Akeyeva</sub>
 - `18:30` [Off the record #2 • Discuții sincere pentru oameni de marketing](https://lu.ma/jy2rf2po)  
@@ -72,7 +74,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:30` [The AI SOCIAL: presented by AI Collective Bucharest & Beta Nights by ambasada](https://lu.ma/ai-social)  
   <sub>The AI Collective</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S24E08](https://lu.ma/75999he5)  
-  <sub>321sport · 9 participanți</sub>
+  <sub>321sport · 12 participanți</sub>
 - `19:00` [Wine & Painting](https://lu.ma/hpdclt72)  
   <sub>Career Shift</sub>
 
@@ -81,7 +83,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `13:00` [Lansare de carte - Pisica Pix în vizită la București](https://lu.ma/onktlt4h)  
   <sub>Ina German · 22 de participanți</sub>
 - `16:00` [DevNight Brainstorm 🧠](https://lu.ma/0raib6um)  
-  <sub>Bogdan Iasinovschi · 12 participanți</sub>
+  <sub>Bogdan Iasinovschi · 23 de participanți</sub>
 
 ### Duminică, 8 noiembrie
 
