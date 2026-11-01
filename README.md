@@ -4,31 +4,16 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Sâmbătă, 31 octombrie
-
-- `10:00` [Spooky Quiz 👻](https://lu.ma/wvmd4agv)  
-  <sub>FOMO Urban Running Club · 35 de participanți</sub>
-- `13:00` [🎃 Movie Club #4: Coraline \| Halloween Edition \| #21](https://lu.ma/nht1ykoj)  
-  <sub>izabelle · 13 participanți</sub>
-- `14:00` [Cafeaua De Sâmbăta #31 \| Bucuresti](https://lu.ma/iym0cxwy)  
-  <sub>Ionut Alexandru Stanciu · 35 de participanți</sub>
-- `15:00` [Midnights Ride: A Taylor Swift-Themed Indoor Cycling Experience - #1](https://lu.ma/ws29czl9)  
-  <sub>The Spinning Era · 13 participanți</sub>
-- `16:00` [No Tricks Just Reps](https://lu.ma/it6fu6o3)  
-  <sub>Holo Community · 17 participanți</sub>
-- `17:00` [Midnights Ride: A Taylor Swift-Themed Indoor Cycling Experience - #2](https://lu.ma/b2qbyos7)  
-  <sub>The Spinning Era · 11 participanți</sub>
-
 ### Duminică, 1 noiembrie
 
 - `09:00` [PAS CU SENS X 10k Pași Parc Lumea Copiilor](https://lu.ma/tdis1sjm)  
-  <sub>Brezae Adela · 5 participanți</sub>
+  <sub>Brezae Adela · 6 participanți</sub>
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/iwg9dmr4)  
   <sub>Emily Merdus · 25 de participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/wldj0ifk)  
-  <sub>Irina Tenovici · 9 participanți</sub>
+  <sub>Irina Tenovici · 10 participanți</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/4c75dbwa)  
-  <sub>Nicoleta Ifrim · 4 participanți</sub>
+  <sub>Nicoleta Ifrim · 7 participanți</sub>
 - `15:00` [Midnights Ride: A Taylor Swift-Themed Indoor Cycling Experience - #3](https://lu.ma/g8dp2u89)  
   <sub>The Spinning Era · 14 participanți</sub>
 - `16:00` [🎬 Pauza de cafea… între fete \| Ediție specială ☕️🍿🎃](https://lu.ma/7k9bflf6)  
@@ -41,7 +26,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Luni, 2 noiembrie
 
 - `07:30` [AI Expo Europe - Run & Talk by Pitch in Motion](https://lu.ma/zkumf59u)  
-  <sub>Etienne Bourdon · 21 de participanți</sub>
+  <sub>Etienne Bourdon · 26 de participanți</sub>
 - `19:30` [MONDAY QUIZMANIA - INDOORS @ T5](https://lu.ma/ypznuwob)  
   <sub>T5 Social · 3 participanți</sub>
 
@@ -57,7 +42,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:00` [RBC #419 \| DE CE UNII CLIENȚI CER DOAR PREȚUL, IAR ALȚII VOR SĂ LUCREZE CU TINE? \| Alin Ioan Crețu](https://lu.ma/3u9w2esn)  
   <sub>Teodora Nicolaiciuc</sub>
 - `18:30` [Let's Talk AI! #6](https://lu.ma/fy0eflpy)  
-  <sub>Let's Talk AI · 79 de participanți</sub>
+  <sub>Let's Talk AI · 80 de participanți</sub>
 - `18:30` [THE SQUARE Social Chess @Cărturești Carusel](https://lu.ma/w67cmln0)  
   <sub>THE SQUARE Chess Club</sub>
 
@@ -70,7 +55,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:30` [Off the record #2 • Discuții sincere pentru oameni de marketing](https://lu.ma/jy2rf2po)  
   <sub>Teodora Ionescu · 19 participanți</sub>
 - `18:30` [Prompt 3: Build an AI product tonight](https://lu.ma/7xq77jo5)  
-  <sub>Anna Mera · 8 participanți</sub>
+  <sub>Anna Mera · 9 participanți</sub>
 - `18:30` [The AI SOCIAL: presented by AI Collective Bucharest & Beta Nights by ambasada](https://lu.ma/ai-social)  
   <sub>The AI Collective</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S24E08](https://lu.ma/75999he5)  
@@ -83,7 +68,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `13:00` [Lansare de carte - Pisica Pix în vizită la București](https://lu.ma/onktlt4h)  
   <sub>Ina German · 22 de participanți</sub>
 - `16:00` [DevNight Brainstorm 🧠](https://lu.ma/0raib6um)  
-  <sub>Bogdan Iasinovschi · 23 de participanți</sub>
+  <sub>Bogdan Iasinovschi · 25 de participanți</sub>
 
 ### Duminică, 8 noiembrie
 
@@ -106,7 +91,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `08:30` [RoFintech Breakfast hosted by Token Payment Solutions](https://lu.ma/i8lmct7p)  
   <sub>Adrian Drinceanu</sub>
 - `18:00` [AI vs. AI: Fighting machine threats with intelligent defense.](https://lu.ma/axdu3mox)  
-  <sub>Lucian Popovici · 59 de participanți</sub>
+  <sub>Lucian Popovici · 61 de participanți</sub>
 - `18:30` [EIS Talks #2: How Sustainable Are Our Future Careers?](https://lu.ma/oyrmla8k)  
   <sub>Ioana Mihăilescu · 22 de participanți</sub>
 
@@ -131,15 +116,24 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `19:00` [Healing Drum Circle](https://lu.ma/x0tl3qtu)  
   <sub>Sarah Samira Natour · 5 participanți</sub>
 
+### Duminică, 15 noiembrie
+
+- `09:00` [Tura de duminică Herăstrău](https://lu.ma/eqef0llg)  
+  <sub>Emily Merdus</sub>
+- `09:00` [Tura de duminică I.O.R.](https://lu.ma/hxuz0o4n)  
+  <sub>Irina Tenovici</sub>
+- `09:00` [Tura de duminică Tineretului](https://lu.ma/su8el0l4)  
+  <sub>Nicoleta Ifrim</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-31)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-01)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-31)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-01)
 
 ## Despre
 
@@ -153,4 +147,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 31 octombrie 2026*
+*Actualizat: 1 noiembrie 2026*
