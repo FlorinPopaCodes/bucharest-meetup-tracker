@@ -17,18 +17,18 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `15:00` [Midnights Ride: A Taylor Swift-Themed Indoor Cycling Experience - #3](https://lu.ma/g8dp2u89)  
   <sub>The Spinning Era · 14 participanți</sub>
 - `16:00` [🎬 Pauza de cafea… între fete \| Ediție specială ☕️🍿🎃](https://lu.ma/7k9bflf6)  
-  <sub>Mihailescu Floriana Elena · 26 de participanți</sub>
+  <sub>Mihailescu Floriana Elena · 24 de participanți</sub>
 - `17:00` [Midnights Ride: A Taylor Swift-Themed Indoor Cycling Experience - #4](https://lu.ma/nj39mcsz)  
-  <sub>The Spinning Era · 13 participanți</sub>
+  <sub>The Spinning Era · 14 participanți</sub>
 - `19:00` [You Can Paint&sip With Us Twilight Edition](https://lu.ma/6mmz3a8r)  
   <sub>Laura Rosia · 5 participanți</sub>
 
 ### Luni, 2 noiembrie
 
 - `07:30` [AI Expo Europe - Run & Talk by Pitch in Motion](https://lu.ma/zkumf59u)  
-  <sub>Etienne Bourdon · 26 de participanți</sub>
+  <sub>Etienne Bourdon · 27 de participanți</sub>
 - `19:30` [MONDAY QUIZMANIA - INDOORS @ T5](https://lu.ma/ypznuwob)  
-  <sub>T5 Social · 3 participanți</sub>
+  <sub>T5 Social · 7 participanți</sub>
 
 ### Marți, 3 noiembrie
 
@@ -42,18 +42,20 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:00` [RBC #419 \| DE CE UNII CLIENȚI CER DOAR PREȚUL, IAR ALȚII VOR SĂ LUCREZE CU TINE? \| Alin Ioan Crețu](https://lu.ma/3u9w2esn)  
   <sub>Teodora Nicolaiciuc</sub>
 - `18:30` [Let's Talk AI! #6](https://lu.ma/fy0eflpy)  
-  <sub>Let's Talk AI · 80 de participanți</sub>
+  <sub>Let's Talk AI · 85 de participanți</sub>
 - `18:30` [THE SQUARE Social Chess @Cărturești Carusel](https://lu.ma/w67cmln0)  
   <sub>THE SQUARE Chess Club</sub>
+- `19:00` [PULSE #61 - Muv it Or Lose it - QUIZ NIGHT](https://lu.ma/buh2c1am)  
+  <sub>MuvOutside · 25 de participanți</sub>
 
 ### Joi, 5 noiembrie
 
 - `16:00` [Marketing fără buget în 2027](https://lu.ma/g4t75pgr)  
-  <sub>Andrei Stoica · 15 participanți</sub>
+  <sub>Andrei Stoica · 16 participanți</sub>
 - `18:30` [Bucharest Evo VC & Startups Social](https://lu.ma/sp9dlut1)  
   <sub>Gozel Akeyeva</sub>
 - `18:30` [Off the record #2 • Discuții sincere pentru oameni de marketing](https://lu.ma/jy2rf2po)  
-  <sub>Teodora Ionescu · 19 participanți</sub>
+  <sub>Teodora Ionescu · 21 de participanți</sub>
 - `18:30` [Prompt 3: Build an AI product tonight](https://lu.ma/7xq77jo5)  
   <sub>Anna Mera · 9 participanți</sub>
 - `18:30` [The AI SOCIAL: presented by AI Collective Bucharest & Beta Nights by ambasada](https://lu.ma/ai-social)  
@@ -68,16 +70,16 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `13:00` [Lansare de carte - Pisica Pix în vizită la București](https://lu.ma/onktlt4h)  
   <sub>Ina German · 22 de participanți</sub>
 - `16:00` [DevNight Brainstorm 🧠](https://lu.ma/0raib6um)  
-  <sub>Bogdan Iasinovschi · 25 de participanți</sub>
+  <sub>Bogdan Iasinovschi · 26 de participanți</sub>
 
 ### Duminică, 8 noiembrie
 
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/si999eim)  
-  <sub>Emily Merdus · 2 participanți</sub>
+  <sub>Emily Merdus · 3 participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/ll9a9ja5)  
   <sub>Irina Tenovici</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/pb96q8r1)  
-  <sub>Nicoleta Ifrim · 1 participant</sub>
+  <sub>Nicoleta Ifrim · 3 participanți</sub>
 
 ### Marți, 10 noiembrie
 
@@ -119,7 +121,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 15 noiembrie
 
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/eqef0llg)  
-  <sub>Emily Merdus</sub>
+  <sub>Emily Merdus · 1 participant</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/hxuz0o4n)  
   <sub>Irina Tenovici</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/su8el0l4)  
