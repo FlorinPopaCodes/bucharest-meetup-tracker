@@ -1,136 +1,13 @@
 {
   "geo": [
     {
-      "api_id": "evt-reNzRisEWmqcVj7",
-      "event": {
-        "api_id": "evt-reNzRisEWmqcVj7",
-        "calendar_api_id": "cal-8yPHi9oITkCB5CI",
-        "end_at": "2026-11-02T07:30:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "AI Expo Europe - Run & Talk by Pitch in Motion",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": true,
-        "social_image_url": "https://images.lumacdn.com/event-social/xc/11d41f07-1fec-4623-b4cd-250e504e6464.png",
-        "start_at": "2026-11-02T05:30:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "zkumf59u",
-        "user_api_id": "usr-JUMmudULYg9iCmS",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "București",
-          "type": "google",
-          "region": "București",
-          "address": "Radisson Blu Hotel Bucharest",
-          "country": "Romania",
-          "place_id": "ChIJEXYoWEX_sUARwQnfVA7TqqQ",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": "București",
-              "address": "Radisson Blu Hotel, Bucharest",
-              "country": "România",
-              "city_state": "București, România",
-              "sublocality": "Piața Romană",
-              "full_address": "Radisson Blu Hotel, Bucharest, Calea Victoriei 63-81, 010065 București, România",
-              "region_short": "București",
-              "short_address": "Calea Victoriei 63-81, București"
-            },
-            "en-GB": {
-              "city": "București",
-              "region": "București",
-              "address": "Radisson Blu Hotel Bucharest",
-              "country": "Romania",
-              "city_state": "București, Romania",
-              "sublocality": "Piata Romana",
-              "full_address": "Radisson Blu Hotel Bucharest, Calea Victoriei 63-81, 010065 București, Romania",
-              "region_short": "București",
-              "short_address": "Calea Victoriei 63-81, București"
-            }
-          },
-          "city_state": "București, Romania",
-          "description": "",
-          "sublocality": "Piata Romana",
-          "country_code": "RO",
-          "full_address": "Radisson Blu Hotel Bucharest, Calea Victoriei 63-81, 010065 București, Romania",
-          "region_short": "București",
-          "short_address": "Calea Victoriei 63-81, București",
-          "place_coordinate": {
-            "latitude": 44.441334,
-            "longitude": 26.0943887
-          },
-          "apple_maps_place_id": "I76D78CE782F3C082",
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 26.0943887,
-          "latitude": 44.441334
-        },
-        "waitlist_enabled": true,
-        "waitlist_status": "active"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-8yPHi9oITkCB5CI",
-        "coordinate": null,
-        "description_short": null,
-        "end_date": null,
-        "is_verified": false,
-        "location": null,
-        "name": "Personal",
-        "personal_user_api_id": "usr-JUMmudULYg9iCmS",
-        "sends_unlocked_at": null,
-        "slug": null,
-        "start_date": null,
-        "website": null,
-        "is_personal": true,
-        "personal_user": {
-          "api_id": "usr-JUMmudULYg9iCmS",
-          "name": "Etienne Bourdon",
-          "username": "ebourdon"
-        },
-        "timezone": null
-      },
-      "start_at": "2026-11-02T05:30:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-JUMmudULYg9iCmS",
-          "name": "Etienne Bourdon",
-          "username": "ebourdon"
-        },
-        {
-          "api_id": "usr-D55KfCnaOXDQCDb",
-          "name": "Andrei Staicu",
-          "username": null
-        }
-      ],
-      "guest_count": 28,
-      "ticket_count": 28,
-      "ticket_info": {
-        "price": null,
-        "is_free": true,
-        "max_price": null,
-        "is_sold_out": true,
-        "require_approval": true
-      },
-      "registration_availability": "waitlist",
-      "waitlist_active": true,
-      "featured_city": null
-    },
-    {
       "api_id": "evt-QiDZTxTSpkvqKMT",
       "event": {
         "api_id": "evt-QiDZTxTSpkvqKMT",
         "calendar_api_id": "cal-vy7fTgxG01iG02Y",
         "end_at": "2026-11-02T20:30:00.000Z",
         "event_type": "independent",
-        "hide_rsvp": false,
+        "hide_rsvp": true,
         "location_type": "offline",
         "name": "MONDAY QUIZMANIA - INDOORS @ T5",
         "one_to_one": true,
@@ -226,7 +103,7 @@
         }
       ],
       "guest_count": 8,
-      "ticket_count": 55,
+      "ticket_count": 62,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -234,7 +111,7 @@
         "is_sold_out": false,
         "require_approval": false
       },
-      "registration_availability": "open",
+      "registration_availability": "sold-out",
       "waitlist_active": false,
       "featured_city": null
     },
@@ -353,8 +230,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 8,
-      "ticket_count": 8,
+      "guest_count": 10,
+      "ticket_count": 10,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -875,8 +752,8 @@
           "username": null
         }
       ],
-      "guest_count": 90,
-      "ticket_count": 90,
+      "guest_count": 99,
+      "ticket_count": 99,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1104,8 +981,8 @@
           "username": "muvoutside"
         }
       ],
-      "guest_count": 36,
-      "ticket_count": 36,
+      "guest_count": 50,
+      "ticket_count": 50,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1218,8 +1095,8 @@
           "username": "stoica"
         }
       ],
-      "guest_count": 17,
-      "ticket_count": 17,
+      "guest_count": 20,
+      "ticket_count": 20,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1448,8 +1325,8 @@
           "username": null
         }
       ],
-      "guest_count": 21,
-      "ticket_count": 21,
+      "guest_count": 22,
+      "ticket_count": 22,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1560,8 +1437,8 @@
           "username": null
         }
       ],
-      "guest_count": 10,
-      "ticket_count": 10,
+      "guest_count": 11,
+      "ticket_count": 11,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1909,6 +1786,126 @@
       "featured_city": null
     },
     {
+      "api_id": "evt-czcZAuFTm69dc3y",
+      "event": {
+        "api_id": "evt-czcZAuFTm69dc3y",
+        "calendar_api_id": "cal-gcyUup0fFHINVEX",
+        "end_at": "2026-11-06T19:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Growth Quest • 6 noiembrie, ora 16 la Häfele Showroom",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": false,
+        "social_image_url": "https://images.lumacdn.com/event-social/td/0211f4da-bed9-4e8b-970a-4c3215f46330.png",
+        "start_at": "2026-11-06T14:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "0jzk9x9t",
+        "user_api_id": "usr-CtebAkkZRai81oB",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Häfele Design Space - Häfele România",
+          "country": "Romania",
+          "place_id": "ChIJB6paCJT4sUARRqHYvEHMD7E",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Häfele Design Space - Häfele România",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Băneasa",
+              "full_address": "Häfele Design Space - Häfele România, Băneasa Airport Tower Bulevardul Ion Ionescu de la Brad 1, etaj 1, 013811 București, România",
+              "region_short": "București",
+              "short_address": "Băneasa Airport Tower Bulevardul Ion Ionescu de la Brad 1, etaj 1, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Băneasa",
+          "country_code": "RO",
+          "full_address": "Häfele Design Space - Häfele România, Băneasa Airport Tower Bulevardul Ion Ionescu de la Brad 1, etaj 1, 013811 București, Romania",
+          "region_short": "București",
+          "short_address": "Băneasa Airport Tower Bulevardul Ion Ionescu de la Brad 1, etaj 1, București",
+          "place_coordinate": {
+            "latitude": 44.494734199999996,
+            "longitude": 26.0780714
+          },
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.0780714,
+          "latitude": 44.494734199999996
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-gcyUup0fFHINVEX",
+        "coordinate": {
+          "longitude": 26.1025384,
+          "latitude": 44.426767399999996
+        },
+        "description_short": "",
+        "end_date": null,
+        "is_verified": false,
+        "location": {
+          "city": "Bucharest",
+          "region": null,
+          "country": "Romania",
+          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
+          "timezone": "Europe/Bucharest",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": null,
+              "country": "România"
+            }
+          },
+          "country_code": "RO"
+        },
+        "name": "abc.school.ro",
+        "personal_user_api_id": null,
+        "sends_unlocked_at": null,
+        "slug": "abc.school.ro",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": "Europe/Bucharest"
+      },
+      "start_at": "2026-11-06T14:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-CtebAkkZRai81oB",
+          "name": "abc.school.ro",
+          "username": "abcschoolro"
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
       "api_id": "evt-VF93zkaeEi66hHQ",
       "event": {
         "api_id": "evt-VF93zkaeEi66hHQ",
@@ -2007,8 +2004,8 @@
           "username": "myraluca"
         }
       ],
-      "guest_count": 23,
-      "ticket_count": 23,
+      "guest_count": 25,
+      "ticket_count": 25,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2150,17 +2147,17 @@
           "username": "agatinei"
         }
       ],
-      "guest_count": 27,
-      "ticket_count": 27,
+      "guest_count": 30,
+      "ticket_count": 30,
       "ticket_info": {
         "price": null,
         "is_free": true,
         "max_price": null,
-        "is_sold_out": false,
+        "is_sold_out": true,
         "require_approval": true
       },
-      "registration_availability": "open",
-      "waitlist_active": false,
+      "registration_availability": "waitlist",
+      "waitlist_active": true,
       "featured_city": null
     },
     {
@@ -2347,8 +2344,8 @@
           "username": null
         }
       ],
-      "guest_count": 4,
-      "ticket_count": 4,
+      "guest_count": 6,
+      "ticket_count": 6,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2924,8 +2921,8 @@
           "username": null
         }
       ],
-      "guest_count": 61,
-      "ticket_count": 61,
+      "guest_count": 65,
+      "ticket_count": 65,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3060,8 +3057,8 @@
           "username": null
         }
       ],
-      "guest_count": 22,
-      "ticket_count": 22,
+      "guest_count": 25,
+      "ticket_count": 25,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3149,8 +3146,8 @@
           "username": null
         }
       ],
-      "guest_count": 46,
-      "ticket_count": 46,
+      "guest_count": 48,
+      "ticket_count": 48,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3274,8 +3271,8 @@
           "username": null
         }
       ],
-      "guest_count": 12,
-      "ticket_count": 12,
+      "guest_count": 14,
+      "ticket_count": 14,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -4220,8 +4217,8 @@
           "username": "neomixers"
         }
       ],
-      "guest_count": 40,
-      "ticket_count": 40,
+      "guest_count": 51,
+      "ticket_count": 51,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -4486,8 +4483,8 @@
           "username": null
         }
       ],
-      "guest_count": 23,
-      "ticket_count": 23,
+      "guest_count": 24,
+      "ticket_count": 24,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -5087,8 +5084,8 @@
           "username": null
         }
       ],
-      "guest_count": 14,
-      "ticket_count": 14,
+      "guest_count": 15,
+      "ticket_count": 15,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -5200,8 +5197,8 @@
           "username": null
         }
       ],
-      "guest_count": 56,
-      "ticket_count": 56,
+      "guest_count": 66,
+      "ticket_count": 66,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -5226,7 +5223,7 @@
         "one_to_one": true,
         "recurrence_id": null,
         "show_guest_list": true,
-        "social_image_url": "https://images.lumacdn.com/event-social/ia/21045a94-28c5-4573-9441-03d429b65b7d.png",
+        "social_image_url": "https://images.lumacdn.com/event-social/ca/d3904075-3e62-455e-abec-ba0119aac8d2.png",
         "start_at": "2026-12-02T16:00:00.000Z",
         "timezone": "Europe/Bucharest",
         "url": "rbccal-ccn3",
@@ -5345,8 +5342,8 @@
           "username": null
         }
       ],
-      "guest_count": 8,
-      "ticket_count": 8,
+      "guest_count": 30,
+      "ticket_count": 30,
       "ticket_info": {
         "price": {
           "cents": 14800,
@@ -5459,8 +5456,8 @@
           "username": "licinium40"
         }
       ],
-      "guest_count": 39,
-      "ticket_count": 39,
+      "guest_count": 55,
+      "ticket_count": 55,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -5683,8 +5680,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 200,
-      "ticket_count": 200,
+      "guest_count": 203,
+      "ticket_count": 203,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -5798,8 +5795,8 @@
           "username": null
         }
       ],
-      "guest_count": 4,
-      "ticket_count": 4,
+      "guest_count": 6,
+      "ticket_count": 6,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -6789,8 +6786,8 @@
           "username": null
         }
       ],
-      "guest_count": 0,
-      "ticket_count": 0,
+      "guest_count": 2,
+      "ticket_count": 2,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -8306,5 +8303,781 @@
       ]
     }
   ],
-  "calendar:CafeauaDeSambata": []
+  "calendar:CafeauaDeSambata": [
+    {
+      "api_id": "calev-5CZARidhBvHJKyS",
+      "event": {
+        "api_id": "evt-7px0LgvF900kBbA",
+        "calendar_api_id": "cal-EoV2Bj45CjQhWF3",
+        "end_at": "2026-11-14T14:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Cafeaua De Sâmbăta #7 | Brasov",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/84/e1177fc6-adbd-4c80-8309-23c868d61f9a.png",
+        "start_at": "2026-11-14T11:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "zlmeyrjd",
+        "user_api_id": "usr-qvDXAFqTEFvT4tG",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Brașov",
+          "type": "google",
+          "region": "Județul Brașov",
+          "address": "Purpur Coffee",
+          "country": "Romania",
+          "place_id": "ChIJqYuBs_lbs0ARSZJELd4v3y4",
+          "localized": {
+            "ro": {
+              "city": "Brașov",
+              "region": "Județul Brașov",
+              "address": "Purpur Coffee",
+              "country": "România",
+              "city_state": "Brașov, România",
+              "sublocality": "Centrul Nou",
+              "full_address": "Purpur Coffee, Bulevardul 15 Noiembrie 25, 500096 Brașov, România",
+              "region_short": "BV",
+              "short_address": "Bulevardul 15 Noiembrie 25, Brașov"
+            }
+          },
+          "city_state": "Brașov, Romania",
+          "description": "",
+          "sublocality": "Centrul Nou",
+          "country_code": "RO",
+          "full_address": "Purpur Coffee, Bulevardul 15 Noiembrie 25, 500096 Brașov, Romania",
+          "region_short": "BV",
+          "short_address": "Bulevardul 15 Noiembrie 25, Brașov",
+          "place_coordinate": {
+            "latitude": 45.647468499999995,
+            "longitude": 25.6022119
+          },
+          "apple_maps_place_id": "I3AFE3200861AD780",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 25.6022119,
+          "latitude": 45.647468499999995
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-EoV2Bj45CjQhWF3",
+        "coordinate": {
+          "longitude": 26.1025384,
+          "latitude": 44.426767399999996
+        },
+        "description_short": "​Nu vindem nimic. Nu facem networking forțat. Nu există presiunea de a impresiona pe nimeni.\n\n​Ne vedem pur și simplu la o cafea, ne relaxăm, râdem, glumim și ieșim puțin din rutina de zi cu zi.",
+        "end_date": null,
+        "is_verified": false,
+        "location": {
+          "city": "Bucharest",
+          "region": null,
+          "country": "Romania",
+          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
+          "timezone": "Europe/Bucharest",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": null,
+              "country": "România"
+            }
+          },
+          "country_code": "RO"
+        },
+        "name": "Cafeaua De Sâmbăta",
+        "personal_user_api_id": null,
+        "sends_unlocked_at": "2026-05-03T15:59:07.459Z",
+        "slug": "CafeauaDeSambata",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": "Europe/Bucharest"
+      },
+      "start_at": "2026-11-14T11:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-qvDXAFqTEFvT4tG",
+          "name": "Ionut Alexandru Stanciu",
+          "username": "alexstanciu"
+        },
+        {
+          "api_id": "usr-d5LUqEPbebpVMpL",
+          "name": "Teodora Pamfile",
+          "username": "teodorapamfile"
+        }
+      ],
+      "guest_count": 1,
+      "ticket_count": 1,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-EoV2Bj45CjQhWF3",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
+    {
+      "api_id": "calev-Bmq9FSuAzFf0MHG",
+      "event": {
+        "api_id": "evt-Z7OrnvJWuAWrKF4",
+        "calendar_api_id": "cal-EoV2Bj45CjQhWF3",
+        "end_at": "2026-11-14T14:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Cafeaua De Sâmbăta #6 | Ploiesti",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/61/c207dc97-50f3-4656-b187-690ddcc429e5.png",
+        "start_at": "2026-11-14T11:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "jz3lhs58",
+        "user_api_id": "usr-qvDXAFqTEFvT4tG",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Ploiești",
+          "type": "google",
+          "region": "Județul Prahova",
+          "address": "Loc de Firesc",
+          "country": "Romania",
+          "place_id": "ChIJT5CK1DxJskARE9Jz6JLOHPM",
+          "localized": {
+            "ro": {
+              "city": "Ploiești",
+              "region": "Județul Prahova",
+              "address": "Loc de Firesc",
+              "country": "România",
+              "city_state": "Ploiești, România",
+              "sublocality": "Ana Ipătescu",
+              "full_address": "Loc de Firesc, Strada Rudului 80, 100310 Ploiești, România",
+              "region_short": "PH",
+              "short_address": "Strada Rudului 80, Ploiești"
+            }
+          },
+          "city_state": "Ploiești, Romania",
+          "description": "",
+          "sublocality": "Ana Ipătescu",
+          "country_code": "RO",
+          "full_address": "Loc de Firesc, Strada Rudului 80, 100310 Ploiești, Romania",
+          "region_short": "PH",
+          "short_address": "Strada Rudului 80, Ploiești",
+          "place_coordinate": {
+            "latitude": 44.932334999999995,
+            "longitude": 26.0196951
+          },
+          "apple_maps_place_id": "I73213F343C2D123C",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.0196951,
+          "latitude": 44.932334999999995
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-EoV2Bj45CjQhWF3",
+        "coordinate": {
+          "longitude": 26.1025384,
+          "latitude": 44.426767399999996
+        },
+        "description_short": "​Nu vindem nimic. Nu facem networking forțat. Nu există presiunea de a impresiona pe nimeni.\n\n​Ne vedem pur și simplu la o cafea, ne relaxăm, râdem, glumim și ieșim puțin din rutina de zi cu zi.",
+        "end_date": null,
+        "is_verified": false,
+        "location": {
+          "city": "Bucharest",
+          "region": null,
+          "country": "Romania",
+          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
+          "timezone": "Europe/Bucharest",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": null,
+              "country": "România"
+            }
+          },
+          "country_code": "RO"
+        },
+        "name": "Cafeaua De Sâmbăta",
+        "personal_user_api_id": null,
+        "sends_unlocked_at": "2026-05-03T15:59:07.459Z",
+        "slug": "CafeauaDeSambata",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": "Europe/Bucharest"
+      },
+      "start_at": "2026-11-14T11:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-qvDXAFqTEFvT4tG",
+          "name": "Ionut Alexandru Stanciu",
+          "username": "alexstanciu"
+        },
+        {
+          "api_id": "usr-sVFFKe3jlfDTcVF",
+          "name": "Elena Penescu",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-EoV2Bj45CjQhWF3",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
+    {
+      "api_id": "calev-mcRLRDjiqZKMcWj",
+      "event": {
+        "api_id": "evt-VCMTlgjkr7XUgW2",
+        "calendar_api_id": "cal-EoV2Bj45CjQhWF3",
+        "end_at": "2026-11-14T15:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Cafeaua De Sâmbăta #4 | Timisoara",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/jk/3ee735ee-c674-40d7-b015-2097e0fafbd9.png",
+        "start_at": "2026-11-14T12:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "selv9gq9",
+        "user_api_id": "usr-qvDXAFqTEFvT4tG",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Timișoara",
+          "type": "google",
+          "region": "Județul Timiș",
+          "address": "Gate93 - Specialty Coffee",
+          "country": "Romania",
+          "place_id": "ChIJV7lvXwBdRUcRlyShRaTiLTM",
+          "localized": {
+            "ro": {
+              "city": "Timișoara",
+              "region": "Județul Timiș",
+              "address": "Gate93 - Specialty Coffee",
+              "country": "România",
+              "city_state": "Timișoara, România",
+              "sublocality": "Cetate",
+              "full_address": "Gate93 - Specialty Coffee, Bulevardul Republicii 2, 300002 Timișoara, România",
+              "region_short": "TM",
+              "short_address": "Palatul Weiss, Bulevardul Republicii 2, Timișoara"
+            }
+          },
+          "city_state": "Timișoara, Romania",
+          "description": "",
+          "sublocality": "Cetate",
+          "country_code": "RO",
+          "full_address": "Gate93 - Specialty Coffee, Bulevardul Republicii 2, 300002 Timișoara, Romania",
+          "region_short": "TM",
+          "short_address": "Palatul Weiss, Bulevardul Republicii 2, Timișoara",
+          "place_coordinate": {
+            "latitude": 45.7540346,
+            "longitude": 21.2249458
+          },
+          "apple_maps_place_id": "IF50C9ED3D9455C2D",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 21.2249458,
+          "latitude": 45.7540346
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-EoV2Bj45CjQhWF3",
+        "coordinate": {
+          "longitude": 26.1025384,
+          "latitude": 44.426767399999996
+        },
+        "description_short": "​Nu vindem nimic. Nu facem networking forțat. Nu există presiunea de a impresiona pe nimeni.\n\n​Ne vedem pur și simplu la o cafea, ne relaxăm, râdem, glumim și ieșim puțin din rutina de zi cu zi.",
+        "end_date": null,
+        "is_verified": false,
+        "location": {
+          "city": "Bucharest",
+          "region": null,
+          "country": "Romania",
+          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
+          "timezone": "Europe/Bucharest",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": null,
+              "country": "România"
+            }
+          },
+          "country_code": "RO"
+        },
+        "name": "Cafeaua De Sâmbăta",
+        "personal_user_api_id": null,
+        "sends_unlocked_at": "2026-05-03T15:59:07.459Z",
+        "slug": "CafeauaDeSambata",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": "Europe/Bucharest"
+      },
+      "start_at": "2026-11-14T12:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-qvDXAFqTEFvT4tG",
+          "name": "Ionut Alexandru Stanciu",
+          "username": "alexstanciu"
+        },
+        {
+          "api_id": "usr-0siE4E9eMAESc3C",
+          "name": "Adrian Tunei",
+          "username": "atunei"
+        }
+      ],
+      "guest_count": 2,
+      "ticket_count": 2,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-EoV2Bj45CjQhWF3",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
+    {
+      "api_id": "calev-PoAmQZW9d7FkZ7Y",
+      "event": {
+        "api_id": "evt-zItbmOkgzD1fatU",
+        "calendar_api_id": "cal-EoV2Bj45CjQhWF3",
+        "end_at": "2026-11-14T15:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Cafeaua De Sâmbăta #8 | Iasi",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/qy/dad7124b-d5bf-4587-8708-05eab76f0744.png",
+        "start_at": "2026-11-14T12:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "kynl0upt",
+        "user_api_id": "usr-qvDXAFqTEFvT4tG",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Iași",
+          "type": "google",
+          "region": "Județul Iași",
+          "address": "Kiss Coffee 2 Go",
+          "country": "Romania",
+          "place_id": "ChIJU5zspXL7ykARCEJumZ8oEaU",
+          "localized": {
+            "ro": {
+              "city": "Iași",
+              "region": "Județul Iași",
+              "address": "Kiss Coffee Unirii",
+              "country": "România",
+              "city_state": "Iași, România",
+              "sublocality": "Centru",
+              "full_address": "Kiss Coffee Unirii, Strada Cuza Vodă 1, 700123 Iași, România",
+              "region_short": "IS",
+              "short_address": "Strada Cuza Vodă 1, Iași"
+            }
+          },
+          "city_state": "Iași, Romania",
+          "description": "Sus la etaj :)",
+          "sublocality": "Centru",
+          "country_code": "RO",
+          "full_address": "Kiss Coffee 2 Go, Strada Cuza Vodă 1, 700123 Iași, Romania",
+          "region_short": "IS",
+          "short_address": "Strada Cuza Vodă 1, Iași",
+          "place_coordinate": {
+            "latitude": 47.1656365,
+            "longitude": 27.5814584
+          },
+          "apple_maps_place_id": "I5AC4DA59B05E3A02",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 27.5814584,
+          "latitude": 47.1656365
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-EoV2Bj45CjQhWF3",
+        "coordinate": {
+          "longitude": 26.1025384,
+          "latitude": 44.426767399999996
+        },
+        "description_short": "​Nu vindem nimic. Nu facem networking forțat. Nu există presiunea de a impresiona pe nimeni.\n\n​Ne vedem pur și simplu la o cafea, ne relaxăm, râdem, glumim și ieșim puțin din rutina de zi cu zi.",
+        "end_date": null,
+        "is_verified": false,
+        "location": {
+          "city": "Bucharest",
+          "region": null,
+          "country": "Romania",
+          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
+          "timezone": "Europe/Bucharest",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": null,
+              "country": "România"
+            }
+          },
+          "country_code": "RO"
+        },
+        "name": "Cafeaua De Sâmbăta",
+        "personal_user_api_id": null,
+        "sends_unlocked_at": "2026-05-03T15:59:07.459Z",
+        "slug": "CafeauaDeSambata",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": "Europe/Bucharest"
+      },
+      "start_at": "2026-11-14T12:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-qvDXAFqTEFvT4tG",
+          "name": "Ionut Alexandru Stanciu",
+          "username": "alexstanciu"
+        },
+        {
+          "api_id": "usr-bftGtgsfHDxZjFW",
+          "name": "Antonio Ionescu",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-EoV2Bj45CjQhWF3",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
+    {
+      "api_id": "calev-SBQ96VjX3X3xwri",
+      "event": {
+        "api_id": "evt-ExGHbOeazUsSlRN",
+        "calendar_api_id": "cal-EoV2Bj45CjQhWF3",
+        "end_at": "2026-11-14T15:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Cafeaua De Sâmbăta #2 | Cluj",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/u4/a1fb25fc-f272-4acd-a3cf-e0e159115825.png",
+        "start_at": "2026-11-14T12:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "49zgcdsd",
+        "user_api_id": "usr-qvDXAFqTEFvT4tG",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Cluj-Napoca",
+          "type": "google",
+          "region": "Județul Cluj",
+          "address": "Picaro Restaurant Spaniol ,Cluj-Napoca",
+          "country": "Romania",
+          "place_id": "ChIJRfmwlmsNSUcRx9keX4Sig4U",
+          "localized": {
+            "ro": {
+              "city": "Cluj-Napoca",
+              "region": "Județul Cluj",
+              "address": "Picaro Restaurant Spaniol ,Cluj-Napoca",
+              "country": "România",
+              "city_state": "Cluj-Napoca, România",
+              "sublocality": "Centru",
+              "full_address": "Picaro Restaurant Spaniol ,Cluj-Napoca, Calea Dorobanților 7, 400394 Cluj-Napoca, România",
+              "region_short": "CJ",
+              "short_address": "Calea Dorobanților 7, Cluj-Napoca"
+            }
+          },
+          "city_state": "Cluj-Napoca, Romania",
+          "description": "",
+          "sublocality": "Old Town",
+          "country_code": "RO",
+          "full_address": "Picaro Restaurant Spaniol ,Cluj-Napoca, Calea Dorobanților 7, 400394 Cluj-Napoca, Romania",
+          "region_short": "CJ",
+          "short_address": "Calea Dorobanților 7, Cluj-Napoca",
+          "place_coordinate": {
+            "latitude": 46.7714918,
+            "longitude": 23.5995596
+          },
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 23.5995596,
+          "latitude": 46.7714918
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-EoV2Bj45CjQhWF3",
+        "coordinate": {
+          "longitude": 26.1025384,
+          "latitude": 44.426767399999996
+        },
+        "description_short": "​Nu vindem nimic. Nu facem networking forțat. Nu există presiunea de a impresiona pe nimeni.\n\n​Ne vedem pur și simplu la o cafea, ne relaxăm, râdem, glumim și ieșim puțin din rutina de zi cu zi.",
+        "end_date": null,
+        "is_verified": false,
+        "location": {
+          "city": "Bucharest",
+          "region": null,
+          "country": "Romania",
+          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
+          "timezone": "Europe/Bucharest",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": null,
+              "country": "România"
+            }
+          },
+          "country_code": "RO"
+        },
+        "name": "Cafeaua De Sâmbăta",
+        "personal_user_api_id": null,
+        "sends_unlocked_at": "2026-05-03T15:59:07.459Z",
+        "slug": "CafeauaDeSambata",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": "Europe/Bucharest"
+      },
+      "start_at": "2026-11-14T12:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-qvDXAFqTEFvT4tG",
+          "name": "Ionut Alexandru Stanciu",
+          "username": "alexstanciu"
+        },
+        {
+          "api_id": "usr-FUN738nSMGBA2ro",
+          "name": "Geovana Babas",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-EoV2Bj45CjQhWF3",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
+    {
+      "api_id": "calev-swq0hvOh05QHVWa",
+      "event": {
+        "api_id": "evt-qiaqul8GQejXZXE",
+        "calendar_api_id": "cal-EoV2Bj45CjQhWF3",
+        "end_at": "2026-11-14T15:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Cafeaua De Sâmbăta #32 | Bucuresti",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/f8/0494db04-8cfd-4207-9dbe-d625d9fe7f53.png",
+        "start_at": "2026-11-14T12:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "tumppxi0",
+        "user_api_id": "usr-qvDXAFqTEFvT4tG",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Nookyard | Daytime Private Member's Club",
+          "country": "Romania",
+          "place_id": "ChIJrSWbeRn_sUARuiMGwHGPYYg",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Nookyard | Daytime Private Member's Club",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Bucureşti Sectorul 3",
+              "full_address": "Nookyard | Daytime Private Member's Club, Strada Oltarului 3, 030167 București, România",
+              "region_short": "București",
+              "short_address": "Strada Oltarului 3, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Bucureşti Sectorul 3",
+          "country_code": "RO",
+          "full_address": "Nookyard | Daytime Private Member's Club, Strada Oltarului 3, 030167 București, Romania",
+          "region_short": "București",
+          "short_address": "Strada Oltarului 3, București",
+          "place_coordinate": {
+            "latitude": 44.4420794,
+            "longitude": 26.116931700000002
+          },
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.116931700000002,
+          "latitude": 44.4420794
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-EoV2Bj45CjQhWF3",
+        "coordinate": {
+          "longitude": 26.1025384,
+          "latitude": 44.426767399999996
+        },
+        "description_short": "​Nu vindem nimic. Nu facem networking forțat. Nu există presiunea de a impresiona pe nimeni.\n\n​Ne vedem pur și simplu la o cafea, ne relaxăm, râdem, glumim și ieșim puțin din rutina de zi cu zi.",
+        "end_date": null,
+        "is_verified": false,
+        "location": {
+          "city": "Bucharest",
+          "region": null,
+          "country": "Romania",
+          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
+          "timezone": "Europe/Bucharest",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": null,
+              "country": "România"
+            }
+          },
+          "country_code": "RO"
+        },
+        "name": "Cafeaua De Sâmbăta",
+        "personal_user_api_id": null,
+        "sends_unlocked_at": "2026-05-03T15:59:07.459Z",
+        "slug": "CafeauaDeSambata",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": "Europe/Bucharest"
+      },
+      "start_at": "2026-11-14T12:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-qvDXAFqTEFvT4tG",
+          "name": "Ionut Alexandru Stanciu",
+          "username": "alexstanciu"
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-EoV2Bj45CjQhWF3",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    }
+  ]
 }
