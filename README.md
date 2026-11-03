@@ -4,17 +4,10 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Luni, 2 noiembrie
-
-- `07:30` [AI Expo Europe - Run & Talk by Pitch in Motion](https://lu.ma/zkumf59u)  
-  <sub>Etienne Bourdon · 28 de participanți</sub>
-- `19:30` [MONDAY QUIZMANIA - INDOORS @ T5](https://lu.ma/ypznuwob)  
-  <sub>T5 Social · 8 participanți</sub>
-
 ### Marți, 3 noiembrie
 
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S24E07](https://lu.ma/znw0tmlf)  
-  <sub>321sport · 10 participanți</sub>
+  <sub>321sport · 11 participanți</sub>
 
 ### Miercuri, 4 noiembrie
 
@@ -23,16 +16,16 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:00` [RBC #419 \| DE CE UNII CLIENȚI CER DOAR PREȚUL, IAR ALȚII VOR SĂ LUCREZE CU TINE? \| Alin Ioan Crețu](https://lu.ma/3u9w2esn)  
   <sub>Teodora Nicolaiciuc</sub>
 - `18:30` [Let's Talk AI! #6](https://lu.ma/fy0eflpy)  
-  <sub>Let's Talk AI · 99 de participanți</sub>
+  <sub>Let's Talk AI · 104 de participanți</sub>
 - `18:30` [THE SQUARE Social Chess @Cărturești Carusel](https://lu.ma/w67cmln0)  
   <sub>THE SQUARE Chess Club</sub>
 - `19:00` [PULSE #61 - Muv it Or Lose it - QUIZ NIGHT](https://lu.ma/buh2c1am)  
-  <sub>MuvOutside · 50 de participanți</sub>
+  <sub>MuvOutside · 53 de participanți</sub>
 
 ### Joi, 5 noiembrie
 
 - `16:00` [Marketing fără buget în 2027](https://lu.ma/g4t75pgr)  
-  <sub>Andrei Stoica · 20 de participanți</sub>
+  <sub>Andrei Stoica · 21 de participanți</sub>
 - `18:30` [Bucharest Evo VC & Startups Social](https://lu.ma/sp9dlut1)  
   <sub>Gozel Akeyeva</sub>
 - `18:30` [Off the record #2 • Discuții sincere pentru oameni de marketing](https://lu.ma/jy2rf2po)  
@@ -61,7 +54,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 8 noiembrie
 
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/si999eim)  
-  <sub>Emily Merdus · 3 participanți</sub>
+  <sub>Emily Merdus · 4 participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/ll9a9ja5)  
   <sub>Irina Tenovici</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/pb96q8r1)  
@@ -79,14 +72,14 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `08:30` [RoFintech Breakfast hosted by Token Payment Solutions](https://lu.ma/i8lmct7p)  
   <sub>Adrian Drinceanu</sub>
 - `18:00` [AI vs. AI: Fighting machine threats with intelligent defense.](https://lu.ma/axdu3mox)  
-  <sub>Lucian Popovici · 65 de participanți</sub>
+  <sub>Lucian Popovici · 66 de participanți</sub>
 - `18:30` [EIS Talks #2: How Sustainable Are Our Future Careers?](https://lu.ma/oyrmla8k)  
-  <sub>Ioana Mihăilescu · 25 de participanți</sub>
+  <sub>Ioana Mihăilescu</sub>
 
 ### Joi, 12 noiembrie
 
 - `16:00` [Sales Best Practice Lab #2](https://lu.ma/jvvhqhyf)  
-  <sub>Madalina Vechiu · 48 de participanți</sub>
+  <sub>Madalina Vechiu · 49 de participanți</sub>
 - `18:30` [Book Launch - "Înțelepciunea conflictului", by Magor Csibi & Raluca Anton](https://lu.ma/mqr1tn46)  
   <sub>Andra Ghibutiu · 14 participanți</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S24E10](https://lu.ma/mi5gjcq7)  
@@ -102,7 +95,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Sâmbătă, 14 noiembrie
 
 - `14:00` [Cafeaua De Sâmbăta #32 \| Bucuresti](https://lu.ma/tumppxi0)  
-  <sub>Ionut Alexandru Stanciu</sub>
+  <sub>Ionut Alexandru Stanciu · 2 participanți</sub>
 - `19:00` [Healing Drum Circle](https://lu.ma/x0tl3qtu)  
   <sub>Sarah Samira Natour · 5 participanți</sub>
 
@@ -120,15 +113,22 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `09:30` [Agile Minds Romania Forum 2026 - Building Products in the Age of AI](https://lu.ma/c6fjqktn)  
   <sub>Florin Manolescu · 55 de participanți</sub>
 
+### Marți, 17 noiembrie
+
+- `09:00` [RoFintech InsurTech Meetup](https://lu.ma/t3nfj4ui)  
+  <sub>Adrian Drinceanu</sub>
+- `18:00` [Roelfien Vos × Orac](https://lu.ma/1xk1n06p)  
+  <sub>Orac Romania · 7 participanți</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-02)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-03)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-02)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-03)
 
 ## Despre
 
@@ -142,4 +142,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 2 noiembrie 2026*
+*Actualizat: 3 noiembrie 2026*
