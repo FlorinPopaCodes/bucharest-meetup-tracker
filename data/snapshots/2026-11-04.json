@@ -107,143 +107,8 @@
           "username": "GeorgianaVlades"
         }
       ],
-      "guest_count": 30,
-      "ticket_count": 30,
-      "ticket_info": {
-        "price": null,
-        "is_free": true,
-        "max_price": null,
-        "is_sold_out": true,
-        "require_approval": true
-      },
-      "registration_availability": "waitlist",
-      "waitlist_active": true,
-      "featured_city": null
-    },
-    {
-      "api_id": "evt-3Xs3qjt16lXn2yc",
-      "event": {
-        "api_id": "evt-3Xs3qjt16lXn2yc",
-        "calendar_api_id": "cal-HNsO9KsEeIGRyiT",
-        "end_at": "2026-11-04T20:00:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "Agentic loops and graphs - Formidable Builders x Stripe",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": true,
-        "social_image_url": "https://images.lumacdn.com/event-social/ms/683ba23b-6ca1-49f6-9d8e-3e8a996ef51b.png",
-        "start_at": "2026-11-04T16:00:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "k9buxy6i",
-        "user_api_id": "usr-CyJ22EBRtbhk58N",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "București",
-          "type": "google",
-          "region": "București",
-          "address": "Stripe Romania",
-          "country": "Romania",
-          "place_id": "ChIJO1p0TQABskARd8JDmLAjffE",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": "București",
-              "address": "Stripe Romania",
-              "country": "România",
-              "city_state": "București, România",
-              "sublocality": "Bucureşti Sectorul 5",
-              "full_address": "Stripe Romania, ONE Cotroceni Park Office 44, Nutu Ion street, unit A+B, 5th floor, district 5, Bucharest (Acess through. 1, Strada Progresului street, 050762 București, România",
-              "region_short": "București",
-              "short_address": "ONE Cotroceni Park Office 44, Nutu Ion street, unit A+B, 5th floor, district 5, Bucharest (Acess through. 1, Strada Progresului street, București"
-            }
-          },
-          "city_state": "București, Romania",
-          "description": "",
-          "sublocality": "Bucureşti Sectorul 5",
-          "country_code": "RO",
-          "full_address": "Stripe Romania, ONE Cotroceni Park Office 44, Nutu Ion street, unit A+B, 5th floor, district 5, Bucharest (Acess through. 1, Strada Progresului street, 050762 București, Romania",
-          "region_short": "București",
-          "short_address": "ONE Cotroceni Park Office 44, Nutu Ion street, unit A+B, 5th floor, district 5, Bucharest (Acess through. 1, Strada Progresului street, București",
-          "place_coordinate": {
-            "latitude": 44.4269451,
-            "longitude": 26.0619025
-          },
-          "apple_maps_place_id": null,
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 26.0619025,
-          "latitude": 44.4269451
-        },
-        "waitlist_enabled": true,
-        "waitlist_status": "active"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-HNsO9KsEeIGRyiT",
-        "coordinate": {
-          "longitude": 26.102538,
-          "latitude": 44.426767
-        },
-        "description_short": "Formidable Builders is a community built by and for people who aspire to do extraordinary things. Progress starts with work. Permission comes later.",
-        "end_date": null,
-        "is_verified": false,
-        "location": {
-          "city": "Bucharest",
-          "region": null,
-          "country": "Romania",
-          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
-          "timezone": "Europe/Bucharest",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": null,
-              "country": "România"
-            }
-          },
-          "country_code": "RO"
-        },
-        "name": "Formidable Builders",
-        "personal_user_api_id": null,
-        "sends_unlocked_at": "2024-08-23T13:35:12.593Z",
-        "slug": "formidablebuilders",
-        "start_date": null,
-        "website": "https://formidable.builders",
-        "is_personal": false,
-        "personal_user": null,
-        "timezone": "Europe/Bucharest"
-      },
-      "start_at": "2026-11-04T16:00:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-CyJ22EBRtbhk58N",
-          "name": "Gabriel Moncha",
-          "username": "gabimoncha"
-        },
-        {
-          "api_id": "usr-rnMr8FJ5rbbbgwM",
-          "name": "Alex Constantin",
-          "username": "le_alecs"
-        },
-        {
-          "api_id": "usr-gRpCX0MYpcCbFKz",
-          "name": "Antonio Hus",
-          "username": "antoniohus"
-        },
-        {
-          "api_id": "usr-F8EaHDLjYCJkBEp",
-          "name": "Bogdan-Tudor Deac",
-          "username": null
-        }
-      ],
-      "guest_count": 79,
-      "ticket_count": 79,
+      "guest_count": 32,
+      "ticket_count": 32,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -375,10 +240,25 @@
           "api_id": "usr-uhAtFmJJHx6yZxl",
           "name": "Luca Brumariu",
           "username": null
+        },
+        {
+          "api_id": "usr-lmoCCJS9mSJeEQw",
+          "name": null,
+          "username": null
+        },
+        {
+          "api_id": "usr-USfspCf4Hg1hVi2",
+          "name": "Raul",
+          "username": null
+        },
+        {
+          "api_id": "usr-gAlufFoW5K3UucB",
+          "name": "Cristina Cizer",
+          "username": null
         }
       ],
-      "guest_count": 22,
-      "ticket_count": 22,
+      "guest_count": 23,
+      "ticket_count": 23,
       "ticket_info": {
         "price": {
           "cents": 14800,
@@ -512,6 +392,21 @@
           "api_id": "usr-rA1ejFsLe5mSkP4",
           "name": "Vlad RBC",
           "username": null
+        },
+        {
+          "api_id": "usr-lmoCCJS9mSJeEQw",
+          "name": null,
+          "username": null
+        },
+        {
+          "api_id": "usr-USfspCf4Hg1hVi2",
+          "name": "Raul",
+          "username": null
+        },
+        {
+          "api_id": "usr-gAlufFoW5K3UucB",
+          "name": "Cristina Cizer",
+          "username": null
         }
       ],
       "guest_count": 0,
@@ -535,6 +430,141 @@
       "featured_city": null
     },
     {
+      "api_id": "evt-3Xs3qjt16lXn2yc",
+      "event": {
+        "api_id": "evt-3Xs3qjt16lXn2yc",
+        "calendar_api_id": "cal-HNsO9KsEeIGRyiT",
+        "end_at": "2026-11-04T20:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Agentic loops and graphs - Formidable Builders x Stripe",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/ms/683ba23b-6ca1-49f6-9d8e-3e8a996ef51b.png",
+        "start_at": "2026-11-04T16:30:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "k9buxy6i",
+        "user_api_id": "usr-CyJ22EBRtbhk58N",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Stripe Romania",
+          "country": "Romania",
+          "place_id": "ChIJO1p0TQABskARd8JDmLAjffE",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Stripe Romania",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Bucureşti Sectorul 5",
+              "full_address": "Stripe Romania, ONE Cotroceni Park Office 44, Nutu Ion street, unit A+B, 5th floor, district 5, Bucharest (Acess through. 1, Strada Progresului street, 050762 București, România",
+              "region_short": "București",
+              "short_address": "ONE Cotroceni Park Office 44, Nutu Ion street, unit A+B, 5th floor, district 5, Bucharest (Acess through. 1, Strada Progresului street, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Bucureşti Sectorul 5",
+          "country_code": "RO",
+          "full_address": "Stripe Romania, ONE Cotroceni Park Office 44, Nutu Ion street, unit A+B, 5th floor, district 5, Bucharest (Acess through. 1, Strada Progresului street, 050762 București, Romania",
+          "region_short": "București",
+          "short_address": "ONE Cotroceni Park Office 44, Nutu Ion street, unit A+B, 5th floor, district 5, Bucharest (Acess through. 1, Strada Progresului street, București",
+          "place_coordinate": {
+            "latitude": 44.4269451,
+            "longitude": 26.0619025
+          },
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.0619025,
+          "latitude": 44.4269451
+        },
+        "waitlist_enabled": true,
+        "waitlist_status": "active"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-HNsO9KsEeIGRyiT",
+        "coordinate": {
+          "longitude": 26.102538,
+          "latitude": 44.426767
+        },
+        "description_short": "Formidable Builders is a community built by and for people who aspire to do extraordinary things. Progress starts with work. Permission comes later.",
+        "end_date": null,
+        "is_verified": false,
+        "location": {
+          "city": "Bucharest",
+          "region": null,
+          "country": "Romania",
+          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
+          "timezone": "Europe/Bucharest",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": null,
+              "country": "România"
+            }
+          },
+          "country_code": "RO"
+        },
+        "name": "Formidable Builders",
+        "personal_user_api_id": null,
+        "sends_unlocked_at": "2024-08-23T13:35:12.593Z",
+        "slug": "formidablebuilders",
+        "start_date": null,
+        "website": "https://formidable.builders",
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": "Europe/Bucharest"
+      },
+      "start_at": "2026-11-04T16:30:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-CyJ22EBRtbhk58N",
+          "name": "Gabriel Moncha",
+          "username": "gabimoncha"
+        },
+        {
+          "api_id": "usr-rnMr8FJ5rbbbgwM",
+          "name": "Alex Constantin",
+          "username": "le_alecs"
+        },
+        {
+          "api_id": "usr-gRpCX0MYpcCbFKz",
+          "name": "Antonio Hus",
+          "username": "antoniohus"
+        },
+        {
+          "api_id": "usr-F8EaHDLjYCJkBEp",
+          "name": "Bogdan-Tudor Deac",
+          "username": null
+        }
+      ],
+      "guest_count": 72,
+      "ticket_count": 72,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": true,
+        "require_approval": true
+      },
+      "registration_availability": "waitlist",
+      "waitlist_active": true,
+      "featured_city": null
+    },
+    {
       "api_id": "evt-TJY3WwIrM1aiAWX",
       "event": {
         "api_id": "evt-TJY3WwIrM1aiAWX",
@@ -550,7 +580,7 @@
         "social_image_url": "https://images.lumacdn.com/event-social/8o/322881c8-8337-407b-8b69-3ae188e5f16e.png",
         "start_at": "2026-11-04T16:30:00.000Z",
         "timezone": "Europe/Bucharest",
-        "url": "fy0eflpy",
+        "url": "lets-talk-ai-6",
         "user_api_id": "usr-c2ByakA1EJZEslT",
         "visibility": "public",
         "virtual_info": {
@@ -605,7 +635,7 @@
           "longitude": 26.1025384,
           "latitude": 44.426767399999996
         },
-        "description_short": "A community of people in Romania who want to lead AI adoption: in their companies, their teams and their own work. No slides, no panels, no pitches!",
+        "description_short": "- COME FOR THE AI - STAY FOR THE PEOPLE -\nA community of people in Romania who want to lead AI adoption: in their companies, their teams and their own work. No slides, no panels, no pitches!",
         "end_date": null,
         "is_verified": false,
         "location": {
@@ -651,8 +681,8 @@
           "username": null
         }
       ],
-      "guest_count": 112,
-      "ticket_count": 112,
+      "guest_count": 109,
+      "ticket_count": 109,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -671,7 +701,7 @@
         "calendar_api_id": "cal-vtTRvYx8UKwi3cp",
         "end_at": "2026-11-04T19:00:00.000Z",
         "event_type": "independent",
-        "hide_rsvp": false,
+        "hide_rsvp": true,
         "location_type": "offline",
         "name": "THE SQUARE Social Chess @Cărturești Carusel",
         "one_to_one": true,
@@ -782,7 +812,7 @@
         "is_sold_out": false,
         "require_approval": false
       },
-      "registration_availability": "open",
+      "registration_availability": "sold-out",
       "waitlist_active": false,
       "featured_city": null
     },
@@ -880,8 +910,8 @@
           "username": "muvoutside"
         }
       ],
-      "guest_count": 72,
-      "ticket_count": 72,
+      "guest_count": 76,
+      "ticket_count": 76,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1224,8 +1254,8 @@
           "username": null
         }
       ],
-      "guest_count": 22,
-      "ticket_count": 22,
+      "guest_count": 25,
+      "ticket_count": 25,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1456,117 +1486,14 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 19,
-      "ticket_count": 19,
+      "guest_count": 25,
+      "ticket_count": 25,
       "ticket_info": {
         "price": null,
         "is_free": true,
         "max_price": null,
         "is_sold_out": false,
         "require_approval": true
-      },
-      "registration_availability": "open",
-      "waitlist_active": false,
-      "featured_city": null
-    },
-    {
-      "api_id": "evt-9FRLKoYLlgvN9dD",
-      "event": {
-        "api_id": "evt-9FRLKoYLlgvN9dD",
-        "calendar_api_id": "cal-ope3vlGFXGztQbl",
-        "end_at": "2026-11-05T19:00:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "Wine & Painting",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": false,
-        "social_image_url": "https://images.lumacdn.com/event-social/q6/2223dec0-7c4b-4063-96a3-c8904a68c0db.png",
-        "start_at": "2026-11-05T17:00:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "hpdclt72",
-        "user_api_id": "usr-FjbZwJLiCQBwtAD",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "București",
-          "type": "google",
-          "region": "București",
-          "address": "Dejavin",
-          "country": "Romania",
-          "place_id": "ChIJzfL1QAADskARKZjY2ejMp8o",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": "București",
-              "address": "Dejavin",
-              "country": "România",
-              "city_state": "București, România",
-              "sublocality": "Dorobanți",
-              "full_address": "Dejavin, Strada Puțul lui Zamfir 22-24, 011681 București, România",
-              "region_short": "București",
-              "short_address": "Strada Puțul lui Zamfir 22-24, București"
-            }
-          },
-          "city_state": "București, Romania",
-          "description": "",
-          "sublocality": "Dorobanți",
-          "country_code": "RO",
-          "full_address": "Dejavin, Strada Puțul lui Zamfir 22-24, 011681 București, Romania",
-          "region_short": "București",
-          "short_address": "Strada Puțul lui Zamfir 22-24, București",
-          "place_coordinate": {
-            "latitude": 44.460803999999996,
-            "longitude": 26.0966642
-          },
-          "apple_maps_place_id": null,
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 26.0966642,
-          "latitude": 44.460803999999996
-        },
-        "waitlist_enabled": false,
-        "waitlist_status": "disabled"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-ope3vlGFXGztQbl",
-        "coordinate": null,
-        "description_short": "",
-        "end_date": null,
-        "is_verified": false,
-        "location": null,
-        "name": "Career Shift Community Events",
-        "personal_user_api_id": null,
-        "sends_unlocked_at": null,
-        "slug": "careershiftcommunityevents",
-        "start_date": null,
-        "website": null,
-        "is_personal": false,
-        "personal_user": null,
-        "timezone": null
-      },
-      "start_at": "2026-11-05T17:00:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-FjbZwJLiCQBwtAD",
-          "name": "Career Shift",
-          "username": "careershift"
-        }
-      ],
-      "guest_count": 0,
-      "ticket_count": 0,
-      "ticket_info": {
-        "price": null,
-        "is_free": true,
-        "max_price": null,
-        "is_sold_out": false,
-        "require_approval": false
       },
       "registration_availability": "open",
       "waitlist_active": false,
@@ -1643,7 +1570,7 @@
           "longitude": 26.1025384,
           "latitude": 44.426767399999996
         },
-        "description_short": "",
+        "description_short": "Este un ecosistem integrat de educație antreprenorială în domenii creative care își propune să ofere informații, suport, să contribuie cu programe și să faciliteze oportunități arhitecților, designeri",
         "end_date": null,
         "is_verified": false,
         "location": {
@@ -1693,11 +1620,129 @@
       "featured_city": null
     },
     {
+      "api_id": "evt-lxmCUbCZx1dd7fj",
+      "event": {
+        "api_id": "evt-lxmCUbCZx1dd7fj",
+        "calendar_api_id": "cal-rrofpsXbO10MGr0",
+        "end_at": "2026-11-07T09:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Hills Training",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/ul/4108e0a4-e9b6-4a19-9380-a26df99940c4.png",
+        "start_at": "2026-11-07T08:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "yzgu872v",
+        "user_api_id": "usr-rK0u7f6ZAymrya1",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Alexandru Ioan Cuza Statuie",
+          "country": "Romania",
+          "place_id": "ChIJI6vF30j_sUARHE1eXV2_RKc",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Alexandru Ioan Cuza Statuie",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Titan",
+              "full_address": "Alexandru Ioan Cuza Statuie, Unnamed Road, București, România",
+              "region_short": "București",
+              "short_address": "Unnamed Road, București"
+            },
+            "en-GB": {
+              "city": "București",
+              "region": "București",
+              "address": "Alexandru Ioan Cuza Statuie",
+              "country": "Romania",
+              "city_state": "București, Romania",
+              "sublocality": "Titan",
+              "full_address": "Alexandru Ioan Cuza Statuie, Unnamed Road, București, Romania",
+              "region_short": "București",
+              "short_address": "Unnamed Road, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Titan",
+          "country_code": "RO",
+          "full_address": "Alexandru Ioan Cuza Statuie, Unnamed Road, București, Romania",
+          "region_short": "București",
+          "short_address": "Unnamed Road, București",
+          "place_coordinate": {
+            "latitude": 44.4259023,
+            "longitude": 26.1501532
+          },
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.1501532,
+          "latitude": 44.4259023
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-rrofpsXbO10MGr0",
+        "coordinate": null,
+        "description_short": null,
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Personal",
+        "personal_user_api_id": "usr-rK0u7f6ZAymrya1",
+        "sends_unlocked_at": "2026-08-23T15:49:10.206Z",
+        "slug": null,
+        "start_date": null,
+        "website": null,
+        "is_personal": true,
+        "personal_user": {
+          "api_id": "usr-rK0u7f6ZAymrya1",
+          "name": "FOMO Urban Running Club",
+          "username": null
+        },
+        "timezone": null
+      },
+      "start_at": "2026-11-07T08:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-rK0u7f6ZAymrya1",
+          "name": "FOMO Urban Running Club",
+          "username": null
+        }
+      ],
+      "guest_count": 5,
+      "ticket_count": 5,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": true
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
       "api_id": "evt-VF93zkaeEi66hHQ",
       "event": {
         "api_id": "evt-VF93zkaeEi66hHQ",
         "calendar_api_id": "cal-qw00b8kvTUd5LUY",
-        "end_at": "2026-11-07T12:00:00.000Z",
+        "end_at": "2026-11-07T12:30:00.000Z",
         "event_type": "independent",
         "hide_rsvp": false,
         "location_type": "offline",
@@ -1791,8 +1836,8 @@
           "username": "myraluca"
         }
       ],
-      "guest_count": 28,
-      "ticket_count": 28,
+      "guest_count": 34,
+      "ticket_count": 34,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2018,8 +2063,8 @@
           "username": null
         }
       ],
-      "guest_count": 5,
-      "ticket_count": 5,
+      "guest_count": 7,
+      "ticket_count": 7,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2131,8 +2176,8 @@
           "username": null
         }
       ],
-      "guest_count": 8,
-      "ticket_count": 8,
+      "guest_count": 9,
+      "ticket_count": 9,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2243,8 +2288,8 @@
           "username": null
         }
       ],
-      "guest_count": 19,
-      "ticket_count": 19,
+      "guest_count": 20,
+      "ticket_count": 20,
       "ticket_info": {
         "price": {
           "cents": 1900,
@@ -2355,8 +2400,8 @@
           "username": null
         }
       ],
-      "guest_count": 13,
-      "ticket_count": 13,
+      "guest_count": 14,
+      "ticket_count": 14,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2708,8 +2753,126 @@
           "username": null
         }
       ],
-      "guest_count": 68,
-      "ticket_count": 68,
+      "guest_count": 76,
+      "ticket_count": 76,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-kSWdOJp90eCEVw9",
+      "event": {
+        "api_id": "evt-kSWdOJp90eCEVw9",
+        "calendar_api_id": "cal-FUmbPma7R0SuWK5",
+        "end_at": "2026-11-11T19:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Lansare Carte \"Strategia RISE\"",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/rm/96a3a681-54f0-4962-803c-56ac45492128.png",
+        "start_at": "2026-11-11T16:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "ci3f4dcq",
+        "user_api_id": "usr-cA6E7tmL8x9vpvo",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Cărturești Verona",
+          "country": "Romania",
+          "place_id": "ChIJl17Y5E7_sUARePj-H0PY2cg",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Cărturești",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Piața Romană",
+              "full_address": "Cărturești, Strada Pictor Arthur Verona 13-15, 010312 București, România",
+              "region_short": "București",
+              "short_address": "Strada Pictor Arthur Verona 13-15, București"
+            },
+            "en-GB": {
+              "city": "București",
+              "region": "București",
+              "address": "Cărturești Verona",
+              "country": "Romania",
+              "city_state": "București, Romania",
+              "sublocality": "Piata Romana",
+              "full_address": "Cărturești Verona, Strada Pictor Arthur Verona 13-15, 010312 București, Romania",
+              "region_short": "București",
+              "short_address": "Strada Pictor Arthur Verona 13-15, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Piata Romana",
+          "country_code": "RO",
+          "full_address": "Cărturești Verona, Strada Pictor Arthur Verona 13-15, 010312 București, Romania",
+          "region_short": "București",
+          "short_address": "Strada Pictor Arthur Verona 13-15, București",
+          "place_coordinate": {
+            "latitude": 44.4428784,
+            "longitude": 26.0992927
+          },
+          "apple_maps_place_id": "I1B8FA34CE24F9D5",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.0992927,
+          "latitude": 44.4428784
+        },
+        "waitlist_enabled": true,
+        "waitlist_status": "enabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-FUmbPma7R0SuWK5",
+        "coordinate": null,
+        "description_short": null,
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Personal",
+        "personal_user_api_id": "usr-cA6E7tmL8x9vpvo",
+        "sends_unlocked_at": null,
+        "slug": null,
+        "start_date": null,
+        "website": null,
+        "is_personal": true,
+        "personal_user": {
+          "api_id": "usr-cA6E7tmL8x9vpvo",
+          "name": "Florin Grozea",
+          "username": null
+        },
+        "timezone": null
+      },
+      "start_at": "2026-11-11T16:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-cA6E7tmL8x9vpvo",
+          "name": "Florin Grozea",
+          "username": null
+        }
+      ],
+      "guest_count": 10,
+      "ticket_count": 10,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2775,7 +2938,7 @@
             }
           },
           "city_state": "București, Romania",
-          "description": "",
+          "description": "EFdeN este situat în zona din spate a incintei Facultății de Inginerie a Instalațiilor, spre partea stângă a curții, accesul realizându-se dinspre Bulevardul Pache Protopopescu, prin curtea campusului.",
           "sublocality": "Sectorul 2",
           "country_code": "RO",
           "full_address": "EFdeN, Bulevardul Pache Protopopescu 66, 030167 București, Romania",
@@ -2933,16 +3096,16 @@
           "username": null
         }
       ],
-      "guest_count": 49,
-      "ticket_count": 49,
+      "guest_count": 50,
+      "ticket_count": 50,
       "ticket_info": {
         "price": null,
         "is_free": true,
         "max_price": null,
-        "is_sold_out": false,
+        "is_sold_out": true,
         "require_approval": true
       },
-      "registration_availability": "open",
+      "registration_availability": "sold-out",
       "waitlist_active": false,
       "featured_city": null
     },
@@ -3299,8 +3462,8 @@
           "username": null
         }
       ],
-      "guest_count": 3,
-      "ticket_count": 3,
+      "guest_count": 4,
+      "ticket_count": 4,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3659,8 +3822,8 @@
           "username": null
         }
       ],
-      "guest_count": 6,
-      "ticket_count": 6,
+      "guest_count": 9,
+      "ticket_count": 9,
       "ticket_info": {
         "price": {
           "cents": 2500,
@@ -4383,14 +4546,155 @@
           "username": "neomixers"
         }
       ],
-      "guest_count": 56,
-      "ticket_count": 56,
+      "guest_count": 57,
+      "ticket_count": 57,
       "ticket_info": {
         "price": null,
         "is_free": true,
         "max_price": null,
         "is_sold_out": false,
         "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-1sExKicKg10JDEG",
+      "event": {
+        "api_id": "evt-1sExKicKg10JDEG",
+        "calendar_api_id": "cal-KoCetJWD6IdYdt6",
+        "end_at": "2026-11-18T19:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Scaling Delivery Without Losing Flexibility",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/3w/14315dd5-c382-44ea-ac0b-3b44ae13b3e6.png",
+        "start_at": "2026-11-18T16:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "y8rq6wq8",
+        "user_api_id": "usr-4boOEzuMjkBVWv2",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Criteo",
+          "country": "Romania",
+          "place_id": "ChIJucO05hz_sUAR0r_yyMQben8",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Criteo",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Piața Romană",
+              "full_address": "Criteo, Strada Jules Michelet 18, 030167 București, România",
+              "region_short": "București",
+              "short_address": "Strada Jules Michelet 18, București"
+            },
+            "en-GB": {
+              "city": "București",
+              "region": "București",
+              "address": "Criteo",
+              "country": "Romania",
+              "city_state": "București, Romania",
+              "sublocality": "Piata Romana",
+              "full_address": "Criteo, Strada Jules Michelet 18, 030167 București, Romania",
+              "region_short": "București",
+              "short_address": "Strada Jules Michelet 18, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Piata Romana",
+          "country_code": "RO",
+          "full_address": "Criteo, Strada Jules Michelet 18, 030167 București, Romania",
+          "region_short": "București",
+          "short_address": "Strada Jules Michelet 18, București",
+          "place_coordinate": {
+            "latitude": 44.443762299999996,
+            "longitude": 26.0997715
+          },
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.0997715,
+          "latitude": 44.443762299999996
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-KoCetJWD6IdYdt6",
+        "coordinate": {
+          "longitude": 26.102538,
+          "latitude": 44.426767
+        },
+        "description_short": "We bring together IT professionals! Let's share experiences, help others grow, and join \"the software movement\"!",
+        "end_date": null,
+        "is_verified": false,
+        "location": {
+          "city": "Bucharest",
+          "region": null,
+          "country": "Romania",
+          "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
+          "timezone": "Europe/Bucharest",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": null,
+              "country": "România"
+            }
+          },
+          "country_code": "RO"
+        },
+        "name": "Incremental Development Community",
+        "personal_user_api_id": null,
+        "sends_unlocked_at": "2025-03-04T06:27:03.448Z",
+        "slug": "incrementalcommunity",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": "Europe/Bucharest"
+      },
+      "start_at": "2026-11-18T16:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-4boOEzuMjkBVWv2",
+          "name": "Andra Ghibutiu",
+          "username": null
+        },
+        {
+          "api_id": "usr-tfONz7dxU1mIpAH",
+          "name": "Alex Proca",
+          "username": null
+        },
+        {
+          "api_id": "usr-S8XnF6cRvVf5vOs",
+          "name": "Andra Ghibutiu",
+          "username": null
+        }
+      ],
+      "guest_count": 10,
+      "ticket_count": 10,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": true
       },
       "registration_availability": "open",
       "waitlist_active": false,
@@ -4491,8 +4795,8 @@
           "username": "anadespoiu"
         }
       ],
-      "guest_count": 5,
-      "ticket_count": 5,
+      "guest_count": 9,
+      "ticket_count": 9,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -4874,8 +5178,8 @@
           "username": null
         }
       ],
-      "guest_count": 48,
-      "ticket_count": 48,
+      "guest_count": 51,
+      "ticket_count": 51,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -5002,8 +5306,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 3,
-      "ticket_count": 3,
+      "guest_count": 4,
+      "ticket_count": 4,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -5115,8 +5419,8 @@
           "username": null
         }
       ],
-      "guest_count": 38,
-      "ticket_count": 38,
+      "guest_count": 40,
+      "ticket_count": 40,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -5289,7 +5593,7 @@
             }
           },
           "city_state": "București, Romania",
-          "description": "",
+          "description": "EFdeN este situat în zona din spate a incintei Facultății de Inginerie a Instalațiilor, spre partea stângă a curții, accesul realizându-se dinspre Bulevardul Pache Protopopescu, prin curtea campusului.",
           "sublocality": "Sectorul 2",
           "country_code": "RO",
           "full_address": "EFdeN, Bulevardul Pache Protopopescu 66, 030167 București, Romania",
@@ -5358,8 +5662,8 @@
           "username": null
         }
       ],
-      "guest_count": 20,
-      "ticket_count": 20,
+      "guest_count": 22,
+      "ticket_count": 22,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -5572,8 +5876,8 @@
           "username": null
         }
       ],
-      "guest_count": 70,
-      "ticket_count": 70,
+      "guest_count": 72,
+      "ticket_count": 72,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -5715,10 +6019,20 @@
           "api_id": "usr-XVdudtbZ3CEA7PG",
           "name": "Teodora Nicolaiciuc",
           "username": null
+        },
+        {
+          "api_id": "usr-lmoCCJS9mSJeEQw",
+          "name": null,
+          "username": null
+        },
+        {
+          "api_id": "usr-USfspCf4Hg1hVi2",
+          "name": "Raul",
+          "username": null
         }
       ],
-      "guest_count": 32,
-      "ticket_count": 32,
+      "guest_count": 33,
+      "ticket_count": 33,
       "ticket_info": {
         "price": {
           "cents": 14800,
@@ -5831,8 +6145,8 @@
           "username": "licinium40"
         }
       ],
-      "guest_count": 81,
-      "ticket_count": 81,
+      "guest_count": 96,
+      "ticket_count": 96,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -6055,8 +6369,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 207,
-      "ticket_count": 207,
+      "guest_count": 212,
+      "ticket_count": 212,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -6293,8 +6607,8 @@
           "username": null
         }
       ],
-      "guest_count": 8,
-      "ticket_count": 8,
+      "guest_count": 9,
+      "ticket_count": 9,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -6382,8 +6696,8 @@
           "username": null
         }
       ],
-      "guest_count": 5,
-      "ticket_count": 5,
+      "guest_count": 7,
+      "ticket_count": 7,
       "ticket_info": {
         "price": null,
         "is_free": true,

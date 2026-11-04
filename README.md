@@ -6,18 +6,18 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Miercuri, 4 noiembrie
 
-- `18:00` [Agentic loops and graphs - Formidable Builders x Stripe](https://lu.ma/k9buxy6i)  
-  <sub>Gabriel Moncha · 79 de participanți</sub>
 - `18:00` [RBC #419 \| DE CE UNII CLIENȚI CER DOAR PREȚUL, IAR ALȚII VOR SĂ LUCREZE CU TINE? \| Alin Ioan Crețu](https://lu.ma/8bx3drtd)  
-  <sub>Teodora Nicolaiciuc · 22 de participanți</sub>
+  <sub>Teodora Nicolaiciuc · 23 de participanți</sub>
 - `18:00` [RBC #419 \| DE CE UNII CLIENȚI CER DOAR PREȚUL, IAR ALȚII VOR SĂ LUCREZE CU TINE? \| Alin Ioan Crețu](https://lu.ma/3u9w2esn)  
   <sub>Teodora Nicolaiciuc</sub>
-- `18:30` [Let's Talk AI! #6](https://lu.ma/fy0eflpy)  
-  <sub>Let's Talk AI · 112 de participanți</sub>
+- `18:30` [Agentic loops and graphs - Formidable Builders x Stripe](https://lu.ma/k9buxy6i)  
+  <sub>Gabriel Moncha · 72 de participanți</sub>
+- `18:30` [Let's Talk AI! #6](https://lu.ma/lets-talk-ai-6)  
+  <sub>Let's Talk AI · 109 de participanți</sub>
 - `18:30` [THE SQUARE Social Chess @Cărturești Carusel](https://lu.ma/w67cmln0)  
   <sub>THE SQUARE Chess Club</sub>
 - `19:00` [PULSE #61 - Muv it Or Lose it - QUIZ NIGHT](https://lu.ma/buh2c1am)  
-  <sub>MuvOutside · 72 de participanți</sub>
+  <sub>MuvOutside · 76 de participanți</sub>
 
 ### Joi, 5 noiembrie
 
@@ -26,13 +26,13 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:30` [Bucharest Evo VC & Startups Social](https://lu.ma/sp9dlut1)  
   <sub>Gozel Akeyeva</sub>
 - `18:30` [Off the record #2 • Discuții sincere pentru oameni de marketing](https://lu.ma/jy2rf2po)  
-  <sub>Teodora Ionescu · 22 de participanți</sub>
+  <sub>Teodora Ionescu · 25 de participanți</sub>
 - `18:30` [Prompt 3: Build an AI product tonight](https://lu.ma/7xq77jo5)  
   <sub>Anna Mera · 11 participanți</sub>
 - `18:30` [The AI SOCIAL: presented by AI Collective Bucharest & Beta Nights by ambasada](https://lu.ma/ai-social)  
   <sub>The AI Collective</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S24E08](https://lu.ma/75999he5)  
-  <sub>321sport · 19 participanți</sub>
+  <sub>321sport · 25 de participanți</sub>
 - `19:00` [Wine & Painting](https://lu.ma/hpdclt72)  
   <sub>Career Shift</sub>
 
@@ -43,24 +43,26 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Sâmbătă, 7 noiembrie
 
+- `10:00` [Hills Training](https://lu.ma/yzgu872v)  
+  <sub>FOMO Urban Running Club · 5 participanți</sub>
 - `13:00` [Lansare de carte - Pisica Pix în vizită la București](https://lu.ma/onktlt4h)  
-  <sub>Ina German · 28 de participanți</sub>
+  <sub>Ina German · 34 de participanți</sub>
 - `16:00` [DevNight Brainstorm 🧠](https://lu.ma/0raib6um)  
   <sub>Bogdan Iasinovschi · 30 de participanți</sub>
 
 ### Duminică, 8 noiembrie
 
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/si999eim)  
-  <sub>Emily Merdus · 5 participanți</sub>
+  <sub>Emily Merdus · 7 participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/ll9a9ja5)  
   <sub>Irina Tenovici</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/pb96q8r1)  
-  <sub>Nicoleta Ifrim · 8 participanți</sub>
+  <sub>Nicoleta Ifrim · 9 participanți</sub>
 
 ### Marți, 10 noiembrie
 
 - `09:00` [Design Breakfast Club #1: Unfiltered Talk Over Coffee](https://lu.ma/gntw9u94)  
-  <sub>Design Breakfast Club · 13 participanți</sub>
+  <sub>Design Breakfast Club · 14 participanți</sub>
 - `10:00` [SMART HR Community Forum](https://lu.ma/q2isno7i)  
   <sub>Gabriela Roșca · 4 participanți</sub>
 
@@ -69,14 +71,16 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `08:30` [RoFintech Breakfast hosted by Token Payment Solutions](https://lu.ma/i8lmct7p)  
   <sub>Adrian Drinceanu</sub>
 - `18:00` [AI vs. AI: Fighting machine threats with intelligent defense.](https://lu.ma/axdu3mox)  
-  <sub>Lucian Popovici · 68 de participanți</sub>
+  <sub>Lucian Popovici · 76 de participanți</sub>
+- `18:00` [Lansare Carte "Strategia RISE"](https://lu.ma/ci3f4dcq)  
+  <sub>Florin Grozea · 10 participanți</sub>
 - `18:30` [EIS Talks #2: How Sustainable Are Our Future Careers?](https://lu.ma/oyrmla8k)  
   <sub>Ioana Mihăilescu</sub>
 
 ### Joi, 12 noiembrie
 
 - `16:00` [Sales Best Practice Lab #2](https://lu.ma/jvvhqhyf)  
-  <sub>Madalina Vechiu · 49 de participanți</sub>
+  <sub>Madalina Vechiu · 50 de participanți</sub>
 - `18:30` [Book Launch - "Înțelepciunea conflictului", by Magor Csibi & Raluca Anton](https://lu.ma/mqr1tn46)  
   <sub>Andra Ghibutiu · 14 participanți</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S24E10](https://lu.ma/mi5gjcq7)  
@@ -85,7 +89,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Vineri, 13 noiembrie
 
 - `10:00` [\[Community-Led Event\] Cum să (nu) scapi de emoții? Atelier practic pentru echipele din ONG-uri](https://lu.ma/CLE_emotii)  
-  <sub>AmpliFY ONG · 3 participanți</sub>
+  <sub>AmpliFY ONG · 4 participanți</sub>
 - `18:00` [Dincolo de convingerile noastre](https://lu.ma/9j4m9ncs)  
   <sub>Iulia Dobrescu · 5 participanți</sub>
 - `19:00` [Lansare carte Spețe Imobiliare \| 13 Noiembrie 2026 \| LENTE - str Arcului nr. 8, București](https://lu.ma/0tl04ex1)  
@@ -94,7 +98,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Sâmbătă, 14 noiembrie
 
 - `10:00` [RAAC 2026](https://lu.ma/8c2uxi9x)  
-  <sub>Elena Calin · 6 participanți</sub>
+  <sub>Elena Calin · 9 participanți</sub>
 - `14:00` [Cafeaua De Sâmbăta #32 \| Bucuresti](https://lu.ma/tumppxi0)  
   <sub>Ionut Alexandru Stanciu · 4 participanți</sub>
 - `19:00` [Healing Drum Circle](https://lu.ma/x0tl3qtu)  
@@ -124,7 +128,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Miercuri, 18 noiembrie
 
 - `18:00` [Bucharest Tech Mixer \| November Edition](https://lu.ma/wcqu1dgd)  
-  <sub>neomixers by ▲promocrat · 56 de participanți</sub>
+  <sub>neomixers by ▲promocrat · 57 de participanți</sub>
+- `18:00` [Scaling Delivery Without Losing Flexibility](https://lu.ma/y8rq6wq8)  
+  <sub>Andra Ghibutiu · 10 participanți</sub>
 
 ## Activitate (ultimele 365 de zile)
 
