@@ -4,25 +4,20 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Marți, 3 noiembrie
-
-- `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S24E07](https://lu.ma/znw0tmlf)  
-  <sub>321sport · 12 participanți</sub>
-
 ### Miercuri, 4 noiembrie
 
 - `18:00` [Agentic loops and graphs - Formidable Builders x Stripe](https://lu.ma/k9buxy6i)  
-  <sub>Gabriel Moncha · 80 de participanți</sub>
+  <sub>Gabriel Moncha · 79 de participanți</sub>
 - `18:00` [RBC #419 \| DE CE UNII CLIENȚI CER DOAR PREȚUL, IAR ALȚII VOR SĂ LUCREZE CU TINE? \| Alin Ioan Crețu](https://lu.ma/8bx3drtd)  
-  <sub>Teodora Nicolaiciuc · 14 participanți</sub>
+  <sub>Teodora Nicolaiciuc · 22 de participanți</sub>
 - `18:00` [RBC #419 \| DE CE UNII CLIENȚI CER DOAR PREȚUL, IAR ALȚII VOR SĂ LUCREZE CU TINE? \| Alin Ioan Crețu](https://lu.ma/3u9w2esn)  
   <sub>Teodora Nicolaiciuc</sub>
 - `18:30` [Let's Talk AI! #6](https://lu.ma/fy0eflpy)  
-  <sub>Let's Talk AI · 109 de participanți</sub>
+  <sub>Let's Talk AI · 112 de participanți</sub>
 - `18:30` [THE SQUARE Social Chess @Cărturești Carusel](https://lu.ma/w67cmln0)  
   <sub>THE SQUARE Chess Club</sub>
 - `19:00` [PULSE #61 - Muv it Or Lose it - QUIZ NIGHT](https://lu.ma/buh2c1am)  
-  <sub>MuvOutside · 63 de participanți</sub>
+  <sub>MuvOutside · 72 de participanți</sub>
 
 ### Joi, 5 noiembrie
 
@@ -49,7 +44,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Sâmbătă, 7 noiembrie
 
 - `13:00` [Lansare de carte - Pisica Pix în vizită la București](https://lu.ma/onktlt4h)  
-  <sub>Ina German · 27 de participanți</sub>
+  <sub>Ina German · 28 de participanți</sub>
 - `16:00` [DevNight Brainstorm 🧠](https://lu.ma/0raib6um)  
   <sub>Bogdan Iasinovschi · 30 de participanți</sub>
 
@@ -98,8 +93,10 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Sâmbătă, 14 noiembrie
 
+- `10:00` [RAAC 2026](https://lu.ma/8c2uxi9x)  
+  <sub>Elena Calin · 6 participanți</sub>
 - `14:00` [Cafeaua De Sâmbăta #32 \| Bucuresti](https://lu.ma/tumppxi0)  
-  <sub>Ionut Alexandru Stanciu · 2 participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 4 participanți</sub>
 - `19:00` [Healing Drum Circle](https://lu.ma/x0tl3qtu)  
   <sub>Sarah Samira Natour · 5 participanți</sub>
 
@@ -124,15 +121,20 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:00` [Roelfien Vos × Orac](https://lu.ma/1xk1n06p)  
   <sub>Orac Romania · 9 participanți</sub>
 
+### Miercuri, 18 noiembrie
+
+- `18:00` [Bucharest Tech Mixer \| November Edition](https://lu.ma/wcqu1dgd)  
+  <sub>neomixers by ▲promocrat · 56 de participanți</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-03)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-04)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-03)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-04)
 
 ## Despre
 
@@ -146,4 +148,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 3 noiembrie 2026*
+*Actualizat: 4 noiembrie 2026*
