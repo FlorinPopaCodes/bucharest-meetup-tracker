@@ -4,25 +4,10 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Miercuri, 4 noiembrie
-
-- `18:00` [RBC #419 \| DE CE UNII CLIENȚI CER DOAR PREȚUL, IAR ALȚII VOR SĂ LUCREZE CU TINE? \| Alin Ioan Crețu](https://lu.ma/8bx3drtd)  
-  <sub>Teodora Nicolaiciuc · 23 de participanți</sub>
-- `18:00` [RBC #419 \| DE CE UNII CLIENȚI CER DOAR PREȚUL, IAR ALȚII VOR SĂ LUCREZE CU TINE? \| Alin Ioan Crețu](https://lu.ma/3u9w2esn)  
-  <sub>Teodora Nicolaiciuc</sub>
-- `18:30` [Agentic loops and graphs - Formidable Builders x Stripe](https://lu.ma/k9buxy6i)  
-  <sub>Gabriel Moncha · 72 de participanți</sub>
-- `18:30` [Let's Talk AI! #6](https://lu.ma/lets-talk-ai-6)  
-  <sub>Let's Talk AI · 109 de participanți</sub>
-- `18:30` [THE SQUARE Social Chess @Cărturești Carusel](https://lu.ma/w67cmln0)  
-  <sub>THE SQUARE Chess Club</sub>
-- `19:00` [PULSE #61 - Muv it Or Lose it - QUIZ NIGHT](https://lu.ma/buh2c1am)  
-  <sub>MuvOutside · 76 de participanți</sub>
-
 ### Joi, 5 noiembrie
 
 - `16:00` [Marketing fără buget în 2027](https://lu.ma/g4t75pgr)  
-  <sub>Andrei Stoica · 22 de participanți</sub>
+  <sub>Andrei Stoica · 23 de participanți</sub>
 - `18:30` [Bucharest Evo VC & Startups Social](https://lu.ma/sp9dlut1)  
   <sub>Gozel Akeyeva</sub>
 - `18:30` [Off the record #2 • Discuții sincere pentru oameni de marketing](https://lu.ma/jy2rf2po)  
@@ -32,7 +17,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:30` [The AI SOCIAL: presented by AI Collective Bucharest & Beta Nights by ambasada](https://lu.ma/ai-social)  
   <sub>The AI Collective</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S24E08](https://lu.ma/75999he5)  
-  <sub>321sport · 25 de participanți</sub>
+  <sub>321sport · 30 de participanți</sub>
 - `19:00` [Wine & Painting](https://lu.ma/hpdclt72)  
   <sub>Career Shift</sub>
 
@@ -44,9 +29,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Sâmbătă, 7 noiembrie
 
 - `10:00` [Hills Training](https://lu.ma/yzgu872v)  
-  <sub>FOMO Urban Running Club · 5 participanți</sub>
+  <sub>FOMO Urban Running Club · 11 participanți</sub>
 - `13:00` [Lansare de carte - Pisica Pix în vizită la București](https://lu.ma/onktlt4h)  
-  <sub>Ina German · 34 de participanți</sub>
+  <sub>Ina German · 39 de participanți</sub>
 - `16:00` [DevNight Brainstorm 🧠](https://lu.ma/0raib6um)  
   <sub>Bogdan Iasinovschi · 30 de participanți</sub>
 
@@ -71,9 +56,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `08:30` [RoFintech Breakfast hosted by Token Payment Solutions](https://lu.ma/i8lmct7p)  
   <sub>Adrian Drinceanu</sub>
 - `18:00` [AI vs. AI: Fighting machine threats with intelligent defense.](https://lu.ma/axdu3mox)  
-  <sub>Lucian Popovici · 76 de participanți</sub>
+  <sub>Lucian Popovici · 78 de participanți</sub>
 - `18:00` [Lansare Carte "Strategia RISE"](https://lu.ma/ci3f4dcq)  
-  <sub>Florin Grozea · 10 participanți</sub>
+  <sub>Florin Grozea · 14 participanți</sub>
 - `18:30` [EIS Talks #2: How Sustainable Are Our Future Careers?](https://lu.ma/oyrmla8k)  
   <sub>Ioana Mihăilescu</sub>
 
@@ -128,19 +113,32 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Miercuri, 18 noiembrie
 
 - `18:00` [Bucharest Tech Mixer \| November Edition](https://lu.ma/wcqu1dgd)  
-  <sub>neomixers by ▲promocrat · 57 de participanți</sub>
+  <sub>neomixers by ▲promocrat · 58 de participanți</sub>
 - `18:00` [Scaling Delivery Without Losing Flexibility](https://lu.ma/y8rq6wq8)  
-  <sub>Andra Ghibutiu · 10 participanți</sub>
+  <sub>Andra Ghibutiu · 12 participanți</sub>
+
+### Joi, 19 noiembrie
+
+- `09:30` [Stereotipuri de gen în îngrijirea de lungă durată: rezultatele și resursele OpenCARE](https://lu.ma/ki4aoyx4)  
+  <sub>European Association For Social Innovation · 9 participanți</sub>
+- `18:00` [19.11. București - WIN Gala 2026](https://lu.ma/6zi28bzc)  
+  <sub>Vlad RBC</sub>
+- `18:00` [AI Adoption: Psychological and Organizational Challenges](https://lu.ma/a1sjd4f7)  
+  <sub>Andra Ghibutiu · 26 de participanți</sub>
+- `18:00` [AI Adoption: Psychological and Organizational Challenges](https://lu.ma/xgrl4d1c)  
+  <sub>Upskilling the Romanian IT Industry · 51 de participanți</sub>
+- `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S24E12](https://lu.ma/3yld9924)  
+  <sub>321sport · 4 participanți</sub>
 
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-04)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-05)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-04)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-05)
 
 ## Despre
 
@@ -154,4 +152,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 4 noiembrie 2026*
+*Actualizat: 5 noiembrie 2026*
