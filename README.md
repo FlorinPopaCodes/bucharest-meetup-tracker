@@ -4,17 +4,12 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Vineri, 6 noiembrie
-
-- `16:00` [Growth Quest • 6 noiembrie, ora 16 la Häfele Showroom](https://lu.ma/0jzk9x9t)  
-  <sub>abc.school.ro</sub>
-
 ### Sâmbătă, 7 noiembrie
 
 - `10:00` [Hills Training](https://lu.ma/yzgu872v)  
-  <sub>FOMO Urban Running Club · 15 participanți</sub>
+  <sub>FOMO Urban Running Club · 18 participanți</sub>
 - `13:00` [Lansare de carte - Pisica Pix în vizită la București](https://lu.ma/onktlt4h)  
-  <sub>Ina German · 52 de participanți</sub>
+  <sub>Ina German · 54 de participanți</sub>
 - `14:00` [Casual Cyberpunk TCG](https://lu.ma/tzepczhu)  
   <sub>Arcana Inn · 3 participanți</sub>
 - `16:00` [DevNight Brainstorm 🧠](https://lu.ma/0raib6um)  
@@ -23,9 +18,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 8 noiembrie
 
 - `09:00` [PAS CU SENS X 10k Pași Parc Lumea Copiilor](https://lu.ma/4lfduoxn)  
-  <sub>PAS cu SENS · 4 participanți</sub>
+  <sub>PAS cu SENS · 5 participanți</sub>
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/si999eim)  
-  <sub>Emily Merdus · 9 participanți</sub>
+  <sub>Emily Merdus · 10 participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/ll9a9ja5)  
   <sub>Irina Tenovici</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/pb96q8r1)  
@@ -47,7 +42,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:00` [AI vs. AI: Fighting machine threats with intelligent defense.](https://lu.ma/axdu3mox)  
   <sub>Lucian Popovici · 83 de participanți</sub>
 - `18:00` [Lansare Carte "Strategia RISE"](https://lu.ma/ci3f4dcq)  
-  <sub>Florin Grozea · 15 participanți</sub>
+  <sub>Florin Grozea · 16 participanți</sub>
 - `18:30` [EIS Talks #2: How Sustainable Are Our Future Careers?](https://lu.ma/oyrmla8k)  
   <sub>Ioana Mihăilescu</sub>
 
@@ -62,7 +57,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:30` [Book Launch - "Înțelepciunea conflictului", by Magor Csibi & Raluca Anton](https://lu.ma/mqr1tn46)  
   <sub>Andra Ghibutiu · 16 participanți</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S24E10](https://lu.ma/mi5gjcq7)  
-  <sub>321sport · 4 participanți</sub>
+  <sub>321sport · 5 participanți</sub>
 
 ### Vineri, 13 noiembrie
 
@@ -78,7 +73,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `10:00` [RAAC 2026](https://lu.ma/8c2uxi9x)  
   <sub>Elena Calin · 10 participanți</sub>
 - `14:00` [Cafeaua De Sâmbăta #32 \| Bucuresti](https://lu.ma/tumppxi0)  
-  <sub>Ionut Alexandru Stanciu · 11 participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 12 participanți</sub>
 - `19:00` [Healing Drum Circle](https://lu.ma/x0tl3qtu)  
   <sub>Sarah Samira Natour · 5 participanți</sub>
 
@@ -104,7 +99,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
   <sub>Adrian Drinceanu</sub>
 - `11:00` [Ziua Albă a Universităților](https://lu.ma/vgrv83vr)
 - `18:00` [Roelfien Vos × Orac](https://lu.ma/1xk1n06p)  
-  <sub>Orac Romania · 34 de participanți</sub>
+  <sub>Orac Romania · 36 de participanți</sub>
 
 ### Miercuri, 18 noiembrie
 
@@ -130,11 +125,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-06)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-07)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-06)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-07)
 
 ## Despre
 
@@ -148,4 +143,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 6 noiembrie 2026*
+*Actualizat: 7 noiembrie 2026*
