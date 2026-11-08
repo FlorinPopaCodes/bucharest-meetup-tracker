@@ -18,7 +18,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Marți, 10 noiembrie
 
 - `09:00` [Design Breakfast Club #1: Unfiltered Talk Over Coffee](https://lu.ma/gntw9u94)  
-  <sub>Design Breakfast Club · 14 participanți</sub>
+  <sub>Design Breakfast Club · 16 participanți</sub>
 - `10:00` [SMART HR Community Forum](https://lu.ma/q2isno7i)  
   <sub>Gabriela Roșca · 4 participanți</sub>
 - `18:00` [WIN #28 – Mentalitatea din spatele succesului : decizii curajoase, leadership și strategii de creștere în business - Denisa Tache](https://lu.ma/rnuptsmu)  
@@ -35,7 +35,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:00` [Lansare Carte "Strategia RISE"](https://lu.ma/ci3f4dcq)  
   <sub>Florin Grozea · 18 participanți</sub>
 - `18:00` [RBC #420 \| CUM ÎȚI POȚI FINANȚA AFACEREA OUT OF THE BOX! - KICKSTARTER VS. SEEDBLINK \| Alex Buzuianu & Alexandru Gala Popescu](https://lu.ma/11boyhxg)  
-  <sub>Teodora Nicolaiciuc · 3 participanți</sub>
+  <sub>Teodora Nicolaiciuc · 4 participanți</sub>
 - `18:30` [EIS Talks #2: How Sustainable Are Our Future Careers?](https://lu.ma/oyrmla8k)  
   <sub>Ioana Mihăilescu</sub>
 
@@ -66,9 +66,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `10:00` [RAAC 2026](https://lu.ma/8c2uxi9x)  
   <sub>Elena Calin · 10 participanți</sub>
 - `14:00` [Cafeaua De Sâmbăta #32 \| Bucuresti](https://lu.ma/tumppxi0)  
-  <sub>Ionut Alexandru Stanciu · 15 participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 19 participanți</sub>
 - `19:00` [Healing Drum Circle](https://lu.ma/x0tl3qtu)  
-  <sub>Sarah Samira Natour · 5 participanți</sub>
+  <sub>Sarah Samira Natour · 6 participanți</sub>
 
 ### Duminică, 15 noiembrie
 
@@ -96,10 +96,10 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Miercuri, 18 noiembrie
 
-- `18:00` [Bucharest Tech Mixer \| November Edition](https://lu.ma/wcqu1dgd)  
-  <sub>neomixers by ▲promocrat · 73 de participanți</sub>
 - `18:00` [Scaling Delivery Without Losing Flexibility](https://lu.ma/y8rq6wq8)  
   <sub>Andra Ghibutiu · 13 participanți</sub>
+- `19:00` [Bucharest Tech Mixer \| November Edition](https://lu.ma/wcqu1dgd)  
+  <sub>neomixers by ▲promocrat · 73 de participanți</sub>
 
 ### Joi, 19 noiembrie
 
@@ -110,7 +110,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:00` [AI Adoption: Psychological and Organizational Challenges](https://lu.ma/a1sjd4f7)  
   <sub>Andra Ghibutiu · 27 de participanți</sub>
 - `18:00` [AI Adoption: Psychological and Organizational Challenges](https://lu.ma/xgrl4d1c)  
-  <sub>Upskilling the Romanian IT Industry · 55 de participanți</sub>
+  <sub>Upskilling the Romanian IT Industry · 56 de participanți</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S24E12](https://lu.ma/3yld9924)  
   <sub>321sport · 4 participanți</sub>
 
