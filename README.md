@@ -4,27 +4,16 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Sâmbătă, 7 noiembrie
-
-- `10:00` [Hills Training](https://lu.ma/yzgu872v)  
-  <sub>FOMO Urban Running Club · 18 participanți</sub>
-- `13:00` [Lansare de carte - Pisica Pix în vizită la București](https://lu.ma/onktlt4h)  
-  <sub>Ina German · 54 de participanți</sub>
-- `14:00` [Casual Cyberpunk TCG](https://lu.ma/tzepczhu)  
-  <sub>Arcana Inn · 3 participanți</sub>
-- `16:00` [DevNight Brainstorm 🧠](https://lu.ma/0raib6um)  
-  <sub>Bogdan Iasinovschi · 30 de participanți</sub>
-
 ### Duminică, 8 noiembrie
 
 - `09:00` [PAS CU SENS X 10k Pași Parc Lumea Copiilor](https://lu.ma/4lfduoxn)  
   <sub>PAS cu SENS · 7 participanți</sub>
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/si999eim)  
-  <sub>Emily Merdus · 18 participanți</sub>
+  <sub>Emily Merdus · 21 de participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/ll9a9ja5)  
-  <sub>Irina Tenovici · 9 participanți</sub>
+  <sub>Irina Tenovici · 12 participanți</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/pb96q8r1)  
-  <sub>Nicoleta Ifrim · 18 participanți</sub>
+  <sub>Nicoleta Ifrim · 23 de participanți</sub>
 
 ### Marți, 10 noiembrie
 
@@ -44,7 +33,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:00` [AI vs. AI: Fighting machine threats with intelligent defense.](https://lu.ma/axdu3mox)  
   <sub>Lucian Popovici · 84 de participanți</sub>
 - `18:00` [Lansare Carte "Strategia RISE"](https://lu.ma/ci3f4dcq)  
-  <sub>Florin Grozea · 16 participanți</sub>
+  <sub>Florin Grozea · 18 participanți</sub>
 - `18:00` [RBC #420 \| CUM ÎȚI POȚI FINANȚA AFACEREA OUT OF THE BOX! - KICKSTARTER VS. SEEDBLINK \| Alex Buzuianu & Alexandru Gala Popescu](https://lu.ma/11boyhxg)  
   <sub>Teodora Nicolaiciuc · 3 participanți</sub>
 - `18:30` [EIS Talks #2: How Sustainable Are Our Future Careers?](https://lu.ma/oyrmla8k)  
@@ -55,7 +44,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `09:00` [Fixed-Price can’t fix broken T&M \| working breakfast București](https://lu.ma/r4u6rr0d)  
   <sub>Elena Iordache-Stoica · 3 participanți</sub>
 - `10:00` [CEO + HR Roundtable, 12 noiembrie 2026, București](https://lu.ma/6jspv9yz)  
-  <sub>Revista CARIERE · 16 participanți</sub>
+  <sub>Revista CARIERE · 18 participanți</sub>
 - `16:00` [Sales Best Practice Lab #2](https://lu.ma/jvvhqhyf)  
   <sub>Madalina Vechiu · 51 de participanți</sub>
 - `18:30` [Book Launch - "Înțelepciunea conflictului", by Magor Csibi & Raluca Anton](https://lu.ma/mqr1tn46)  
@@ -103,7 +92,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
   <sub>Adrian Drinceanu</sub>
 - `11:00` [Ziua Albă a Universităților](https://lu.ma/vgrv83vr)
 - `18:00` [Roelfien Vos × Orac](https://lu.ma/1xk1n06p)  
-  <sub>Orac Romania · 37 de participanți</sub>
+  <sub>Orac Romania · 39 de participanți</sub>
 
 ### Miercuri, 18 noiembrie
 
@@ -125,15 +114,28 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S24E12](https://lu.ma/3yld9924)  
   <sub>321sport · 4 participanți</sub>
 
+### Duminică, 22 noiembrie
+
+- `09:00` [Tura de duminică Herăstrău](https://lu.ma/i8emkld8)  
+  <sub>Emily Merdus</sub>
+- `09:00` [Tura de duminică I.O.R.](https://lu.ma/mssdu0cl)  
+  <sub>Irina Tenovici</sub>
+- `09:00` [Tura de duminică Tineretului](https://lu.ma/1rvgbnid)  
+  <sub>Nicoleta Ifrim</sub>
+- `10:30` [Women's Financial Education Summit (3rd edition)](https://lu.ma/fb9qlotj)  
+  <sub>Echipa FeminEast · 48 de participanți</sub>
+- `12:00` [Bookisim #5 Oameni normali](https://lu.ma/0bqr6g9t)  
+  <sub>R.O.S.T. Specialty Coffeshop · 4 participanți</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-07)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-08)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-07)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-08)
 
 ## Despre
 
@@ -147,4 +149,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 7 noiembrie 2026*
+*Actualizat: 8 noiembrie 2026*
