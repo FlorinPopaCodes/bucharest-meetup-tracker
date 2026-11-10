@@ -1,226 +1,6 @@
 {
   "geo": [
     {
-      "api_id": "evt-HkkQmzABWWZkCP4",
-      "event": {
-        "api_id": "evt-HkkQmzABWWZkCP4",
-        "calendar_api_id": "cal-xmlLTV64uM4z4TF",
-        "end_at": "2026-11-10T09:00:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "Design Breakfast Club #1: Unfiltered Talk Over Coffee",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": true,
-        "social_image_url": "https://images.lumacdn.com/event-social/ku/6036c4ea-7d8a-41c3-90ac-a0ddfcc1ebd2.png",
-        "start_at": "2026-11-10T07:00:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "gntw9u94",
-        "user_api_id": "usr-xLedeuC3JFNNnaL",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "București",
-          "type": "google",
-          "region": "București",
-          "address": "Temple of Brewzeus",
-          "country": "Romania",
-          "place_id": "ChIJW0dwfjT_sUARjSqqj5npgEw",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": "București",
-              "address": "Temple of Brewzeus",
-              "country": "România",
-              "city_state": "București, România",
-              "sublocality": "Bucureşti Sectorul 5",
-              "full_address": "Temple of Brewzeus, Strada Domnița Anastasia 4, 050035 București, România",
-              "region_short": "București",
-              "short_address": "Strada Domnița Anastasia 4, București"
-            }
-          },
-          "city_state": "București, Romania",
-          "description": "",
-          "sublocality": "Bucureşti Sectorul 5",
-          "country_code": "RO",
-          "full_address": "Temple of Brewzeus, Strada Domnița Anastasia 4, 050035 București, Romania",
-          "region_short": "București",
-          "short_address": "Strada Domnița Anastasia 4, București",
-          "place_coordinate": {
-            "latitude": 44.433949299999995,
-            "longitude": 26.0949843
-          },
-          "apple_maps_place_id": "I8B15C0BDCCAD3E6F",
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 26.0949843,
-          "latitude": 44.433949299999995
-        },
-        "waitlist_enabled": true,
-        "waitlist_status": "active"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-xmlLTV64uM4z4TF",
-        "coordinate": null,
-        "description_short": "A monthly breakfast for designers and the design-curious. Here, you’re not your title. Bring a question, share what you’re building, pull up a chair.",
-        "end_date": null,
-        "is_verified": false,
-        "location": null,
-        "name": "Design Breakfast Club",
-        "personal_user_api_id": null,
-        "sends_unlocked_at": null,
-        "slug": "designbreakfastclub",
-        "start_date": null,
-        "website": null,
-        "is_personal": false,
-        "personal_user": null,
-        "timezone": null
-      },
-      "start_at": "2026-11-10T07:00:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-xLedeuC3JFNNnaL",
-          "name": "Design Breakfast Club",
-          "username": "designbreakfast"
-        },
-        {
-          "api_id": "usr-GRybhCPJTF36a1U",
-          "name": "Sasha (Tănase) Luca",
-          "username": null
-        }
-      ],
-      "guest_count": 16,
-      "ticket_count": 16,
-      "ticket_info": {
-        "price": null,
-        "is_free": true,
-        "max_price": null,
-        "is_sold_out": true,
-        "require_approval": true
-      },
-      "registration_availability": "waitlist",
-      "waitlist_active": true,
-      "featured_city": null
-    },
-    {
-      "api_id": "evt-zCZMbekuUFSpzb0",
-      "event": {
-        "api_id": "evt-zCZMbekuUFSpzb0",
-        "calendar_api_id": "cal-GBTYJJuckEjLIBG",
-        "end_at": "2026-11-10T12:00:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "SMART HR Community Forum",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": true,
-        "social_image_url": "https://images.lumacdn.com/event-social/8m/2398e361-9940-42b4-a92e-0f32abeb5f32.png",
-        "start_at": "2026-11-10T08:00:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "q2isno7i",
-        "user_api_id": "usr-Rf8PtqGZ121VP3D",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "București",
-          "type": "google",
-          "region": "București",
-          "address": "World Trade Center Bucharest",
-          "country": "Romania",
-          "place_id": "ChIJFUcbmDgCskARW55vKzzr9mo",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": "București",
-              "address": "World Trade Center Bucharest",
-              "country": "România",
-              "city_state": "București, România",
-              "sublocality": "Bucureşti Sectorul 1",
-              "full_address": "World Trade Center Bucharest, Piața Montreal 10, 011469 București, România",
-              "region_short": "București",
-              "short_address": "Piața Montreal 10, București"
-            }
-          },
-          "city_state": "București, Romania",
-          "description": "",
-          "sublocality": "Bucureşti Sectorul 1",
-          "country_code": "RO",
-          "full_address": "World Trade Center Bucharest, Piața Montreal 10, 011469 București, Romania",
-          "region_short": "București",
-          "short_address": "Piața Montreal 10, București",
-          "place_coordinate": {
-            "latitude": 44.4755171,
-            "longitude": 26.0695671
-          },
-          "apple_maps_place_id": "I50A08B6402A93A9B",
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 26.0695671,
-          "latitude": 44.4755171
-        },
-        "waitlist_enabled": true,
-        "waitlist_status": "enabled"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-GBTYJJuckEjLIBG",
-        "coordinate": null,
-        "description_short": null,
-        "end_date": null,
-        "is_verified": false,
-        "location": null,
-        "name": "Personal",
-        "personal_user_api_id": "usr-Rf8PtqGZ121VP3D",
-        "sends_unlocked_at": "2026-10-21T17:44:19.217Z",
-        "slug": null,
-        "start_date": null,
-        "website": null,
-        "is_personal": true,
-        "personal_user": {
-          "api_id": "usr-Rf8PtqGZ121VP3D",
-          "name": "Gabriela Roșca",
-          "username": null
-        },
-        "timezone": null
-      },
-      "start_at": "2026-11-10T08:00:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-Rf8PtqGZ121VP3D",
-          "name": "Gabriela Roșca",
-          "username": null
-        },
-        {
-          "api_id": "usr-L74Cn8z4zs0qWV1",
-          "name": "Virginia Petrescu",
-          "username": null
-        }
-      ],
-      "guest_count": 4,
-      "ticket_count": 4,
-      "ticket_info": {
-        "price": null,
-        "is_free": true,
-        "max_price": null,
-        "is_sold_out": false,
-        "require_approval": true
-      },
-      "registration_availability": "open",
-      "waitlist_active": false,
-      "featured_city": null
-    },
-    {
       "api_id": "evt-L3pRkO5WE3Go4jG",
       "event": {
         "api_id": "evt-L3pRkO5WE3Go4jG",
@@ -324,13 +104,13 @@
       "ticket_count": 0,
       "ticket_info": {
         "price": {
-          "cents": 7800,
+          "cents": 17800,
           "currency": "ron",
           "is_flexible": false
         },
         "is_free": false,
         "max_price": {
-          "cents": 24800,
+          "cents": 34800,
           "currency": "ron"
         },
         "is_sold_out": false,
@@ -455,8 +235,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 4,
-      "ticket_count": 4,
+      "guest_count": 8,
+      "ticket_count": 8,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -696,8 +476,8 @@
           "username": null
         }
       ],
-      "guest_count": 85,
-      "ticket_count": 85,
+      "guest_count": 90,
+      "ticket_count": 90,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -814,8 +594,8 @@
           "username": "floringrozea"
         }
       ],
-      "guest_count": 25,
-      "ticket_count": 25,
+      "guest_count": 30,
+      "ticket_count": 30,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -954,8 +734,8 @@
           "username": null
         }
       ],
-      "guest_count": 12,
-      "ticket_count": 12,
+      "guest_count": 19,
+      "ticket_count": 19,
       "ticket_info": {
         "price": {
           "cents": 7800,
@@ -1212,113 +992,6 @@
       ],
       "guest_count": 3,
       "ticket_count": 3,
-      "ticket_info": {
-        "price": null,
-        "is_free": true,
-        "max_price": null,
-        "is_sold_out": false,
-        "require_approval": true
-      },
-      "registration_availability": "open",
-      "waitlist_active": false,
-      "featured_city": null
-    },
-    {
-      "api_id": "evt-UplpkmVRz6jafGc",
-      "event": {
-        "api_id": "evt-UplpkmVRz6jafGc",
-        "calendar_api_id": "cal-lVsttDJs3Y5Dm7L",
-        "end_at": "2026-11-12T11:00:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "CEO + HR Roundtable, 12 noiembrie 2026, București",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": true,
-        "social_image_url": "https://images.lumacdn.com/event-social/j5/49f46caf-6ab2-4fbc-80e8-3a341e0520f7.png",
-        "start_at": "2026-11-12T08:00:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "6jspv9yz",
-        "user_api_id": "usr-GzdjOkOjqzlZEpJ",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "București",
-          "type": "google",
-          "region": "București",
-          "address": "Booking Holdings",
-          "country": "Romania",
-          "place_id": "ChIJtTHluwb_sUAR6v1u7A_cVkc",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": "București",
-              "address": "Booking Holdings",
-              "country": "România",
-              "city_state": "București, România",
-              "sublocality": "Bucureşti Sectorul 4",
-              "full_address": "Booking Holdings, U Center, Calea Șerban Vodă 206-218, 040215 București, România",
-              "region_short": "București",
-              "short_address": "U Center, Calea Șerban Vodă 206-218, București"
-            }
-          },
-          "city_state": "București, Romania",
-          "description": "",
-          "sublocality": "Bucureşti Sectorul 4",
-          "country_code": "RO",
-          "full_address": "Booking Holdings, U Center, Calea Șerban Vodă 206-218, 040215 București, Romania",
-          "region_short": "București",
-          "short_address": "U Center, Calea Șerban Vodă 206-218, București",
-          "place_coordinate": {
-            "latitude": 44.4134712,
-            "longitude": 26.103283400000002
-          },
-          "apple_maps_place_id": "I2D621942609B8DC",
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 26.103283400000002,
-          "latitude": 44.4134712
-        },
-        "waitlist_enabled": false,
-        "waitlist_status": "disabled"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-lVsttDJs3Y5Dm7L",
-        "coordinate": null,
-        "description_short": null,
-        "end_date": null,
-        "is_verified": false,
-        "location": null,
-        "name": "Personal",
-        "personal_user_api_id": "usr-GzdjOkOjqzlZEpJ",
-        "sends_unlocked_at": "2026-08-23T16:13:59.261Z",
-        "slug": null,
-        "start_date": null,
-        "website": null,
-        "is_personal": true,
-        "personal_user": {
-          "api_id": "usr-GzdjOkOjqzlZEpJ",
-          "name": "Revista CARIERE",
-          "username": null
-        },
-        "timezone": null
-      },
-      "start_at": "2026-11-12T08:00:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-GzdjOkOjqzlZEpJ",
-          "name": "Revista CARIERE",
-          "username": null
-        }
-      ],
-      "guest_count": 28,
-      "ticket_count": 28,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1766,8 +1439,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 17,
-      "ticket_count": 17,
+      "guest_count": 26,
+      "ticket_count": 26,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1873,8 +1546,8 @@
           "username": "muvoutside"
         }
       ],
-      "guest_count": 20,
-      "ticket_count": 20,
+      "guest_count": 21,
+      "ticket_count": 21,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1884,119 +1557,6 @@
       },
       "registration_availability": "waitlist",
       "waitlist_active": true,
-      "featured_city": null
-    },
-    {
-      "api_id": "evt-qUetJz2YvMvBcLP",
-      "event": {
-        "api_id": "evt-qUetJz2YvMvBcLP",
-        "calendar_api_id": "cal-xFj5d2QaVBpHhAU",
-        "end_at": "2026-11-13T11:00:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "[Community-Led Event] Cum să (nu) scapi de emoții? Atelier practic pentru echipele din ONG-uri",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": true,
-        "social_image_url": "https://images.lumacdn.com/event-social/kx/73b1ab43-4b3f-45d4-8931-82b99fe9d229.png",
-        "start_at": "2026-11-13T08:00:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "CLE_emotii",
-        "user_api_id": "usr-8qsrXUSKY2cBPf4",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "București",
-          "type": "google",
-          "region": "6",
-          "address": "Builders House",
-          "country": "Romania",
-          "place_id": "ChIJxamUxjABskAR9A2hA-LHfLs",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": "6",
-              "address": "Builders House",
-              "country": "România",
-              "city_state": "București, România",
-              "sublocality": "Militari",
-              "full_address": "Builders House, Afi Park 1, Bulevardul General Paul Teodorescu 4, et. 1, 061344 București, România",
-              "region_short": "6",
-              "short_address": "Afi Park 1, AFI Park 1, Bulevardul General Paul Teodorescu 4, et. 1, București"
-            }
-          },
-          "city_state": "București, Romania",
-          "description": "",
-          "sublocality": "Militari",
-          "country_code": "RO",
-          "full_address": "Builders House, Afi Park 1, Bulevardul General Paul Teodorescu 4, et. 1, 061344 București, Romania",
-          "region_short": "6",
-          "short_address": "Afi Park 1, AFI Park 1, Bulevardul General Paul Teodorescu 4, et. 1, București",
-          "place_coordinate": {
-            "latitude": 44.4307121,
-            "longitude": 26.0540725
-          },
-          "apple_maps_place_id": "IAA1298D7D033A083",
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 26.0540725,
-          "latitude": 44.4307121
-        },
-        "waitlist_enabled": false,
-        "waitlist_status": "disabled"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-xFj5d2QaVBpHhAU",
-        "coordinate": null,
-        "description_short": "Calendar curatoriat cu evenimente de învățare și networking pentru ONG-uri, organizate sau recomandate de AmpliFY ONG și de membrii comunității. Înscrie-te în comunitate aici: https://amplifyong.ro/.",
-        "end_date": null,
-        "is_verified": false,
-        "location": null,
-        "name": "Hub-ul de evenimente pentru ONG-uri",
-        "personal_user_api_id": null,
-        "sends_unlocked_at": "2026-02-23T13:28:22.118Z",
-        "slug": "evenimente-ong-by-amplify",
-        "start_date": null,
-        "website": "https://amplifyong.ro/",
-        "is_personal": false,
-        "personal_user": null,
-        "timezone": null
-      },
-      "start_at": "2026-11-13T08:00:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-8qsrXUSKY2cBPf4",
-          "name": "AmpliFY ONG",
-          "username": "amplifyong"
-        },
-        {
-          "api_id": "usr-5sW4VgHbk6MzXf7",
-          "name": "Irina Ionescu",
-          "username": null
-        },
-        {
-          "api_id": "usr-ZOejjRE9tASPIUI",
-          "name": "Carmen Muresanu",
-          "username": null
-        }
-      ],
-      "guest_count": 6,
-      "ticket_count": 6,
-      "ticket_info": {
-        "price": null,
-        "is_free": true,
-        "max_price": null,
-        "is_sold_out": false,
-        "require_approval": false
-      },
-      "registration_availability": "open",
-      "waitlist_active": false,
       "featured_city": null
     },
     {
@@ -2200,8 +1760,8 @@
           "username": null
         }
       ],
-      "guest_count": 20,
-      "ticket_count": 20,
+      "guest_count": 22,
+      "ticket_count": 22,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2331,8 +1891,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 5,
-      "ticket_count": 5,
+      "guest_count": 9,
+      "ticket_count": 9,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2477,8 +2037,8 @@
           "username": null
         }
       ],
-      "guest_count": 12,
-      "ticket_count": 12,
+      "guest_count": 13,
+      "ticket_count": 13,
       "ticket_info": {
         "price": {
           "cents": 2500,
@@ -2596,8 +2156,8 @@
           "username": "resonatika"
         }
       ],
-      "guest_count": 8,
-      "ticket_count": 8,
+      "guest_count": 9,
+      "ticket_count": 9,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2680,8 +2240,8 @@
           "username": null
         }
       ],
-      "guest_count": 3,
-      "ticket_count": 3,
+      "guest_count": 4,
+      "ticket_count": 4,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2911,8 +2471,8 @@
           "username": "Holo_community3"
         }
       ],
-      "guest_count": 7,
-      "ticket_count": 7,
+      "guest_count": 8,
+      "ticket_count": 8,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3386,8 +2946,8 @@
           "username": null
         }
       ],
-      "guest_count": 49,
-      "ticket_count": 49,
+      "guest_count": 52,
+      "ticket_count": 52,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3641,8 +3201,8 @@
           "username": "neomixers"
         }
       ],
-      "guest_count": 87,
-      "ticket_count": 87,
+      "guest_count": 88,
+      "ticket_count": 88,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3749,8 +3309,8 @@
           "username": "anadespoiu"
         }
       ],
-      "guest_count": 14,
-      "ticket_count": 14,
+      "guest_count": 17,
+      "ticket_count": 18,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -4015,8 +3575,8 @@
           "username": null
         }
       ],
-      "guest_count": 28,
-      "ticket_count": 28,
+      "guest_count": 30,
+      "ticket_count": 30,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -4132,8 +3692,8 @@
           "username": null
         }
       ],
-      "guest_count": 59,
-      "ticket_count": 59,
+      "guest_count": 61,
+      "ticket_count": 61,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -4260,8 +3820,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 4,
-      "ticket_count": 4,
+      "guest_count": 5,
+      "ticket_count": 5,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -4373,8 +3933,8 @@
           "username": null
         }
       ],
-      "guest_count": 51,
-      "ticket_count": 51,
+      "guest_count": 55,
+      "ticket_count": 55,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -4590,6 +4150,120 @@
       ],
       "guest_count": 0,
       "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-cOsghBSMYFpMaP7",
+      "event": {
+        "api_id": "evt-cOsghBSMYFpMaP7",
+        "calendar_api_id": "cal-Hd9kMGO0bS0P9YJ",
+        "end_at": "2026-11-22T13:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "STITCHY #1 — The Debut feat. the Stem Stitch",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/8i/259145f7-13ce-42f4-8f5b-f380e6dc4f05.png",
+        "start_at": "2026-11-22T11:30:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "z4wu6b1b",
+        "user_api_id": "usr-fGkIBH2BeXtM9Uh",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "OTOTO Station",
+          "country": "Romania",
+          "place_id": "ChIJ-Zt_HlX_sUARPImMAXBcMHg",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "OTOTO Station",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Bucureşti Sectorul 1",
+              "full_address": "OTOTO Station, Strada Sfinții Voievozi 20-24, 030167 București, România",
+              "region_short": "București",
+              "short_address": "Strada Sfinții Voievozi 20-24, București"
+            },
+            "en-GB": {
+              "city": "București",
+              "region": "București",
+              "address": "OTOTO Station",
+              "country": "Romania",
+              "city_state": "București, Romania",
+              "sublocality": "Bucureşti Sectorul 1",
+              "full_address": "OTOTO Station, Strada Sfinții Voievozi 20-24, 030167 București, Romania",
+              "region_short": "București",
+              "short_address": "Strada Sfinții Voievozi 20-24, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Bucureşti Sectorul 1",
+          "country_code": "RO",
+          "full_address": "OTOTO Station, Strada Sfinții Voievozi 20-24, 030167 București, Romania",
+          "region_short": "București",
+          "short_address": "Strada Sfinții Voievozi 20-24, București",
+          "place_coordinate": {
+            "latitude": 44.446478,
+            "longitude": 26.0860794
+          },
+          "apple_maps_place_id": "I5896CC09A9718078",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.0860794,
+          "latitude": 44.446478
+        },
+        "waitlist_enabled": true,
+        "waitlist_status": "enabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Hd9kMGO0bS0P9YJ",
+        "coordinate": null,
+        "description_short": null,
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Stitchy - Embroidery Club in Bucharest",
+        "personal_user_api_id": null,
+        "sends_unlocked_at": null,
+        "slug": null,
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-11-22T11:30:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-fGkIBH2BeXtM9Uh",
+          "name": "Daniela Manole",
+          "username": "danielamanole"
+        }
+      ],
+      "guest_count": 3,
+      "ticket_count": 3,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -4883,14 +4557,134 @@
           "username": "BusinessSaga"
         }
       ],
-      "guest_count": 6,
-      "ticket_count": 6,
+      "guest_count": 8,
+      "ticket_count": 8,
       "ticket_info": {
         "price": null,
         "is_free": true,
         "max_price": null,
         "is_sold_out": false,
         "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-aMsEXTTZzDB7HM0",
+      "event": {
+        "api_id": "evt-aMsEXTTZzDB7HM0",
+        "calendar_api_id": "cal-7bXIsT7PRi1t4un",
+        "end_at": "2026-11-24T20:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "WIN #31 – Luxul de a spune NU: Cum alegi oportunitățile care îți dezvoltă businessul fără să-i compromiți identitatea- Lorena Păduraru",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": false,
+        "social_image_url": "https://images.lumacdn.com/event-social/zx/faf9639a-fe88-4015-a22a-fc6750c1947c.png",
+        "start_at": "2026-11-24T16:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "22irlkaz",
+        "user_api_id": "usr-rA1ejFsLe5mSkP4",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "the N space.",
+          "country": "Romania",
+          "place_id": "ChIJLRD1Ab8DskAR3mhCV43SCbY",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "the N space.",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Aviatorilor",
+              "full_address": "the N space., Strada Alexandrina 38, 011441 București, România",
+              "region_short": "București",
+              "short_address": "Strada Alexandrina 38, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Aviatorilor",
+          "country_code": "RO",
+          "full_address": "the N space., Strada Alexandrina 38, 011441 București, Romania",
+          "region_short": "București",
+          "short_address": "Strada Alexandrina 38, București",
+          "place_coordinate": {
+            "latitude": 44.4661289,
+            "longitude": 26.0832993
+          },
+          "apple_maps_place_id": "IF8F0B50D250922A6",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.0832993,
+          "latitude": 44.4661289
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-7bXIsT7PRi1t4un",
+        "coordinate": null,
+        "description_short": "Women in Charge the first premium networking club only for Women. 1st edition 28th July 2027 - IHG Intercontinental Palace Athene.",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "WIN community",
+        "personal_user_api_id": null,
+        "sends_unlocked_at": "2026-04-01T10:36:06.304Z",
+        "slug": null,
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-11-24T16:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-rA1ejFsLe5mSkP4",
+          "name": "Vlad RBC",
+          "username": null
+        },
+        {
+          "api_id": "usr-YoHNXg63tgIruJm",
+          "name": "Amalia Mihalachioiu",
+          "username": null
+        },
+        {
+          "api_id": "usr-olanw6mBUmJpLS2",
+          "name": "Amalia Mihalachioiu",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": {
+          "cents": 7800,
+          "currency": "ron",
+          "is_flexible": false
+        },
+        "is_free": false,
+        "max_price": {
+          "cents": 24800,
+          "currency": "ron"
+        },
+        "is_sold_out": false,
+        "require_approval": true
       },
       "registration_availability": "open",
       "waitlist_active": false,
@@ -5387,113 +5181,6 @@
       "featured_city": null
     },
     {
-      "api_id": "evt-HPeESl5BJ75NUsx",
-      "event": {
-        "api_id": "evt-HPeESl5BJ75NUsx",
-        "calendar_api_id": "cal-lVsttDJs3Y5Dm7L",
-        "end_at": "2026-11-26T17:00:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "CARIERE Club | 26 noiembrie 2026",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": true,
-        "social_image_url": "https://images.lumacdn.com/event-social/ez/0520c24a-daf9-4f8c-bffd-1168ae18c035.png",
-        "start_at": "2026-11-26T14:00:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "rhy6aq7p",
-        "user_api_id": "usr-GzdjOkOjqzlZEpJ",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "București",
-          "type": "google",
-          "region": "București",
-          "address": "Ascendis",
-          "country": "Romania",
-          "place_id": "ChIJGalQNf8CskARCvojovd5q6E",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": "București",
-              "address": "Ascendis",
-              "country": "România",
-              "city_state": "București, România",
-              "sublocality": "Dorobanți",
-              "full_address": "Ascendis, Charles de Gaulle Plaza, 15, 011857 București, România",
-              "region_short": "București",
-              "short_address": "Charles de Gaulle Plaza, 15, București"
-            }
-          },
-          "city_state": "București, Romania",
-          "description": "",
-          "sublocality": "Dorobanți",
-          "country_code": "RO",
-          "full_address": "Ascendis, Charles de Gaulle Plaza, 15, 011857 București, Romania",
-          "region_short": "București",
-          "short_address": "Charles de Gaulle Plaza, 15, București",
-          "place_coordinate": {
-            "latitude": 44.4651773,
-            "longitude": 26.0872336
-          },
-          "apple_maps_place_id": null,
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 26.0872336,
-          "latitude": 44.4651773
-        },
-        "waitlist_enabled": false,
-        "waitlist_status": "disabled"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-lVsttDJs3Y5Dm7L",
-        "coordinate": null,
-        "description_short": null,
-        "end_date": null,
-        "is_verified": false,
-        "location": null,
-        "name": "Personal",
-        "personal_user_api_id": "usr-GzdjOkOjqzlZEpJ",
-        "sends_unlocked_at": "2026-08-23T16:13:59.261Z",
-        "slug": null,
-        "start_date": null,
-        "website": null,
-        "is_personal": true,
-        "personal_user": {
-          "api_id": "usr-GzdjOkOjqzlZEpJ",
-          "name": "Revista CARIERE",
-          "username": null
-        },
-        "timezone": null
-      },
-      "start_at": "2026-11-26T14:00:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-GzdjOkOjqzlZEpJ",
-          "name": "Revista CARIERE",
-          "username": null
-        }
-      ],
-      "guest_count": 9,
-      "ticket_count": 9,
-      "ticket_info": {
-        "price": null,
-        "is_free": true,
-        "max_price": null,
-        "is_sold_out": false,
-        "require_approval": true
-      },
-      "registration_availability": "open",
-      "waitlist_active": false,
-      "featured_city": null
-    },
-    {
       "api_id": "evt-5WBFGiNOXYOCatN",
       "event": {
         "api_id": "evt-5WBFGiNOXYOCatN",
@@ -5593,14 +5280,132 @@
           "username": null
         }
       ],
-      "guest_count": 77,
-      "ticket_count": 77,
+      "guest_count": 82,
+      "ticket_count": 82,
       "ticket_info": {
         "price": null,
         "is_free": true,
         "max_price": null,
         "is_sold_out": false,
         "require_approval": true
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-D2U169tAAPhFpYQ",
+      "event": {
+        "api_id": "evt-D2U169tAAPhFpYQ",
+        "calendar_api_id": "cal-mktOF2RZZ0PyyVV",
+        "end_at": "2026-11-28T18:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Kirtan: Song of the Soul",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/r1/8bdae811-ae39-4d90-9a58-62f43eb08737.png",
+        "start_at": "2026-11-28T16:30:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "h4gzdk5b",
+        "user_api_id": "usr-HbGMpM5vva3ALlH",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Ekam Yoga Studio",
+          "country": "Romania",
+          "place_id": "ChIJhfX5acr5sUARd32R7PEWgIs",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Ekam Yoga Studio",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Sectorul 2",
+              "full_address": "Ekam Yoga Studio, Dacia Bd 56, 020061 București, România",
+              "region_short": "București",
+              "short_address": "Dacia Bd 56, București"
+            },
+            "en-GB": {
+              "city": "București",
+              "region": "București",
+              "address": "Ekam Yoga Studio",
+              "country": "Romania",
+              "city_state": "București, Romania",
+              "sublocality": "Sectorul 2",
+              "full_address": "Ekam Yoga Studio, Dacia Bd 56, 020061 București, Romania",
+              "region_short": "București",
+              "short_address": "Dacia Bd 56, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Sectorul 2",
+          "country_code": "RO",
+          "full_address": "Ekam Yoga Studio, Dacia Bd 56, 020061 București, Romania",
+          "region_short": "București",
+          "short_address": "Dacia Bd 56, București",
+          "place_coordinate": {
+            "latitude": 44.4461595,
+            "longitude": 26.1049845
+          },
+          "apple_maps_place_id": "I3591C599C8177091",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.1049845,
+          "latitude": 44.4461595
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-mktOF2RZZ0PyyVV",
+        "coordinate": null,
+        "description_short": null,
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Personal",
+        "personal_user_api_id": "usr-HbGMpM5vva3ALlH",
+        "sends_unlocked_at": null,
+        "slug": null,
+        "start_date": null,
+        "website": null,
+        "is_personal": true,
+        "personal_user": {
+          "api_id": "usr-HbGMpM5vva3ALlH",
+          "name": "Dana Nedelcu",
+          "username": null
+        },
+        "timezone": null
+      },
+      "start_at": "2026-11-28T16:30:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-HbGMpM5vva3ALlH",
+          "name": "Dana Nedelcu",
+          "username": null
+        }
+      ],
+      "guest_count": 3,
+      "ticket_count": 3,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
       },
       "registration_availability": "open",
       "waitlist_active": false,
@@ -5862,8 +5667,8 @@
           "username": "licinium40"
         }
       ],
-      "guest_count": 120,
-      "ticket_count": 120,
+      "guest_count": 122,
+      "ticket_count": 122,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -5988,6 +5793,95 @@
           "cents": 48800,
           "currency": "ron"
         },
+        "is_sold_out": false,
+        "require_approval": true
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-cxRnhYcAt7qNl2R",
+      "event": {
+        "api_id": "evt-cxRnhYcAt7qNl2R",
+        "calendar_api_id": "cal-Q8snnVQnOtD44GJ",
+        "end_at": "2026-12-08T20:15:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "CTO Craft Mixers: Bucharest",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/yk/957d668d-9ca4-4b32-8116-3b6d87812851.png",
+        "start_at": "2026-12-08T16:45:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "es7ss5of",
+        "user_api_id": "usr-J3rHHJEfvHwefYm",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "mode": "obfuscated",
+          "city": "București",
+          "city_state": "București, Romania",
+          "sublocality": "Dorobanți",
+          "country": "Romania",
+          "country_code": "RO",
+          "region": "București",
+          "region_short": "București"
+        },
+        "geo_address_visibility": "guests-only",
+        "coordinate": {
+          "latitude": 44.448532578657655,
+          "longitude": 26.101043006147066
+        },
+        "waitlist_enabled": true,
+        "waitlist_status": "active"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Q8snnVQnOtD44GJ",
+        "coordinate": null,
+        "description_short": "Join fellow CTOs and senior technology leaders who understand your world for relaxed evenings of conversation, collaboration, and learning",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "CTO Craft Mixers",
+        "personal_user_api_id": null,
+        "sends_unlocked_at": "2026-02-10T16:47:47.298Z",
+        "slug": "ctocraft-mixers",
+        "start_date": null,
+        "website": "https://ctocraft.com",
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-12-08T16:45:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-J3rHHJEfvHwefYm",
+          "name": "CTO Craft",
+          "username": "ctocraft"
+        },
+        {
+          "api_id": "usr-b6sxDvly1AzkwkQ",
+          "name": "Vladi Iancu",
+          "username": "vladiiancu"
+        },
+        {
+          "api_id": "usr-YkPs0kZ7X7OMfdG",
+          "name": "Alexandra Anghel",
+          "username": null
+        }
+      ],
+      "guest_count": 10,
+      "ticket_count": 10,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
         "is_sold_out": false,
         "require_approval": true
       },
@@ -6624,8 +6518,8 @@
           "username": null
         }
       ],
-      "guest_count": 3,
-      "ticket_count": 3,
+      "guest_count": 4,
+      "ticket_count": 4,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -8598,8 +8492,8 @@
           "username": "teodorapamfile"
         }
       ],
-      "guest_count": 11,
-      "ticket_count": 11,
+      "guest_count": 12,
+      "ticket_count": 12,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -8728,8 +8622,8 @@
           "username": null
         }
       ],
-      "guest_count": 1,
-      "ticket_count": 1,
+      "guest_count": 2,
+      "ticket_count": 2,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -9118,8 +9012,8 @@
           "username": null
         }
       ],
-      "guest_count": 4,
-      "ticket_count": 4,
+      "guest_count": 5,
+      "ticket_count": 5,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -9243,8 +9137,8 @@
           "username": "alexstanciu"
         }
       ],
-      "guest_count": 26,
-      "ticket_count": 26,
+      "guest_count": 29,
+      "ticket_count": 29,
       "ticket_info": {
         "price": null,
         "is_free": true,
