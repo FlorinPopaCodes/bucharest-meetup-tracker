@@ -76,8 +76,8 @@
           "username": null
         }
       ],
-      "guest_count": 51,
-      "ticket_count": 51,
+      "guest_count": 58,
+      "ticket_count": 58,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -308,8 +308,8 @@
           "username": null
         }
       ],
-      "guest_count": 25,
-      "ticket_count": 25,
+      "guest_count": 24,
+      "ticket_count": 24,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -436,17 +436,17 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 37,
-      "ticket_count": 37,
+      "guest_count": 50,
+      "ticket_count": 50,
       "ticket_info": {
         "price": null,
         "is_free": true,
         "max_price": null,
-        "is_sold_out": false,
+        "is_sold_out": true,
         "require_approval": true
       },
-      "registration_availability": "open",
-      "waitlist_active": false,
+      "registration_availability": "waitlist",
+      "waitlist_active": true,
       "featured_city": null
     },
     {
@@ -563,7 +563,7 @@
         "calendar_api_id": "cal-pzlGRNHw4zAvfno",
         "end_at": "2026-11-13T18:00:00.000Z",
         "event_type": "independent",
-        "hide_rsvp": false,
+        "hide_rsvp": true,
         "location_type": "offline",
         "name": "Dincolo de convingerile noastre",
         "one_to_one": true,
@@ -659,7 +659,7 @@
         "is_sold_out": false,
         "require_approval": true
       },
-      "registration_availability": "open",
+      "registration_availability": "sold-out",
       "waitlist_active": false,
       "featured_city": null
     },
@@ -757,8 +757,8 @@
           "username": null
         }
       ],
-      "guest_count": 22,
-      "ticket_count": 22,
+      "guest_count": 24,
+      "ticket_count": 24,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1202,8 +1202,8 @@
           "username": null
         }
       ],
-      "guest_count": 5,
-      "ticket_count": 5,
+      "guest_count": 6,
+      "ticket_count": 6,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1536,8 +1536,8 @@
           "username": "Holo_community3"
         }
       ],
-      "guest_count": 17,
-      "ticket_count": 17,
+      "guest_count": 18,
+      "ticket_count": 18,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2011,8 +2011,8 @@
           "username": null
         }
       ],
-      "guest_count": 53,
-      "ticket_count": 53,
+      "guest_count": 62,
+      "ticket_count": 62,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2152,8 +2152,8 @@
           "username": null
         }
       ],
-      "guest_count": 16,
-      "ticket_count": 16,
+      "guest_count": 18,
+      "ticket_count": 18,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2266,8 +2266,8 @@
           "username": "neomixers"
         }
       ],
-      "guest_count": 92,
-      "ticket_count": 92,
+      "guest_count": 96,
+      "ticket_count": 96,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2379,8 +2379,8 @@
           "username": "dariabadescu"
         }
       ],
-      "guest_count": 17,
-      "ticket_count": 18,
+      "guest_count": 19,
+      "ticket_count": 20,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2762,8 +2762,8 @@
           "username": null
         }
       ],
-      "guest_count": 63,
-      "ticket_count": 63,
+      "guest_count": 65,
+      "ticket_count": 65,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3003,8 +3003,8 @@
           "username": null
         }
       ],
-      "guest_count": 66,
-      "ticket_count": 66,
+      "guest_count": 67,
+      "ticket_count": 67,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3435,8 +3435,8 @@
           "username": "RomaniaICF"
         }
       ],
-      "guest_count": 9,
-      "ticket_count": 9,
+      "guest_count": 10,
+      "ticket_count": 10,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3897,8 +3897,8 @@
           "username": null
         }
       ],
-      "guest_count": 10,
-      "ticket_count": 10,
+      "guest_count": 11,
+      "ticket_count": 11,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -4015,8 +4015,8 @@
           "username": "WIT_Romania"
         }
       ],
-      "guest_count": 22,
-      "ticket_count": 22,
+      "guest_count": 52,
+      "ticket_count": 52,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -4151,8 +4151,8 @@
           "username": null
         }
       ],
-      "guest_count": 29,
-      "ticket_count": 29,
+      "guest_count": 31,
+      "ticket_count": 31,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -4365,8 +4365,8 @@
           "username": null
         }
       ],
-      "guest_count": 83,
-      "ticket_count": 83,
+      "guest_count": 84,
+      "ticket_count": 84,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -4929,7 +4929,7 @@
       "ticket_count": 0,
       "ticket_info": {
         "price": {
-          "cents": 14800,
+          "cents": 24800,
           "currency": "ron",
           "is_flexible": false
         },
@@ -5039,14 +5039,132 @@
           "username": "licinium40"
         }
       ],
-      "guest_count": 131,
-      "ticket_count": 131,
+      "guest_count": 137,
+      "ticket_count": 137,
       "ticket_info": {
         "price": null,
         "is_free": true,
         "max_price": null,
         "is_sold_out": false,
         "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-u3BEWpIMtHoOotW",
+      "event": {
+        "api_id": "evt-u3BEWpIMtHoOotW",
+        "calendar_api_id": "cal-63UOFcweB97l2gc",
+        "end_at": "2026-12-04T20:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Codex Community Meetup: Bucharest",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": false,
+        "social_image_url": "https://images.lumacdn.com/event-social/zy/6f309376-4076-432b-875f-0b8d8cd47b4b.png",
+        "start_at": "2026-12-04T16:30:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "udhlqc9n",
+        "user_api_id": "usr-rnMr8FJ5rbbbgwM",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "6",
+          "address": "Builders House",
+          "country": "Romania",
+          "place_id": "ChIJxamUxjABskAR9A2hA-LHfLs",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "6",
+              "address": "Builders House",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Militari",
+              "full_address": "Builders House, Afi Park 1, Bulevardul General Paul Teodorescu 4, et. 1, 061344 București, România",
+              "region_short": "6",
+              "short_address": "Afi Park 1, AFI Park 1, Bulevardul General Paul Teodorescu 4, et. 1, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Militari",
+          "country_code": "RO",
+          "full_address": "Builders House, Afi Park 1, Bulevardul General Paul Teodorescu 4, et. 1, 061344 București, Romania",
+          "region_short": "6",
+          "short_address": "Afi Park 1, AFI Park 1, Bulevardul General Paul Teodorescu 4, et. 1, București",
+          "place_coordinate": {
+            "latitude": 44.4307121,
+            "longitude": 26.0540725
+          },
+          "apple_maps_place_id": "IAA1298D7D033A083",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.0540725,
+          "latitude": 44.4307121
+        },
+        "waitlist_enabled": true,
+        "waitlist_status": "active"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-63UOFcweB97l2gc",
+        "coordinate": null,
+        "description_short": "Meet builders using Codex to ship real software. Join hands-on build nights, hackathons, workshops, and demos around the world, from first setup to multi-agent workflows, plugin, automations, and more.",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Codex Community Events",
+        "personal_user_api_id": null,
+        "sends_unlocked_at": "2026-05-07T07:13:55.229Z",
+        "slug": "codex-community",
+        "start_date": null,
+        "website": "https://openai.com/codex",
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-12-04T16:30:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-rnMr8FJ5rbbbgwM",
+          "name": "Alex Constantin",
+          "username": "le_alecs"
+        },
+        {
+          "api_id": "usr-CyJ22EBRtbhk58N",
+          "name": "Gabriel Moncha",
+          "username": "gabimoncha"
+        },
+        {
+          "api_id": "usr-4HvhGeuyHuGbOpj",
+          "name": "Pauline P. Narvas",
+          "username": "pawlean"
+        },
+        {
+          "api_id": "usr-c0aEpWxOwKiGFhv",
+          "name": "Rhiannon Payne",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": true
       },
       "registration_availability": "open",
       "waitlist_active": false,
@@ -5248,8 +5366,8 @@
           "username": null
         }
       ],
-      "guest_count": 15,
-      "ticket_count": 15,
+      "guest_count": 18,
+      "ticket_count": 18,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -5352,8 +5470,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 284,
-      "ticket_count": 284,
+      "guest_count": 287,
+      "ticket_count": 287,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -5593,8 +5711,8 @@
           "username": null
         }
       ],
-      "guest_count": 9,
-      "ticket_count": 9,
+      "guest_count": 11,
+      "ticket_count": 11,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -6008,8 +6126,8 @@
           "username": null
         }
       ],
-      "guest_count": 5,
-      "ticket_count": 5,
+      "guest_count": 6,
+      "ticket_count": 6,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -8627,8 +8745,8 @@
           "username": "alexstanciu"
         }
       ],
-      "guest_count": 44,
-      "ticket_count": 44,
+      "guest_count": 45,
+      "ticket_count": 45,
       "ticket_info": {
         "price": null,
         "is_free": true,
