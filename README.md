@@ -4,19 +4,6 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Miercuri, 11 noiembrie
-
-- `08:30` [RoFintech Breakfast hosted by Token Payment Solutions](https://lu.ma/i8lmct7p)  
-  <sub>Adrian Drinceanu</sub>
-- `18:00` [AI vs. AI: Fighting machine threats with intelligent defense.](https://lu.ma/axdu3mox)  
-  <sub>Lucian Popovici · 84 de participanți</sub>
-- `18:00` [RBC #420 \| CUM ÎȚI POȚI FINANȚA AFACEREA OUT OF THE BOX! - KICKSTARTER VS. SEEDBLINK \| Alex Buzăianu & Alexandru Gala Popescu](https://lu.ma/11boyhxg)  
-  <sub>Teodora Nicolaiciuc · 37 de participanți</sub>
-- `18:30` [EIS Talks #2: How Sustainable Are Our Future Careers?](https://lu.ma/oyrmla8k)  
-  <sub>Ioana Mihăilescu</sub>
-- `19:00` [Lansare Carte "Strategia RISE"](https://lu.ma/ci3f4dcq)  
-  <sub>Florin Grozea · 38 de participanți</sub>
-
 ### Joi, 12 noiembrie
 
 - `09:00` [Fixed-Price can’t fix broken T&M \| working breakfast București](https://lu.ma/r4u6rr0d)  
@@ -26,13 +13,13 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `16:00` [Sales Best Practice Lab #2](https://lu.ma/jvvhqhyf)  
   <sub>Madalina Vechiu · 51 de participanți</sub>
 - `18:00` [PULSE #62 - muv your bow](https://lu.ma/9ij5v5tp)  
-  <sub>MuvOutside · 19 participanți</sub>
+  <sub>MuvOutside · 20 de participanți</sub>
 - `18:30` [Book Launch - "Înțelepciunea conflictului", by Magor Csibi & Raluca Anton](https://lu.ma/mqr1tn46)  
-  <sub>Andra Ghibutiu · 23 de participanți</sub>
+  <sub>Andra Ghibutiu · 25 de participanți</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S24E10](https://lu.ma/mi5gjcq7)  
   <sub>321sport · 37 de participanți</sub>
 - `19:00` [PULSE #62 - muv your bow](https://lu.ma/gk3eu1i0)  
-  <sub>MuvOutside · 21 de participanți</sub>
+  <sub>MuvOutside · 20 de participanți</sub>
 
 ### Vineri, 13 noiembrie
 
@@ -46,18 +33,18 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Sâmbătă, 14 noiembrie
 
 - `09:00` [Alergare 321sport x Good Routine](https://lu.ma/i5134xzi)  
-  <sub>321sport · 16 participanți</sub>
+  <sub>321sport · 18 participanți</sub>
 - `10:00` [RAAC 2026](https://lu.ma/8c2uxi9x)  
   <sub>Elena Calin · 13 participanți</sub>
 - `14:00` [Cafeaua De Sâmbăta #32 \| Bucuresti](https://lu.ma/tumppxi0)  
-  <sub>Ionut Alexandru Stanciu · 40 de participanți</sub>
+  <sub>Ionut Alexandru Stanciu · 44 de participanți</sub>
 - `19:00` [Healing Drum Circle](https://lu.ma/x0tl3qtu)  
   <sub>Sarah Samira Natour · 9 participanți</sub>
 
 ### Duminică, 15 noiembrie
 
 - `09:00` [PAS CU SENS X 10k Pași Parc Lumea Copiilor](https://lu.ma/kmoqf2kd)  
-  <sub>PAS cu SENS · 5 participanți</sub>
+  <sub>PAS cu SENS · 9 participanți</sub>
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/eqef0llg)  
   <sub>Emily Merdus · 5 participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/hxuz0o4n)  
@@ -65,7 +52,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/su8el0l4)  
   <sub>Nicoleta Ifrim · 4 participanți</sub>
 - `10:00` [Not An Easy Target](https://lu.ma/4supjdzx)  
-  <sub>Holo Community · 11 participanți</sub>
+  <sub>Holo Community · 17 participanți</sub>
 
 ### Luni, 16 noiembrie
 
@@ -83,7 +70,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Miercuri, 18 noiembrie
 
 - `18:00` [Scaling Delivery Without Losing Flexibility](https://lu.ma/y8rq6wq8)  
-  <sub>Andra Ghibutiu · 15 participanți</sub>
+  <sub>Andra Ghibutiu · 16 participanți</sub>
 - `19:00` [Bucharest Tech Mixer \| November Edition](https://lu.ma/wcqu1dgd)  
   <sub>neomixers by ▲promocrat · 92 de participanți</sub>
 
@@ -109,13 +96,13 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/1rvgbnid)  
   <sub>Nicoleta Ifrim</sub>
 - `10:30` [Women's Financial Education Summit (3rd edition)](https://lu.ma/fb9qlotj)  
-  <sub>Echipa FeminEast · 64 de participanți</sub>
+  <sub>Echipa FeminEast · 66 de participanți</sub>
 - `12:00` [Bookisim #5 Oameni normali](https://lu.ma/0bqr6g9t)  
   <sub>R.O.S.T. Specialty Coffeshop · 6 participanți</sub>
 - `13:00` [ERUS 10 – O aventură de poveste la Opera Comică pentru Copii!](https://lu.ma/548olhud)  
   <sub>Opera Comică pentru Copii</sub>
 - `13:30` [STITCHY #1 — The Debut feat. the Stem Stitch](https://lu.ma/z4wu6b1b)  
-  <sub>Daniela Manole · 8 participanți</sub>
+  <sub>Daniela Manole · 9 participanți</sub>
 
 ### Luni, 23 noiembrie
 
@@ -140,15 +127,28 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:30` [EIS Talks #3: Built to Last - The Sustainable Personal Brand](https://lu.ma/x1hfkowk)  
   <sub>Ioana Mihăilescu · 29 de participanți</sub>
 
+### Joi, 26 noiembrie
+
+- `09:00` [LiT Unfiltered - The Decisions Behind Leadership](https://lu.ma/litunfiltered8)  
+  <sub>Bogdan Popescu</sub>
+- `16:00` [CARIERE Club \| 26 noiembrie 2026](https://lu.ma/rhy6aq7p)  
+  <sub>Revista CARIERE · 9 participanți</sub>
+- `16:00` [You & the CEO #9](https://lu.ma/x5ftqmnn)  
+  <sub>Madalina Vechiu · 83 de participanți</sub>
+- `18:30` [DevNights#11 - Building with AI, startups and more](https://lu.ma/it0utcis)  
+  <sub>Oprea Matei</sub>
+- `19:00` [Leading Forward: From Vision to Collaboration](https://lu.ma/88clol77)  
+  <sub>JCI București · 8 participanți</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-11)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-12)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-11)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-12)
 
 ## Despre
 
@@ -162,4 +162,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 11 noiembrie 2026*
+*Actualizat: 12 noiembrie 2026*
