@@ -18,13 +18,13 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 15 noiembrie
 
 - `09:00` [PAS CU SENS X 10k Pași Parc Lumea Copiilor](https://lu.ma/kmoqf2kd)  
-  <sub>PAS cu SENS · 15 participanți</sub>
+  <sub>PAS cu SENS · 18 participanți</sub>
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/eqef0llg)  
-  <sub>Emily Merdus · 10 participanți</sub>
+  <sub>Emily Merdus · 16 participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/hxuz0o4n)  
-  <sub>Irina Tenovici · 6 participanți</sub>
+  <sub>Irina Tenovici · 13 participanți</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/su8el0l4)  
-  <sub>Nicoleta Ifrim · 8 participanți</sub>
+  <sub>Nicoleta Ifrim · 11 participanți</sub>
 - `10:00` [Not An Easy Target](https://lu.ma/4supjdzx)  
   <sub>Holo Community · 18 participanți</sub>
 
@@ -46,22 +46,22 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Miercuri, 18 noiembrie
 
 - `18:00` [RBC #421 \| MASTERCLASS CU FONDATORUL RBC \| Te învăț cum să generezi 12.000 EUR din NETWORKING \| Vlad Mihălăchioiu](https://lu.ma/6edz4j4h)  
-  <sub>Teodora Nicolaiciuc · 5 participanți</sub>
+  <sub>Teodora Nicolaiciuc · 8 participanți</sub>
 - `18:00` [Scaling Delivery Without Losing Flexibility](https://lu.ma/y8rq6wq8)  
-  <sub>Andra Ghibutiu · 20 de participanți</sub>
+  <sub>Andra Ghibutiu · 21 de participanți</sub>
 - `19:00` [Bucharest Tech Mixer \| November Edition](https://lu.ma/wcqu1dgd)  
   <sub>neomixers by ▲promocrat · 108 de participanți</sub>
 
 ### Joi, 19 noiembrie
 
 - `09:30` [Stereotipuri de gen în îngrijirea de lungă durată: rezultatele și resursele OpenCARE](https://lu.ma/ki4aoyx4)  
-  <sub>European Association For Social Innovation · 27 de participanți</sub>
+  <sub>European Association For Social Innovation · 28 de participanți</sub>
 - `18:00` [19.11. București - WIN Gala 2026](https://lu.ma/6zi28bzc)  
   <sub>Vlad RBC</sub>
 - `18:00` [AI Adoption: Psychological and Organizational Challenges](https://lu.ma/a1sjd4f7)  
   <sub>Andra Ghibutiu · 34 de participanți</sub>
 - `18:00` [AI Adoption: Psychological and Organizational Challenges](https://lu.ma/xgrl4d1c)  
-  <sub>Upskilling the Romanian IT Industry · 67 de participanți</sub>
+  <sub>Upskilling the Romanian IT Industry · 68 de participanți</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S24E12](https://lu.ma/3yld9924)  
   <sub>321sport · 6 participanți</sub>
 - `21:00` [NO SKIPS PARTY #1](https://lu.ma/2r7ix6zi)  
@@ -80,7 +80,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `10:30` [Women's Financial Education Summit (3rd edition)](https://lu.ma/fb9qlotj)  
   <sub>Echipa FeminEast · 70 de participanți</sub>
 - `12:00` [Bookisim #5 Oameni normali](https://lu.ma/0bqr6g9t)  
-  <sub>R.O.S.T. Specialty Coffeshop · 6 participanți</sub>
+  <sub>R.O.S.T. Specialty Coffeshop · 7 participanți</sub>
 - `13:00` [ERUS 10 – O aventură de poveste la Opera Comică pentru Copii!](https://lu.ma/548olhud)  
   <sub>Opera Comică pentru Copii</sub>
 - `13:30` [STITCHY #1 — The Debut feat. the Stem Stitch](https://lu.ma/z4wu6b1b)  
@@ -100,12 +100,12 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:00` [WIN #31 – Luxul de a spune NU: Cum alegi oportunitățile care îți dezvoltă businessul fără să-i compromiți identitatea- Lorena Păduraru](https://lu.ma/22irlkaz)  
   <sub>Vlad RBC</sub>
 - `19:30` [Digital Series 3.0 - From Sketch to Shopper: AI Across Fashion Design, Advertising and Virtual Try-On](https://lu.ma/vsutwejc)  
-  <sub>Ioana Ioanas · 19 participanți</sub>
+  <sub>Ioana Ioanas · 22 de participanți</sub>
 
 ### Miercuri, 25 noiembrie
 
 - `16:00` [When a Cyberattack Stops the Business](https://lu.ma/thklr070)  
-  <sub>Calin Buzan · 17 participanți</sub>
+  <sub>Calin Buzan · 19 participanți</sub>
 - `17:30` [From AI Learnings to What’s Next?](https://lu.ma/ir9qy8cz)  
   <sub>Women in Tech Romania · 58 de participanți</sub>
 - `18:30` [EIS Talks #3: Built to Last - The Sustainable Personal Brand](https://lu.ma/x1hfkowk)  
@@ -119,10 +119,12 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
   <sub>Revista CARIERE · 9 participanți</sub>
 - `16:00` [You & the CEO #9](https://lu.ma/x5ftqmnn)  
   <sub>Madalina Vechiu · 84 de participanți</sub>
-- `18:30` [DevNights#11 - Building with AI, startups and more](https://lu.ma/it0utcis)  
+- `18:30` [DevNight#11 The Rise of the Solo App-preneur](https://lu.ma/it0utcis)  
   <sub>Oprea Matei</sub>
 - `19:00` [Leading Forward: From Vision to Collaboration](https://lu.ma/88clol77)  
   <sub>JCI București · 9 participanți</sub>
+- `19:00` [Noul limbaj al iubirii](https://lu.ma/koi8r6ym)  
+  <sub>Oana Piticaș</sub>
 
 ### Vineri, 27 noiembrie
 
