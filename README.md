@@ -4,29 +4,18 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Sâmbătă, 14 noiembrie
-
-- `09:00` [Alergare 321sport x Good Routine](https://lu.ma/i5134xzi)  
-  <sub>321sport · 26 de participanți</sub>
-- `10:00` [RAAC 2026](https://lu.ma/8c2uxi9x)  
-  <sub>Elena Calin · 13 participanți</sub>
-- `14:00` [Cafeaua De Sâmbăta #32 \| Bucuresti](https://lu.ma/tumppxi0)  
-  <sub>Ionut Alexandru Stanciu · 50 de participanți</sub>
-- `19:00` [Healing Drum Circle](https://lu.ma/x0tl3qtu)  
-  <sub>Sarah Samira Natour · 12 participanți</sub>
-
 ### Duminică, 15 noiembrie
 
 - `09:00` [PAS CU SENS X 10k Pași Parc Lumea Copiilor](https://lu.ma/kmoqf2kd)  
-  <sub>PAS cu SENS · 18 participanți</sub>
+  <sub>PAS cu SENS · 19 participanți</sub>
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/eqef0llg)  
-  <sub>Emily Merdus · 16 participanți</sub>
+  <sub>Emily Merdus · 18 participanți</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/hxuz0o4n)  
-  <sub>Irina Tenovici · 13 participanți</sub>
+  <sub>Irina Tenovici · 17 participanți</sub>
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/su8el0l4)  
-  <sub>Nicoleta Ifrim · 11 participanți</sub>
+  <sub>Nicoleta Ifrim · 18 participanți</sub>
 - `10:00` [Not An Easy Target](https://lu.ma/4supjdzx)  
-  <sub>Holo Community · 18 participanți</sub>
+  <sub>Holo Community · 22 de participanți</sub>
 
 ### Luni, 16 noiembrie
 
@@ -55,13 +44,13 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Joi, 19 noiembrie
 
 - `09:30` [Stereotipuri de gen în îngrijirea de lungă durată: rezultatele și resursele OpenCARE](https://lu.ma/ki4aoyx4)  
-  <sub>European Association For Social Innovation · 28 de participanți</sub>
+  <sub>European Association For Social Innovation · 29 de participanți</sub>
 - `18:00` [19.11. București - WIN Gala 2026](https://lu.ma/6zi28bzc)  
   <sub>Vlad RBC</sub>
 - `18:00` [AI Adoption: Psychological and Organizational Challenges](https://lu.ma/a1sjd4f7)  
-  <sub>Andra Ghibutiu · 34 de participanți</sub>
+  <sub>Andra Ghibutiu · 35 de participanți</sub>
 - `18:00` [AI Adoption: Psychological and Organizational Challenges](https://lu.ma/xgrl4d1c)  
-  <sub>Upskilling the Romanian IT Industry · 68 de participanți</sub>
+  <sub>Upskilling the Romanian IT Industry · 69 de participanți</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S24E12](https://lu.ma/3yld9924)  
   <sub>321sport · 6 participanți</sub>
 - `21:00` [NO SKIPS PARTY #1](https://lu.ma/2r7ix6zi)  
@@ -100,7 +89,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:00` [WIN #31 – Luxul de a spune NU: Cum alegi oportunitățile care îți dezvoltă businessul fără să-i compromiți identitatea- Lorena Păduraru](https://lu.ma/22irlkaz)  
   <sub>Vlad RBC</sub>
 - `19:30` [Digital Series 3.0 - From Sketch to Shopper: AI Across Fashion Design, Advertising and Virtual Try-On](https://lu.ma/vsutwejc)  
-  <sub>Ioana Ioanas · 22 de participanți</sub>
+  <sub>Ioana Ioanas · 23 de participanți</sub>
 
 ### Miercuri, 25 noiembrie
 
@@ -129,7 +118,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Vineri, 27 noiembrie
 
 - `10:00` [Strategia de dezvoltare 2027 a ecosistemului eEco](https://lu.ma/l4hz349i)  
-  <sub>Anca · 4 participanți</sub>
+  <sub>Anca · 5 participanți</sub>
 
 ### Sâmbătă, 28 noiembrie
 
@@ -140,11 +129,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-14)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-15)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-14)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-15)
 
 ## Despre
 
@@ -158,4 +147,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 14 noiembrie 2026*
+*Actualizat: 15 noiembrie 2026*
