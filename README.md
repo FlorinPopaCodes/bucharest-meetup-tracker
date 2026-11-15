@@ -29,15 +29,17 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `11:00` [Ziua Albă a Universităților](https://lu.ma/vgrv83vr)
 - `18:00` [Roelfien Vos × Orac](https://lu.ma/1xk1n06p)  
   <sub>Orac Romania</sub>
+- `18:30` [reading & wine corner, chapter #61](https://lu.ma/44d14fkx)  
+  <sub>reading corner · 50 de participanți</sub>
 - `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S24E11](https://lu.ma/6hxrgwz4)  
-  <sub>321sport · 3 participanți</sub>
+  <sub>321sport · 4 participanți</sub>
 
 ### Miercuri, 18 noiembrie
 
 - `18:00` [RBC #421 \| MASTERCLASS CU FONDATORUL RBC \| Te învăț cum să generezi 12.000 EUR din NETWORKING \| Vlad Mihălăchioiu](https://lu.ma/6edz4j4h)  
   <sub>Teodora Nicolaiciuc · 8 participanți</sub>
 - `18:00` [Scaling Delivery Without Losing Flexibility](https://lu.ma/y8rq6wq8)  
-  <sub>Andra Ghibutiu · 21 de participanți</sub>
+  <sub>Andra Ghibutiu · 26 de participanți</sub>
 - `19:00` [Bucharest Tech Mixer \| November Edition](https://lu.ma/wcqu1dgd)  
   <sub>neomixers by ▲promocrat · 108 de participanți</sub>
 
@@ -48,9 +50,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:00` [19.11. București - WIN Gala 2026](https://lu.ma/6zi28bzc)  
   <sub>Vlad RBC</sub>
 - `18:00` [AI Adoption: Psychological and Organizational Challenges](https://lu.ma/a1sjd4f7)  
-  <sub>Andra Ghibutiu · 35 de participanți</sub>
+  <sub>Andra Ghibutiu · 40 de participanți</sub>
 - `18:00` [AI Adoption: Psychological and Organizational Challenges](https://lu.ma/xgrl4d1c)  
-  <sub>Upskilling the Romanian IT Industry · 69 de participanți</sub>
+  <sub>Upskilling the Romanian IT Industry · 71 de participanți</sub>
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S24E12](https://lu.ma/3yld9924)  
   <sub>321sport · 6 participanți</sub>
 - `21:00` [NO SKIPS PARTY #1](https://lu.ma/2r7ix6zi)  
@@ -59,7 +61,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Duminică, 22 noiembrie
 
 - `09:00` [PAS CU SENS X 10k Pași Parc Lumea Copiilor](https://lu.ma/p8ih1cel)  
-  <sub>PAS cu SENS · 3 participanți</sub>
+  <sub>PAS cu SENS · 4 participanți</sub>
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/i8emkld8)  
   <sub>Emily Merdus</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/mssdu0cl)  
@@ -73,7 +75,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `13:00` [ERUS 10 – O aventură de poveste la Opera Comică pentru Copii!](https://lu.ma/548olhud)  
   <sub>Opera Comică pentru Copii</sub>
 - `13:30` [STITCHY #1 — The Debut feat. the Stem Stitch](https://lu.ma/z4wu6b1b)  
-  <sub>Daniela Manole · 9 participanți</sub>
+  <sub>Daniela Manole · 8 participanți</sub>
 
 ### Luni, 23 noiembrie
 
@@ -89,7 +91,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:00` [WIN #31 – Luxul de a spune NU: Cum alegi oportunitățile care îți dezvoltă businessul fără să-i compromiți identitatea- Lorena Păduraru](https://lu.ma/22irlkaz)  
   <sub>Vlad RBC</sub>
 - `19:30` [Digital Series 3.0 - From Sketch to Shopper: AI Across Fashion Design, Advertising and Virtual Try-On](https://lu.ma/vsutwejc)  
-  <sub>Ioana Ioanas · 23 de participanți</sub>
+  <sub>Ioana Ioanas · 24 de participanți</sub>
 
 ### Miercuri, 25 noiembrie
 
@@ -119,6 +121,8 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 - `10:00` [Strategia de dezvoltare 2027 a ecosistemului eEco](https://lu.ma/l4hz349i)  
   <sub>Anca · 5 participanți</sub>
+- `18:30` [ÎMPĂRTĂȘEȘTE — A Dinner of Stories & Senses](https://lu.ma/h2begip8)  
+  <sub>Sabina Mihaila · 3 participanți</sub>
 
 ### Sâmbătă, 28 noiembrie
 
