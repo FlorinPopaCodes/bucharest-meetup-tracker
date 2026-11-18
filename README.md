@@ -4,24 +4,12 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Marți, 17 noiembrie
-
-- `09:00` [RoFintech InsurTech Meetup](https://lu.ma/t3nfj4ui)  
-  <sub>Adrian Drinceanu</sub>
-- `11:00` [Ziua Albă a Universităților](https://lu.ma/vgrv83vr)
-- `18:00` [Roelfien Vos × Orac](https://lu.ma/1xk1n06p)  
-  <sub>Orac Romania</sub>
-- `18:30` [reading & wine corner, chapter #62](https://lu.ma/44d14fkx)  
-  <sub>reading corner · 41 de participanți</sub>
-- `19:30` [321sport - Alergare Herăstrău (începători) #dela1la21 S24E11](https://lu.ma/6hxrgwz4)  
-  <sub>321sport · 7 participanți</sub>
-
 ### Miercuri, 18 noiembrie
 
 - `18:00` [RBC #421 \| MASTERCLASS CU FONDATORUL RBC \| Te învăț cum să generezi 12.000 EUR din NETWORKING \| Vlad Mihălăchioiu](https://lu.ma/6edz4j4h)  
-  <sub>Teodora Nicolaiciuc · 51 de participanți</sub>
+  <sub>Teodora Nicolaiciuc · 60 de participanți</sub>
 - `18:00` [Scaling Delivery Without Losing Flexibility](https://lu.ma/y8rq6wq8)  
-  <sub>Andra Ghibutiu · 36 de participanți</sub>
+  <sub>Andra Ghibutiu · 35 de participanți</sub>
 - `18:00` [The Art of Dolce Vita - Painting, Panettone & Italian Delights @ Velocità 🎨](https://lu.ma/d1zgtwh3)  
   <sub>Loredana Pipie</sub>
 - `19:00` [Bucharest Tech Mixer \| November Edition](https://lu.ma/wcqu1dgd)  
@@ -42,7 +30,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S24E12](https://lu.ma/3yld9924)  
   <sub>321sport · 23 de participanți</sub>
 - `21:00` [NO SKIPS PARTY #1](https://lu.ma/2r7ix6zi)  
-  <sub>Alexandra Ivasc · 21 de participanți</sub>
+  <sub>Alexandra Ivasc · 26 de participanți</sub>
 
 ### Vineri, 20 noiembrie
 
@@ -52,9 +40,11 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 ### Sâmbătă, 21 noiembrie
 
 - `10:00` [AstroRun Ep.2](https://lu.ma/dnee6cl5)  
-  <sub>FOMO Urban Running Club · 17 participanți</sub>
+  <sub>FOMO Urban Running Club · 20 de participanți</sub>
 - `13:30` [Weekend Creative Escape – Paint Your Tote Bag @ DBH](https://lu.ma/q307o818)  
   <sub>Loredana Pipie</sub>
+- `19:30` [Liquid Wednesday - Live Music @ T5 Social](https://lu.ma/es1kn63o)  
+  <sub>T5 Social · 3 participanți</sub>
 
 ### Duminică, 22 noiembrie
 
@@ -67,9 +57,9 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/1rvgbnid)  
   <sub>Nicoleta Ifrim</sub>
 - `10:00` [Tura de duminică: Promenada & Insula Lacul Morii](https://lu.ma/lyt1p45k)  
-  <sub>Endi Ungureanu · 36 de participanți</sub>
+  <sub>Endi Ungureanu · 56 de participanți</sub>
 - `10:30` [Women's Financial Education Summit (3rd edition)](https://lu.ma/fb9qlotj)  
-  <sub>Echipa FeminEast · 77 de participanți</sub>
+  <sub>Echipa FeminEast · 78 de participanți</sub>
 - `12:00` [Bookisim #5 Oameni normali](https://lu.ma/0bqr6g9t)  
   <sub>R.O.S.T. Specialty Coffeshop · 8 participanți</sub>
 - `13:00` [Candlelight Aerial Experience And Movie Night](https://lu.ma/tmw1yhw3)  
@@ -94,8 +84,10 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
   <sub>Business Saga · 14 participanți</sub>
 - `18:00` [WIN #31 – Luxul de a spune NU: Cum alegi oportunitățile care îți dezvoltă businessul fără să-i compromiți identitatea- Lorena Păduraru](https://lu.ma/22irlkaz)  
   <sub>Vlad RBC</sub>
+- `19:30` [Alergare 321sport x Good Routine](https://lu.ma/msec0jri)  
+  <sub>321sport · 3 participanți</sub>
 - `19:30` [Digital Series 3.0 - From Sketch to Shopper: AI Across Fashion Design, Advertising and Virtual Try-On](https://lu.ma/vsutwejc)  
-  <sub>Ioana Ioanas · 47 de participanți</sub>
+  <sub>Ioana Ioanas · 51 de participanți</sub>
 
 ### Miercuri, 25 noiembrie
 
@@ -106,7 +98,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:00` [The Autumn Bell — Premium Trading Event](https://lu.ma/oqxy0oz6)  
   <sub>Armando Goldman Laszlo · 5 participanți</sub>
 - `18:30` [EIS Talks #3: Built to Last - The Sustainable Personal Brand](https://lu.ma/x1hfkowk)  
-  <sub>Ioana Mihăilescu · 30 de participanți</sub>
+  <sub>Ioana Mihăilescu · 33 de participanți</sub>
 
 ### Joi, 26 noiembrie
 
@@ -121,37 +113,48 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `19:00` [321sport - Alergare pistă Lia Manoliu (avansați + începători) #dela1la21 S24E14](https://lu.ma/0ntiyyty)  
   <sub>321sport · 3 participanți</sub>
 - `19:00` [Leading Forward: From Vision to Collaboration](https://lu.ma/88clol77)  
-  <sub>JCI București · 10 participanți</sub>
+  <sub>JCI București · 11 participanți</sub>
 - `19:00` [n8n Workshop Bucharest · AI Agents That Run Your Business: n8n + HubSpot for Ops and GTM](https://lu.ma/n8n-xgd8)  
-  <sub>n8n · 8 participanți</sub>
+  <sub>n8n · 9 participanți</sub>
 - `19:00` [Noul limbaj al iubirii](https://lu.ma/koi8r6ym)  
   <sub>Oana Piticaș</sub>
 
 ### Vineri, 27 noiembrie
 
 - `10:00` [Strategia de dezvoltare 2027 a ecosistemului eEco](https://lu.ma/l4hz349i)  
-  <sub>Anca · 10 participanți</sub>
+  <sub>Anca · 11 participanți</sub>
 - `18:30` [ÎMPĂRTĂȘEȘTE — A Dinner of Stories & Senses](https://lu.ma/h2begip8)  
   <sub>Sabina Mihaila · 4 participanți</sub>
 
 ### Sâmbătă, 28 noiembrie
 
+- `11:00` [Creative Connections - A free social art workshop](https://lu.ma/c1pk6f0u)  
+  <sub>Bucharest Urban Hikes and Heartfelt Conversations · 3 participanți</sub>
 - `14:00` [Cafeaua De Sâmbăta #33 \| Bucuresti](https://lu.ma/okz47gcn)  
   <sub>Ionut Alexandru Stanciu</sub>
 - `16:00` [Spriț & Padel - Arc Padel Club 28 Noiembrie](https://lu.ma/0s50htei)  
-  <sub>Arc Padel · 10 participanți</sub>
+  <sub>Arc Padel · 12 participanți</sub>
 - `18:30` [Kirtan: Song of the Soul](https://lu.ma/h4gzdk5b)  
   <sub>Dana Nedelcu · 3 participanți</sub>
+
+### Miercuri, 2 decembrie
+
+- `18:00` [02.12 Entrepreneurs' Christmas Party](https://lu.ma/oqwxrsdc)  
+  <sub>Vlad RBC</sub>
+- `18:00` [02.12 Entrepreneurs' Christmas Party](https://lu.ma/rbccal-ccn3)  
+  <sub>Vlad RBC</sub>
+- `18:30` [Let's Talk AI! #7](https://lu.ma/lets-talk-ai-7)  
+  <sub>Let's Talk AI · 31 de participanți</sub>
 
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-17)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-18)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-17)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-18)
 
 ## Despre
 
@@ -165,4 +168,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 17 noiembrie 2026*
+*Actualizat: 18 noiembrie 2026*
