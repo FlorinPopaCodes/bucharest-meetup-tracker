@@ -119,19 +119,24 @@
           "api_id": "usr-FzjsDg2XGu9wAdX",
           "name": "Razvan Sirmache",
           "username": null
+        },
+        {
+          "api_id": "usr-gAlufFoW5K3UucB",
+          "name": "Cristina Cizer",
+          "username": null
         }
       ],
-      "guest_count": 60,
-      "ticket_count": 60,
+      "guest_count": 62,
+      "ticket_count": 62,
       "ticket_info": {
         "price": {
-          "cents": 7800,
+          "cents": 14800,
           "currency": "ron",
           "is_flexible": false
         },
         "is_free": false,
         "max_price": {
-          "cents": 38800,
+          "cents": 48800,
           "currency": "ron"
         },
         "is_sold_out": false,
@@ -268,8 +273,8 @@
           "username": null
         }
       ],
-      "guest_count": 35,
-      "ticket_count": 35,
+      "guest_count": 34,
+      "ticket_count": 34,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -512,8 +517,8 @@
           "username": "neomixers"
         }
       ],
-      "guest_count": 118,
-      "ticket_count": 118,
+      "guest_count": 121,
+      "ticket_count": 121,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -726,8 +731,8 @@
           "username": "dariabadescu"
         }
       ],
-      "guest_count": 36,
-      "ticket_count": 39,
+      "guest_count": 40,
+      "ticket_count": 43,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -990,8 +995,8 @@
           "username": null
         }
       ],
-      "guest_count": 52,
-      "ticket_count": 52,
+      "guest_count": 53,
+      "ticket_count": 53,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1106,8 +1111,8 @@
           "username": null
         }
       ],
-      "guest_count": 79,
-      "ticket_count": 79,
+      "guest_count": 83,
+      "ticket_count": 83,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1233,8 +1238,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 23,
-      "ticket_count": 23,
+      "guest_count": 22,
+      "ticket_count": 22,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1339,8 +1344,8 @@
           "username": null
         }
       ],
-      "guest_count": 26,
-      "ticket_count": 26,
+      "guest_count": 28,
+      "ticket_count": 28,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1425,7 +1430,7 @@
           "latitude": 44.426933399999996
         },
         "waitlist_enabled": true,
-        "waitlist_status": "enabled"
+        "waitlist_status": "active"
       },
       "calendar": {
         "access_level": "public",
@@ -1452,17 +1457,17 @@
           "username": "seberh"
         }
       ],
-      "guest_count": 5,
-      "ticket_count": 5,
+      "guest_count": 6,
+      "ticket_count": 6,
       "ticket_info": {
         "price": null,
         "is_free": true,
         "max_price": null,
-        "is_sold_out": false,
+        "is_sold_out": true,
         "require_approval": true
       },
-      "registration_availability": "open",
-      "waitlist_active": false,
+      "registration_availability": "waitlist",
+      "waitlist_active": true,
       "featured_city": null
     },
     {
@@ -1675,8 +1680,8 @@
           "username": "cosminradu"
         }
       ],
-      "guest_count": 6,
-      "ticket_count": 16,
+      "guest_count": 8,
+      "ticket_count": 20,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1934,8 +1939,8 @@
           "username": "t5social"
         }
       ],
-      "guest_count": 3,
-      "ticket_count": 3,
+      "guest_count": 4,
+      "ticket_count": 4,
       "ticket_info": {
         "price": {
           "cents": 3000,
@@ -2130,8 +2135,8 @@
           "username": "endi"
         }
       ],
-      "guest_count": 56,
-      "ticket_count": 56,
+      "guest_count": 66,
+      "ticket_count": 66,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2470,8 +2475,8 @@
           "username": null
         }
       ],
-      "guest_count": 14,
-      "ticket_count": 14,
+      "guest_count": 13,
+      "ticket_count": 13,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2915,8 +2920,8 @@
           "username": "RomaniaICF"
         }
       ],
-      "guest_count": 20,
-      "ticket_count": 20,
+      "guest_count": 23,
+      "ticket_count": 23,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3154,8 +3159,8 @@
           "username": "BusinessSaga"
         }
       ],
-      "guest_count": 14,
-      "ticket_count": 14,
+      "guest_count": 19,
+      "ticket_count": 19,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3546,8 +3551,8 @@
           "username": null
         }
       ],
-      "guest_count": 51,
-      "ticket_count": 51,
+      "guest_count": 57,
+      "ticket_count": 57,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3680,8 +3685,8 @@
           "username": null
         }
       ],
-      "guest_count": 31,
-      "ticket_count": 31,
+      "guest_count": 36,
+      "ticket_count": 36,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3797,8 +3802,8 @@
           "username": "WIT_Romania"
         }
       ],
-      "guest_count": 82,
-      "ticket_count": 82,
+      "guest_count": 98,
+      "ticket_count": 98,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -4053,8 +4058,8 @@
           "username": null
         }
       ],
-      "guest_count": 33,
-      "ticket_count": 33,
+      "guest_count": 32,
+      "ticket_count": 32,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -4682,8 +4687,8 @@
           "username": null
         }
       ],
-      "guest_count": 11,
-      "ticket_count": 11,
+      "guest_count": 13,
+      "ticket_count": 13,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -4789,8 +4794,8 @@
           "username": "dsecareanu"
         }
       ],
-      "guest_count": 9,
-      "ticket_count": 9,
+      "guest_count": 11,
+      "ticket_count": 11,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -5328,8 +5333,8 @@
           "username": null
         }
       ],
-      "guest_count": 12,
-      "ticket_count": 12,
+      "guest_count": 13,
+      "ticket_count": 13,
       "ticket_info": {
         "price": {
           "cents": 7900,
@@ -5861,8 +5866,8 @@
           "username": null
         }
       ],
-      "guest_count": 31,
-      "ticket_count": 31,
+      "guest_count": 60,
+      "ticket_count": 60,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -5967,8 +5972,8 @@
           "username": "licinium40"
         }
       ],
-      "guest_count": 166,
-      "ticket_count": 166,
+      "guest_count": 172,
+      "ticket_count": 172,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -6214,8 +6219,8 @@
           "username": "TheSpinningEra"
         }
       ],
-      "guest_count": 14,
-      "ticket_count": 14,
+      "guest_count": 17,
+      "ticket_count": 17,
       "ticket_info": {
         "price": {
           "cents": 6000,
@@ -6455,8 +6460,8 @@
           "username": null
         }
       ],
-      "guest_count": 21,
-      "ticket_count": 21,
+      "guest_count": 23,
+      "ticket_count": 23,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -6581,6 +6586,125 @@
         "is_free": false,
         "max_price": {
           "cents": 48800,
+          "currency": "ron"
+        },
+        "is_sold_out": false,
+        "require_approval": true
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-NVD2F8xDFBI5DyD",
+      "event": {
+        "api_id": "evt-NVD2F8xDFBI5DyD",
+        "calendar_api_id": "cal-7bXIsT7PRi1t4un",
+        "end_at": "2026-12-08T20:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "WIN #37 Business în doi: cum construiești succesul fără să pierzi echilibrul – Oana Vlădilă",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": false,
+        "social_image_url": "https://images.lumacdn.com/event-social/xb/500f03e6-98e1-4ff8-8a73-291981e77f00.png",
+        "start_at": "2026-12-08T16:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "6o9nqtiw",
+        "user_api_id": "usr-rA1ejFsLe5mSkP4",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "the N space.",
+          "country": "Romania",
+          "place_id": "ChIJLRD1Ab8DskAR3mhCV43SCbY",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "the N space.",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Aviatorilor",
+              "full_address": "the N space., Strada Alexandrina 38, 011441 București, România",
+              "region_short": "București",
+              "short_address": "Strada Alexandrina 38, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Aviatorilor",
+          "country_code": "RO",
+          "full_address": "the N space., Strada Alexandrina 38, 011441 București, Romania",
+          "region_short": "București",
+          "short_address": "Strada Alexandrina 38, București",
+          "place_coordinate": {
+            "latitude": 44.4661289,
+            "longitude": 26.0832993
+          },
+          "apple_maps_place_id": "IF8F0B50D250922A6",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.0832993,
+          "latitude": 44.4661289
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-7bXIsT7PRi1t4un",
+        "coordinate": null,
+        "description_short": "Women in Charge the first premium networking club only for Women. 1st edition 28th July 2027 - IHG Intercontinental Palace Athene.",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "WIN community",
+        "personal_user_api_id": null,
+        "slug": null,
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-12-08T16:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-rA1ejFsLe5mSkP4",
+          "name": "Vlad RBC",
+          "username": null
+        },
+        {
+          "api_id": "usr-olanw6mBUmJpLS2",
+          "name": "Amalia Mihalachioiu",
+          "username": null
+        },
+        {
+          "api_id": "usr-YoHNXg63tgIruJm",
+          "name": "Amalia Mihalachioiu",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": {
+          "cents": 7800,
+          "currency": "ron",
+          "is_flexible": false
+        },
+        "is_free": false,
+        "max_price": {
+          "cents": 24800,
           "currency": "ron"
         },
         "is_sold_out": false,
@@ -7008,8 +7132,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 304,
-      "ticket_count": 304,
+      "guest_count": 306,
+      "ticket_count": 306,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -7247,8 +7371,8 @@
           "username": null
         }
       ],
-      "guest_count": 24,
-      "ticket_count": 24,
+      "guest_count": 25,
+      "ticket_count": 25,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -7682,8 +7806,8 @@
           "username": "endi"
         }
       ],
-      "guest_count": 56,
-      "ticket_count": 56,
+      "guest_count": 66,
+      "ticket_count": 66,
       "ticket_info": {
         "price": null,
         "is_free": true,
