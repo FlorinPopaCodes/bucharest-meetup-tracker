@@ -8,12 +8,6 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 - `09:00` [PAS CU SENS X 10k Pași Parc Lumea Copiilor](https://lu.ma/p8ih1cel)  
   <sub>PAS cu SENS · 15 participanți</sub>
-- `09:00` [Tura de duminică Herăstrău](https://lu.ma/i8emkld8)  
-  <sub>Emily Merdus</sub>
-- `09:00` [Tura de duminică I.O.R.](https://lu.ma/mssdu0cl)  
-  <sub>Irina Tenovici</sub>
-- `09:00` [Tura de duminică Tineretului](https://lu.ma/1rvgbnid)  
-  <sub>Nicoleta Ifrim</sub>
 - `10:00` [Tura de duminică: Promenada & Insula Lacul Morii](https://lu.ma/lyt1p45k)  
   <sub>Endi Ungureanu · 150 de participanți</sub>
 - `10:30` [Women's Financial Education Summit (3rd edition)](https://lu.ma/fb9qlotj)  
@@ -33,8 +27,6 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ### Luni, 23 noiembrie
 
-- `10:00` [De la idee la business – hai să vorbim despre strategie!](https://lu.ma/dxi1n99l)  
-  <sub>Urban Hub · 3 participanți</sub>
 - `18:00` [Team Collaboration Booster](https://lu.ma/ywuv4nj3)  
   <sub>The Romania Chapter of ICF · 28 de participanți</sub>
 

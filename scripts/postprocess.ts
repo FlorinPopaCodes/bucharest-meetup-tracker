@@ -1,6 +1,7 @@
 import { readEventsCsv, type EventRow } from "./lib/csv.ts";
 import { loadExcludedHostIds } from "./lib/exclusions.ts";
 import { renderHeatmap } from "./lib/heatmap.ts";
+import { findDeadUrls } from "./lib/linkcheck.ts";
 import { renderReadme, renderUpcomingList } from "./lib/render.ts";
 
 const REPO_ROOT = new URL("..", import.meta.url).pathname;
@@ -45,7 +46,7 @@ function ensureDir(path: string) {
   try { Deno.mkdirSync(path, { recursive: true }); } catch { /* ignore */ }
 }
 
-function main() {
+async function main() {
   const rows = readEventsCsv(PATHS.events);
   console.log(`[postprocess] events.csv: ${rows.length} rows`);
 
@@ -70,7 +71,12 @@ function main() {
   Deno.writeTextFileSync(PATHS.eventsSvg, eventsSvg + "\n");
   Deno.writeTextFileSync(PATHS.guestsSvg, guestsSvg + "\n");
 
-  const upcomingMd = renderUpcomingList(visibleRows);
+  // Deleted events stay in events.csv (and the heatmaps); only the list hides them.
+  const todayKey = new Date().toISOString().slice(0, 10);
+  const upcoming = visibleRows.filter((r) => r.start_at >= todayKey);
+  const dead = await findDeadUrls(upcoming.map((r) => r.url));
+  if (dead.size > 0) console.log(`[postprocess] hiding ${dead.size} events whose page is 404`);
+  const upcomingMd = renderUpcomingList(upcoming.filter((r) => !dead.has(r.url)));
   const cacheBust = new Date().toISOString().slice(0, 10);
   const readme = renderReadme({
     upcomingMd,
@@ -83,5 +89,5 @@ function main() {
 }
 
 if (import.meta.main) {
-  main();
+  await main();
 }

@@ -1,7 +1,7 @@
 {
   "tasks": {
     "scrape": "deno run --allow-net=api.lu.ma,greenrevolution.ro,www.iabilet.ro --allow-read --allow-write scripts/scrape.ts",
-    "postprocess": "deno run --allow-read --allow-write --allow-run=git scripts/postprocess.ts",
+    "postprocess": "deno run --allow-net=lu.ma,luma.com,greenrevolution.ro,www.iabilet.ro --allow-read --allow-write --allow-run=git scripts/postprocess.ts",
     "all": "deno task scrape && deno task postprocess"
   },
   "imports": {
