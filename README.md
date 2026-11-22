@@ -4,21 +4,10 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 
 ## Următoarele 14 zile
 
-### Sâmbătă, 21 noiembrie
-
-- `10:00` [AstroRun Ep.2](https://lu.ma/dnee6cl5)  
-  <sub>FOMO Urban Running Club · 20 de participanți</sub>
-- `11:00` [The Conversation Cup](https://lu.ma/wz7u7npe)  
-  <sub>Roxana Stan · 3 participanți</sub>
-- `13:30` [Weekend Creative Escape – Paint Your Tote Bag @ DBH](https://lu.ma/q307o818)  
-  <sub>Loredana Pipie</sub>
-- `19:30` [Liquid Wednesday - Live Music @ T5 Social](https://lu.ma/es1kn63o)  
-  <sub>T5 Social · 14 participanți</sub>
-
 ### Duminică, 22 noiembrie
 
 - `09:00` [PAS CU SENS X 10k Pași Parc Lumea Copiilor](https://lu.ma/p8ih1cel)  
-  <sub>PAS cu SENS · 14 participanți</sub>
+  <sub>PAS cu SENS · 15 participanți</sub>
 - `09:00` [Tura de duminică Herăstrău](https://lu.ma/i8emkld8)  
   <sub>Emily Merdus</sub>
 - `09:00` [Tura de duminică I.O.R.](https://lu.ma/mssdu0cl)  
@@ -26,7 +15,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `09:00` [Tura de duminică Tineretului](https://lu.ma/1rvgbnid)  
   <sub>Nicoleta Ifrim</sub>
 - `10:00` [Tura de duminică: Promenada & Insula Lacul Morii](https://lu.ma/lyt1p45k)  
-  <sub>Endi Ungureanu · 136 de participanți</sub>
+  <sub>Endi Ungureanu · 150 de participanți</sub>
 - `10:30` [Women's Financial Education Summit (3rd edition)](https://lu.ma/fb9qlotj)  
   <sub>Echipa FeminEast · 85 de participanți</sub>
 - `11:30` [PULSE #63 - Functional Workout](https://lu.ma/a132qze3)  
@@ -60,14 +49,16 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `19:30` [Alergare 321sport x Good Routine](https://lu.ma/msec0jri)  
   <sub>321sport · 6 participanți</sub>
 - `19:30` [Digital Series 3.0 - From Sketch to Shopper: AI Across Fashion Design, Advertising and Virtual Try-On](https://lu.ma/vsutwejc)  
-  <sub>Ioana Ioanas · 65 de participanți</sub>
+  <sub>Ioana Ioanas · 68 de participanți</sub>
 
 ### Miercuri, 25 noiembrie
 
 - `16:00` [When a Cyberattack Stops the Business](https://lu.ma/thklr070)  
-  <sub>Calin Buzan · 52 de participanți</sub>
+  <sub>Calin Buzan · 54 de participanți</sub>
 - `17:30` [From AI Learnings to What’s Next?](https://lu.ma/ir9qy8cz)  
   <sub>Women in Tech Romania · 123 de participanți</sub>
+- `18:00` [RBC #422 \| SPEED NETWORKING \| Ultima miercuri din fiecare lună \| Speed Networking by Romanian Business Club](https://lu.ma/b7qwr3pd)  
+  <sub>Teodora Nicolaiciuc</sub>
 - `18:00` [The Autumn Bell — Premium Trading Event](https://lu.ma/oqxy0oz6)  
   <sub>Armando Goldman Laszlo · 9 participanți</sub>
 - `18:30` [EIS Talks #3: Built to Last - The Sustainable Personal Brand](https://lu.ma/x1hfkowk)  
@@ -88,7 +79,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `19:00` [Leading Forward: From Vision to Collaboration](https://lu.ma/88clol77)  
   <sub>JCI București · 19 participanți</sub>
 - `19:00` [n8n Workshop Bucharest · AI Agents That Run Your Business: n8n + HubSpot for Ops and GTM](https://lu.ma/n8n-xgd8)  
-  <sub>n8n · 22 de participanți</sub>
+  <sub>n8n · 23 de participanți</sub>
 - `19:00` [Noul limbaj al iubirii](https://lu.ma/koi8r6ym)  
   <sub>Oana Piticaș</sub>
 
@@ -99,7 +90,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `18:30` [ÎMPĂRTĂȘEȘTE — A Dinner of Stories & Senses](https://lu.ma/h2begip8)  
   <sub>Sabina Mihaila · 4 participanți</sub>
 - `18:30` [MENtalks UNFILTERED: BUCUREȘTI](https://lu.ma/s8exc9j0)  
-  <sub>MENtalks · 9 participanți</sub>
+  <sub>MENtalks · 13 participanți</sub>
 
 ### Sâmbătă, 28 noiembrie
 
@@ -131,7 +122,7 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `09:30` [CONFERINȚA ACCESS POWER DAYS](https://lu.ma/dkyra3i2)  
   <sub>cosmin jurcan · 191 de participanți</sub>
 - `18:30` [Affiliate Meetup București](https://lu.ma/f287udob)  
-  <sub>Gabriel Bonciu · 7 participanți</sub>
+  <sub>Gabriel Bonciu · 10 participanți</sub>
 
 ### Vineri, 4 decembrie
 
@@ -145,15 +136,24 @@ Listă zilnică a evenimentelor din București, agregate din mai multe surse pub
 - `17:00` [The Spinning Era: Year One 🫶](https://lu.ma/YearOneTSE)  
   <sub>The Spinning Era · 19 participanți</sub>
 
+### Duminică, 6 decembrie
+
+- `14:00` [🎬 Pauza de cafea… între fete \| Ediție specială de Moș Nicolae ☕️🎁](https://lu.ma/q1qr27m9)  
+  <sub>Mihailescu Floriana Elena · 11 participanți</sub>
+- `17:00` [Împodobim Cartierul - Ediția ll](https://lu.ma/3aqnka4x)  
+  <sub>Mamele Din Cartier · 61 de participanți</sub>
+- `17:00` [Sezatoare cu plantele de leac](https://lu.ma/fmlamttg)  
+  <sub>Adina Borta · 3 participanți</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-21)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-22)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-21)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-22)
 
 ## Despre
 
@@ -167,4 +167,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 21 noiembrie 2026*
+*Actualizat: 22 noiembrie 2026*
