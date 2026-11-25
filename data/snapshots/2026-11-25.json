@@ -121,8 +121,8 @@
           "username": null
         }
       ],
-      "guest_count": 60,
-      "ticket_count": 60,
+      "guest_count": 63,
+      "ticket_count": 63,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -238,8 +238,8 @@
           "username": "WIT_Romania"
         }
       ],
-      "guest_count": 148,
-      "ticket_count": 148,
+      "guest_count": 151,
+      "ticket_count": 151,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -380,19 +380,24 @@
           "api_id": "usr-2LD8FqPSihuW8qc",
           "name": "Tudor Alb",
           "username": null
+        },
+        {
+          "api_id": "usr-gAlufFoW5K3UucB",
+          "name": "Cristina Cizer",
+          "username": null
         }
       ],
       "guest_count": 0,
       "ticket_count": 0,
       "ticket_info": {
         "price": {
-          "cents": 7800,
+          "cents": 14800,
           "currency": "ron",
           "is_flexible": false
         },
         "is_free": false,
         "max_price": {
-          "cents": 38800,
+          "cents": 48800,
           "currency": "ron"
         },
         "is_sold_out": false,
@@ -507,6 +512,11 @@
         {
           "api_id": "usr-Gjy0PRGBVVFfjDY",
           "name": "Katona Alexis",
+          "username": null
+        },
+        {
+          "api_id": "usr-jUj4Xa1hcbngTku",
+          "name": "Stanila Lavinia",
           "username": null
         }
       ],
@@ -645,8 +655,8 @@
           "username": null
         }
       ],
-      "guest_count": 36,
-      "ticket_count": 36,
+      "guest_count": 37,
+      "ticket_count": 37,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -867,8 +877,8 @@
           "username": null
         }
       ],
-      "guest_count": 99,
-      "ticket_count": 99,
+      "guest_count": 101,
+      "ticket_count": 101,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -971,10 +981,15 @@
           "api_id": "usr-wiHG8LiZp1N5A2E",
           "name": "Sfera Business",
           "username": null
+        },
+        {
+          "api_id": "usr-it7FJNW34xsZU7g",
+          "name": "Sabina Cornovac",
+          "username": null
         }
       ],
-      "guest_count": 34,
-      "ticket_count": 34,
+      "guest_count": 35,
+      "ticket_count": 35,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1250,8 +1265,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 13,
-      "ticket_count": 13,
+      "guest_count": 18,
+      "ticket_count": 18,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1390,8 +1405,8 @@
           "username": null
         }
       ],
-      "guest_count": 35,
-      "ticket_count": 35,
+      "guest_count": 37,
+      "ticket_count": 37,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1738,8 +1753,8 @@
           "username": null
         }
       ],
-      "guest_count": 17,
-      "ticket_count": 17,
+      "guest_count": 21,
+      "ticket_count": 21,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2029,8 +2044,8 @@
           "username": null
         }
       ],
-      "guest_count": 28,
-      "ticket_count": 28,
+      "guest_count": 32,
+      "ticket_count": 32,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2288,8 +2303,8 @@
           "username": null
         }
       ],
-      "guest_count": 19,
-      "ticket_count": 19,
+      "guest_count": 20,
+      "ticket_count": 20,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2370,8 +2385,8 @@
           "username": null
         }
       ],
-      "guest_count": 9,
-      "ticket_count": 9,
+      "guest_count": 10,
+      "ticket_count": 10,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2489,6 +2504,118 @@
           "cents": 14900,
           "currency": "ron"
         },
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-CEDx9z34jzgP7CH",
+      "event": {
+        "api_id": "evt-CEDx9z34jzgP7CH",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-11-29T08:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică Tineretului",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/uo/6a7deb5d-5052-469c-adc7-8be49b787095.png",
+        "start_at": "2026-11-29T07:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "7n9bbw2o",
+        "user_api_id": "usr-04pRO5uWe6ODtE4",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Bucharest",
+          "type": "google",
+          "region": "Bucharest",
+          "address": "Tineretului Park clock",
+          "country": "Romania",
+          "place_id": "ChIJKTQEbT3_sUAR86e5V_Rdafw",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "ceasul din Parcul Tineretului",
+              "country": "România",
+              "city_state": "București, București",
+              "sublocality": "Bucureşti Sectorul 4",
+              "full_address": "ceasul din Parcul Tineretului, Bucureşti Sectorul 4, București, România",
+              "short_address": "București"
+            },
+            "en-GB": {
+              "city": "Bucharest",
+              "region": "Bucharest",
+              "address": "Tineretului Park clock",
+              "country": "Romania",
+              "city_state": "Bucharest, Bucharest",
+              "sublocality": "Sector 4",
+              "full_address": "Tineretului Park clock, Sector 4, Bucharest, Romania",
+              "short_address": "Bucharest"
+            }
+          },
+          "city_state": "Bucharest, Bucharest",
+          "description": "",
+          "sublocality": "Sector 4",
+          "country_code": "RO",
+          "full_address": "Tineretului Park clock, Sector 4, Bucharest, Romania",
+          "short_address": "Bucharest",
+          "place_coordinate": null,
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.1043384,
+          "latitude": 44.4136227
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "slug": "turadeduminica",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-11-29T07:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-04pRO5uWe6ODtE4",
+          "name": "Nicoleta Ifrim",
+          "username": null
+        },
+        {
+          "api_id": "usr-VFzvpYr0VoLoSce",
+          "name": "Endi Ungureanu",
+          "username": "endi"
+        }
+      ],
+      "guest_count": 3,
+      "ticket_count": 3,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
         "is_sold_out": false,
         "require_approval": false
       },
@@ -2680,8 +2807,8 @@
           "username": null
         }
       ],
-      "guest_count": 27,
-      "ticket_count": 27,
+      "guest_count": 33,
+      "ticket_count": 33,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -2807,8 +2934,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 4,
-      "ticket_count": 4,
+      "guest_count": 5,
+      "ticket_count": 5,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3216,8 +3343,8 @@
           "username": null
         }
       ],
-      "guest_count": 90,
-      "ticket_count": 90,
+      "guest_count": 93,
+      "ticket_count": 93,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3318,8 +3445,8 @@
           "username": "bogdang"
         }
       ],
-      "guest_count": 21,
-      "ticket_count": 21,
+      "guest_count": 22,
+      "ticket_count": 22,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3424,8 +3551,8 @@
           "username": "licinium40"
         }
       ],
-      "guest_count": 197,
-      "ticket_count": 197,
+      "guest_count": 213,
+      "ticket_count": 213,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3541,8 +3668,8 @@
           "username": null
         }
       ],
-      "guest_count": 23,
-      "ticket_count": 30,
+      "guest_count": 24,
+      "ticket_count": 31,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3668,8 +3795,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 4,
-      "ticket_count": 4,
+      "guest_count": 6,
+      "ticket_count": 6,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -3781,8 +3908,8 @@
       },
       "start_at": "2026-12-04T08:00:00.000Z",
       "hosts": [],
-      "guest_count": 14,
-      "ticket_count": 14,
+      "guest_count": 15,
+      "ticket_count": 15,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -4134,8 +4261,8 @@
           "username": "TheSpinningEra"
         }
       ],
-      "guest_count": 23,
-      "ticket_count": 23,
+      "guest_count": 24,
+      "ticket_count": 24,
       "ticket_info": {
         "price": {
           "cents": 6000,
@@ -4481,8 +4608,8 @@
           "username": null
         }
       ],
-      "guest_count": 79,
-      "ticket_count": 79,
+      "guest_count": 81,
+      "ticket_count": 81,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -5257,8 +5384,8 @@
           "username": null
         }
       ],
-      "guest_count": 4,
-      "ticket_count": 4,
+      "guest_count": 6,
+      "ticket_count": 6,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -5507,8 +5634,8 @@
           "username": null
         }
       ],
-      "guest_count": 3,
-      "ticket_count": 3,
+      "guest_count": 7,
+      "ticket_count": 7,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -5744,8 +5871,8 @@
           "username": "321sport"
         }
       ],
-      "guest_count": 327,
-      "ticket_count": 327,
+      "guest_count": 332,
+      "ticket_count": 332,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -6009,108 +6136,6 @@
       "featured_city": null
     },
     {
-      "api_id": "evt-gpteZfFI4HS8EmV",
-      "event": {
-        "api_id": "evt-gpteZfFI4HS8EmV",
-        "calendar_api_id": "cal-xFj5d2QaVBpHhAU",
-        "end_at": "2026-12-15T20:30:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "Christmas Gathering. Întâlnirea ONG-urilor din comunitatea AmpliFY",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": true,
-        "social_image_url": "https://images.lumacdn.com/event-social/l9/8133e68a-5e92-4bb0-b8a1-2312bc3820fb.png",
-        "start_at": "2026-12-15T15:00:00.000Z",
-        "timezone": "Europe/Bucharest",
-        "url": "christmas_gathering_Amplify",
-        "user_api_id": "usr-8qsrXUSKY2cBPf4",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "București",
-          "type": "google",
-          "region": "6",
-          "address": "Builders House",
-          "country": "Romania",
-          "place_id": "ChIJxamUxjABskAR9A2hA-LHfLs",
-          "localized": {
-            "ro": {
-              "city": "București",
-              "region": "6",
-              "address": "Builders House",
-              "country": "România",
-              "city_state": "București, România",
-              "sublocality": "Militari",
-              "full_address": "Builders House, Afi Park 1, Bulevardul General Paul Teodorescu 4, et. 1, 061344 București, România",
-              "region_short": "6",
-              "short_address": "Afi Park 1, AFI Park 1, Bulevardul General Paul Teodorescu 4, et. 1, București"
-            }
-          },
-          "city_state": "București, Romania",
-          "description": "",
-          "sublocality": "Militari",
-          "country_code": "RO",
-          "full_address": "Builders House, Afi Park 1, Bulevardul General Paul Teodorescu 4, et. 1, 061344 București, Romania",
-          "region_short": "6",
-          "short_address": "Afi Park 1, AFI Park 1, Bulevardul General Paul Teodorescu 4, et. 1, București",
-          "place_coordinate": {
-            "latitude": 44.4307121,
-            "longitude": 26.0540725
-          },
-          "apple_maps_place_id": "IAA1298D7D033A083",
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": 26.0540725,
-          "latitude": 44.4307121
-        },
-        "waitlist_enabled": true,
-        "waitlist_status": "active"
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-xFj5d2QaVBpHhAU",
-        "coordinate": null,
-        "description_short": "Calendar curatoriat cu evenimente de învățare și networking pentru ONG-uri, organizate sau recomandate de AmpliFY ONG și de membrii comunității. Înscrie-te în comunitate aici: https://amplifyong.ro/.",
-        "end_date": null,
-        "is_verified": false,
-        "location": null,
-        "name": "Hub-ul de evenimente pentru ONG-uri",
-        "personal_user_api_id": null,
-        "slug": "evenimente-ong-by-amplify",
-        "start_date": null,
-        "website": "https://amplifyong.ro/",
-        "is_personal": false,
-        "personal_user": null,
-        "timezone": null
-      },
-      "start_at": "2026-12-15T15:00:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-8qsrXUSKY2cBPf4",
-          "name": "AmpliFY ONG",
-          "username": "amplifyong"
-        }
-      ],
-      "guest_count": 3,
-      "ticket_count": 3,
-      "ticket_info": {
-        "price": null,
-        "is_free": true,
-        "max_price": null,
-        "is_sold_out": false,
-        "require_approval": true
-      },
-      "registration_availability": "open",
-      "waitlist_active": false,
-      "featured_city": null
-    },
-    {
       "api_id": "evt-HJnX5xYCEGq3YDn",
       "event": {
         "api_id": "evt-HJnX5xYCEGq3YDn",
@@ -6214,8 +6239,8 @@
           "username": null
         }
       ],
-      "guest_count": 8,
-      "ticket_count": 8,
+      "guest_count": 9,
+      "ticket_count": 9,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -6347,6 +6372,127 @@
       "featured_city": null
     },
     {
+      "api_id": "evt-69E82SDPcJSpI7Q",
+      "event": {
+        "api_id": "evt-69E82SDPcJSpI7Q",
+        "calendar_api_id": "cal-vtTRvYx8UKwi3cp",
+        "end_at": "2026-12-16T21:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Chess & Violin – The Christmas Edition",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": false,
+        "social_image_url": "https://images.lumacdn.com/event-social/oe/286d33b1-c35f-40ab-b150-8ec7f1c47c9e.png",
+        "start_at": "2026-12-16T16:30:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "esbqa8a2",
+        "user_api_id": "usr-B0mYjwQfFHKwJRE",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Mélange Café",
+          "country": "Romania",
+          "place_id": "ChIJ744zvFT_sUARqHmA4rPmrbo",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Mélange Café",
+              "country": "România",
+              "city_state": "București, România",
+              "sublocality": "Sectorul 2",
+              "full_address": "Mélange Café, Strada Oltarului 3, 030167 București, România",
+              "region_short": "București",
+              "short_address": "Strada Oltarului 3, București"
+            },
+            "en-GB": {
+              "city": "București",
+              "region": "București",
+              "address": "Mélange Café",
+              "country": "Romania",
+              "city_state": "București, Romania",
+              "sublocality": "Sectorul 2",
+              "full_address": "Mélange Café, Strada Oltarului 3, 030167 București, Romania",
+              "region_short": "București",
+              "short_address": "Strada Oltarului 3, București"
+            }
+          },
+          "city_state": "București, Romania",
+          "description": "",
+          "sublocality": "Sectorul 2",
+          "country_code": "RO",
+          "full_address": "Mélange Café, Strada Oltarului 3, 030167 București, Romania",
+          "region_short": "București",
+          "short_address": "Strada Oltarului 3, București",
+          "place_coordinate": {
+            "latitude": 44.4420794,
+            "longitude": 26.116931700000002
+          },
+          "apple_maps_place_id": "ICEAD269819C1EDE4",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.116931700000002,
+          "latitude": 44.4420794
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-vtTRvYx8UKwi3cp",
+        "coordinate": null,
+        "description_short": null,
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Personal",
+        "personal_user_api_id": "usr-B0mYjwQfFHKwJRE",
+        "slug": null,
+        "start_date": null,
+        "website": null,
+        "is_personal": true,
+        "personal_user": {
+          "api_id": "usr-B0mYjwQfFHKwJRE",
+          "name": "THE SQUARE Chess Club",
+          "username": null
+        },
+        "timezone": null
+      },
+      "start_at": "2026-12-16T16:30:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-B0mYjwQfFHKwJRE",
+          "name": "THE SQUARE Chess Club",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": {
+          "cents": 15000,
+          "currency": "ron",
+          "is_flexible": false
+        },
+        "is_free": false,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
       "api_id": "evt-xX7GxLZG6sCQE7f",
       "event": {
         "api_id": "evt-xX7GxLZG6sCQE7f",
@@ -6450,8 +6596,8 @@
           "username": null
         }
       ],
-      "guest_count": 32,
-      "ticket_count": 32,
+      "guest_count": 35,
+      "ticket_count": 35,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -6895,8 +7041,8 @@
           "username": "endi"
         }
       ],
-      "guest_count": 2,
-      "ticket_count": 2,
+      "guest_count": 3,
+      "ticket_count": 3,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -9299,6 +9445,16 @@
           "api_id": "usr-qvDXAFqTEFvT4tG",
           "name": "Ionut Alexandru Stanciu",
           "username": "alexstanciu"
+        },
+        {
+          "api_id": "usr-w0OAEd8IDXZJblV",
+          "name": "Valentin Vlad",
+          "username": null
+        },
+        {
+          "api_id": "usr-dGeFgt7aJlXHHeB",
+          "name": "Alina Canura - Anghel",
+          "username": "alinaxanghel"
         }
       ],
       "guest_count": 0,
